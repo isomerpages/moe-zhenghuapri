@@ -28,3 +28,9 @@ third_nav_title: Our People
   </tr>
 </tbody>
 </table>
+
+
+|   |   |   |
+|---|---|---|
+|   | ![](/images/About%20us/mrs%20constance%20loke%20principal%202.jpg)  |   |
+| <img src="/images/About%20us/Mr%20Tommy%20Yang.jpg" style ="width: 50%">   | ![](/images/About%20us/mrs%20josephine%20lim%20vice-principal%201.jpg)  |  ![](/images/About%20us/ms%20santhana%20mary%20vice-principal.jpg) |
