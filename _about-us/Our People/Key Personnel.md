@@ -16,7 +16,7 @@ third_nav_title: Our People
 
 <center>To contact the respective staff below<br>please call 67697478 followed by the Extension No.</center>
 
-<center><b>HEAD OF THE DEPARTMENTS</b><center>
+<center><b>HEAD OF THE DEPARTMENTS</b></center>
 	
 |            |                |                         |
 |:-------------:|:------------:|:-----------:|
