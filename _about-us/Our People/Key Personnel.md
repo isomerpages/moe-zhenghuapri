@@ -20,16 +20,16 @@ third_nav_title: Our People
 	
 |            |                |                         |
 |:-------------:|:------------:|:-----------:|
-| [**Mdm Lim Lay Chin**](mailto:lim_lay_chin@moe.edu.sg)<br>(HOD English)<br>Extn: *302* |           [**Mdm Chai Huel Leng**](mailto:chai_huel_leng@moe.edu.sg)<br>(HOD Mathematics)<br>Extn: *307*           |        [**Mr Alex Chew**](mailto:alex_chew@moe.edu.sg)<br>(HOD Science)<br>Extn: *306*        |
-|     [**Mr Er Kim Hoe**](mailto:er_kim_hoe@moe.edu.sg)<br>(HOD MTL)<br>Extn: *301*    |            [**Mrs Avinash Murugesuvari**](mailto:murugesuvari_vasu_g@moe.edu.sg)<br>(HOD SSD)<br>Extn: *303*            |        [**Mdm Evelyn Yeo**](mailto:evelyn_andrewina_yeo@moe.edu.sg)<br>(HOD ICT)<br>Extn: *305*         |
-|    [**Mdm Lin Xiaojun**](mailto:lin_xiaojun@moe.edu.sg)<br>(HOD CCE)<br>Extn: *308*   | [**Miss Poon Mei Ming**](mailto:poon_mei_ming@moe.edu.sg)<br>(HOD Curriculum & Talent Development)<br>Extn: *304* | [**Mr Eddy Norisman Ismail**](mailto:eddy_norisman_ismail@moe.edu.sg)<br>(HOD Aesthetics)<br>Extn: *309* |
+| [**Mdm Lim Lay Chin**](mailto:lim_lay_chin@moe.edu.sg)<br>**(HOD English)**<br>Extn: *302* |           [**Mdm Chai Huel Leng**](mailto:chai_huel_leng@moe.edu.sg)<br>**(HOD Mathematics)**<br>Extn: *307*           |        [**Mr Alex Chew**](mailto:alex_chew@moe.edu.sg)<br>**(HOD Science)**<br>Extn: *306*        |
+|     [**Mr Er Kim Hoe**](mailto:er_kim_hoe@moe.edu.sg)<br>**(HOD MTL)**<br>Extn: *301*    |            [**Mrs Avinash Murugesuvari**](mailto:murugesuvari_vasu_g@moe.edu.sg)<br>**(HOD SSD)**<br>Extn: *303*            |        [**Mdm Evelyn Yeo**](mailto:evelyn_andrewina_yeo@moe.edu.sg)<br>**(HOD ICT)**<br>Extn: *305*         |
+|    [**Mdm Lin Xiaojun**](mailto:lin_xiaojun@moe.edu.sg)<br>**(HOD CCE)**<br>Extn: *308*   | [**Miss Poon Mei Ming**](mailto:poon_mei_ming@moe.edu.sg)<br>**(HOD Curriculum & Talent Development)**<br>Extn: *304* | [**Mr Eddy Norisman Ismail**](mailto:eddy_norisman_ismail@moe.edu.sg)<br>**(HOD Aesthetics)**<br>Extn: *309* |
 
 <center><b>YEAR HEADS / ASST YEAR HEADS</b></center>
 
 |            |                    |                        |
 |:-----------:|:------------:|:-------------:|
-|  Mrs Dorcas Yiong<br>Year Head / Upper Primary<br>Extn: 576  | Miss Maryanah Muhd Muzakir<br>Asst Year Head /Upper Primary<br>Extn: 566 | Mdm Nor Hazwani Bte Harun Rashid<br>Asst Year Head / Middle Primary<br>Extn: 578 |
-| Mrs Lee Boon Kwang<br>Year Head / Lower Primary<br>Extn: 570 |     Mdm Sieow Kim Lian<br>Asst Year Head / Lower Primary<br>Extn: 564    |                                                                                  |
+|  [**Mrs Dorcas Yiong**](mailto:dorcas_hee_shee_kuan@moe.edu.sg)<br>**Year Head / Upper Primary**<br>Extn: *576*  | [**Miss Maryanah Muhd Muzakir**](mailto:maryanah_muhamd_muzakir@moe.edu.sg)<br>**Asst Year Head /Upper Primary**<br>Extn: *566* | **Mdm Nor Hazwani Bte Harun Rashid**<br>**Asst Year Head / Middle Primary**<br>Extn: 578 |
+| [**Mrs Lee Boon Kwang**](mailto:lee_boon_kwang@moe.edu.sg)<br>**Year Head / Lower Primary**<br>Extn: *570* |     [**Mdm Sieow Kim Lian**](mailto:sieow_kim_lian@moe.edu.sg)<br>**Asst Year Head / Lower Primary**<br>Extn: *564*    |                                                                                  |
 
 <center><b>LEVEL HEADS</b></center>
 
