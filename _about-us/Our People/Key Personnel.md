@@ -42,7 +42,7 @@ third_nav_title: Our People
 
 |                          |                 |                                     |
 |:---------:|:-----:|:---------------:|
-| Mr Mohd Faizal Razak<br>**Subject Head / Student Management & Leadership**<br>Extn: *565* | Mdm Suriyana Bte Ghapari<br>**Subject Head / Malay**<br>Extn: *581* | Mrs Siti Aisyah Sasikumar<br>**Subject Head / Character Educatio**n<br>Extn: *572* |
-|                  Mr Ng Teng Yik<br>**Subject Head / ICT**<br>Extn: *583*                  |       Mdm Ong Yan Joo<br>**Subject Head / CCA**<br>Extn: *585*     |                                                                              |
+| [**Mr Mohd Faizal Razak**](mailto:mohamed_faizal_raz@moe.edu.sg)<br>**Subject Head / Student Management & Leadership**<br>Extn: *565* | [**Mdm Suriyana Bte Ghapari**](mailto:suriyana_ghapari@moe.edu.sg)<br>**Subject Head / Malay**<br>Extn: *581* | [**Mrs Siti Aisyah Sasikumar**](mailto:siti_aisyah_a@moe.edu.sg)<br>**Subject Head / Character Educatio**n<br>Extn: *572* |
+|               [**Mr Ng Teng Yik**](mailto:ng_teng_yik@moe.edu.sg)<br>**Subject Head / ICT**<br>Extn: *583*                  |       [**Mdm Ong Yan Joo**](mailto:ong_yan_joo@moe.edu.sg) Joo<br>**Subject Head / CCA**<br>Extn: *585*     |                                                                              |
 
 <center><b>LEAD TEACHERS/ SENIOR TEACHERS</b></center>
