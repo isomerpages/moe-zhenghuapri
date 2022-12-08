@@ -11,8 +11,8 @@ third_nav_title: Our School Identity
 3.  We believe that, with effective effort, our students can improve themselves and are capable of achieving their personal best.
 
   
+(<a href="" target="_blank">Source 2021 P’s talk during P1 Orientation</a>)
 
-([Source 2021 P’s talk during P1 Orientation](https://zhenghuapri.moe.edu.sg/our-info-hub/information-for-parents/primary-1-matters/p1-orientation-matters))
 
 |   |   |
 |---|---|
