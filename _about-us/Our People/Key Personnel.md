@@ -11,7 +11,7 @@ third_nav_title: Our People
 <thead>
   <tr>
     <th width="250px"></th>
-    <th width="250px"></th>
+		<th width="250px"><b> SCHOOL LEADERS</b></th>
     <th ></th>
   </tr>
 </thead>
@@ -28,8 +28,3 @@ third_nav_title: Our People
   </tr>
 </tbody>
 </table>
-
-|   | SCHOOL LEADERS  |   |
-|:---:|:---:|:---:|
-|   |  |   |
-| ![]() [****]()<br>****<br> | ![]() [****]()<br>****<br> |  ![]() [****]()<br>****<br>|
