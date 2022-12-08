@@ -15,44 +15,17 @@ third_nav_title: Our School Identity
 
 <center>Revised Lyrics (2021):<br>Mrs Celestine Liu, Mdm Khor Mei Zhen Nicole, Mrs Lee Boon Kwang, Mdm Lim Shi Nan, Miss Lim Wan Xin Grace, Mdm Neo Mei Fang, Mdm Nor Hazwani Bte Harun Rushid and Miss Jacqueline Tan</center>
 
-  
 
-Revised Music (2021): Mr Loo Teng Kiat
-
-  
-
-Chorus:
-
-For Zhenghua we sing!
-
-For Zhenghua we stand!
-
-Together as one, united we pledge
-
-To be The Best That We Can Be
+<center>Revised Music (2021): Mr Loo Teng Kiat</center>
 
   
 
-Verse 1:
-
-Of righteousness, in truth and honesty
-
-With grit we will succeed
-
-Feel the love in our hearts
-
-and the warmth in our hands
-
-We’ll shine and give our best!
+<center>Chorus:<br>For Zhenghua we sing!<br>For Zhenghua we stand!<br>Together as one, united we pledge<br>To be The Best That We Can Be</center>
 
   
 
-Verse 2:
+<center>Verse 1:<br>Of righteousness, in truth and honesty<br>With grit we will succeed<br>Feel the love in our hearts<br>and the warmth in our hands<br>We’ll shine and give our best!</center>
 
-Of life we learn, for wisdom we seek
+  
 
-With dreams we dare to reach
-
-Onwards as one, a team in harmony
-
-For our Zhenghua family!
+<center>Verse 2:<br>Of life we learn, for wisdom we seek<br>With dreams we dare to reach<br>Onwards as one, a team in harmony<br>For our Zhenghua family!</center>
