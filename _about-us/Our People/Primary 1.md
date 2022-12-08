@@ -4,8 +4,8 @@ permalink: /about-us/our-people/primary-1/
 description: ""
 third_nav_title: Our People
 ---
-| CLASS |                                  FORM TEACHER                                  |                              FORM TEACHER                              |
-|:-----:|:------------------------------------------------------------------------------:|:----------------------------------------------------------------------:|
+| CLASS |  FORM TEACHER    |   FORM TEACHER         |
+|:-----:|:---------------:|:-----------:|
 |  1 CE |            Mdm Maszelin<br>maszelin_mohamad@moe.edu.sg<br>Extn: 537            |              Mdm Yi Lei<br>yi_lei@moe.edu.sg<br>Extn: 510              |
 |  1 CE |                                                                                |        Miss Lim Kim Guat<br>lim_kim_guat@moe.edu.sg<br>Extn: 527       |
 |  1 CN |           Mdm Lum Miao Ling<br>lum_miao_ling@moe.edu.sg<br>Extn: 568           |    Mdm Azlina Bte Wagiman<br>azlina_wagiman@moe.edu.sg<br>Extn: 501    |
