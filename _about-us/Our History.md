@@ -41,5 +41,5 @@ In our brief history of more than 30 years, students who have graduated from her
 
 
 |   |   |
-|---|---|
+|:---:|:---:|
 | <img src="/images/About%20us/02-OurHistory.jpg" style="width:50%"> | ![](/images/About%20us/01-OurHistory.jpg)  |
