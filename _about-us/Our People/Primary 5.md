@@ -18,6 +18,6 @@ third_nav_title: Our People
 |  5 HY |                                                                         |    Mr Eddy Norisman Ismail<br>eddy_norisman_ismail@moe.edu.sg<br>Extn: 309    |
 |  5 IN |  Ms Chew Sze Ling Cindy<br>chew_sze_ling_cindy@moe.edu.sg<br>Extn: 530  |            Mdm Zhu Wencheng<br>zhu_wencheng@moe.edu.sg<br>Extn: 508           |
 |       |                                                                         |          Miss Poon Mei Ming<br>poon_mei_ming@moe.edu.sg<br>Extn: 304          |
-|  5 IY |        Ms Chan May Ling<br>chan_may_ling@moe.edu.sg<br>Extn: 535        |          Mr Goh Boon Tiong<br>goh\_boon \_tiong@moe.edu.sg<br>Extn: 513         |
+|  5 IY |        Ms Chan May Ling<br>chan_may_ling@moe.edu.sg<br>Extn: 535        |          Mr Goh Boon Tiong<br>goh_boon_tiong@moe.edu.sg<br>Extn: 513         |
 |  5 IY |                                                                         |             Mdm Lin Xiaojun<br>lin_xiaojun@moe.edu.sg<br>Extn: 308            |
 |  5 RE |       Mr Benjamin Chong<br>chong_yong_yeow@moe.edu.sg<br>Extn: 520      |       Mdm Khor Mei Zhen Nicole<br>Khor_mei_zhen@moe.edu.sg<br>Extn: 510       |
