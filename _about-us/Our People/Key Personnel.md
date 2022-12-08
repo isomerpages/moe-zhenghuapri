@@ -25,11 +25,14 @@ third_nav_title: Our People
 |    [**Mdm Lin Xiaojun**](mailto:lin_xiaojun@moe.edu.sg)<br>(HOD CCE)<br>Extn: *308*   | [**Miss Poon Mei Ming**](mailto:poon_mei_ming@moe.edu.sg)<br>(HOD Curriculum & Talent Development)<br>Extn: *304* | [**Mr Eddy Norisman Ismail**](mailto:eddy_norisman_ismail@moe.edu.sg)<br>(HOD Aesthetics)<br>Extn: *309* |
 
 <center><b>YEAR HEADS / ASST YEAR HEADS</b></center>
+
+|            |                    |                        |
+|:-----------:|:------------:|:-------------:|
+|  Mrs Dorcas Yiong<br>Year Head / Upper Primary<br>Extn: 576  | Miss Maryanah Muhd Muzakir<br>Asst Year Head /Upper Primary<br>Extn: 566 | Mdm Nor Hazwani Bte Harun Rashid<br>Asst Year Head / Middle Primary<br>Extn: 578 |
+| Mrs Lee Boon Kwang<br>Year Head / Lower Primary<br>Extn: 570 |     Mdm Sieow Kim Lian<br>Asst Year Head / Lower Primary<br>Extn: 564    |                                                                                  |
+
 <center><b>LEVEL HEADS</b></center>
 
 <center><b>SUBJECT HEADS</b></center>
 
 <center><b>LEAD TEACHERS/ SENIOR TEACHERS</b></center>
-
-
-
