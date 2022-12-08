@@ -4,13 +4,12 @@ permalink: /about-us/Our-School-Identity/school-song/
 description: ""
 third_nav_title: Our School Identity
 ---
+# upload video to youtube
 # School Song
 
 
 
-**The Zhenghua School Anthem**  
-
-Lyrics: Mrs Emilie Gan, Music: Mr Bernard Low
+<center><b>The Zhenghua School Anthem</b><br>Lyrics: Mrs Emilie Gan, Music: Mr Bernard Low</center>
 
   
 
