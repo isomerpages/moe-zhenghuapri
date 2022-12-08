@@ -20,8 +20,8 @@ Choices have consequences and students are expected to make amends when they mak
 
 ## Key stages in Character Development: Learn – Apply – Reflect
 
+<img src="/images/ZHPS%20Experience/Learn-Apply-Reflect.png" style="width:30%">
 
-![](/images/ZHPS%20Experience/Learn-Apply-Reflect.png)
 
 
 We believe that learning comes about not from doing, but from thinking deeply about what we do. Reflection is an important part of helping our students develop skills through linking and constructing meaning from their experiences. Through reflection, students who have made poor choices will take responsibility for their actions and will be guided to restore the relationships through restitution, resolution and reconciliation.
