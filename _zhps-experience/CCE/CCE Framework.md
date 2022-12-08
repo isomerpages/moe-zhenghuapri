@@ -24,7 +24,7 @@ To lead themselves and others effectively, they should possess social-emotional 
 
 |               |                              |
 |-------------|---------------------|
-| **R**esilience    | When we face challenges,<br>we persevere.<br>• we think positive thoughts / we are brave and optimistic.<br>• we seek help and support from others.<br>• we are adaptable and resourceful.                                                                                |
+| **R**esilience    | When we face challenges,<br>• we persevere.<br>• we think positive thoughts / we are brave and optimistic.<br>• we seek help and support from others.<br>• we are adaptable and resourceful.                                                                                |
 | **I**nnovation    | • We come up with new ideas or methods.<br>• We make changes to an existing product or idea to better improve it.                                                                                                                                                       |
 | **I**ntegrity     | • We are honest.<br>• We are trustworthy.<br>• We stand up for what is right.<br>• We are sincere and consistent in our thoughts, words and actions.                                                                                                                        |
 | **C**are          | • We care for ourselves and our belongings.<br>• We care for and respect others – we treat others the way we want to be treated.<br>• We care for our school and community.                                                                                               |
