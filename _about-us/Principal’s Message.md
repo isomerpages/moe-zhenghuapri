@@ -5,7 +5,7 @@ description: ""
 ---
 # Principal’s Message
 
-![](/images/About%20us/P%20Pic%20with%20green%20border%20final.jpg)
+<img src="/images/About%20us/P%20Pic%20with%20green%20border%20final.jpg" style="width:20%;float:left"><br clear="left">
 
 Dear Students, Parents and Friends of Zhenghua Primary School (ZHPS)
 
