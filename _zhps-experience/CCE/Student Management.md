@@ -14,7 +14,7 @@ Through a whole-school approach, we build our students’ social and emotional c
 
   
 
-Choices have consequences and students are expected to make amends when they make a wrong choice or misbehave. _Using Restorative Approach, our school strives to mete out meaningful consequences to help our students understand the implications of their actions and to fix the harm done to others_. Consequences meted out should address the wrong decision or misbehaviour, mean something to the wrongdoer, reinforce respect for school values and rules, help fix the harm done to victims and/or the community and involve stakeholders like the family, the community, and other groups.
+Choices have consequences and students are expected to make amends when they make a wrong choice or misbehave. <u><i>Using Restorative Approach, our school strives to mete out meaningful consequences to help our students understand the implications of their actions and to fix the harm done to others</i></u>. Consequences meted out should address the wrong decision or misbehaviour, mean something to the wrongdoer, reinforce respect for school values and rules, help fix the harm done to victims and/or the community and involve stakeholders like the family, the community, and other groups.
 
   
 
