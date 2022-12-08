@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our School Identity/School Song.md
       - Our School Identity/.keep
       - Our School Identity/Vision, Mission, Values and Motto.md
       - Our School Identity/Core Beliefs.md
