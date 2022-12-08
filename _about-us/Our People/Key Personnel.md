@@ -11,7 +11,7 @@ third_nav_title: Our People
 <thead>
   <tr>
     <th width="250px"></th>
-		<th width="250px"><b> SCHOOL LEADERS</b></th>
+		<th  style="text-align: center;" width="250px"><b> SCHOOL LEADERS</b></th>
     <th ></th>
   </tr>
 </thead>
