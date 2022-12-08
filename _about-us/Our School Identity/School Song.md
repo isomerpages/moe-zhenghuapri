@@ -13,9 +13,7 @@ third_nav_title: Our School Identity
 
   
 
-Revised Lyrics (2021):
-
-Mrs Celestine Liu, Mdm Khor Mei Zhen Nicole, Mrs Lee Boon Kwang, Mdm Lim Shi Nan, Miss Lim Wan Xin Grace, Mdm Neo Mei Fang, Mdm Nor Hazwani Bte Harun Rushid and Miss Jacqueline Tan
+<center>Revised Lyrics (2021):<br>Mrs Celestine Liu, Mdm Khor Mei Zhen Nicole, Mrs Lee Boon Kwang, Mdm Lim Shi Nan, Miss Lim Wan Xin Grace, Mdm Neo Mei Fang, Mdm Nor Hazwani Bte Harun Rushid and Miss Jacqueline Tan</center>
 
   
 
