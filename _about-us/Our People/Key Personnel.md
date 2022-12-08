@@ -12,19 +12,19 @@ third_nav_title: Our People
   <tr>
     <th width="250px"></th>
     <th width="250px"></th>
-    <th width="250px"></th>
+    <th width="210px"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td></td>
-    <td><img src="/images/About%20us/mrs%20constance%20loke%20principal%202.jpg"><a href="mailto:zhenghua_ps@moe.edu.sg"><b>Mrs Constance Loke</b></a><br><b>Principal</b><br>wong_hian_hwee_constance@moe.edu.sg </td>
+    <td style="text-align: center;"><img src="/images/About%20us/mrs%20constance%20loke%20principal%202.jpg"><a href="mailto:zhenghua_ps@moe.edu.sg"><b>Mrs Constance Loke</b></a><br><b>Principal</b><br>wong_hian_hwee_constance@moe.edu.sg </td>
     <td></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td style="text-align: center;"><img src="/images/About%20us/mrs%20constance%20loke%20principal%202.jpg"><a href="mailto:zhenghua_ps@moe.edu.sg"><b>Mrs Constance Loke</b></a><br><b>Principal</b><br>wong_hian_hwee_constance@moe.edu.sg</td>
+    <td style="text-align: center;"><img src="/images/About%20us/mrs%20constance%20loke%20principal%202.jpg"><a href="mailto:zhenghua_ps@moe.edu.sg"><b>Mrs Constance Loke</b></a><br><b>Principal</b><br>wong_hian_hwee_constance@moe.edu.sg</td>
+    <td style="text-align: center;"><img src="/images/About%20us/mrs%20constance%20loke%20principal%202.jpg"><a href="mailto:zhenghua_ps@moe.edu.sg"><b>Mrs Constance Loke</b></a><br><b>Principal</b><br>wong_hian_hwee_constance@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
