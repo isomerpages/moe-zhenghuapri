@@ -46,3 +46,9 @@ third_nav_title: Our People
 |               [**Mr Ng Teng Yik**](mailto:ng_teng_yik@moe.edu.sg)<br>**Subject Head / ICT**<br>Extn: *583*                  |       [**Mdm Ong Yan Joo**](mailto:ong_yan_joo@moe.edu.sg) Joo<br>**Subject Head / CCA**<br>Extn: *585*     |                                                                              |
 
 <center><b>LEAD TEACHERS/ SENIOR TEACHERS</b></center>
+
+|            |                    |          |
+|:----------:|:-------:|:------:|
+|    Mrs Tanuja Raj<br>Lead Teacher / Tamil<br>Extn: 506    |      Mr Loo Teng Kiat<br>Lead Teacher / Music<br>Extn: 511      |      Mr Goh Boon Tiong<br>Senior Teacher / PE<br>Extn: 513      |
+|    Mdm Lem Li Kuen<br>Senior Teacher / Art<br>Extn: 518   | Mr Zulkifli Bin Mansor<br>Senior Teacher / Science<br>Extn: 524 | Miss Sabrina Bte Samsuri<br>Senior Teacher / Malay<br>Extn: 505 |
+| Ms Chan May Ling<br>Senior Teacher / English<br>Extn: 535 |    Miss Ding Caihong<br>Senior Teacher / Chinese<br>Extn: 502   |                                                                 |
