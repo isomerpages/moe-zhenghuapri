@@ -17,3 +17,9 @@ third_nav_title: Our People
 <center>To contact the respective staff below<br>please call 67697478 followed by the Extension No.</center>
 
 <center><b>HEAD OF THE DEPARTMENTS</b><center>
+	
+|            |                |                         |
+|:-------------:|:------------:|:-----------:|
+| Mdm Lim Lay Chin<br>(HOD English)<br>Extn: 302 |           Mdm Chai Huel Leng<br>(HOD Mathematics)<br>Extn: 307           |        Mr Alex Chew<br>(HOD Science)<br>Extn: 306        |
+|     Mr Er Kim Hoe<br>(HOD MTL)<br>Extn: 301    |            Mrs Avinash Murugesuvari<br>(HOD SSD)<br>Extn: 303            |         Mdm Evelyn Yeo<br>(HOD ICT)<br>Extn: 305         |
+|    Mdm Lin Xiaojun<br>(HOD CCE)<br>Extn: 308   | Miss Poon Mei Ming<br>(HOD Curriculum & Talent Development)<br>Extn: 304 | Mr Eddy Norisman Ismail<br>(HOD Aesthetics)<br>Extn: 309 |
