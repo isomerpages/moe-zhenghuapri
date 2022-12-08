@@ -33,6 +33,11 @@ third_nav_title: Our People
 
 <center><b>LEVEL HEADS</b></center>
 
+|                   |                           |                      |
+|:---------:|:------------:|:-------:|
+| [**Mdm Lee Wei Ai**](mailto:lee_wei_ai@moe.edu.sg)<br>**Level Head / English**<br>Extn: *577* | [**Mdm Tan Phaik See**](mailto:tan_phaik_see@moe.edu.sg)<br>**Level Head / Chinese**<br>Extn: *586* | [**Mr Fadil Bin Abdul Rahman**](mailto:fadil_abdul_rahman@moe.edu.sg)<br>**Level Head / Science**<br>Extn: *584* |
+
+
 <center><b>SUBJECT HEADS</b></center>
 
 <center><b>LEAD TEACHERS/ SENIOR TEACHERS</b></center>
