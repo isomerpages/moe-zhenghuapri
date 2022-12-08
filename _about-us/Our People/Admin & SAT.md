@@ -8,8 +8,8 @@ third_nav_title: Our People
 
 <center>To contact the respective staff,<br>please call 67697478 followed by the Extension No.</center>
 
-|                                                                                                                |
-|:--------------------------------------------------------------------------------------------------------------:|
+|                |
+|:------------------------------------------------:|
 |        Mr Loh Yuen Fong ,Eric<br>Administration Manager<br>Email: low_yuen_fong@moe.edu.sg<br>Extn: 201        |
 |              Mr Chia Yeo Hau<br>Operations Manager<br>Email: chia_yeo_hau@moe.edu.sg<br>Extn: 203              |
 |             Mr Shah Irwan Sazali<br>Adjunct OM<br>Email: shah_irwan_sazali@moe.edu.sg<br>Extn: 202             |
