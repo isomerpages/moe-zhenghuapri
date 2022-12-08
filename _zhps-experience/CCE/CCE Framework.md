@@ -22,14 +22,14 @@ As leaders of character, students are expected to:
 
 To lead themselves and others effectively, they should possess social-emotional competencies, namely self-awareness, self-management, social awareness, relationship management and responsible decision making. They are anchored in values and consistently live out the school values (RI2C2E):
 
-|               |                                                       |
+|               |                              |
 |-------------|---------------------|
-| Resilience    | When we face challenges,<br>we persevere.<br>we think positive thoughts / we are brave and optimistic.<br>we seek help and support from others.<br>we are adaptable and resourceful.                                                                                |
-| Innovation    | We come up with new ideas or methods.<br>We make changes to an existing product or idea to better improve it.                                                                                                                                                       |
-| Integrity     | We are honest.<br>We are trustworthy.<br>We stand up for what is right.<br>We are sincere and consistent in our thoughts, words and actions.                                                                                                                        |
-| Care          | We care for ourselves and our belongings.<br>We care for and respect others – we treat others the way we want to be treated.<br>We care for our school and community.                                                                                               |
-| Collaboration | We participate actively in group activities.<br>We practise good communication skills.<br>We organise ourselves well to achieve our shared goals.<br>We are open to different points of view.<br>We achieve our shared goals by tapping on one another’s strengths. |
-| Excellence    | We give of our best in whatever we do.<br>We take responsibility for our learning.                                                         |
+| **R**esilience    | When we face challenges,<br>we persevere.<br>• we think positive thoughts / we are brave and optimistic.<br>• we seek help and support from others.<br>• we are adaptable and resourceful.                                                                                |
+| **I**nnovation    | • We come up with new ideas or methods.<br>• We make changes to an existing product or idea to better improve it.                                                                                                                                                       |
+| **I**ntegrity     | • We are honest.<br>• We are trustworthy.<br>• We stand up for what is right.<br>• We are sincere and consistent in our thoughts, words and actions.                                                                                                                        |
+| **C**are          | • We care for ourselves and our belongings.<br>• We care for and respect others – we treat others the way we want to be treated.<br>• We care for our school and community.                                                                                               |
+| **C**ollaboration | • We participate actively in group activities.<br>• We practise good communication skills.<br>• We organise ourselves well to achieve our shared goals.<br>• We are open to different points of view.<br>• We achieve our shared goals by tapping on one another’s strengths. |
+| **E**xcellence    | • We give of our best in whatever we do.<br>• We take responsibility for our learning.                                                         |
 
 Leaders of character do the right thing for the right reasons even when no one is watching. Values, social-emotional competencies and leadership skills are taught, caught and lived out in authentic experiences, e.g. CCE lessons, various subject lessons, Values-In-Action (VIA), National Education (NE) core events, Lifelong Learning Programme (LLP), Applied Learning Programme (ALP), co-curricular activities (CCA), school-based initiatives and student leadership development (SLD) programmes.
 
