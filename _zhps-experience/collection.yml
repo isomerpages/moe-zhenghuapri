@@ -2,4 +2,5 @@ collections:
   zhps-experience:
     output: true
     order:
+      - CCE/CCE Framework.md
       - CCE/.keep
