@@ -5,3 +5,5 @@ description: ""
 third_nav_title: CCE
 ---
 # CCE Lessons
+
+![](/images/ZHPS%20Experience/CCE%20Lessons/Header.jpg)
