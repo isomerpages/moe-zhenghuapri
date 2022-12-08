@@ -2,6 +2,6 @@ collections:
   zhps-experience:
     output: true
     order:
-      - CCE/Student Management.md
-      - CCE/CCE Framework.md
       - CCE/.keep
+      - CCE/CCE Framework.md
+      - CCE/Student Management.md
