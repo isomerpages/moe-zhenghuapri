@@ -49,6 +49,6 @@ third_nav_title: Our People
 
 |            |                    |          |
 |:----------:|:-------:|:------:|
-|    Mrs Tanuja Raj<br>**Lead Teacher / Tamil**<br>Extn: *506*    |      Mr Loo Teng Kiat<br>**Lead Teacher / Music**<br>Extn: *511*      |      Mr Goh Boon Tiong<br>**Senior Teacher / PE**<br>Extn: *513*      |
-|    Mdm Lem Li Kuen<br>**Senior Teacher / Art**<br>Extn: *518*   | Mr Zulkifli Bin Mansor<br>**Senior Teacher / Science**<br>Extn: *524* | Miss Sabrina Bte Samsuri<br>**Senior Teacher / Malay**<br>Extn: *505* |
-| Ms Chan May Ling<br>**Senior Teacher / English**<br>Extn: *535* |    Miss Ding Caihong<br>**Senior Teacher / Chinese**<br>Extn: *502*   |                                                                 |
+|    [**Mrs Tanuja Raj**](mailto:tanuja_k_k_chandran@moe.edu.sg)<br>**Lead Teacher / Tamil**<br>Extn: *506*    |     [**Mr Loo Teng Kiat**](mailto:loo_teng_kiat@moe.edu.sg)<br>**Lead Teacher / Music**<br>Extn: *511*      |      [**Mr Goh Boon Tiong**](mailto:goh_boon_tiong@moe.edu.sg)<br>**Senior Teacher / PE**<br>Extn: *513*      |
+|    [**Mdm Lem Li Kuen**](mailto:lem_li_kuen@moe.edu.sg)<br>**Senior Teacher / Art**<br>Extn: *518*   | [**Mr Zulkifli Bin Mansor**](mailto:zulkifli_mansor@moe.edu.sg)<br>**Senior Teacher / Science**<br>Extn: *524* | [**Miss Sabrina Bte Samsuri**](mailto:sabrina_samsuri@moe.edu.sg)<br>**Senior Teacher / Malay**<br>Extn: *505* |
+| [**Ms Chan May Ling**](mailto:chan_may_ling@moe.edu.sg)<br>**Senior Teacher / English**<br>Extn: *535* |   [**Miss Ding Caihong**](mailto:ding_caihong@moe.edu.sg)<br>**Senior Teacher / Chinese**<br>Extn: *502*   |                                                                 |
