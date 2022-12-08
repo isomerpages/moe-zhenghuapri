@@ -42,7 +42,7 @@ third_nav_title: Our People
 
 |                          |                 |                                     |
 |:---------:|:-----:|:---------------:|
-| Mr Mohd Faizal Razak<br>Subject Head / Student Management & Leadership<br>Extn: 565 | Mdm Suriyana Bte Ghapari<br>Subject Head / Malay<br>Extn: 581 | Mrs Siti Aisyah Sasikumar<br>Subject Head / Character Education<br>Extn: 572 |
-|                  Mr Ng Teng Yik<br>Subject Head / ICT<br>Extn: 583                  |       Mdm Ong Yan Joo<br>Subject Head / CCA<br>Extn: 585      |                                                                              |
+| Mr Mohd Faizal Razak<br>**Subject Head / Student Management & Leadership**<br>Extn: *565* | Mdm Suriyana Bte Ghapari<br>**Subject Head / Malay**<br>Extn: *581* | Mrs Siti Aisyah Sasikumar<br>**Subject Head / Character Educatio**n<br>Extn: *572* |
+|                  Mr Ng Teng Yik<br>**Subject Head / ICT**<br>Extn: *583*                  |       Mdm Ong Yan Joo<br>**Subject Head / CCA**<br>Extn: *585*     |                                                                              |
 
 <center><b>LEAD TEACHERS/ SENIOR TEACHERS</b></center>
