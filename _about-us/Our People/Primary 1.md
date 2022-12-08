@@ -4,6 +4,9 @@ permalink: /about-us/our-people/primary-1/
 description: ""
 third_nav_title: Our People
 ---
+# Primary 1
+
+
 | CLASS |  FORM TEACHER    |   FORM TEACHER         |
 |:-----:|:---------------:|:-----------:|
 |  1 CE |            Mdm Maszelin<br>maszelin_mohamad@moe.edu.sg<br>Extn: 537            |              Mdm Yi Lei<br>yi_lei@moe.edu.sg<br>Extn: 510              |
