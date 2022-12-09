@@ -16,174 +16,174 @@ Students are provided with a variety of exposure and opportunities to experience
 
 The table below shows the Tiered-approach to arts education under **Creative Arts@Zhenghua**.
 
-<table style="font-weight: 400;" width="609">
+<table width="609">
 <tbody>
 <tr>
 <td style="text-align: center;" width="75">
-<p style="font-weight: 400;"><strong>Level /</strong></p>
-<p style="font-weight: 400;"><strong>Art Form</strong></p>
+<p><strong>Level /</strong></p>
+<p><strong>Art Form</strong></p>
 </td>
 <td style="text-align: center;" width="102">
-<p style="font-weight: 400;"><strong>MUSIC</strong></p>
+<p><strong>MUSIC</strong></p>
 </td>
 <td style="text-align: center;" width="102">
-<p style="font-weight: 400;"><strong>ART</strong></p>
+<p><strong>ART</strong></p>
 </td>
 <td style="text-align: center;" width="102">
-<p style="font-weight: 400;"><strong>DANCE</strong></p>
+<p><strong>DANCE</strong></p>
 </td>
 <td style="text-align: center;" width="102">
-<p style="font-weight: 400;"><strong>DRAMA</strong></p>
+<p><strong>DRAMA</strong></p>
 </td>
 <td style="text-align: center;" width="128">
-<p style="font-weight: 400;"><strong>&nbsp;</strong></p>
+<p><strong>&nbsp;</strong></p>
 </td>
 </tr>
 <tr>
 <td style="text-align: center;" colspan="5" width="481">
-<p style="font-weight: 400;"><strong>TIER 1 &ndash; BROAD-BASED; ARTS FOR ALL</strong></p>
+<p><strong>TIER 1 &ndash; BROAD-BASED; ARTS FOR ALL</strong></p>
 </td>
 <td style="text-align: center;" width="128">
-<p style="font-weight: 400;"><strong>TIER 2 &ndash; TALENT DEVELOPMENT; ARTS FOR SOME</strong></p>
+<p><strong>TIER 2 &ndash; TALENT DEVELOPMENT; ARTS FOR SOME</strong></p>
 </td>
 </tr>
 <tr>
 <td width="75">
-<p style="font-weight: 400;">Primary 1</p>
+<p>Primary 1</p>
 </td>
 <td width="102">
-<p style="font-weight: 400;">Unpitched Percussions</p>
-<p style="font-weight: 400;">&nbsp;</p>
-<p style="font-weight: 400;">Western tradition</p>
+<p>Unpitched Percussions</p>
+<p>&nbsp;</p>
+<p>Western tradition</p>
 </td>
 <td width="102">
-<p style="font-weight: 400;">Basic elements of Art</p>
+<p>Basic elements of Art</p>
 </td>
 <td width="102">
-<p style="font-weight: 400;">Creative Movement</p>
+<p>Creative Movement</p>
 </td>
 <td width="102">
-<p style="font-weight: 400;">Drama in Curriculum (English Language &amp; Mother Tongue)</p>
+<p>Drama in Curriculum (English Language &amp; Mother Tongue)</p>
 </td>
 <td width="128">
-<p style="font-weight: 400;">&nbsp;</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td width="75">
-<p style="font-weight: 400;">Primary 2</p>
+<p>Primary 2</p>
 </td>
 <td width="102">
-<p style="font-weight: 400;">Resonator Bars</p>
-<p style="font-weight: 400;">&nbsp;</p>
-<p style="font-weight: 400;">Chinese Music Study</p>
+<p>Resonator Bars</p>
+<p>&nbsp;</p>
+<p>Chinese Music Study</p>
 </td>
 <td width="102">
-<p style="font-weight: 400;">Basic elements of Art</p>
+<p>Basic elements of Art</p>
 </td>
 <td width="102">
-<p style="font-weight: 400;">Chinese Dance</p>
+<p>Chinese Dance</p>
 </td>
 <td width="102">
-<p style="font-weight: 400;">Drama in Curriculum (Applied Learning &amp; Mother Tongue)</p>
+<p>Drama in Curriculum (Applied Learning &amp; Mother Tongue)</p>
 </td>
 <td width="128">
-<p style="font-weight: 400;">Music, Art &amp; Dance (MAD) Enrichment Programme</p>
+<p>Music, Art &amp; Dance (MAD) Enrichment Programme</p>
 </td>
 </tr>
 <tr>
 <td width="75">
-<p style="font-weight: 400;">Primary 3</p>
+<p>Primary 3</p>
 </td>
 <td width="102">
-<p style="font-weight: 400;">Keyboard</p>
-<p style="font-weight: 400;">&nbsp;</p>
-<p style="font-weight: 400;">Malay Music Study</p>
+<p>Keyboard</p>
+<p>&nbsp;</p>
+<p>Malay Music Study</p>
 </td>
 <td width="102">
-<p style="font-weight: 400;">Museum-Based Learning (MBL) - NUS Baba House</p>
-<p style="font-weight: 400;">&nbsp;</p>
-<p style="font-weight: 400;">Batik Art</p>
+<p>Museum-Based Learning (MBL) - NUS Baba House</p>
+<p>&nbsp;</p>
+<p>Batik Art</p>
 </td>
 <td width="102">
-<p style="font-weight: 400;">Malay Dance</p>
+<p>Malay Dance</p>
 </td>
 <td width="102">
-<p style="font-weight: 400;">Drama in Curriculum (Mother Tongue)</p>
+<p>Drama in Curriculum (Mother Tongue)</p>
 </td>
 <td rowspan="4" width="128">
-<p style="font-weight: 400;">Visual &amp; Performing Arts CCAs:</p>
-<p style="font-weight: 400;">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Brass Band</p>
-<p style="font-weight: 400;">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Chinese Dance</p>
-<p style="font-weight: 400;">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Choir</p>
-<p style="font-weight: 400;">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Indian Dance</p>
-<p style="font-weight: 400;">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Malay Dance</p>
-<p style="font-weight: 400;">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Talent Art</p>
+<p>Visual &amp; Performing Arts CCAs:</p>
+<p>- Brass Band</p>
+<p>- Chinese Dance</p>
+<p>- Choir</p>
+<p>- Indian Dance</p>
+<p>- Malay Dance</p>
+<p>- Talent Art</p>
 </td>
 </tr>
 <tr>
 <td width="75">
-<p style="font-weight: 400;">Primary 4</p>
+<p>Primary 4</p>
 </td>
 <td width="102">
-<p style="font-weight: 400;">Recorders</p>
-<p style="font-weight: 400;">&nbsp;</p>
-<p style="font-weight: 400;">Indian Music Study</p>
+<p>Recorders</p>
+<p>&nbsp;</p>
+<p>Indian Music Study</p>
 </td>
 <td width="102">
-<p style="font-weight: 400;">Interdisciplinary Museum Based Learning (IMBL) - National Gallery</p>
+<p>Interdisciplinary Museum Based Learning (IMBL) - National Gallery</p>
 </td>
 <td width="102">
-<p style="font-weight: 400;">Ethnic Fusion</p>
-<p style="font-weight: 400;">Indian Dance</p>
+<p>Ethnic Fusion</p>
+<p>Indian Dance</p>
 </td>
 <td width="102">
-<p style="font-weight: 400;">Drama in Curriculum (Mother Tongue)</p>
+<p>Drama in Curriculum (Mother Tongue)</p>
 </td>
 </tr>
 <tr>
 <td width="75">
-<p style="font-weight: 400;">Primary 5</p>
+<p>Primary 5</p>
 </td>
 <td width="102">
-<p style="font-weight: 400;">Ukelele</p>
-<p style="font-weight: 400;">&nbsp;</p>
-<p style="font-weight: 400;">Polynesian/ Oceania Music Study</p>
+<p>Ukelele</p>
+<p>&nbsp;</p>
+<p>Polynesian/ Oceania Music Study</p>
 </td>
 <td width="102">
-<p style="font-weight: 400;">Museum-Based Learning (MBL) &ndash; NUS Museum</p>
-<p style="font-weight: 400;">&nbsp;</p>
-<p style="font-weight: 400;">Ceramics</p>
+<p>Museum-Based Learning (MBL) &ndash; NUS Museum</p>
+<p>&nbsp;</p>
+<p>Ceramics</p>
 </td>
 <td width="102">
-<p style="font-weight: 400;">Polynesian / Oceania Dance</p>
+<p>Polynesian / Oceania Dance</p>
 </td>
 <td width="102">
-<p style="font-weight: 400;">Drama in Curriculum (English Language** &amp; Mother Tongue)</p>
+<p>Drama in Curriculum (English Language** &amp; Mother Tongue)</p>
 </td>
 </tr>
 <tr>
 <td width="75">
-<p style="font-weight: 400;">Primary 6</p>
+<p>Primary 6</p>
 </td>
 <td width="102">
-<p style="font-weight: 400;">Music Carousel*</p>
-<p style="font-weight: 400;">&nbsp;</p>
-<p style="font-weight: 400;">Japanese/Korean Music study</p>
+<p>Music Carousel*</p>
+<p>&nbsp;</p>
+<p>Japanese/Korean Music study</p>
 </td>
 <td width="102">
-<p style="font-weight: 400;">Exploration of Social Issues through Digital Art</p>
+<p>Exploration of Social Issues through Digital Art</p>
 </td>
 <td width="102">
-<p style="font-weight: 400;">International Dance</p>
+<p>International Dance</p>
 </td>
 <td width="102">
-<p style="font-weight: 400;">Drama in Curriculum (Social Studies** &amp; Mother Tongue)</p>
+<p>Drama in Curriculum (Social Studies** &amp; Mother Tongue)</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p style="font-weight: 400;">&nbsp;</p>
+<p>&nbsp;</p>
 
 
 \* Students revisit the study of musical instruments previously learnt in preparation for Ensemble in Semester 2.
@@ -199,14 +199,11 @@ The infusion of the arts in the various disciplines also enable students to lear
 **Creative Arts@Zhenghua** is aligned to one of the school’s Strategic Thrusts – ‘Every Student a Confident, Creative and Expressive Learner’.
 
 <figure>
-	<img src="/images/ZHPS%20Experience/Overview%20of%20the%20schools%20Strategic%20Thrust%203%20-%20Arts.png" style="width:70%"></a>
+	<img src="/images/ZHPS%20Experience/Overview%20of%20the%20schools%20Strategic%20Thrust%203%20-%20Arts.png" style="width:70%">
 <figcaption>
 	An overview of the school’s Strategic Thrust 3, which focuses on the arts.
 	</figcaption>
 </figure>
 
-
-
-  
 
 As students are exposed to Music, Art, Dance and Drama, they build confidence, and become creative, imaginative individuals with an appreciation of the arts.
