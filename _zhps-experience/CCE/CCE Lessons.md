@@ -92,3 +92,13 @@ The Cyber Wellness activities include an Assembly talk by P3 – P6 Cyber Wellne
 |:-:|:-:|
 | ![](/images/ZHPS%20Experience/CCE%20Lessons/CW2.jpg)  |   ![](/images/ZHPS%20Experience/CCE%20Lessons/CW3.jpg) |
 
+<center><i>Cyber Wellness Ambassadors during Training</i></center>
+
+In the classroom, rich discussions take place after the Assembly talk, followed by interactive quizzes and games during FTGP. There will also be annual Cyber Wellness Week, to help raise awareness and educate students on cyber wellness related topics through fun and meaningful activities.
+
+|   |   |
+|:-:|:-:|
+| <img src="/images/ZHPS%20Experience/CCE%20Lessons/CW4.jpg" style="width:50%">  | ![](/images/ZHPS%20Experience/CCE%20Lessons/CW5.jpg)    |
+
+<center><i>Go Safe Online Pop-Up by Cyber Security Agency of Singapore (CSA) at the Indoor Sports Hall.
+</i></center>
