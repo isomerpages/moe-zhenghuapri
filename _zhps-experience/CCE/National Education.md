@@ -93,3 +93,10 @@ Commemoration of International Friendship Day Talk presented by our students fro
 Commemoration of International Friendship Day Talk presented by our students from various countries of origin
 	</figcaption>
 </figure>
+
+<img src="/images/ZHPS%20Experience/National%20Education/Celebrating%20Diversity%20by%20Our%20Dancers.png"
+     style="width:50%">
+<figcaption>
+Celebrating Diversity by Our Dancers
+	</figcaption>
+</figure>
