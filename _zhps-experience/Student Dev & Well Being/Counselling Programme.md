@@ -22,7 +22,7 @@ Counseling services are the heartbeat of ZhengHua Primary School . Counselors ta
 
 |   |   |
 |:--------:|------|
-|  <img src="/images/ZHPS%20Experience/Student%20Dev%20&%20Well%20Being/Counselling_2.png" style="width:100%"> |**An Overview of How we Work**<br>The counselling services in school are organised in a tiered system, beginning with first level intervention by teachers.<br>Second tier support are those cases requiring more specialised attention, referral is made by teachers to the Teacher Counsellors, Allied Educator (Counselling), Part Time School Counsellors, or external counsellors employed by the school.<br>Third Tier would be when students and families are supported with more intense intervention are referred to MOE Guidance Specialists or professional agencies, such REACH, NUH, NAMS , TOUCH, FSCs, MSF and many more   |
+|  <img src="/images/ZHPS%20Experience/Student%20Dev%20&%20Well%20Being/Counselling_2.png" style="width:100%"> |**An Overview of How we Work**<br>The counselling services in school are organised in a tiered system, beginning with first level intervention by teachers.<br><br>Second tier support are those cases requiring more specialised attention, referral is made by teachers to the Teacher Counsellors, Allied Educator (Counselling), Part Time School Counsellors, or external counsellors employed by the school.<br><br>Third Tier would be when students and families are supported with more intense intervention are referred to MOE Guidance Specialists or professional agencies, such REACH, NUH, NAMS , TOUCH, FSCs, MSF and many more   |
 
 
 
@@ -56,4 +56,3 @@ A Student Welfare Officer assesses the needs of students with poor school attend
 **Referral to specialists or community agencies**
 
 Students who require more intensive intervention will be referred to our Lead School Counsellors, Lead Student Welfare Officers or mental health professionals from our school network. These would include FSCs, MSF, REACH, NAMS, TOUCH.
-
