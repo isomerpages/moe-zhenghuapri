@@ -25,3 +25,16 @@ For example, for the value of Care, students engage in “acts of kindness” th
   
 
 **LessOn** in **V**alue **E**ducation (LOVE) Talks are done weekly. Every Friday, classes and CCA groups are rostered to share with the school values-based stories and current affairs. These include care for others and even how to care for pets!
+
+
+![](/images/ZHPS%20Experience/CCE%20Lessons/Love%20Talk%201.png)
+
+![](/images/ZHPS%20Experience/CCE%20Lessons/Love%20Talk%202.png)
+
+![](/images/ZHPS%20Experience/CCE%20Lessons/Love%20Talk%203.png)
+
+![](/images/ZHPS%20Experience/CCE%20Lessons/Love%20Talk%204.jpg)
+
+![](/images/ZHPS%20Experience/CCE%20Lessons/Love%20Talk%205.png)
+
+
