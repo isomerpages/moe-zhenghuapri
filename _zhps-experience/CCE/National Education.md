@@ -24,3 +24,10 @@ A wide range of school efforts help students experience and explore their nation
 
 <center>P6 Students applying what they have learn through the <b><i>SGUnite!</i></b> Card Game</center>
 
+<figure>
+	<img src="/images/ZHPS%20Experience/National%20Education/NE3.jpg"
+     style="width:50%">
+<figcaption>
+ Brownies promote the values in action based on the 6 pillars of Defence in the form of a BINGO Challenge
+	</figcaption>
+</figure>
