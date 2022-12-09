@@ -2,7 +2,6 @@ collections:
   zhps-experience:
     output: true
     order:
-      - Science.md
       - CCE/.keep
       - CCE/CCE Framework.md
       - CCE/CCE Lessons.md
@@ -17,3 +16,4 @@ collections:
       - English Language.md
       - Mother Tongue Languages.md
       - Mathematics.md
+      - Science.md
