@@ -45,3 +45,25 @@ Students gets the opportunity to **apply** their learning and engage in VIA ac
   
 
 **Reflective** practice in VIA inspires students to become empathetic problem solvers as well as instils a sense of gratitude in them.
+
+## Student-Centric & Student Agency
+
+
+<img src="/images/ZHPS%20Experience/Values%20In%20Action/Student-Centric%20%20Student%20Agency.png" style="width:50%">
+
+Students are given opportunities to share their opinions on how they can show values in action during face-to-face class discussion and through CCE Inquiry activities posted on SLS.
+
+Through these opportunities, students are inspired to lead VIA projects in school.
+
+<figure>
+	<img src="/images/ZHPS%20Experience/Values%20In%20Action/VIA_1.png" style="width:70%">
+<figcaption>
+	Food donation drive for Food from the Heart led by student leaders
+	</figcaption>
+</figure>
+
+|   |   |
+|:-:|:-:|
+| <img src="/images/ZHPS%20Experience/Values%20In%20Action/Bags%20of%20Love.jpg" style="width:60%">  |   ![](/images/ZHPS%20Experience/Values%20In%20Action/Bags%20of%20Love%202.jpg) |
+
+
