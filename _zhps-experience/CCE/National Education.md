@@ -139,6 +139,16 @@ Reciting The Pledge In Class
 
 <center><i>Students Donned in Red to Celebrate the Singapore Spirit!</i></center>
 
-![](/images/ZHPS%20Experience/National%20Education/NE_22.png)
+<figure>
+<img src="/images/ZHPS%20Experience/National%20Education/NE_22.png" style="width:58%">
+<figcaption>
+National Day Long Service Award Winner: Mr Goh Boon Tiong
+</figcaption>
+</figure>
 
-![](/images/ZHPS%20Experience/National%20Education/NE_23.png)
+<figure>
+<img src="/images/ZHPS%20Experience/National%20Education/NE_23.png" style="width:58%">
+<figcaption>
+National Day Long Service Award Winner: Mdm Noreha Mohd Taib
+</figcaption>
+</figure>
