@@ -37,4 +37,4 @@ For example, for the value of Care, students engage in “acts of kindness” th
 
 ![](/images/ZHPS%20Experience/CCE%20Lessons/Love%20Talk%205.png)
 
-
+<center><i><b>L</b>ess<b>O</b>n in <b>V</b>alue <b>E</b>ducation during Pre-Assembly</i></center>
