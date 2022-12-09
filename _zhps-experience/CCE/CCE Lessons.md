@@ -114,8 +114,7 @@ In the classroom, rich discussions take place after the Assembly talk, followed 
 In Zhenghua Primary School, outstanding Leaders of Characters are consistently affirmed through the Student Affirmation Initiatives, namely, the monthly “Leader of Character” award and **C**aught D**O**ing G**O**od in Schoo**L** **(COOL)** Kids termly presentation where teachers affirm students displaying values. It is done in a slideshow format where captions, pictures and music are played throughout the levels, contributing to a vibrant school environment.
 
 |   |   |   |
-|:-:|:-:|:---:|
+|:----:|:----:|:---:|
 |  <img src="/images/ZHPS%20Experience/CCE%20Lessons/SA1.png" style="width:52%"> | <img src="/images/ZHPS%20Experience/CCE%20Lessons/SA2.jpg" style="width:58%">  |  ![](/images/ZHPS%20Experience/CCE%20Lessons/SA3.jpg)  |
 
 <center><i>Leader of Character Award Presentation in Class</i></center>
-
