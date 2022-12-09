@@ -91,6 +91,18 @@ Our VIA programmes provide holistic learning experiences that develop our studen
 	</figcaption>
 </figure>
 
+<img src="/images/ZHPS%20Experience/Values%20In%20Action/Students%20donating%20to%20Project%20Hong%20Bao_1.png" style="width:40%; float: left; padding:10px"><img src="/images/ZHPS%20Experience/Values%20In%20Action/Angpow%202.jpg" style="width:54%; float: left; padding:10px"><br clear="left">
+
+<center><i>Students donating to Project Hong Bao for Tan Tock Seng Community Fund</i></center>
+
 |   |   |
 |:-:|:-:|
-| ![](/images/ZHPS%20Experience/Values%20In%20Action/Students%20donating%20to%20Project%20Hong%20Bao_1.png)  |  <img src="/images/ZHPS%20Experience/Values%20In%20Action/Angpow%202.jpg" style="width:30%"> |
+| ![](/images/ZHPS%20Experience/Values%20In%20Action/Appreciation%20to%20migrant%20workers_1.png)  | ![](/images/ZHPS%20Experience/Values%20In%20Action/Appreciation%20to%20migrant%20workers_2.png)  |
+
+<center><i>Students wrote postcards to show their appreciation for the Migrant workers</i></center>
+
+|   |   |   |
+|:-:|:-:|:---:|
+| ![](/images/ZHPS%20Experience/Values%20In%20Action/Appreciation%20to%20migrant%20workers_3.png)  |<img src="/images/ZHPS%20Experience/Values%20In%20Action/Appreciation%20to%20migrant%20workers_4.png" style="width:85%">  | <img src="/images/ZHPS%20Experience/Values%20In%20Action/Appreciation%20to%20migrant%20workers_5.png" style="width:55%">  |
+
+<center><i>Students wrote postcards to show their appreciation for the Migrant workers</i></center>
