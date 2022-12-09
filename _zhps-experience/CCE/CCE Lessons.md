@@ -137,10 +137,8 @@ Furthermore, students follow the 3Ds (Direction, Discipline & Daring) framework 
 ![](/images/ZHPS%20Experience/CCE%20Lessons/3Ds.jpg)
 
 
-Guided by <b><u>core values</u></b> and facilitated by <b><u>social-emotional competencies</u></b>, we guide our students to <b><u>take charge</u></b> of their lives through having <b><u>direction</u></b>, practising <b><u>discipline</u></b> and being <b><u>daring</u></b> in _scripting their lives_ to ensure continuous <b><u>growth in their character, academic</u></b> and to understand the culture –<b><u>to be the best that they can be</u></b>.
+Guided by <b><u>core values</u></b> and facilitated by <b><u>social-emotional competencies</u></b>, we guide our students to <b><u>take charge</u></b> of their lives through having <b><u>direction</u></b>, practising <b><u>discipline</u></b> and being <b><u>daring</u></b> in <u><i>scripting their lives</i></u> to ensure continuous <b><u>growth in their character, academic</u></b> and to understand the culture –<b><u>to be the best that they can be</u></b>.
 
   
 
 In all the activities planned, goal setting and reflection form a rich part of the school-based curriculum. This is done at the end of Term where students engage in self and peer assessment. This is aligned with the 3Ds.
-
-
