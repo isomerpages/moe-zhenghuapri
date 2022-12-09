@@ -102,3 +102,10 @@ In the classroom, rich discussions take place after the Assembly talk, followed 
 
 <center><i>Go Safe Online Pop-Up by Cyber Security Agency of Singapore (CSA) at the Indoor Sports Hall.
 </i></center>
+
+|   |   |
+|:-:|:-:|
+| <img src="/images/ZHPS%20Experience/CCE%20Lessons/CW6.jpg" style="width:80%">  | ![](/images/ZHPS%20Experience/CCE%20Lessons/CW7.jpg)    |
+
+<center><i>Go Safe Online Pop-Up by Cyber Security Agency of Singapore (CSA) at the Indoor Sports Hall.
+</i></center>
