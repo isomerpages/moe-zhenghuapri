@@ -107,5 +107,13 @@ In the classroom, rich discussions take place after the Assembly talk, followed 
 |:-:|:-:|
 | <img src="/images/ZHPS%20Experience/CCE%20Lessons/CW6.jpg" style="width:80%">  | ![](/images/ZHPS%20Experience/CCE%20Lessons/CW7.jpg)    |
 
-<center><i>Go Safe Online Pop-Up by Cyber Security Agency of Singapore (CSA) at the Indoor Sports Hall.
-</i></center>
+<center><i>Cyber Wellness Bookmark Making Activity</i></center>
+
+<u>Student Affirmation Initiatives</u>
+
+In Zhenghua Primary School, outstanding Leaders of Characters are consistently affirmed through the Student Affirmation Initiatives, namely, the monthly “Leader of Character” award and **C**aught D**O**ing G**O**od in Schoo**L** **(COOL)** Kids termly presentation where teachers affirm students displaying values. It is done in a slideshow format where captions, pictures and music are played throughout the levels, contributing to a vibrant school environment.
+
+|   |   |   |
+|:-:|:-:|:---:|
+|  ![](/images/ZHPS%20Experience/CCE%20Lessons/SA1.png) |  ![](/images/ZHPS%20Experience/CCE%20Lessons/SA2.jpg)  |  ![](/images/ZHPS%20Experience/CCE%20Lessons/SA3.jpg)  |
+
