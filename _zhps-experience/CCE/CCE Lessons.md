@@ -117,4 +117,30 @@ In Zhenghua Primary School, outstanding Leaders of Characters are consistently a
 |:----:|:----:|:---:|
 |  <img src="/images/ZHPS%20Experience/CCE%20Lessons/SA1.png" style="width:52%"> | <img src="/images/ZHPS%20Experience/CCE%20Lessons/SA2.jpg" style="width:58%">  |  ![](/images/ZHPS%20Experience/CCE%20Lessons/SA3.jpg)  |
 
+
 <center><i>Leader of Character Award Presentation in Class</i></center>
+
+
+![](/images/ZHPS%20Experience/CCE%20Lessons/SA4.png)
+
+ ![](/images/ZHPS%20Experience/CCE%20Lessons/SA5.png)
+ 
+  ![](/images/ZHPS%20Experience/CCE%20Lessons/SA6.png)
+
+<center><i>COOL Kids Presentation in the classroom</i></center>
+
+
+## Take Charge! - 3Ds (Direction, Discipline & Daring)
+
+Furthermore, students follow the 3Ds (Direction, Discipline & Daring) framework that helps to imbue the value of Excellence in terms of goal setting.
+
+![](/images/ZHPS%20Experience/CCE%20Lessons/3Ds.jpg)
+
+
+Guided by <b><u>core values</u></b> and facilitated by <b><u>social-emotional competencies</u></b>, we guide our students to <b><u>take charge</u></b> of their lives through having <b><u>direction</u></b>, practising <b><u>discipline</u></b> and being <b><u>daring</u></b> in _scripting their lives_ to ensure continuous <b><u>growth in their character, academic</u></b> and to understand the culture –<b><u>to be the best that they can be</u></b>.
+
+  
+
+In all the activities planned, goal setting and reflection form a rich part of the school-based curriculum. This is done at the end of Term where students engage in self and peer assessment. This is aligned with the 3Ds.
+
+
