@@ -20,7 +20,7 @@ Counseling services are the heartbeat of ZhengHua Primary School . Counselors ta
 
 ![](/images/ZHPS%20Experience/Student%20Dev%20&%20Well%20Being/Counselling_1.jpg)
 
-<img src="/images/ZHPS%20Experience/Student%20Dev%20&%20Well%20Being/Counselling_2.png" style="width:40%;float:left">
+<img src="/images/ZHPS%20Experience/Student%20Dev%20&%20Well%20Being/Counselling_2.png" style="width:60%;float:left">
 
 **An Overview of How we Work**
 
@@ -33,4 +33,3 @@ Second tier support are those cases requiring more specialised attention, referr
   
 
 Third Tier would be when students and families are supported with more intense intervention are referred to MOE Guidance Specialists or professional agencies, such REACH, NUH, NAMS , TOUCH, FSCs, MSF and many more
-
