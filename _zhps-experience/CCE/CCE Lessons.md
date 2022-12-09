@@ -115,5 +115,7 @@ In Zhenghua Primary School, outstanding Leaders of Characters are consistently a
 
 |   |   |   |
 |:-:|:-:|:---:|
-|  ![](/images/ZHPS%20Experience/CCE%20Lessons/SA1.png) |  ![](/images/ZHPS%20Experience/CCE%20Lessons/SA2.jpg)  |  ![](/images/ZHPS%20Experience/CCE%20Lessons/SA3.jpg)  |
+|  <img src="/images/ZHPS%20Experience/CCE%20Lessons/SA1.png" style="width:52%"> | <img src="/images/ZHPS%20Experience/CCE%20Lessons/SA2.jpg" style="width:58%">  |  ![](/images/ZHPS%20Experience/CCE%20Lessons/SA3.jpg)  |
+
+<center><i>Leader of Character Award Presentation in Class</i></center>
 
