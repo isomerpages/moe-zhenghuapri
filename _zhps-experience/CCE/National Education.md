@@ -55,3 +55,10 @@ Red Cross created basic First Aid videos to promote civil defence.
 ‘There’s A Part For Everyone’ Mass Dance
 	</figcaption>
 </figure>
+
+## International Friendship Day
+
+
+|   |   |
+|:-:|:-:|
+| ![](/images/ZHPS%20Experience/National%20Education/NE_15.png)  | ![](/images/ZHPS%20Experience/National%20Education/NE_16.png)  |
