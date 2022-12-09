@@ -20,17 +20,13 @@ Counseling services are the heartbeat of ZhengHua Primary School . Counselors ta
 
 ![](/images/ZHPS%20Experience/Student%20Dev%20&%20Well%20Being/Counselling_1.jpg)
 
-<img src="/images/ZHPS%20Experience/Student%20Dev%20&%20Well%20Being/Counselling_2.png" style="width:60%;float:left">
+|   |   |
+|:--------:|------|
+|  <img src="/images/ZHPS%20Experience/Student%20Dev%20&%20Well%20Being/Counselling_2.png" style="width:100%"> |**An Overview of How we Work**<br>The counselling services in school are organised in a tiered system, beginning with first level intervention by teachers.<br>Second tier support are those cases requiring more specialised attention, referral is made by teachers to the Teacher Counsellors, Allied Educator (Counselling), Part Time School Counsellors, or external counsellors employed by the school.<br>Third Tier would be when students and families are supported with more intense intervention are referred to MOE Guidance Specialists or professional agencies, such REACH, NUH, NAMS , TOUCH, FSCs, MSF and many more   |
 
-**An Overview of How we Work**
 
-The counselling services in school are organised in a tiered system, beginning with first level intervention by teachers.
 
-  
 
-Second tier support are those cases requiring more specialised attention, referral is made by teachers to the Teacher Counsellors, Allied Educator (Counselling), Part Time School Counsellors, or external counsellors employed by the school.
-
-Third Tier would be when students and families are supported with more intense intervention are referred to MOE Guidance Specialists or professional agencies, such REACH, NUH, NAMS , TOUCH, FSCs, MSF and many more
 
 
 How can School Counselling help?
@@ -48,3 +44,16 @@ School counselling sessions can:
 *   Help students manage the challenges they face more effectively by enabling them to make choices for themselves
 
 <img src="/images/ZHPS%20Experience/Student%20Dev%20&%20Well%20Being/Counselling_3.jpg" style="width:50%">
+
+
+## The Role of the Student Welfare Officer
+
+Student Welfare Support refers to the work with students with attendance issues. These students may not attend school regularly due to their family or home situations, lack of motivation for learning or poor peer influence.
+
+
+A Student Welfare Officer assesses the needs of students with poor school attendance and works with community partners, parents and teachers to address their needs and help them return to school.
+
+**Referral to specialists or community agencies**
+
+Students who require more intensive intervention will be referred to our Lead School Counsellors, Lead Student Welfare Officers or mental health professionals from our school network. These would include FSCs, MSF, REACH, NAMS, TOUCH.
+
