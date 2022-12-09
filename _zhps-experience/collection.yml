@@ -2,7 +2,6 @@ collections:
   zhps-experience:
     output: true
     order:
-      - Mother Tongue Languages.md
       - CCE/.keep
       - CCE/CCE Framework.md
       - CCE/CCE Lessons.md
@@ -15,3 +14,4 @@ collections:
       - Student Dev & Well Being/Counselling Programme.md
       - Student Dev & Well Being/Support for SEN Students.md
       - English Language.md
+      - Mother Tongue Languages.md
