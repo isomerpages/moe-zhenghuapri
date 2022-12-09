@@ -38,3 +38,28 @@ For example, for the value of Care, students engage in “acts of kindness” th
 ![](/images/ZHPS%20Experience/CCE%20Lessons/Love%20Talk%205.png)
 
 <center><i><b>L</b>ess<b>O</b>n in <b>V</b>alue <b>E</b>ducation during Pre-Assembly</i></center>
+
+<figure>
+	<img src="/images/ZHPS%20Experience/CCE%20Lessons/FTGP%201.jpg" style="width:50%">
+<figcaption> 
+	Discussion during FTGP 
+	</figcaption>
+</figure>
+
+<figure>
+	<img src="/images/ZHPS%20Experience/CCE%20Lessons/FTGP%202.png" style="width:50%">
+</figure>
+
+<figure>
+	<img src="/images/ZHPS%20Experience/CCE%20Lessons/FTGP%203.jpg" style="width:50%">
+<figcaption> 
+	Teachers Facilitating Discussion
+	</figcaption>
+</figure>
+
+<figure>
+	<img src="/images/ZHPS%20Experience/CCE%20Lessons/FTGP%204.jpg" style="width:50%">
+<figcaption> 
+	Activities in Class 
+	</figcaption>
+</figure>
