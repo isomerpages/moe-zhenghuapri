@@ -63,3 +63,32 @@ For example, for the value of Care, students engage in “acts of kindness” th
 	Activities in Class 
 	</figcaption>
 </figure>
+
+
+<u>ECG</u>
+
+Dedicated FTGP lessons are conducted for Education and Career Guidance (ECG). For Primary 6 students, a series of Secondary School talks are planned to expose students to what different secondary schools have to offer. Teachers also share the WE stories - a compilation of stories from all secondary schools in the West Zone. Furthermore, FTGP Lessons are tapped on to share on alternative pathways for the upper primary students while lower primary students focus on appreciating people of different occupations.
+
+  
+
+<u>Cyber Wellness</u>
+
+Cyber Wellness is weaved seamlessly in the CCE curriculum in school. In ZHPS, the Cyber Wellness principle of Sense-Think-Act is the cornerstone of the Cyber Wellness implementation. This principle ensures that students maintain a positive presence in cyberspace and be safe and responsible users of Information and Communication Technologies (ICT).
+
+<img src="/images/ZHPS%20Experience/CCE%20Lessons/CW1.png" style="width:50%">
+
+In ZHPS, there is a dedicated topic on Cyber Wellness that is being focused on for each term, based on the broad theme “Be Safe, Be Kind, Be Smart”.
+
+|        |                                      |
+|------|----------------------------------|
+| Term 1 | Netiquette                           |
+| Term 2 | Excessive Use of Internet            |
+| Term 3 | Cyber Bullying (Cyber Wellness Week) |
+| Term 4 | Online Gaming/ Meeting Strangers     |
+
+The Cyber Wellness activities include an Assembly talk by P3 – P6 Cyber Wellness Ambassadors, who have been trained, followed by enriching lessons filled with discussions.
+
+|   |   |
+|:-:|:-:|
+| ![](/images/ZHPS%20Experience/CCE%20Lessons/CW2.jpg)  |   ![](/images/ZHPS%20Experience/CCE%20Lessons/CW3.jpg) |
+
