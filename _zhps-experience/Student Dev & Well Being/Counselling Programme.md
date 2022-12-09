@@ -76,3 +76,5 @@ You are also welcomed to walk into the counselling room to speak with the counse
 |---|:-:|
 | The counselling Team will be hosting Coffee Sessions with Parents as our SMM measure starts to relax. Parents will be notified vide PG. Do look out for your messages.  <br>The sessions will cover topics of concern and also help to address concerns you may have.  | ![](/images/ZHPS%20Experience/Student%20Dev%20&%20Well%20Being/Coffee%20Session.png)   |
 
+
+Programmes by the Counselling Team @ ZHPS focused on building and empowering students through engagement and motivation
