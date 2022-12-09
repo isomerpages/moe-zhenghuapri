@@ -30,6 +30,21 @@ The counselling services in school are organised in a tiered system, beginning w
 
 Second tier support are those cases requiring more specialised attention, referral is made by teachers to the Teacher Counsellors, Allied Educator (Counselling), Part Time School Counsellors, or external counsellors employed by the school.
 
+Third Tier would be when students and families are supported with more intense intervention are referred to MOE Guidance Specialists or professional agencies, such REACH, NUH, NAMS , TOUCH, FSCs, MSF and many more
+
+
+How can School Counselling help?
+--------------------------------
+
+The counselling team helps to build Self Awareness, Social Awareness, Relationship Skills, Self Management and Responsible Decision Making
+
   
 
-Third Tier would be when students and families are supported with more intense intervention are referred to MOE Guidance Specialists or professional agencies, such REACH, NUH, NAMS , TOUCH, FSCs, MSF and many more
+School counselling sessions can:
+
+*   Provide someone who will listen to your concerns with care, respect and confidentiality as when you need someone to talk to or to listen to you.
+*   Give students opportunities to explore your feelings and thoughts, examine options, weigh alternatives and gain new perspectives of yourself, the situation and your environment for the situation you are facing.
+*   Help students work on their self-acceptance, self-worth and confidence.
+*   Help students manage the challenges they face more effectively by enabling them to make choices for themselves
+
+<img src="/images/ZHPS%20Experience/Student%20Dev%20&%20Well%20Being/Counselling_3.jpg" style="width:50%">
