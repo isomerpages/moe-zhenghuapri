@@ -110,6 +110,6 @@ Our VIA programmes provide holistic learning experiences that develop our studen
 
 |   |   |   |
 |:-:|:-:|:---:|
-| ![](/images/ZHPS%20Experience/Values%20In%20Action/Appreciation%20to%20migrant%20workers_3.png)  |<img src="/images/ZHPS%20Experience/Values%20In%20Action/Appreciation%20to%20migrant%20workers_4.png" style="width:85%">  | <img src="/images/ZHPS%20Experience/Values%20In%20Action/Appreciation%20to%20migrant%20workers_5.png" style="width:55%">  |
+| <img src="/images/ZHPS%20Experience/Values%20In%20Action/1EE%20Sweeping%20floor.jpg" style="width:70%">  | ![](/images/ZHPS%20Experience/Values%20In%20Action/2IN%20-%20Emptying%20Dustbin.jpg) | <img src="/images/ZHPS%20Experience/Values%20In%20Action/3CN%20-%20Doing%20wipe%20down.jpg" style="width:95%"> |
 
 <center>VIA starts with <b>Everyday Responsibilities</b> where students will develop a sense of responsibility and care for their own shared spaces through daily cleaning and adopting sustainable practices in school and at home.</center>
