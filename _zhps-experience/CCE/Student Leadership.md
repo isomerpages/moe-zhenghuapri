@@ -67,7 +67,7 @@ The Head Prefect and Deputy Head Prefects are expected to be able to rally their
 
  ![](/images/ZHPS%20Experience/Student%20Leadership/Student%20Leadership_6.jpg)
  
- ### Student Leaders’ Investiture
+<h3> Student Leaders’ Investiture</h3>
 
 At the beginning of the year, the Student Leaders’ Investiture is held during one of the assembly periods. Student leaders are recognised and presented with ties and/ or badges, depending on the leadership role that they take on. Student leaders are encouraged to wear their ties and badges with pride. They are also reminded of the immense responsibilities that they will shoulder as student leaders and role models. Towards the end of the investiture, all Zhenghua students also recite the Student Leaders’ Pledge. This serves as an acknowledgement of each student’s potential and reiteration of the belief that every student can be a Leader of Character.
 
