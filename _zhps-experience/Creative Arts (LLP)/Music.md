@@ -5,8 +5,8 @@ description: ""
 third_nav_title: Creative Arts (LLP)
 ---
 # Music
-The General Music Programme (GMP)
----------------------------------
+
+## The General Music Programme (GMP)
 
 The General Music Programme (GMP) enables our students to listen, sing, dance, play and express themselves musically. The GMP aims to:
 
