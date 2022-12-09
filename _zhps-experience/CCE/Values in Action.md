@@ -67,3 +67,27 @@ Through these opportunities, students are inspired to lead VIA projects in schoo
 | <img src="/images/ZHPS%20Experience/Values%20In%20Action/Bags%20of%20Love.jpg" style="width:60%">  |   ![](/images/ZHPS%20Experience/Values%20In%20Action/Bags%20of%20Love%202.jpg) |
 
 <center><b>Bags of Love Project led by Prefects</b></center>
+
+These bags of love, which were filled with daily necessities for use at dormitories, were packed for migrant workers who were affected by the first wave of COVID-19.
+
+<figure>
+	<img src="/images/ZHPS%20Experience/Values%20In%20Action/Appreciation%20Project%20led%20by%20Prefects%20and%20CCA%20leaders.png" style="width:70%">
+<figcaption>
+	<b>Appreciation Project led by Prefects and CCA leaders</b>
+	</figcaption>
+</figure>
+
+These thank you cards for Tan Tock Seng Hospital frontliner and healthcare workers were led by student leaders and CCA leaders.
+
+<img src="/images/ZHPS%20Experience/Values%20In%20Action/Home-School-Community.png" style="width:50%">
+
+Our VIA programmes provide holistic learning experiences that develop our students to be personally and socially responsible citizens. Students get the opportunity to engage in VIA activities that positively impact their peers, family, and the community.
+
+
+<figure>
+	<img src="/images/ZHPS%20Experience/Values%20In%20Action/Well-wishes%20for%20beneficiaries%20of%20Project%20Hong%20Bao.png" style="width:60%">
+<figcaption>
+	<b>Appreciation Project led by Prefects and CCA leaders</b>
+	</figcaption>
+</figure>
+
