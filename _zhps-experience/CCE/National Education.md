@@ -31,3 +31,11 @@ A wide range of school efforts help students experience and explore their nation
  Brownies promote the values in action based on the 6 pillars of Defence in the form of a BINGO Challenge
 	</figcaption>
 </figure>
+
+<figure>
+	<img src="/images/ZHPS%20Experience/National%20Education/Students%20reflect%20their%20contribution%20through%20Total%20Defence%20BINGO%20Challenge.png"
+     style="width:50%">
+<figcaption>
+Students reflect on their contribution to total defence through the Total Defence BINGO Challenge
+	</figcaption>
+</figure>
