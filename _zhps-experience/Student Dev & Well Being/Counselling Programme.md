@@ -25,16 +25,10 @@ Counseling services are the heartbeat of ZhengHua Primary School . Counselors ta
 |  <img src="/images/ZHPS%20Experience/Student%20Dev%20&%20Well%20Being/Counselling_2.png" style="width:100%"> |**An Overview of How we Work**<br>The counselling services in school are organised in a tiered system, beginning with first level intervention by teachers.<br><br>Second tier support are those cases requiring more specialised attention, referral is made by teachers to the Teacher Counsellors, Allied Educator (Counselling), Part Time School Counsellors, or external counsellors employed by the school.<br><br>Third Tier would be when students and families are supported with more intense intervention are referred to MOE Guidance Specialists or professional agencies, such REACH, NUH, NAMS , TOUCH, FSCs, MSF and many more   |
 
 
-
-
-
-
-How can School Counselling help?
---------------------------------
+## How can School Counselling help?
 
 The counselling team helps to build Self Awareness, Social Awareness, Relationship Skills, Self Management and Responsible Decision Making
 
-  
 
 School counselling sessions can:
 
@@ -56,3 +50,7 @@ A Student Welfare Officer assesses the needs of students with poor school attend
 **Referral to specialists or community agencies**
 
 Students who require more intensive intervention will be referred to our Lead School Counsellors, Lead Student Welfare Officers or mental health professionals from our school network. These would include FSCs, MSF, REACH, NAMS, TOUCH.
+
+|   |   |
+|:----:|:----:|
+|  ![](/images/ZHPS%20Experience/Student%20Dev%20&%20Well%20Being/Reminder.jpg) | REMEMBER<br><br>Our school counsellors are available for you and want to make your school experience the best as enriching as it can be. You may be feeling uncomfortable with certain issues or are not doing as well in school as according to your expectations— and that's OK. The counsellors will try to help you figure out what's going on. It's also a good idea to know about counselling and what they school counsellors do even if you don't need any help right now.  |
