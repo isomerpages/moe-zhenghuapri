@@ -87,7 +87,10 @@ Our VIA programmes provide holistic learning experiences that develop our studen
 <figure>
 	<img src="/images/ZHPS%20Experience/Values%20In%20Action/Well-wishes%20for%20beneficiaries%20of%20Project%20Hong%20Bao.png" style="width:60%">
 <figcaption>
-	<b>Appreciation Project led by Prefects and CCA leaders</b>
+	Well-wishes for beneficiaries of Project Hong Bao
 	</figcaption>
 </figure>
 
+|   |   |
+|:-:|:-:|
+| ![](/images/ZHPS%20Experience/Values%20In%20Action/Students%20donating%20to%20Project%20Hong%20Bao_1.png)  |  <img src="/images/ZHPS%20Experience/Values%20In%20Action/Angpow%202.jpg" style="width:30%"> |
