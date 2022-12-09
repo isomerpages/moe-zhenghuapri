@@ -54,3 +54,9 @@ Students who require more intensive intervention will be referred to our Lead Sc
 |   |   |
 |:----:|:----:|
 |  ![](/images/ZHPS%20Experience/Student%20Dev%20&%20Well%20Being/Reminder.jpg) | REMEMBER<br><br>Our school counsellors are available for you and want to make your school experience the best as enriching as it can be. You may be feeling uncomfortable with certain issues or are not doing as well in school as according to your expectations— and that's OK. The counsellors will try to help you figure out what's going on. It's also a good idea to know about counselling and what they school counsellors do even if you don't need any help right now.  |
+
+
+<img src="/images/ZHPS%20Experience/Student%20Dev%20&%20Well%20Being/Visit%20Us.jpg" style="width:20%;float:left"><br clear="left">
+
+
+You are also welcomed to walk into the counselling room to speak with the counsellor should you encounter difficult situations such as:
