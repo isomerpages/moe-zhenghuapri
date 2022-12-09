@@ -78,3 +78,16 @@ You are also welcomed to walk into the counselling room to speak with the counse
 
 
 Programmes by the Counselling Team @ ZHPS focused on building and empowering students through engagement and motivation
+
+|                          |              |                          |
+|-----------------------|----------|----------------|
+| Sakura                   | P3–P5        | Guidance and Support     |
+| Rainbow Connections      | P1–P2        | Friendship/Social Skills |
+| Screen on and Screen Off | Whole school | Guidance and Support     |
+| Chapters                 | P6           | Transitions              |
+| Crossroads               | P6           | Coaching and Mentoring   |
+
+
+<img src="/images/ZHPS%20Experience/Student%20Dev%20&%20Well%20Being/More%20Info.jpg" style="width:20%;float:left"><br clear="left">
+
+Please feel free to call us and talk to us if you have any concerns. The counselling team is here to support you.
