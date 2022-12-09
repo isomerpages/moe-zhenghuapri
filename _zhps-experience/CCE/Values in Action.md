@@ -66,4 +66,4 @@ Through these opportunities, students are inspired to lead VIA projects in schoo
 |:-:|:-:|
 | <img src="/images/ZHPS%20Experience/Values%20In%20Action/Bags%20of%20Love.jpg" style="width:60%">  |   ![](/images/ZHPS%20Experience/Values%20In%20Action/Bags%20of%20Love%202.jpg) |
 
-
+<center><b>Bags of Love Project led by Prefects</b></center>
