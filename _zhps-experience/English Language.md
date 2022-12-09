@@ -53,3 +53,25 @@ Students will be captivated as they learn about metamorphosis and watch their ca
 |  ![](/images/ZHPS%20Experience/English%20Language/Butterfly%20is%20Born_1.png)  |  ![](/images/ZHPS%20Experience/English%20Language/Butterfly%20is%20Born_2.png) |
 |  ![](/images/ZHPS%20Experience/English%20Language/Butterfly%20is%20Born_3.png)  |  ![](/images/ZHPS%20Experience/English%20Language/Butterfly%20is%20Born_4.png) |
 
+
+![](/images/ZHPS%20Experience/English%20Language/Butterfly%20is%20Born_5.png)
+
+<u>Making Ice Cream</u>
+
+Students get a chance to make ice cream after they learn about the features of a procedural text. Learning writing can be really fun too!
+
+|   |   |
+|:-:|:-:|
+|  ![](/images/ZHPS%20Experience/English%20Language/Making%20Ice%20Cream_1.jpg)  |   ![](/images/ZHPS%20Experience/English%20Language/Making%20Ice%20Cream_2.jpg) |
+|   ![](/images/ZHPS%20Experience/English%20Language/Making%20Ice%20Cream_3.jpg) |  ![](/images/ZHPS%20Experience/English%20Language/Making%20Ice%20Cream_4.jpg) |
+
+ ![](/images/ZHPS%20Experience/English%20Language/Making%20Ice%20Cream_5.jpg)
+ 
+ <u>A Meal with My Family</u>
+
+Students share how they have bonded with their family members over a meal. Students are encouraged to take ownership over their own learning, provide constructive feedback to their peers, and showcase their creativity in creating artefacts for their Show and Tell.
+
+|   |   |
+|:-:|:-:|
+| ![](/images/ZHPS%20Experience/English%20Language/Meal%20with%20My%20Family_1.png)  |  ![](/images/ZHPS%20Experience/English%20Language/Meal%20with%20My%20Family_2.jpg) |
+| ![](/images/ZHPS%20Experience/English%20Language/Meal%20with%20My%20Family_3.jpg)  |  ![](/images/ZHPS%20Experience/English%20Language/Meal%20with%20My%20Family_4.jpg) |
