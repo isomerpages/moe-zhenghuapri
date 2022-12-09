@@ -89,3 +89,6 @@ To inculcate the love for the subject, the Mathematics Department organises PAL
 *   help students manage their ‘real-world’ problems, (for example, taking turns).
 
 
+|   |   |   |
+|:-:|:-:|:--:|
+| ![](/images/ZHPS%20Experience/Mathematics/PALM%20%20Classroom_1.jpg)  | ![](/images/ZHPS%20Experience/Mathematics/PALM%20%20Classroom_2.jpg)   |  ![](/images/ZHPS%20Experience/Mathematics/PALM%20%20Classroom_3.jpg)  |
