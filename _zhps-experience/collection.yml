@@ -2,10 +2,10 @@ collections:
   zhps-experience:
     output: true
     order:
-      - CCE/Student Leadership.md
       - CCE/.keep
       - CCE/CCE Framework.md
       - CCE/CCE Lessons.md
       - CCE/Values in Action.md
       - CCE/National Education.md
+      - CCE/Student Leadership.md
       - CCE/Student Management.md
