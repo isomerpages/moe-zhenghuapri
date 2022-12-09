@@ -39,3 +39,19 @@ A wide range of school efforts help students experience and explore their nation
 Students reflect on their contribution to total defence through the Total Defence BINGO Challenge
 	</figcaption>
 </figure>
+
+<figure>
+	<img src="/images/ZHPS%20Experience/National%20Education/NE4.png"
+     style="width:70%">
+<figcaption>
+Red Cross created basic First Aid videos to promote civil defence.
+	</figcaption>
+</figure>
+
+<figure>
+	<img src="/images/ZHPS%20Experience/National%20Education/Everyone%20Mass%20Dance.png"
+     style="width:70%">
+<figcaption>
+‘There’s A Part For Everyone’ Mass Dance
+	</figcaption>
+</figure>
