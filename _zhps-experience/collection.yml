@@ -2,7 +2,6 @@ collections:
   zhps-experience:
     output: true
     order:
-      - Mathematics.md
       - CCE/.keep
       - CCE/CCE Framework.md
       - CCE/CCE Lessons.md
@@ -16,3 +15,4 @@ collections:
       - Student Dev & Well Being/Support for SEN Students.md
       - English Language.md
       - Mother Tongue Languages.md
+      - Mathematics.md
