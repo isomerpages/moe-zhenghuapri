@@ -36,5 +36,22 @@ Teachers are facilitators who help pupils make connections and build their under
 
 |   |   |
 |:-:|:-:|
-| ![](/images/ZHPS%20Experience/Science/P4%20students%20observing%20the%20concept%20of%20air%20occupying%20space.jpg)  | ![](/images/ZHPS%20Experience/Science/P3%20students%20asking%20questions%20about%20the%20living%20things%20in%20the%20gardens.jpg)  |
-|  ![](/images/ZHPS%20Experience/Science/P6%20students%20collecting%20data%20during%20investigations.jpg) | ![](/images/ZHPS%20Experience/Science/P5%20students%20sharing%20their%20findings%20to%20the%20classmates.jpg)  |
+| ![](/images/ZHPS%20Experience/Science/P4%20students%20observing%20the%20concept%20of%20air%20occupying%20space.jpg) **P4 students observing the concept of air occupying space** | ![](/images/ZHPS%20Experience/Science/P3%20students%20asking%20questions%20about%20the%20living%20things%20in%20the%20gardens.jpg) **P3 students asking questions about the living things in the gardens** |
+|  ![](/images/ZHPS%20Experience/Science/P6%20students%20collecting%20data%20during%20investigations.jpg)**P6 students collecting data during investigations** | ![](/images/ZHPS%20Experience/Science/P5%20students%20sharing%20their%20findings%20to%20the%20classmates.jpg)**P5 students sharing their findings to the classmates**  |
+
+
+P5 STEM Day 2021
+----------------
+
+The P5 STEM Programme is the flagship programme in our Science Curriculum.
+
+
+It seeks to nurture future ready learners and aims to help our students learn to
+
+1\.  show concern on the need to conserve energy usage in our everyday life - through making a prototype energy-saving light circuit that responds to ambient light
+
+2\.  code a Micro:bit to operate LED bulbs attached to a model house - Infusion of STEM activities into our curriculum
+
+|   |   |
+|:-:|:-:|
+| <img src="/images/ZHPS%20Experience/Science/Students%20applying%20their%20understanding%20of%20circuits%20in%20the%20STEM%20activity.jpg" style="width:57%">**Students applying their understanding of circuits in the STEM activity**  | ![](/images/ZHPS%20Experience/Science/Students%20working%20in%20teams%20to%20design%20their%20products.jpg) **Students working in teams to design their products.**  |
