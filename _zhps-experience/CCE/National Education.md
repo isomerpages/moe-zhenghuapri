@@ -66,9 +66,12 @@ Red Cross created basic First Aid videos to promote civil defence.
 
 <figure>
 	<img src="/images/ZHPS%20Experience/National%20Education/NE_17.png"
-     style="width:70%">
+     style="width:100%">
 <figcaption>
 Commemoration of International Friendship Day Talk presented by our students from various countries of origin
 	</figcaption>
 </figure>
 
+|   |   |
+|:-:|:-:|
+| ![](/images/ZHPS%20Experience/National%20Education/NE5.jpg)  | ![](/images/ZHPS%20Experience/National%20Education/NE6.png)  |
