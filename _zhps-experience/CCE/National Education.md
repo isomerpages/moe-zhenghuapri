@@ -86,17 +86,32 @@ Commemoration of International Friendship Day Talk presented by our students fro
 
 <img src="/images/ZHPS%20Experience/National%20Education/NE_18.png"
      style="width:50%">
-
+		
+<figure>
 <img src="/images/ZHPS%20Experience/National%20Education/NE9.jpg"
      style="width:50%">
 <figcaption>
-Commemoration of International Friendship Day Talk presented by our students from various countries of origin
+Celebrating Diversity on Racial Harmony Day
 	</figcaption>
 </figure>
 
-<img src="/images/ZHPS%20Experience/National%20Education/Celebrating%20Diversity%20by%20Our%20Dancers.png"
-     style="width:50%">
+<figure>
+<img src="/images/ZHPS%20Experience/National%20Education/Celebrating%20Diversity%20by%20Our%20Dancers.png" style="width:50%">
 <figcaption>
 Celebrating Diversity by Our Dancers
 	</figcaption>
 </figure>
+
+
+## National Day
+
+![](/images/ZHPS%20Experience/National%20Education/NE_19.png)
+
+![](/images/ZHPS%20Experience/National%20Education/NE_20.png)
+
+![](/images/ZHPS%20Experience/National%20Education/NE_21.png)
+
+![](/images/ZHPS%20Experience/National%20Education/NE_22.png)
+
+![](/images/ZHPS%20Experience/National%20Education/NE_23.png)
+
