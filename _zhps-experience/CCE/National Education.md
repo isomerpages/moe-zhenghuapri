@@ -105,13 +105,31 @@ Celebrating Diversity by Our Dancers
 
 ## National Day
 
-![](/images/ZHPS%20Experience/National%20Education/NE_19.png)
 
-![](/images/ZHPS%20Experience/National%20Education/NE_20.png)
+<img src="/images/ZHPS%20Experience/National%20Education/NE10.jpg" style="width:50%">  
+<br>
+<img src="/images/ZHPS%20Experience/National%20Education/NE_19.png" style="width:50%">  
+<br>
 
-![](/images/ZHPS%20Experience/National%20Education/NE_21.png)
+<figure>
+<img src="/images/ZHPS%20Experience/National%20Education/NE_20.png" style="width:58%">
+<figcaption>
+National Day Observance Ceremony led by the student leaders
+</figcaption>
+</figure>
+
+|   |   |
+|:-:|:-:|
+| ![](/images/ZHPS%20Experience/National%20Education/NE11.png)  | <img src="/images/ZHPS%20Experience/National%20Education/NE12.jpg" style="width:69%"> |
+
+<figure>
+<img src="/images/ZHPS%20Experience/National%20Education/NE_21.png" style="width:58%">
+<figcaption>
+Reciting The Pledge In Class
+</figcaption>
+</figure>
+
 
 ![](/images/ZHPS%20Experience/National%20Education/NE_22.png)
 
 ![](/images/ZHPS%20Experience/National%20Education/NE_23.png)
-
