@@ -60,3 +60,19 @@ Students who require more intensive intervention will be referred to our Lead Sc
 
 
 You are also welcomed to walk into the counselling room to speak with the counsellor should you encounter difficult situations such as:
+
+|                                |                                  |
+|---------------|-------------------------|
+| Stress                         | Friendship Issues                |
+| Academic /Exam Anxieties       | Gaming and Social Media Reliance |
+| Grief and Loss                 | Cyberbullying/Stalking           |
+| Relationship issues with Peers | Constant worrying                |
+| Family Conflicts               | Time Management/Goal setting     |
+| School Anxieties               | Low Motivation                   |
+
+<center>Upcoming Events in ZHPS : Coffee Sessions</center>
+
+|   |   |
+|---|:-:|
+| The counselling Team will be hosting Coffee Sessions with Parents as our SMM measure starts to relax. Parents will be notified vide PG. Do look out for your messages.  <br>The sessions will cover topics of concern and also help to address concerns you may have.  | ![](/images/ZHPS%20Experience/Student%20Dev%20&%20Well%20Being/Coffee%20Session.png)   |
+
