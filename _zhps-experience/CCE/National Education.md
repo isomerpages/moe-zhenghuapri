@@ -77,3 +77,19 @@ Commemoration of International Friendship Day Talk presented by our students fro
 | ![](/images/ZHPS%20Experience/National%20Education/NE5.jpg)  | ![](/images/ZHPS%20Experience/National%20Education/NE6.png)  |
 
 <center><i>Bookmark Exchange with MK Zhenghua</i></center>
+
+## Racial Harmony Day
+
+|   |   |
+|:-:|:-:|
+| ![](/images/ZHPS%20Experience/National%20Education/NE7.png)  | ![](/images/ZHPS%20Experience/National%20Education/NE8.png)  |
+
+<img src="/images/ZHPS%20Experience/National%20Education/NE_18.png"
+     style="width:50%">
+
+<img src="/images/ZHPS%20Experience/National%20Education/NE9.jpg"
+     style="width:50%">
+<figcaption>
+Commemoration of International Friendship Day Talk presented by our students from various countries of origin
+	</figcaption>
+</figure>
