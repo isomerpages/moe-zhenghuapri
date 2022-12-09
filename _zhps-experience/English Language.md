@@ -73,5 +73,9 @@ Students share how they have bonded with their family members over a meal. Stude
 
 |   |   |
 |:-:|:-:|
-| ![](/images/ZHPS%20Experience/English%20Language/Meal%20with%20My%20Family_1.png)  |  ![](/images/ZHPS%20Experience/English%20Language/Meal%20with%20My%20Family_2.jpg) |
-| ![](/images/ZHPS%20Experience/English%20Language/Meal%20with%20My%20Family_3.jpg)  |  ![](/images/ZHPS%20Experience/English%20Language/Meal%20with%20My%20Family_4.jpg) |
+| ![](/images/ZHPS%20Experience/English%20Language/Meal%20with%20My%20Family_1.png)  |  ![](/images/ZHPS%20Experience/English%20Language/Meal%20with%20My%20Family_3.jpg) |
+
+
+<img src="/images/ZHPS%20Experience/English%20Language/Meal%20with%20My%20Family_2.jpg" style="width:50%;float:left">
+<img src="/images/ZHPS%20Experience/English%20Language/Meal%20with%20My%20Family_4.jpg" style="width:47%;float:left">
+
