@@ -75,7 +75,7 @@ P3 Shopping allows students to see the connection between the mathematics they c
 
   
 
-**<u>P</u>lay <u>A</u>nd <u>L</u>earn </u>M</u>ath (PALM) @ the Classroom - P1 to P6**
+**<u>P</u>lay <u>A</u>nd <u>L</u>earn <u>M</u>ath (PALM) @ the Classroom - P1 to P6**
 
 To inculcate the love for the subject, the Mathematics Department organises PALM @ the Classroom for our students. The programme aims to:
 
