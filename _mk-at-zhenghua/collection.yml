@@ -2,4 +2,5 @@ collections:
   mk-at-zhenghua:
     output: true
     order:
+      - Curriculum.md
       - About Us.md
