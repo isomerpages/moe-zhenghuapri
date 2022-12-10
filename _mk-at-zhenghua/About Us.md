@@ -16,7 +16,6 @@ We offer 4-hour K1 and K2 programmes for children. You can choose from the follo
 
 We also offer Kindergarten Care (KCare), a full-day service. If you register, your child will be in KCare before and after your selected MK session, providing the convenience of a full-day service.
 
-  
 <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/kindergarten-care/" target="_blank">Learn more about KCare, their fees and how to register.</a>
 
 Our Vision, Mission & Beliefs
@@ -34,3 +33,5 @@ For more information, please visit the <a href="https://www.moe.gov.sg/preschoo
 
 Our People
 ----------
+
+<center><b>CENTER HEAD<br>Mrs Vivien Villaroza<br>kwok_wai_leng_vivien@moe.edu.sg<br>Extn: 273</b></center>
