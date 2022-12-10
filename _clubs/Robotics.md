@@ -27,11 +27,12 @@ Building using EV3 Lego Mindstorm / Spike
 
 |   |   |
 |:-:|:-:|
-|   |   |
+|  ![](/images/ZHPS%20Experience/Robotics/Robotics_1.jpg) | ![](/images/ZHPS%20Experience/Robotics/Robotics_3.jpg)  |
 
-|   |   |    |
-|:----:|----:|:----:|
-|   |   |    |
+|   |   |    |    |
+|:----:|----:|:----:|:---:|
+|  ![](/images/ZHPS%20Experience/Robotics/Robotics_4.jpg) | ![](/images/ZHPS%20Experience/Robotics/Robotics_5.jpg)  |  ![](/images/ZHPS%20Experience/Robotics/Robotics_6.jpg)  |  ![](/images/ZHPS%20Experience/Robotics/Robotics_2.jpg) |
 
+<img src="/images/ZHPS%20Experience/Robotics/Robotics_7.jpg" style="width:30%">
 
 \*Photos taken without masks were pre-COVID times
