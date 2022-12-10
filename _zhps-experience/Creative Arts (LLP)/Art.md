@@ -90,3 +90,16 @@ The art making process in the Primary 3 Applied Learning Programme is conducted 
 |   |   |   |
 |:-:|:-:|:-:|
 | ![](/images/ZHPS%20Experience/Art/ALP_1.jpg)  | <img src="/images/ZHPS%20Experience/Art/ALP_2.jpg" style="width:67%">   | ![](/images/ZHPS%20Experience/Art/ALP_3.jpg)   |
+
+**(b) Primary 4 Interdisciplinary Museum Based Learning (IMBL)**
+
+The Primary 4 Interdisciplinary Museum Based Learning is a collaborative programme between National Gallery Singapore (NGS) and our school. Through this programme, artworks found in NGS are introduced to our students. The valuable resources are also used to create meaningful connections between art and different curriculum studies.
+
+For example, students are engaged in discussions of artworks to discover the connections across subjects such as English Language, Social Studies, Character and Citizenship Education (CCE) and the Malay Language.
+
+|   |   |   |
+|:-:|:-:|:-:|
+|![](/images/ZHPS%20Experience/Art/IMBL_1.jpg)   |  ![](/images/ZHPS%20Experience/Art/IMBL_3.jpg)    |    <img src="/images/ZHPS%20Experience/Art/IMBL_2.jpg" style="width:47%">    |
+
+![](/images/ZHPS%20Experience/Art/IMBL_1.jpg)
+
