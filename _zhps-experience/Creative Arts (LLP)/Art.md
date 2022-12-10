@@ -101,5 +101,86 @@ For example, students are engaged in discussions of artworks to discover the con
 |:-:|:-:|:-:|
 |![](/images/ZHPS%20Experience/Art/IMBL_1.jpg)   |  ![](/images/ZHPS%20Experience/Art/IMBL_3.jpg)    |    <img src="/images/ZHPS%20Experience/Art/IMBL_2.jpg" style="width:47%">    |
 
-![](/images/ZHPS%20Experience/Art/IMBL_1.jpg)
+<img src="/images/ZHPS%20Experience/Art/IMBL_4.jpg" style="width:47%">
 
+**(c) Primary 5 Ceramics**
+
+  
+
+The Primary 5 students are given the opportunity to learn ceramics. Through our collaboration with NUS Museum and Asian Civilisation Museum, students learn more about ceramic trading in Singapore. During the lessons, different ceramic techniques are taught and students are given time to create their own ceramic ware.
+
+
+|   |   | 
+|:-:|:-:|
+| <img src="/images/ZHPS%20Experience/Art/Ceramics_1.jpg" style="width:65%">   |   ![](/images/ZHPS%20Experience/Art/Ceramics_2.jpg)   | 
+
+Art Gallery@Zhenghua
+--------------------
+
+The Art Gallery is the pride and joy of the school. Completed in 2021, the gallery is a space to showcase the artworks of our students.
+
+  
+
+A set of gallery lessons are also customised for our students. They learn basic gallery etiquette and will be engaged in exciting lessons using the artworks in the gallery. A part of the gallery will also be opened to the students to learn how to curate artworks.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i9EdUx_fXfY" title="Talent Art Love Talk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+![](/images/ZHPS%20Experience/Art/Art%20GalleryZhenghua_1.jpg)
+ 
+ |   |   |
+|:-:|:-:|
+| ![](/images/ZHPS%20Experience/Art/Art%20GalleryZhenghua_2.jpg)  |  ![](/images/ZHPS%20Experience/Art/Art%20GalleryZhenghua_3.jpg)  |
+|   ![](/images/ZHPS%20Experience/Art/Art%20GalleryZhenghua_4.jpg) |  ![](/images/ZHPS%20Experience/Art/Art%20GalleryZhenghua_5.jpg)  |
+ 
+## Art – The Co-Curriculum
+
+The Young Budding Artists is an art enrichment programme specially crafted for our selected Primary 2 students. These students will engage in hands-on, skill-based activities that will enhance and develop their artistic flair beyond the general art programme.
+
+Our young budding artists will get to enjoy a wide spectrum of creative processes. In the pursue of their artistic journey, they will learn about renowned master artists and their art movement. Whereafter, they get to explore the elements of various art materials as they create their meaningful artistic experience.
+
+  
+
+Students who go through the programme are then identified and encouraged to pursue their interest and hone their art skills further in Talent Art Co-Curricular Activity (CCA) at Primary 3.
+
+
+|   |   |
+|:-:|:-:|
+|![](/images/ZHPS%20Experience/Art/Art%20Co-Curriculum_1.jpg)   |  <img src="/images/ZHPS%20Experience/Art/Art%20Co-Curriculum_2.jpg" style="width:72%"> |
+
+<img src="/images/ZHPS%20Experience/Art/Art%20Co-Curriculum_3.jpg" style="width:70%">
+
+## Talent Art Programme
+
+Budding artists are channelled to the Talent Art Programme (TArP) which maximises students’ talents in their art. Our young artists’ talents are further developed and nurtured. They are provided with opportunities to develop their visual literacy and critical thinking skills. Students get to inquire and discover various ways to interpret the various art concepts through deep discussion and meaningful art processes, and learn to make choices and solve problems when working on their artwork.
+
+
+Our programme has always capitalised on different platforms available to give avenues for our students to present and grow in confidence, a desire of us to equip students with 21st Century Competencies. Our students get to participate in the various exciting platforms to showcase their artistic talent. They have always been involved in partnership projects with Bukit Panjang Community Club in their PAssionArts programmes. A collaboration with NGS also allowed our students to broaden their insights in the area of art genre and mediums.
+
+  
+
+Students are active participants in Singapore Youth Festival (SYF) Art Exhibition and they have presented in Art Outreach, another SYF fringe activity, to showcase their love for art to the general public.
+
+## Singapore Youth Festival (SYF) Art Exhibition
+
+
+The Singapore Youth Festival (SYF) is organised by the Ministry of Education (MOE) to showcase the talents of the students’ work yearly. As part of providing experience for exposure at national events, our students participate in the SYF.
+
+  
+
+Our Young Budding Artists (Primary 2) and Talent Art students (Primary 3 to Primary 6) are given the opportunity to showcase their artwork at the recent Singapore Youth Festival Art Exhibition 2021.
+
+Below are the students’ achievements at the SYF 2021 Art Exhibition:
+
+![](/images/ZHPS%20Experience/Art/SYF%202021%20Category%20A.png)
+
+![](/images/ZHPS%20Experience/Art/SYF%202021%20Category%20B.png)
+
+![](/images/ZHPS%20Experience/Art/SYF%202021%20Category%20C.png)
+
+![](/images/ZHPS%20Experience/Art/SYF%20Art%20Exhibition_1.jpg)
+
+![](/images/ZHPS%20Experience/Art/SYF%20Art%20Exhibition_2.jpg)
+
+![](/images/ZHPS%20Experience/Art/SYF%20Art%20Exhibition_3.jpg)
+
+![](/images/ZHPS%20Experience/Art/SYF%20Art%20Exhibition_4.jpg)
