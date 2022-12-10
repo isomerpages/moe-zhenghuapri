@@ -16,13 +16,11 @@ The CCE in CCA sessions conducted at the beginning and at the end of every pract
 Types of Activities
 -------------------
 
-5 Basic Dance Steps
-
-Dance movements, rhythms, and postures
-
-Choreography
-
+5 Basic Dance Steps   
+Dance movements, rhythms, and postures   
+Choreography   
 Performances
+
 
 | Year | Events/Program | Achievement |
 |:----:|:--------------:|:-----------:|
