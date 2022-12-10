@@ -24,7 +24,7 @@ Designed to support holistic development through an integrated approach to learn
 
   
 
-Learn more about its approach and goals, as spelt out in our <a href="https://www.moe.gov.sg/-/media/files/mk/kindergarten-curriculum-framework-guide-for-parents.ashx?la=en&hash=DEA525CE6D0922A99050E757D120665E879C2A6F" target="_blank">Nurturing Early Learners (NEL) framework</a>.
+Learn more about its approach and goals, as spelt out in our <a href="/files/kindergarten-curriculum-framework-guide-for-parents.pdf" target="_blank">Nurturing Early Learners (NEL) framework</a>.
 
 
 **Starlight Literacy Programme**
