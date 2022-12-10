@@ -33,3 +33,18 @@ Drills & Tactics (Dribbling, passing, shooting etc.)
 CCE-in-CCA sessions
 
 
+| Year |             Events/Program             | Achievement |
+|:----:|:--------------------------------------:|:-----------:|
+| 2018 |   WZPSSC Football Tournament (Junior)  |  4th Place  |
+| 2016 |   WZPSSC Football Tournament (Senior)  |  1st Place  |
+|      | Nationals Football Tournament (Senior) |  1st Place  |
+| 2015 |   WZPSSC Football Tournament (Junior)  |  1st Place  |
+|      | Nationals Football Tournament (Junior) |  4th Place  |
+|      |   WZPSSC Football Tournament (Senior)  |  2nd Place  |
+| 2014 |   WZPSSC Football Tournament (Senior)  |  4th Place  |
+|      |   WZPSSC Football Tournament (Junior)  |  3rd Place  |
+
+
+|   |   |   |
+|:-:|:-:|:-:|
+|   |   |   |
