@@ -2,5 +2,6 @@ collections:
   our-info-hub:
     output: true
     order:
+      - Information for Parents/School Term Calendar.md
       - Information for Parents/School Calendar.md
       - Information for Parents/.keep
