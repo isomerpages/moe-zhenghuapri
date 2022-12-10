@@ -6,10 +6,10 @@ links:
     collection: zhps-experience
   - title: Our Info Hub
     collection: our-info-hub
-  - title: Menu Title
-    url: /permalink
+  - title: Media Gallery
+    url: zhenghua-memories/media-gallery/2022
     sublinks:
-      - title: Submenu Title
-        url: /permalink
+      - title: Media Gallery
+        url: /media-gallery/2022
   - title: "Zhenghua Memories "
     collection: zhenghua-memories
