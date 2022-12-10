@@ -13,7 +13,7 @@ description: ""
 
 [**MOE Kindergarten (MK) Registration for 2023**](https://zhenghuapri.moe.edu.sg/zps/announcements#)
 
-Click [here](https://zhenghuapri.moe.edu.sg/zps/announcements/moe-kindergarten-mk-registration-for-2023) for more details.
+Click <a href="/zps/announcements/moe-kindergarten-mk-registration-for-2023/" target="_blank">here</a> for more details.
 
 
 * * *
@@ -55,4 +55,3 @@ Click [here](https://zhenghuapri.moe.edu.sg/zps/announcements/moe-kindergarten-
 
 
 * * *
-
