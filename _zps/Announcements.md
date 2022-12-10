@@ -41,6 +41,7 @@ Click <a href="/zps/announcements/moe-kindergarten-mk-registration-for-2023/" t
 
 
 [**What is your child Learning in Social Studies?**](#top)
+
 <a href="https://www.youtube.com/watch?v=SDCkCj7sm8s" target="_blank">https://www.youtube.com/watch?v=SDCkCj7sm8s</a>
 
 
@@ -51,4 +52,3 @@ Click <a href="/zps/announcements/moe-kindergarten-mk-registration-for-2023/" t
 From time to time, the school may be using your child/children and your photographs, images or video footage for use on the school website, social media, feature walls, in newsletters ...
 
 <a href="/our-info-hub/privacy-policy" target="_blank">Read More</a><br clear="left">
-
