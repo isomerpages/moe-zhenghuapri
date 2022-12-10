@@ -110,4 +110,9 @@ Please refer to the following CCA schedule:
 </tbody>
 </table>
 
+Change of CCA
+-------------
 
+Students **cannot change** or **terminate** their participation in their CCA. All request for change of CCA must be made through SH/CCA. Parents can email to SH/CCA at [ong\_yan\_joo@moe.edu.sg](mailto:ong_yan_joo@moe.edu.sg) stating the reason for change. If it is due to medical reasons, kindly support with memo from a medical professional. SH/CCA will evaluate each request on a case-by-case basis.
+  
+Our school is committed to nurturing the students to be of good character and equipping them with skills and knowledge that will allow them to lead a purposeful and healthy life. We believe through the CCA programmes, they will be physically and culturally vibrant.
