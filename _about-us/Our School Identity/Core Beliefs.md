@@ -4,7 +4,6 @@ permalink: /about-us/our-school-identity/core-beliefs/
 description: ""
 third_nav_title: Our School Identity
 ---
-
 # Core Beliefs
 
 1.  We love, value and accept our students for who they are.
@@ -12,7 +11,7 @@ third_nav_title: Our School Identity
 3.  We believe that, with effective effort, our students can improve themselves and are capable of achieving their personal best.
 
   
-(<a href="" target="_blank">Source 2021 P’s talk during P1 Orientation</a>)
+(<a href="/our-info-hub/information-for-parents/primary-1-matters/" target="_blank">Source 2021 P’s talk during P1 Orientation</a>)
 
 
 |   |   |
