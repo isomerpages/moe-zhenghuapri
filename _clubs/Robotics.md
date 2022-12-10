@@ -25,7 +25,13 @@ Building using EV3 Lego Mindstorm / Spike
 | 2021 |       RCAP CoSpace Rescue, U12       |          **3rd Place**         |
 
 
+|   |   |
+|:-:|:-:|
+|   |   |
 
+|   |   |    |
+|:----:|----:|:----:|
+|   |   |    |
 
 
 \*Photos taken without masks were pre-COVID times
