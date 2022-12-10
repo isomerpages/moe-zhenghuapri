@@ -23,13 +23,10 @@ We achieve this through our **3E** (Exposure, Enrichment and Excellence) appro
 
 We provide students with broad experience through variety of CCAs comprising of the 4 domains:
 
-1\.  The Performing Arts - instill in students a sense of graciousness and an appreciation for the rich culture and heritage of a multi-racial society.
-
-2\.  Sports - aim to develop robustness, fair play, and team spirits in students.
-
-3\.  Uniformed Group - aim to make good citizens of students by inculcating discipline and a spirit of service to others.
-
-4\.  Clubs - strive to achieve oratorical and communication skills, which fosters leadership, self-motivation, and personal growth.
+a\.  The Performing Arts - instill in students a sense of graciousness and an appreciation for the rich culture and heritage of a multi-racial society.   
+b\.  Sports - aim to develop robustness, fair play, and team spirits in students.   
+c\.  Uniformed Group - aim to make good citizens of students by inculcating discipline and a spirit of service to others.   
+d\.  Clubs - strive to achieve oratorical and communication skills, which fosters leadership, self-motivation, and personal growth.
 
   
 
@@ -59,6 +56,58 @@ CCA Days
 
 Most CCA will run on Fridays except for Rugby on Monday and Football on Thursday. This allows for other days to be freed for other school programmes and activities, in support for our school policy of a holistic education for our students. CCA with school teams may have additional sessions on the other days after school hours and/or Saturdays.
 
-  
-
 Please refer to the following CCA schedule:
+
+<table class="iveo_table ives_tab_simple3 ive_eobj_center">
+<tbody>
+<tr>
+<td style="text-align: center;" width="156"><strong>Monday</strong></td>
+<td style="text-align: center;" width="156"><strong>Thursday</strong></td>
+<td style="text-align: center;" colspan="2" width="312"><strong>Friday</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;" width="156"><strong>3.30pm-5.30pm</strong></td>
+<td style="text-align: center;" width="156"><strong>3.30pm-5.30pm</strong></td>
+<td style="text-align: center;" width="156"><strong>1.00pm-3.30pm</strong><br /><strong>(Lunch:1.30pm)</strong></td>
+<td style="text-align: center;" width="156"><strong>1.30pm-3.30pm</strong><br /><strong>(Lunch:1.00pm)</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;" width="156"><strong>Rugby</strong></td>
+<td style="text-align: center;" width="156"><strong>Football</strong></td>
+<td style="text-align: center;" width="156"><strong>Brass Band</strong></td>
+<td style="text-align: center;" width="156"><strong>Basketball</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;" width="156">&nbsp;</td>
+<td style="text-align: center;" width="156">&nbsp;</td>
+<td style="text-align: center;" width="156"><strong>Brownies</strong></td>
+<td style="text-align: center;" width="156"><strong>Chinese Dance</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;" width="156">&nbsp;</td>
+<td style="text-align: center;" width="156">&nbsp;</td>
+<td style="text-align: center;" width="156"><strong>Choir</strong></td>
+<td style="text-align: center;" width="156"><strong>Indian Dance</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;" width="156">&nbsp;</td>
+<td style="text-align: center;" width="156">&nbsp;</td>
+<td style="text-align: center;" width="156"><strong>Red Cross</strong></td>
+<td style="text-align: center;" width="156"><strong>Floorball</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;" width="156">&nbsp;</td>
+<td style="text-align: center;" width="156">&nbsp;</td>
+<td style="text-align: center;" width="156"><strong>Talent Art</strong></td>
+<td style="text-align: center;" width="156"><strong>Malay Dance</strong></td>
+</tr>
+<tr>
+<td width="156">&nbsp;</td>
+<td width="156">&nbsp;</td>
+<td width="156">&nbsp;</td>
+<td  style="text-align: center;"  width="156"><strong>Robotics</strong></td>
+</tr>
+</tbody>
+</table>
+
+
