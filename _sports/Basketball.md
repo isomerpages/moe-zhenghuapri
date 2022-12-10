@@ -25,4 +25,4 @@ Modified game play
 |  ![](/images/ZHPS%20Experience/Sports/Basketball_4.jpg)  |   ![](/images/ZHPS%20Experience/Sports/Basketball_5.jpg) |
 |  ![](/images/ZHPS%20Experience/Sports/Basketball_6.jpg)  |   ![](/images/ZHPS%20Experience/Sports/Basketball_7.jpg)   |
 
- ![](/images/ZHPS%20Experience/Sports/Basketball_3.png)
+<img src="/images/ZHPS%20Experience/Sports/Basketball_3.png" style="width:40%">
