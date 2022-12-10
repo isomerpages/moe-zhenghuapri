@@ -15,8 +15,8 @@ Tel: +65 62195679
   
 
 Email: [mk\_zhenghua@moe.edu.sg](mailto:mk_zhenghua@moe.edu.sg)   
-Website: [https://zhenghuapri.moe.edu.sg/](https://zhenghuapri.moe.edu.sg/)    
-YouTube: [https://www.youtube.com/c/ZhenghuaPrimarySchool](https://www.youtube.com/c/ZhenghuaPrimarySchool)
+Website: <a href="https://zhenghuapri.moe.edu.sg/" target="_blank">https://zhenghuapri.moe.edu.sg/</a>   
+YouTube: <a href="https://www.youtube.com/c/ZhenghuaPrimarySchool" target="_blank">https://www.youtube.com/c/ZhenghuaPrimarySchool</a>
   
 
 MOE Kindergarten General Office Operating Hours:    
