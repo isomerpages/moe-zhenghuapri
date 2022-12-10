@@ -63,3 +63,30 @@ The table below summarises provides examples of enrichment programmes that devel
 
 <center><i>Enrichment programmes are carried out across the different levels to develop and further students’ interest and skills in Art
 </i></center>
+
+## Learning Through Art - Collaboration with Departments and Organisations
+
+
+In promoting Art appreciation further, art is integrated in other subjects to support students’ learning and understanding of concepts and ideas. The department thus, actively collaborates with various departments in school and external organisations to engage students and promote learning.
+
+|           |                    Programme                   |                       Department                      |           Organisation           |
+|:---------:|:----------------------------------------------:|:-----------------------------------------------------:|:--------------------------------:|
+| Primary 3 |        Applied Learning Programme (ALP)        |                     Social Studies                    |    Artist Talk by local artist   |
+|           |                      iAim                      |                      Mathematics                      |                 -                |
+| Primary 4 | Interdisciplinary Museum Based Learning (IMBL) | CCE, English Language, Malay Language, Social Studies | National Gallery Singapore (NGS) |
+|           |                      iAim                      |                      Mathematics                      |                 -                |
+| Primary 5 |                    Ceramics                    |                        Science                        |            NUS Museum            |
+|           |                      iAim                      |                      Mathematics                      |                 -                |
+
+
+<center><i>A collaboration with other Departments and Organisations to integrate Art with other subjects.
+</i></center>
+
+
+**(a) Primary 3 Applied Learning Programme (ALP)**
+
+The art making process in the Primary 3 Applied Learning Programme is conducted through a choice-based lesson setting. Through a series of lessons, students are given the opportunity to ideate what they have learned during Social Studies to create an artwork that advocates water conservation.
+
+|   |   |   |
+|:-:|:-:|:-:|
+| ![](/images/ZHPS%20Experience/Art/ALP_1.jpg)  | <img src="/images/ZHPS%20Experience/Art/ALP_2.jpg" style="width:67%">   | ![](/images/ZHPS%20Experience/Art/ALP_3.jpg)   |
