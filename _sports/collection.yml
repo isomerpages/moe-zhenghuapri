@@ -2,7 +2,7 @@ collections:
   sports:
     output: true
     order:
-      - Rugby.md
       - Basketball.md
       - Floorball.md
       - Football.md
+      - Rugby.md
