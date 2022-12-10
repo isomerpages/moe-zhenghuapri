@@ -7,8 +7,7 @@ description: ""
 
 For graduating or Leaving students to back up their Student iCON data, we have prepared the attached editable student poster and guide.
 
-[iCON\_Google Takeout\_EDM.pptx](https://zhenghuapri.moe.edu.sg/qql/slot/u516/Stakeholders/Information%20for%20Parents/2021/iCON_Google%20Takeout_EDM-edited[1].pptx)  
-[iCON\_Google Takeout\_Guide\_for\_Students.pdf](/files/iCON_Google%20Takeout_Guide_for_Students.pdf)
+<a href="https://go.gov.sg/zhenghua-icon-back-up" target="_blank">iCON_Google Takeout_EDM.pptx</a>
+<a href="/files/iCON_Google%20Takeout_Guide_for_Students.pdf" target="_blank">iCON_Google Takeout_Guide_for_Students.pdf</a>
 
 
-https://go.gov.sg/zhenghua-icon-back-up
