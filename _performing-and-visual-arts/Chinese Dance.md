@@ -36,3 +36,5 @@ Performances
 |   |   |   |
 |:-:|:-:|:-:|
 | ![](/images/ZHPS%20Experience/Performing%20arts/Chinese%20Dance_1.jpg)  |  ![](/images/ZHPS%20Experience/Performing%20arts/Chinese%20Dance_2.jpg)   | ![](/images/ZHPS%20Experience/Performing%20arts/Chinese%20Dance_3.jpg)    |
+
+\*Photos taken without masks were pre-COVID times
