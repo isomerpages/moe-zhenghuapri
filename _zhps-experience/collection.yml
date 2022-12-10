@@ -2,7 +2,6 @@ collections:
   zhps-experience:
     output: true
     order:
-      - ICT.md
       - CCE/.keep
       - CCE/CCE Framework.md
       - CCE/CCE Lessons.md
@@ -25,3 +24,4 @@ collections:
       - Creative Arts (LLP)/Dance.md
       - Creative Arts (LLP)/Drama.md
       - Physical & Outdoor Education.md
+      - ICT.md
