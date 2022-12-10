@@ -32,10 +32,9 @@ Safety of the game
 
 |   |   |
 |:-:|:-:|
-|   |   |
-|   |   |
+|  ![](/images/ZHPS%20Experience/Sports/Rugby_1.jpg) |  ![](/images/ZHPS%20Experience/Sports/Rugby_2.png)   |
+|  ![](/images/ZHPS%20Experience/Sports/Rugby_3.jpg)   |  ![](/images/ZHPS%20Experience/Sports/Rugby_4.jpg)    |
 
-
+<img src="/images/ZHPS%20Experience/Sports/Rugby_5.jpg" style="width:50%">
 
 \*Photos taken without masks were pre-COVID times
-
