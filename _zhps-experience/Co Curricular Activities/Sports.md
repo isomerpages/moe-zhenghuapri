@@ -6,7 +6,7 @@ third_nav_title: Co Curricular Activities
 ---
 # Sports
 
-Basketball
+[Basketball](/sports/basketball)
 ----------
 
 | Teachers-in-charge        | Venue & Time        |
@@ -14,21 +14,21 @@ Basketball
 | Mdm Celestine Goh (I/C)<br>Mr Shawn Yeap (AI/C)<br>Ms Grace Lim<br>Mr Lim Hou Woon<br>Mr See Chor Hoe<br>Mdm Suriyana<br><br>Advisor: Mdm Lim Xiao Jun | Indoor Basketball Court<br><br>Friday<br>1.30pm-3.30pm<br>(Lunch time: 1.00pm-1.30pm) |
 
 
-Floorball
+[Floorball](/sports/floorball)
 ---------
 
 | Teachers-in-charge                                                                                                                                                            | Venue & Time                                                                     |
 |---------------------------------------------------------|-----------------------|
 | Mr Goh Boon Tiong (I/C)<br>Ms Wong Soo Shan (AI/C)<br>Mdm Hyeryanti<br>Mdm Haryati<br>Mdm Loo Mei Ping<br>Mdm Tang Li Tan<br>Mdm Tan Phaik See<br><br>Advisor: Mdm Evelyn Yeo | Multi-Purpose Hall<br><br>Friday<br>1.30pm-3.30pm<br>(Lunch time: 1.00pm-1.30pm) |
 
-Football
+[Football](/sports/football)
 --------
 
 | Teachers-in-charge          | Venue & Time                                  |
 |---------------------|------------|
 | Mr Mohd Faizal (I/C)<br>Mr Herman (AI/C)<br>Mr Fazli<br>Mdm Jumilah<br>Mdm Tang Ai Wei<br><br>Advisor: Mr Er Kim Hoe | School Field<br><br>Thursday<br>3.30pm-5.30pm |
 
-Rugby
+[Rugby](/sports/rugby)
 -----
 
 | Teachers-in-charge    | Venue & Time    |
