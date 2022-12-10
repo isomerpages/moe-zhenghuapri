@@ -37,4 +37,39 @@ Students
 |  ![](/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_5.jpg) |  ![](/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_6.jpg) |
 |![](/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_7.jpg)   |  ![](/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_8.jpg) |
 
-<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_9.jpg" style="width:50%"><br clear="left">
+<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_9.jpg" style="width:50%">
+
+## Key pedagogical approach
+
+The ALP involves students in inter-disciplinary, inquiry-based learning, design thinking and value creation to address problems related to sustainable living in authentic home, school and community contexts.
+
+  
+
+The design thinking frame is used to support students in the process. On their ALP journey, they observe with empathy how people interact with their environments, and employs an iterative, hands-on approach to creating innovative solutions or bring across selected messages to their audience. Thus, the ALP projects start with trigger activities in students are guided to put themselves in the shoes of another person. They then collaborate to generate ideas so as to help tackle sustainable living challenges.
+
+<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_10.png" style="width:50%">
+
+## T(h)inker Space
+
+Selected ALP activities are carried out in the T(h)inker Space equipped with tinkering tools and materials. The space seeks to allow for brainstorming, collaboration and tinkering to take place. It is an area where students immerse themselves as Thinkers and subsequently Tinkers. As a Thinker, they brainstorm new and interesting ideas. As a Tinker, they engage in the making process, working with their value creation in an experimental manner.
+
+|   |   |
+|:---:|:---:|
+|    ![](/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_11.png) |   ![](/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_12.png)  |
+
+## Value Creations
+
+We believe that our students have a voice and are never too young to make a difference. They advocate for their cause using their skills in the Technology and the Creative Arts domains. Each of them play their role as a concerned citizen and an active contributor when they express their innovative ideas, hopes and dreams for the future of sustainable living through their value-creations.
+
+|   |   |
+|:---:|:---:|
+|    ![](/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_13.png) |   ![](/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_14.png)  |
+|    ![](/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_15.jpg) |   ![](/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_16.jpg)  |
+|    ![](/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_17.png) |   ![](/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_18.jpg)  |
+
+|   |   |
+|:---:|:---:|
+|    ![](/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_19.jpg) |   ![](/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_21.jpg)  |
+|    ![](/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_20.jpg) |   ![](/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_22.jpg)  |
+|    ![](/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_23.jpg) |   ![](/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_24.jpg)  |
+
