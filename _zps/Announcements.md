@@ -46,13 +46,11 @@ Click <a href="/zps/announcements/moe-kindergarten-mk-registration-for-2023/" t
 
 * * *
 
+[**Use of Images and Photographs**](#top)
 
+From time to time, the school may be using your child/children and your photographs, images or video footage for use on the school website, social media, feature walls, in newsletters ...
 
+<a href="/files/PAT%202022_School%20Broadcast.pdf" target="_blank">Read More</a><br clear="left">
 
+ [](https://zhenghuapri.moe.edu.sg/our-info-hub/privacy-policy)
 
-* * *
-
-
-
-
-* * *
