@@ -40,7 +40,8 @@ Click <a href="/zps/announcements/moe-kindergarten-mk-registration-for-2023/" t
 * * *
 
 
-[**What is your child Learning in Social Studies?**](#top)<br> Click <a href="https://www.youtube.com/watch?v=SDCkCj7sm8s" target="_blank">https://www.youtube.com/watch?v=SDCkCj7sm8s</a>
+[**What is your child Learning in Social Studies?**](#top)
+<a href="https://www.youtube.com/watch?v=SDCkCj7sm8s" target="_blank">https://www.youtube.com/watch?v=SDCkCj7sm8s</a>
 
 
 * * *
