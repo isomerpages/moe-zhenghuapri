@@ -2,4 +2,5 @@ collections:
   performing-and-visual-arts:
     output: true
     order:
+      - Choir.md
       - Brass Band.md
