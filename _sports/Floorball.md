@@ -36,3 +36,6 @@ Friendly matches among members
 |:-:|:-:|
 | ![](/images/ZHPS%20Experience/Sports/Floorball_1.png)  |  ![](/images/ZHPS%20Experience/Sports/Floorball_2.png)   |
 |  ![](/images/ZHPS%20Experience/Sports/Floorball_3.png)   |  ![](/images/ZHPS%20Experience/Sports/Floorball_4.png)  |
+
+
+\*Photos taken without masks were pre-COVID times
