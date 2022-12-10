@@ -12,7 +12,7 @@ sections:
         - title: Highlight A
           description: Important highlight A is important
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
+        - title: Quick Links
+          description: ""
+          url: /zps/quick-links/
 ---
