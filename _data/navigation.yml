@@ -6,3 +6,8 @@ links:
     collection: zhps-experience
   - title: Our Info Hub
     collection: our-info-hub
+  - title: Menu Title
+    url: /permalink
+    sublinks:
+      - title: Submenu Title
+        url: /permalink
