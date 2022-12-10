@@ -2,5 +2,5 @@ collections:
   clubs:
     output: true
     order:
-      - Art and Craft (TArP).md
       - Robotics.md
+      - Art and Craft (TArP).md
