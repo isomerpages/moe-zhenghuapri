@@ -1,5 +1,5 @@
 collections:
-  performing-n-visual-arts:
+  performing-and-visual-arts:
     output: true
     order:
       - Brass Band.md
