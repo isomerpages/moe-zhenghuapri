@@ -59,9 +59,8 @@ The table below summarises the talent development process.
 
 | Level   | Process               | Description        |
 |---------|-----------------|--------------------|
-| P1      | Talent Identification | Selection of DArE Ambassadors from DArE broad-based programme through assessment                                                                                                                                                                             |
-| P2      | Talent Development    | DArE Ambassadors will be given extra practices to develop their skills. They will be given the opportunity to showcase their talents at various platforms.<br><br>At the end of P2, the DArE Ambassadors will be channeled to the three ethnic dance groups. |
+| P1      | Talent Identification | Selection of **DArE Ambassadors** from DArE broad-based programme through assessment                                                                                                                                                                             |
+| P2      | Talent Development    | **DArE Ambassadors** will be given extra practices to develop their skills. They will be given the opportunity to showcase their talents at various platforms.<br><br>At the end of P2, the **DArE Ambassadors** will be channeled to the three ethnic dance groups. |
 | P3 – P6 | Talent Development    | Students go through the fundamentals in the ethnic dances. Dancers will be presented with opportunities to perform at school or national, external organisation events.                                                                                      |
 
 <center><i>Dance talent development process in Zhenghua Primary School.</i></center>
-
