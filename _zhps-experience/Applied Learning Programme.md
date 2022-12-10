@@ -73,3 +73,7 @@ We believe that our students have a voice and are never too young to make a diff
 |    ![](/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_20.jpg) |   ![](/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_22.jpg)  |
 |    ![](/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_23.jpg) |   ![](/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_24.jpg)  |
 
+
+## Tier 2 ALP - Greenovation Club
+
+The Greenovation Club was established in 2022. The CCA has a twin focus on green efforts and innovative practices. We welcome students who have a passion in championing for a cause in sustainable living and would like to improve the current state of affairs through innovating. In the CCA, they are exposed to STEM and tinkering activities through their commitment and participation in competitions and showcases. In the long run, we hope to nurture environment enthusiasts and solution-aspiring individuals.
