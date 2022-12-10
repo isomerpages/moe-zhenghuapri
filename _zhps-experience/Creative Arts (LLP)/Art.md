@@ -19,3 +19,47 @@ Meanwhile, Art enrichment programmes support the curriculum in enhancing and eng
 ![](/images/ZHPS%20Experience/Art/Vision%20and%20Mission%20School%20Art%20Dept%20Framework.png)
 
 <center><i>A framework depicting the Vision and Mission of the Art department in our school</i></center>
+
+|   |   |
+|:-:|:-:|
+| ![](/images/ZHPS%20Experience/Art/Art_1.jpg)  | ![](/images/ZHPS%20Experience/Art/Art_2.jpg)   |
+|  ![](/images/ZHPS%20Experience/Art/Art_3.jpg)  | ![](/images/ZHPS%20Experience/Art/Art_4.jpg)   |
+
+
+The table below summarises provides examples of enrichment programmes that develop and further students’ skills in Art:
+
+<table>
+<tbody>
+<tr>
+<td style="text-align: center;" width="20%">&nbsp;</td>
+<td style="text-align: center;" width="20%"><strong>Primary 2</strong></td>
+<td style="text-align: center;" width="20%"><strong>Primary 3</strong></td>
+<td style="text-align: center;" width="20%"><strong>Primary 4</strong></td>
+<td style="text-align: center;" width="20%"><strong>Primary 5</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;" width="20%">Learning Journeys</td>
+<td style="text-align: center;" width="20%"><strong>-</strong></td>
+<td style="text-align: center;" width="20%">NUS Baba House</td>
+<td style="text-align: center;" width="20%">National Gallery Singapore (NGS)</td>
+<td style="text-align: center;" width="20%">NUS Museum/ Asian Civilisation Museum (ACM)</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="20%">Broad-based Thematic Approach</td>
+<td style="text-align: center;" width="20%">Paper Cutting</td>
+<td style="text-align: center;" width="20%">Batik Painting</td>
+<td style="text-align: center;" width="20%">Photography</td>
+<td style="text-align: center;" width="20%">Ceramics</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="20%">Talent Identification</td>
+<td style="text-align: center;" width="20%">Budding Artists</td>
+<td style="text-align: center;" colspan="3">Talent Art</td>
+</tr>
+</tbody>
+</table>
+<div>&nbsp;</div>
+
+
+<center><i>Enrichment programmes are carried out across the different levels to develop and further students’ interest and skills in Art
+</i></center>
