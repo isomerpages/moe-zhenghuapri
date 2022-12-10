@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/homepage.gif
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
+        - title: Announcements
+          description: ""
+          url: /zps/announcements/
         - title: Quick Links
           description: ""
           url: /zps/quick-links/
