@@ -2,8 +2,8 @@ collections:
   mk-at-zhenghua:
     output: true
     order:
-      - MK Orientation for 2023 Students.md
       - About Us.md
       - Curriculum.md
       - Gallery.md
       - Partners.md
+      - MK Orientation for 2023 Students.md
