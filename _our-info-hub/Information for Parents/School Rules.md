@@ -39,7 +39,7 @@ Attire & Appearance
 
   
 
-#### Girls
+#### <span style = "color: #428e3f"><b>Girls</b></span>
 
 *   The length of fringe must not go beyond the eyebrows.
 *   Girls with long hair are expected to have their hair tied.
@@ -50,7 +50,7 @@ Attire & Appearance
 
   
 
-#### Boys
+#### <span style = "color: #428e3f"><b>Boys</b></span>
 
 *   Hair must be kept short and neat. Boys must maintain a clean shaven face. Moustache, beard and long sideburns are not permitted.
 *   Hair must not cover the forehead, touch the eyebrows or shirt collar. The fringe must not touch the eyebrows when it is combed down. Hair at the back of the head must be sloped.
@@ -66,7 +66,7 @@ Clean Environment
 
   
 
-#### Guidelines for Parents
+#### <span style = "color: #428e3f"><b>Guidelines for Parents</b></span>
 
   
 
