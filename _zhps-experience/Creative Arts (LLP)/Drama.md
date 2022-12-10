@@ -24,3 +24,29 @@ During the drama lessons, students are involved in the processes of **_Making_*
 
 Dramatic activities centre on the **conventions of drama** such as role-playing and improvisation. Other conventions used regularly as a way of working in the drama include hot seating, freeze frame and teacher-in-role.
 
+<img src="/images/ZHPS%20Experience/Drama/Drama_1.jpg" style="width:40%;float:left; padding:10px"> Freeze Frame is employed to allow students to feel comfortable with the use of their facial, body expression and gesture to express or convey meaning.
+
+<br clear="left">
+
+<img src="/images/ZHPS%20Experience/Drama/Drama_2.jpg" style="width:40%;float:right; padding:10px"> Students present their scenes through role play to demonstrate their understanding of their task.
+
+<br clear="right">
+
+
+<img src="/images/ZHPS%20Experience/Drama/Drama_3.jpg" style="width:40%;float:left; padding:10px"> Students exchange ideas to discuss an issue presented to them and learn how to work together as a team.
+
+<br clear="left">
+
+Drama in education frames the students’ learning of **values** and **character**. It provides them with an opportunity to develop **an appreciation of the human condition and real-life situations**. At the same time, drama helps students build **confidence** and **empathy** over time.
+
+  
+
+The values that drama in education bring to our students are evident as it benefits them in the following ways:
+
+*   It develops social and interaction skills.
+*   It develops speech and communication skills.
+*   It encourages teamwork.
+*   It promotes creativity and critical thinking.
+*   It develops confidence.
+*   It helps students to understand the world around them.
+*   It builds empathy.
