@@ -2,4 +2,5 @@ collections:
   zps:
     output: true
     order:
+      - Announcements.md
       - Quick Links.md
