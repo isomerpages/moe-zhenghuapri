@@ -4,7 +4,7 @@ permalink: /our-info-hub/information-for-parents/sexuality-education/
 description: ""
 third_nav_title: Information for Parents
 ---
-# broken link: MOE Sexuality Education (under point 3)
+# broken link: MOE Sexuality Education (line after point 3)
 # Sexuality Education
 
 <center><b><u>MOE Sexuality Education in School</u></b></center>
