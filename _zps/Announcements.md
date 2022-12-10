@@ -34,7 +34,7 @@ Click <a href="/zps/announcements/moe-kindergarten-mk-registration-for-2023/" t
 * * *
 
 
-<img src="/images/Announcements/5d26ca17c_4975.jpeg" style="width:30%;float:left; padding:10px"> [**President's Award for Teachers 2022**](#top)<br> Click <a href="/files/PAT%202022_School%20Broadcast.pdf" target="_blank">here</a><br clear="left">
+<img src="/images/Announcements/b2b984262_4974.jpeg" style="width:30%;float:left; padding:10px"> [**President's Award for Teachers 2022**](#top)<br> Click <a href="/files/PAT%202022_School%20Broadcast.pdf" target="_blank">here</a><br clear="left">
 
 
 * * *
