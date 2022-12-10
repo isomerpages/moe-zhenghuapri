@@ -13,3 +13,10 @@ links:
     sublinks:
       - title: Media Gallery
         url: /zhenghua-memories/media-gallery/2022/
+  - title: Menu Title
+    url: /permalink
+    sublinks:
+      - title: football
+        url: /sports/football/
+      - title: floorball
+        url: /sports/football/
