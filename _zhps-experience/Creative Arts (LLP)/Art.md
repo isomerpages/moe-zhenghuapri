@@ -15,4 +15,7 @@ These big ideas guide the design of the curriculum in our school. A spiral curri
 
 The learning content is enhanced through customising its curriculum to include Inquiry-Based Learning, Choice-Based Art Classrooms, Interdisciplinary Museum Based Learning and Cultural Art Studies across the different levels. Our school also adopts the Artful Thinking Routines for art discussions.
 
-Meanwhile, Art enrichment programmes support the curriculum in enhancing and engaging students with a keen interest in the subject.j
+Meanwhile, Art enrichment programmes support the curriculum in enhancing and engaging students with a keen interest in the subject.
+![](/images/ZHPS%20Experience/Art/Vision%20and%20Mission%20School%20Art%20Dept%20Framework.png)
+
+<center><i>A framework depicting the Vision and Mission of the Art department in our school</i></center>
