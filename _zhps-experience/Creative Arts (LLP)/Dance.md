@@ -20,9 +20,8 @@ Students are taught fundamentals of dance movements and the ways to create movem
 
 Every student will go through a total of 40 hours of dance education in his or her six years in school. It is a broad-based programme that provides students with the basic exposure to dance.
 
-|                       |                              |
+|      Level                     |    Dance                            |
 |--------|---------------------------|
-| Level                           | Dance                                       |
 | P1 (Foundation year)            | Creative Movement                           |
 | P2 Theme: Chinese Culture       | Chinese Dance (Chinese and Mongolian Dance) |
 | P3 Theme: Malay Culture         | Malay Dance (Zapin and Joget)               |
