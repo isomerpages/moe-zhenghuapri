@@ -2,8 +2,8 @@ collections:
   our-info-hub:
     output: true
     order:
-      - Information for Parents/Parents' Briefing.md
       - Information for Parents/.keep
       - Information for Parents/School Calendar.md
       - Information for Parents/School Term Calendar.md
       - Information for Parents/Assessment Letters.md
+      - Information for Parents/Parents' Briefing.md
