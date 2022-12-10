@@ -2,5 +2,6 @@ collections:
   sports:
     output: true
     order:
+      - Football.md
       - Basketball.md
       - Floorball.md
