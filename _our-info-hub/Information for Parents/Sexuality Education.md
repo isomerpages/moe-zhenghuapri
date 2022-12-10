@@ -4,7 +4,7 @@ permalink: /our-info-hub/information-for-parents/sexuality-education/
 description: ""
 third_nav_title: Information for Parents
 ---
-# broken link: MOE Sexuality Education (line after point 3)
+# broken link: MOE Sexuality Education (line after point 3), scope of Sexuality Education (under point 4)
 # Sexuality Education
 
 <center><b><u>MOE Sexuality Education in School</u></b></center>
@@ -33,3 +33,17 @@ iii\.  Make responsible decisions for yourself, your family and society; and
 iv\.  Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
 You may click <a href="https://www.moe.gov.sg/page%20not%20found?item=%2feducation%2fprogrammes%2fsocial-and-emotional-learning%2fsexuality-education&user=extranet%5cAnonymous&site=moe-website" target="_blank">here</a> for more information on MOE Sexuality Education.
+
+
+## Overview of Zhenghua Primary School’s Sexuality Education Programme for 2022
+
+
+4\.  Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behavior, and, Culture, Society and Law. You may click <a href="https://www.moe.gov.sg/page%20not%20found?item=%2feducation%2fprogrammes%2fsocial-and-emotional-learning%2fsexuality-education%2fscope-and-teaching-approach-of-sexuality-education-in-schools&user=extranet%5cAnonymous&site=moe-website" target="_blank">here</a> for more information on the scope of Sexuality Education in the school curriculum.
+
+  
+
+5\.  The subjects that incorporate topics on sexuality include:
+
+a\.  Science   
+b\.  Form Teacher Guidance Period (FTGP)   
+c\.  Character and Citizenship Education (CCE)
