@@ -2,7 +2,6 @@ collections:
   zhps-experience:
     output: true
     order:
-      - Physical & Outdoor Education.md
       - CCE/.keep
       - CCE/CCE Framework.md
       - CCE/CCE Lessons.md
@@ -24,3 +23,4 @@ collections:
       - Creative Arts (LLP)/Art.md
       - Creative Arts (LLP)/Dance.md
       - Creative Arts (LLP)/Drama.md
+      - Physical & Outdoor Education.md
