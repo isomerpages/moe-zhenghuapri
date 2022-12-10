@@ -31,4 +31,10 @@ Students
 *   go on (virtual) learning journeys, make observations, collect and analyse data
 *   apply their knowledge and skills to create new value through advocacy and innovation
 
+|   |   |
+|:---:|:---:|
+| ![](/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_3.jpg)  | ![](/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_4.png)  |
+|  ![](/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_5.jpg) |  ![](/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_6.jpg) |
+|![](/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_7.jpg)   |  ![](/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_8.jpg) |
 
+<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_9.jpg" style="width:50%"><br clear="left">
