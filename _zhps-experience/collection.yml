@@ -2,7 +2,6 @@ collections:
   zhps-experience:
     output: true
     order:
-      - Applied Learning Programme.md
       - CCE/.keep
       - CCE/CCE Framework.md
       - CCE/CCE Lessons.md
@@ -25,4 +24,5 @@ collections:
       - Creative Arts (LLP)/Dance.md
       - Creative Arts (LLP)/Drama.md
       - Physical & Outdoor Education.md
+      - Applied Learning Programme.md
       - ICT.md
