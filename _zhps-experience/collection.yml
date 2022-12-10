@@ -2,6 +2,7 @@ collections:
   zhps-experience:
     output: true
     order:
+      - Applied Learning Programme.md
       - CCE/.keep
       - CCE/CCE Framework.md
       - CCE/CCE Lessons.md
