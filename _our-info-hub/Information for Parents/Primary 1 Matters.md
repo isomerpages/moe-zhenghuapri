@@ -4,7 +4,6 @@ permalink: /our-info-hub/information-for-parents/primary-1-matters/
 description: ""
 third_nav_title: Information for Parents
 ---
-
 # Primary 1 Matters
 
 ## P1 Registration Phase
@@ -27,3 +26,4 @@ third_nav_title: Information for Parents
 
 [P1 Orientation Day\_ P1 Parents of 2023 1.pdf](/files/Our%20Info%20Hub/P1%20Orientation%20Day_%20P1%20Parents%20of%202023%201.pdf)
 
+<iframe width="864" height="486" src="https://www.youtube.com/embed/DtwmZqbWaVE" title="Class of 2023 P1 orientation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
