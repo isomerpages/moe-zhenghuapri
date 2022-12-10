@@ -47,7 +47,7 @@ Our People
 
 
 |     MTL    |                        TEACHER                       |
-|:----------:|:----------------------------------------------------:|
+|:----------:|:------------------:|
 | CL TEACHER |                  Jiang Yanyu (Sarah)                 |
 | CL TEACHER |                       Su Wenru                       |
 | CL TEACHER |                      Cai Xiujin                      |
