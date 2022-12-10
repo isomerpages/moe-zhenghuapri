@@ -1,4 +1,5 @@
 collections:
   our-info-hub:
     output: true
-    order: []
+    order:
+      - Information for Parents/.keep
