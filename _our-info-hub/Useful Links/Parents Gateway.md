@@ -21,9 +21,15 @@ We would like to invite you to download the free Parents Gateway mobile app on y
 
 Please refer to the links below for the guide.
 
-1.  [Instructional Guide for Parents](https://zhenghuapri.moe.edu.sg/qql/slot/u516/2022/Our%20Info%20Hub/Useful%20Links/Parents%20Gateway/Instructional%20Guide%20for%20Parents%20Gateway.pdf)
-2.  [Registering for SingPass](https://zhenghuapri.moe.edu.sg/qql/slot/u516/2022/Our%20Info%20Hub/Useful%20Links/Parents%20Gateway/PG%20-%20Registering%20for%20SingPass.pdf)
-3.  [Travel Declaration Guide](https://zhenghuapri.moe.edu.sg/qql/slot/u516/2022/Our%20Info%20Hub/Useful%20Links/Parents%20Gateway/PG.Travel.Declaration.Guide.pdf)
+
+
+
+
+
+
+1.  <a href="/files/Our%20Info%20Hub/Instructional%20Guide%20for%20Parents%20Gateway.pdf" target="_blank">Instructional Guide for Parents</a>
+2.  <a href="/files/Our%20Info%20Hub/PG%20-%20Registering%20for%20SingPass.pdf" target="_blank">Registering for SingPass</a>
+3.  <a href="/files/Our%20Info%20Hub/PG%20Travel%20Declaration%20Guide.pdf" target="_blank">Travel Declaration Guide</a>
 
   
 
