@@ -2,11 +2,11 @@ collections:
   our-info-hub:
     output: true
     order:
-      - School Services/Canteen Stall price list.md
       - School Services/.keep
       - School Services/Student Care Centre.md
       - School Services/Book List.md
       - School Services/Facilities.md
+      - School Services/Canteen Stall price list.md
       - Information for Parents/.keep
       - Information for Parents/School Calendar.md
       - Information for Parents/School Term Calendar.md
