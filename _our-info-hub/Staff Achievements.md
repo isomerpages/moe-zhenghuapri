@@ -119,7 +119,7 @@ Staff Awards
 ------------
 
 
-| Name of Staff             | Award                                               |
+| Name of Staff             | Award     |
 |---------------|----------------|
 | Mr Er Kim Hoe             | Academy Award for Professional Development 2021     |
 | Mr Loo Teng Kiat          | Academy Award for Professional Development 2021     |
