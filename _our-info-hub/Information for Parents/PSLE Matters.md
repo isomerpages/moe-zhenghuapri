@@ -30,3 +30,15 @@ There are many different secondary schools to choose from. While some have uniqu
 |  11  | Full Subject-Based Banding (Full SBB)                                                                                                                                 | <a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html" target="_blank">https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html</a>  |    ![](/images/Psle%20matters/full%20subject%20based%20banding.png)    |
 |  12  | Direct School Admission for secondary schools (DSA-Sec)                                                                                                               | <a href="https://www.moe.gov.sg/secondary/dsa " target="_blank">https://www.moe.gov.sg/secondary/dsa </a>                                             |    ![](/images/Psle%20matters/DSA.png)    |
 |  13  | WEStories Flipbook                                                                                                                                                    |            <a href="https://online.fliphtml5.com/obrr/qkde/#p=1" target="_blank">WEStories 2022</a>                                                          |    ![](/images/Psle%20matters/WEStories%202022.png)    |
+
+
+
+## MySkills Future
+
+Primary Student Portal
+
+<a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary/about/myskillsfuture-for-students.html" target="_blank">www.myskillsfuture.sg/primary</a>
+
+My School, My Friends, My Dreams
+
+<a href="https://youtu.be/i9fpBx9xeGU" target="_blank">https://youtu.be/i9fpBx9xeGU</a>
