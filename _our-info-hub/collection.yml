@@ -2,11 +2,11 @@ collections:
   our-info-hub:
     output: true
     order:
-      - Useful Links/National Anthem.md
       - Useful Links/.keep
       - Useful Links/Parents Gateway.md
       - Useful Links/Student Learning Space.md
       - Useful Links/Financial Assistance.md
+      - Useful Links/National Anthem.md
       - Information for Parents/.keep
       - Information for Parents/School Calendar.md
       - Information for Parents/School Term Calendar.md
