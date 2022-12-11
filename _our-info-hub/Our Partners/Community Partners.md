@@ -11,10 +11,8 @@ third_nav_title: Our Partners
 
 The school adopts the fundamental philosophy that ‘it takes a whole village to raise a child’ and undertakes the key approach in forging of a closer direct relationship with the Bukit Panjang Community through the Community Club. Hence, it has aligned its community partnership by adopting the North West CDC’s ABC Model:
 
-    A- Assisting the Needy
-
-    B- Bonding the people
-
+    A- Assisting the Needy   
+    B- Bonding the people   
     C- Connecting the Community
 
   
