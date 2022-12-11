@@ -2,11 +2,6 @@ collections:
   our-info-hub:
     output: true
     order:
-      - Our Partners/.keep
-      - Our Partners/Parents' Support Group.md
-      - Our Partners/School Advisory Committee.md
-      - Our Partners/Alumni.md
-      - Our Partners/Community Partners.md
       - Information for Parents/.keep
       - Information for Parents/School Calendar.md
       - Information for Parents/School Term Calendar.md
@@ -20,3 +15,8 @@ collections:
       - Student Achievements/.keep
       - Student Achievements/2022.md
       - Student Achievements/2021.md
+      - Our Partners/.keep
+      - Our Partners/Parents' Support Group.md
+      - Our Partners/School Advisory Committee.md
+      - Our Partners/Alumni.md
+      - Our Partners/Community Partners.md
