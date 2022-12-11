@@ -2,10 +2,10 @@ collections:
   our-info-hub:
     output: true
     order:
-      - Useful Links/Financial Assistance.md
       - Useful Links/.keep
       - Useful Links/Parents Gateway.md
       - Useful Links/Student Learning Space.md
+      - Useful Links/Financial Assistance.md
       - Information for Parents/.keep
       - Information for Parents/School Calendar.md
       - Information for Parents/School Term Calendar.md
