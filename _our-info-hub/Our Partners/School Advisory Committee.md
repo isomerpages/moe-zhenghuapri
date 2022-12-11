@@ -7,7 +7,7 @@ third_nav_title: Our Partners
 # School Advisory Committee
 
 |                     |                |
-|---------------------|----------------|
+|:--------------------:|:----------------:|
 |    Tan Koon Sheng   |    Chairman    |
 |   Lim Jia Yan Edna  |  Vice-Chairman |
 |  Lim Pek Khim Wendy |    Treasurer   |
