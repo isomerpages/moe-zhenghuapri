@@ -2,7 +2,6 @@ collections:
   our-info-hub:
     output: true
     order:
-      - Privacy Policy.md
       - Information for Parents/.keep
       - Information for Parents/School Calendar.md
       - Information for Parents/School Term Calendar.md
@@ -32,3 +31,4 @@ collections:
       - School Services/Book List.md
       - School Services/Facilities.md
       - School Services/Canteen Stall price list.md
+      - Privacy Policy.md
