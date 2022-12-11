@@ -8,6 +8,15 @@ third_nav_title: Useful Links
 
 The 2022 MOE FAS application is now open for registration. Please submit your application by filling up the online form via the link: <a href="https://go.gov.sg/moe-fas-zhps" target="_blank">https://go.gov.sg/moe-fas-zhps</a>.
 
+![](/images/Our%20info%20hub/Financial%20Assistance%20(English%20Version).jpg)
+
+![](/images/Our%20info%20hub/Financial%20Assistance%20(Tamil%20Version).jpg)
+
+![](/images/Our%20info%20hub/Financial%20Assistance%20(Malay%20Version).jpg)
+
+![](/images/Our%20info%20hub/Financial%20Assistance%20(Chinese%20Version).jpg)
+
+
 Set up GIRO and Edusave Standing Order Online for School Payments
 -----------------------------------------------------------------
 
