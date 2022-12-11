@@ -6,7 +6,7 @@ third_nav_title: Useful Links
 ---
 # Student Learning Space
 
-<a href="https://vle.learning.moe.edu.sg/login" target="_blank">Guide to SLS.pptx</a>
+<a href="https://go.gov.sg/guide-to-sls" target="_blank">Guide to SLS.pptx</a>
 
 To Login to Student Learning Space (SLS) Click <a href="https://vle.learning.moe.edu.sg/login" target="_blank">here</a>
 
