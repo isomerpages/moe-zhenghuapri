@@ -2,9 +2,9 @@ collections:
   our-info-hub:
     output: true
     order:
-      - Our Partners/School Advisory Committee.md
-      - Our Partners/Parents' Support Group.md
       - Our Partners/.keep
+      - Our Partners/Parents' Support Group.md
+      - Our Partners/School Advisory Committee.md
       - Information for Parents/.keep
       - Information for Parents/School Calendar.md
       - Information for Parents/School Term Calendar.md
