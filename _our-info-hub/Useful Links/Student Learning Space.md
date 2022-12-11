@@ -6,8 +6,7 @@ third_nav_title: Useful Links
 ---
 # Student Learning Space
 
-[Guide to SLS.pptx](https://zhenghuapri.moe.edu.sg/qql/slot/u516/2022/Our%20Info%20Hub/Useful%20Links/SLS/Guide%20to%20SLS.pptx)  
-  
+<a href="https://vle.learning.moe.edu.sg/login" target="_blank">Guide to SLS.pptx</a>
 
 To Login to Student Learning Space (SLS) Click <a href="https://vle.learning.moe.edu.sg/login" target="_blank">here</a>
 
