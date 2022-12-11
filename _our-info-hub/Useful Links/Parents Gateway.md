@@ -6,6 +6,12 @@ third_nav_title: Useful Links
 ---
 # Parents Gateway
 
+
+|   |   |
+|---|---|
+| ![](/images/Our%20info%20hub/Parents%20Gateway.png) |  Parents Gateway is a mobile app specially designed for parents. Developed by MOE and GovTech, the app allows parents to engage closely with schools, receive information and perform a range of administrative functions including giving consent for school trips.   |
+
+
 <img src="/images/Our%20info%20hub/Parents%20Gateway.png" style="width:20%;float:left">Parents Gateway is a mobile app specially designed for parents. Developed by MOE and GovTech, the app allows parents to engage closely with schools, receive information and perform a range of administrative functions including giving consent for school trips.<br clear="left">
 
 
