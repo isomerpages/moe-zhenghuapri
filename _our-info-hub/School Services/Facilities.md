@@ -33,3 +33,20 @@ You Can Reach Us At :
 | School Counsellor | -        General Office directed    |
 | Fax               | -        6763 6459                  |
 | Website           | -        <a href="http://www.zhenghuapri.moe.edu.sg/" target="_blank">www.zhenghuapri.moe.edu.sg</a> |
+
+
+## Bookshop
+
+<u>School Bookshop and Uniform Supplier</u>
+
+**Monday to Friday**   
+8.30 am to 3.30 pm   
+(Parents can only access the school bookshop from 2 to 3.30 pm)   
+Tel: 6464 0111   
+Fax: 6464 0110
+
+## Canteen
+
+The Canteen Stall Price List is available in the school website for parents’ information so that parents can prepare sufficient pocket money for your child/ children when he/she/they is/are in school.  
+  
+<a href="/files/Our%20Info%20Hub/2023%20Canteen%20Stall%20Price%20List%20Final_171122.pdf" target="_blank">2022 Canteen Stall Price List.pdf</a>
