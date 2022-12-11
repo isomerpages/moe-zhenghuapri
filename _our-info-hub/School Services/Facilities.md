@@ -55,8 +55,7 @@ The Canteen Stall Price List is available in the school website for parents’ i
 
 <u>School Dental Clinic</u>
 
-Dental consultation is strictly by appointment only
-
+Dental consultation is strictly by appointment only    
 Tel: 6468 9685
 
 ## School Bus
