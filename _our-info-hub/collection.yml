@@ -2,6 +2,7 @@ collections:
   our-info-hub:
     output: true
     order:
+      - School Services/Facilities.md
       - School Services/.keep
       - School Services/Student Care Centre.md
       - School Services/Book List.md
