@@ -2,6 +2,7 @@ collections:
   our-info-hub:
     output: true
     order:
+      - Useful Links/School Health Services.md
       - Useful Links/.keep
       - Useful Links/Parents Gateway.md
       - Useful Links/Student Learning Space.md
