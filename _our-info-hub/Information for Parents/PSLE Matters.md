@@ -15,8 +15,8 @@ There are many different secondary schools to choose from. While some have uniqu
 
 <center><b>Resources for Our P6 Parents: PSLE Scoring and Choosing Secondary School</b></center>
 
-| S/No |                                                                              Description                                                                              |                                        Link                                       | QR Code |
-|:----:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------:|:-------:|
+| S/No |    Description       |    Link       | QR Code |
+|:----:|---------------|-------------------|:-------:|
 |   1  | PSLE-FSBB Microsite:<br>Learn about the changes to the PSLE scoring system, and how we are remaking secondary education through Full Subject-Based Banding (Full SBB) | https://go.gov.sg/pslefsbb                                                        |    #    |
 |   2  | School Finder:<br>Explore schools based on their distance from your home, locations, CCAs, subjects and programmes offered.                                           | https://go.gov.sg/schfinder                                                       |    #    |
 |   3  | My Skills Future Portal:<br>A one-stop portal that helps you start on a journey of self-discovery and make informed education and career choices                      | https://go.gov.sg/my-skills-future-portal                                         |    #    |
