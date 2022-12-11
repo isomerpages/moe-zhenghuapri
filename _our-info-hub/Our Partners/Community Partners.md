@@ -13,9 +13,9 @@ The school adopts the fundamental philosophy that ‘it takes a whole village to
 
     A- Assisting the Needy
 
-    B- Bonding the people
+    B- Bonding the people
 
-    C- Connecting the Community
+    C- Connecting the Community
 
   
 
