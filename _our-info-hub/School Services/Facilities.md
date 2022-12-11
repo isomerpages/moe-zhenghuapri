@@ -50,3 +50,22 @@ Fax: 6464 0110
 The Canteen Stall Price List is available in the school website for parents’ information so that parents can prepare sufficient pocket money for your child/ children when he/she/they is/are in school.  
   
 <a href="/files/Our%20Info%20Hub/2023%20Canteen%20Stall%20Price%20List%20Final_171122.pdf" target="_blank">2022 Canteen Stall Price List.pdf</a>
+
+## Dental Clinic
+
+<u>School Dental Clinic</u>
+
+Dental consultation is strictly by appointment only
+
+Tel: 6468 9685
+
+## School Bus
+
+<u>School Transport Service</u>
+
+**JK59 Transport Pte Ltd**   
+17 Lorong Kilat #01-10   
+Kilat Court   
+Singapore 598139   
+Tel: 6465 5959   
+Fax: 6466 5959
