@@ -2,6 +2,7 @@ collections:
   our-info-hub:
     output: true
     order:
+      - Student Achievements/2021.md
       - Student Achievements/2022.md
       - Student Achievements/.keep
       - Information for Parents/.keep
