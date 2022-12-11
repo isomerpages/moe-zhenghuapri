@@ -2,7 +2,6 @@ collections:
   our-info-hub:
     output: true
     order:
-      - Staff Achievements.md
       - Information for Parents/.keep
       - Information for Parents/School Calendar.md
       - Information for Parents/School Term Calendar.md
@@ -12,3 +11,4 @@ collections:
       - Information for Parents/School Rules.md
       - Information for Parents/Sexuality Education.md
       - Information for Parents/PSLE Matters.md
+      - Staff Achievements.md
