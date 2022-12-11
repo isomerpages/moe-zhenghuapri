@@ -2,10 +2,10 @@ collections:
   our-info-hub:
     output: true
     order:
-      - School Services/Facilities.md
       - School Services/.keep
       - School Services/Student Care Centre.md
       - School Services/Book List.md
+      - School Services/Facilities.md
       - Information for Parents/.keep
       - Information for Parents/School Calendar.md
       - Information for Parents/School Term Calendar.md
