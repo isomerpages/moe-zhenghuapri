@@ -37,6 +37,7 @@ third_nav_title: Our People
 |                   |                           |                      |
 |:---------:|:------------:|:-------:|
 | [**Mdm Lee Wei Ai**](mailto:lee_wei_ai@moe.edu.sg)<br>**Level Head / English**<br>Extn: *577* | [**Mdm Tan Phaik See**](mailto:tan_phaik_see@moe.edu.sg)<br>**Level Head / Chinese**<br>Extn: *586* | [**Mr Fadil Bin Abdul Rahman**](mailto:fadil_abdul_rahman@moe.edu.sg)<br>**Level Head / Science**<br>Extn: *584* |
+| [**Miss Lim Wan Xin Grace**](mailto:lim_wan_xin_grace@moe.edu.sg)<br>**Level Head /Mathematics (Int)**<br>_Extn: 517_
 
 
 <center><b>SUBJECT HEADS</b></center>
@@ -44,7 +45,7 @@ third_nav_title: Our People
 |                          |                 |                                     |
 |:---------:|:-----:|:---------------:|
 | [**Mr Mohd Faizal Razak**](mailto:mohamed_faizal_raz@moe.edu.sg)<br>**Subject Head / Student Management & Leadership**<br>Extn: *565* | [**Mdm Suriyana Bte Ghapari**](mailto:suriyana_ghapari@moe.edu.sg)<br>**Subject Head / Malay**<br>Extn: *581* | [**Mrs Siti Aisyah Sasikumar**](mailto:siti_aisyah_a@moe.edu.sg)<br>**Subject Head / Character Educatio**n<br>Extn: *572* |
-|               [**Mr Ng Teng Yik**](mailto:ng_teng_yik@moe.edu.sg)<br>**Subject Head / ICT**<br>Extn: *583*                  |       [**Mdm Ong Yan Joo**](mailto:ong_yan_joo@moe.edu.sg) Joo<br>**Subject Head / CCA**<br>Extn: *585*     |                                                                              |
+|               [**Mr Ng Teng Yik**](mailto:ng_teng_yik@moe.edu.sg)<br>**Subject Head / ICT**<br>Extn: *583*                  |[**Miss Khor Ting Yan**](mailto:khor_ting_yan@moe.edu.sg)<br>**Subject Head / Art (Int)**<br>_Extn: 538_    |[**Miss Soffia Binte Ghazali**](mailto:soffia_ghazali@moe.edu.sg)<br>**Subject Head / Student Leadership (Int)**<br>Extn: _579_
 
 <center><b>LEAD TEACHERS/ SENIOR TEACHERS</b></center>
 
