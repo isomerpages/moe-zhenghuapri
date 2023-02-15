@@ -18,4 +18,4 @@ third_nav_title: Our People
 |  1 IY |Miss Lim Seok Hoon Mary<br>[lim_seok_hoon_mary@moe.edu.sg](mailto:lim_seok_hoon_mary@moe.edu.sg)<br>Extn: 533         |Mdm Remigius Sterina Victoria<br>[remigius_sterina_victoria@moe.edu.sg](mailto:remigius_sterina_victoria@moe.edu.sg)<br>Extn: 507         |
 |  1 RE | Miss Wong Chu Wen,Claudia<br>[wong_chu_wen_claudia@moe.edu.sg](mailto:wong_chu_wen_claudia@moe.edu.sg)<br>Extn: 503    | Mdm Noreha Bte Md Taib<br>[noreha_mohd_taib@moe.edu.sg](mailto:noreha_mohd_taib@moe.edu.sg)<br>Extn: 533       |
 |  1 RT |  Mdm Siti Rashidah Bte Abdul Karim<br>[siti_rashidah_abdul_karim@moe.edu.sg](mailto:siti_rashidah_abdul_karim@moe.edu.sg)<br>Extn: 502           | Ms Lee Wei Ai<br>[lee_wei_ai@moe.edu.sg](mailto:lee_wei_ai@moe.edu.sg)<br>Extn: 577 |
-|  1 Transit |                                                                                |   Mdm Yew Ann Yee (English and Mathematics)<br>[yew_ann_yee@moe.edu.sg](mailto:yew_ann_yee@moe.edu.sg)<br>Extn: 526      |
+|  1 Transit | Mdm Yew Ann Yee (English and Mathematics)<br>[yew_ann_yee@moe.edu.sg](mailto:yew_ann_yee@moe.edu.sg)<br>Extn: 526      |
