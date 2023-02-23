@@ -16,5 +16,6 @@ third_nav_title: Our People
 |  2 IN | Mdm Chua Sock Theng<br>[chua_sock_theng@moe.edu.sg](mailto:chua_sock_theng@moe.edu.sg)<br>Extn: 534        |  Mdm Pan Jia Yi<br>[pan_jiayi@moe.edu.sg](mailto:pan_jiayi@moe.edu.sg)<br>Extn: 506    |
 |  2 IY |  Mdm Lem Li Kuen<br>[lem_li_kuen@moe.edu.sg](mailto:lem_li_kuen@moe.edu.sg)<br>Extn: 539         |       Miss Rachel Wong Yu Jia<br>[wong_yu_jia@moe.edu.sg](mailto:wong_yu_jia@moe.edu.sg)<br>Extn: 532       |
 |  2 RE |Mdm Amuthavali<br>[amuthavali_rajoo@moe.edu.sg](mailto:amuthavali_rajoo@moe.edu.sg)<br>Extn: 531                 |Mdm Jayanthi d/o Krishnan<br>[jayanthi_krishnan@moe.edu.sg](mailto:jayanthi_krishnan@moe.edu.sg)<br>Extn: 507 |
-|2 RE| Mdm Lim Swee Peng|[lim_swee_peng@moe.edu.sg](mailto:lim_swee_peng@moe.edu.sg)|Extn: 502
-|2 RT|Miss Ding Caihong|
+|2 RE| Mdm Lim Swee Peng <br>[lim_swee_peng@moe.edu.sg](mailto:lim_swee_peng@moe.edu.sg)<br>Extn: 502
+|2 RT|Miss Ding Caihong<br>[ding_caihong@moe.edu.sg](mailto:ding_caihong@moe.edu.sg)<br>Extn:502|Ms Seng Wan Qi, Wendy<br>[seng_wan_qi_wendy@moe.edu.sg](mailto:seng_wan_qi_wendy@moe.edu.sg)<br>Extn:512
+|2 RT| Mdm Sieow Kim Lian<br>[sieow_kim_lian@moe.edu.sg](mailto:sieow_kim_lian@moe.edu.sg)<br>Extn:564
