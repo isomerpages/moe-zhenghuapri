@@ -8,7 +8,7 @@ third_nav_title: Our People
 
 | CLASS |                               FORM TEACHER                              |                            FORM TEACHER                            |
 |:-----:|:-----------------------------------------------------------------------:|:------------------------------------------------------------------:|
-|  3 CE |          Ms Kee Mei Zhu<br>Kee_mei_zhu@moe.edu.sg<br>Extn: 516          | Mdm Chai Jia Yan Gina<br>chai_jia_yan_gina@moe.edu.sg<br>Extn: 538 |
+|  3 CE | Mdm Tang Ai Wei<br>[tang_ai_wei@moe.edu.sg](mailto:tang_ai_wei@moe.edu.sg)<br>Extn: 513          | Ms Ainida Shubahi<br>[ainida_shubahi@moe.edu.sg](mailto:ainida_shubahi@moe.edu.sg)<br>Extn: 539 |
 |  3 CN | Miss Nurul-Huda Sarkawai<br>nurul-huda_sarkawai@moe.edu.sg<br>Extn: 545 |      Mr Loo Teng Kiat<br>loo_teng_kiat@moe.edu.sg<br>Extn: 511     |
 |  3 EE |          Mdm Tang Li Tan<br>tang_li_tan@moe.edu.sg<br>Extn: 524         |    Mrs Tanuja Raj<br>tanuja_k_k_chandran@moe.edu.sg<br>Extn: 506   |
 |  3 EE |                                                                         |       Miss Toh Soo Wah<br>toh_soo_wah@moe.edu.sg<br>Extn: 527      |
