@@ -4,8 +4,6 @@ permalink: /our-info-hub/information-for-parents/school-term-calendar/
 description: ""
 third_nav_title: Information for Parents
 ---
-# links to the pdfs just leads back to the homepage
-
 # School Term Calendar
 
 <center><b><u>Termly Calendar 2023</u></b></center>
