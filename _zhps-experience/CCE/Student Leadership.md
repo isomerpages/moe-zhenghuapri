@@ -10,6 +10,7 @@ third_nav_title: CCE
 
 
 ![](/images/ZHPS%20Experience/Student%20Leadership/Tiered%20Leadership%20Structure%20in%20Zhenghua.png)
+<center> Figure 1: Tiered Leadership Structure in Zhenghua</center>
 
 In Zhenghua Primary School, we believe that every student can be a leader of character. We provide opportunities for the development of every Zhenghua student’s leadership skills and potential through class, CCA and/or school leadership responsibilities and leadership training.
 
