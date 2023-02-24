@@ -11,7 +11,6 @@ third_nav_title: Our People
 |                |
 |:------------------------------------------------:|
 |        Mr Loh Yuen Fong ,Eric<br>Administration Manager<br>Email: low_yuen_fong@moe.edu.sg<br>Extn: 201        |
-|              Mr Chia Yeo Hau<br>Operations Manager<br>Email: chia_yeo_hau@moe.edu.sg<br>Extn: 203              |
 |             Mr Shah Irwan Sazali<br>Adjunct OM<br>Email: shah_irwan_sazali@moe.edu.sg<br>Extn: 202             |
 |      Mdm Suzie Miranti<br>Administration Executive<br>Email: suzie_miranti_razali@moe.edu.sg<br>Extn: 210      |
 | Mdm Chua Bee Ching<br>Administration Executive (MK @Zhenghua)<br>Email: chua_bee_ching@moe.edu.sg<br>Extn: 271 |
@@ -19,6 +18,7 @@ third_nav_title: Our People
 |        Mrs. Kalivaradhan Bargavi<br>ICT Associate<br>Email: bargavi_kalivaradhan@moe.edu.sg<br>Extn: 526       |
 |            Mdm Yati<br>Corporate Support Officer<br>Email: marhayati_saadon@moe.edu.sg<br>Extn: 205            |
 |    Mdm Joelle Ang Hsiao Chiah<br>Corporate Support Officer<br>Email: ang_hsiao_chiah@moe.edu.sg<br>Extn: 206   |
+|Mdm Irene Seet<br>Corporate Support Officer<br>Email: irene_seet@moe.edu.sg<br>Extn: 204
 |                            Mr Cheong Ye Ching<br>Desktop Engineer (DE)<br>Extn: 575                            |
 |                                 Mr Jasper<br>Desktop Engineer (DE)<br>Extn: 575                                |
 |        Mdm Joan Aliena Chia<br>Library Assistant<br>Email: chia_soo_long_aliena@moe.edu.sg<br>Extn: 547        |
