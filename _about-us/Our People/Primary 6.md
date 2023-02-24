@@ -8,15 +8,17 @@ third_nav_title: Our People
 
 | CLASS |                            FORM TEACHER                           |                                    FORM TEACHER                                    |
 |:-----:|:-----------------------------------------------------------------:|:----------------------------------------------------------------------------------:|
-|  6 CE |       Mdm Lim Shi Nan<br>lim_shi_nan@moe.edu.sg<br>Extn: 516      |         Mr Shawn Yeap Wen Bin<br>yeap_wen_bin_shawn@moe.edu.sg<br>Extn: 517        |
-|  6 CE |                                                                   |             Mdm Tan Phaik See<br>tan_phaik_see@moe.edu.sg<br>Extn: 586             |
-|  6 CN | Mr Zulkifli Bin Mansor<br>zulkifli_mansor@moe.edu.sg<br>Extn: 524 |         Mdm Surayah Bte Ibrahim<br>surayah_ibrahim@moe.edu.sg<br>Extn: 542         |
-|  6 CN |                                                                   |   Miss Maryanah Muhamd Muzakir<br>maryanah_muhamd_muzakir@moe.edu.sg<br>Extn: 566  |
-|  6 EE |      Mr Lim Hou Woon<br>lim_hou_woon@moe.edu.sg<br>Extn: 531      |        Mdm Suriyana Bte Ghapari<br>suriyana_ghapari@moe.edu.sg<br>Extn: 581        |
-|  6 EE |                                                                   |            Mrs Carmen Lin<br>kee_yingxin_carmen@moe.edu.sg<br>Extn: 517            |
-|  6 HY |  Mdm Lee Chai Ping Betty<br>lee_chai_ping@moe.edu.sg<br>Extn: 525 |  Mdm Siti Nurashikin Bte Ajmain<br>siti_nurashikin_ajmain@moe.edu.sg<br>Extn: 501  |
-|  6 HY |                                                                   |      Mr Fadhil Bin Abdul Rahman<br>fadhil_abdul_rahman@moe.edu.sg<br>Extn: 584     |
-|  6 IN |   Mr See Chor Hoe Joseph<br>see_chor_hoe@moe.edu.sg<br>Extn: 529  | Mdm Remigius Sterina Victoria<br>remigius_sterina_victoria@moe.edu.sg<br>Extn: 507 |
-|  6 IN |                                                                   |             Mdm Lim Min Chern<br>lim_min_chern@moe.edu.sg<br>Extn: 514             |
-|  6 IY |     Mdm Povaneswary<br>s_r_povaneswary@moe.edu.sg<br>Extn: 543    |       Mdm Hyeryanti Binte suradi<br>hyeryanti_suradi@moe.edu.sg<br>Extn: 509       |
-|  6 IY |                                                                   |              Mdm Lim Lay Chin<br>lim_lay_chin@moe.edu.sg<br>Extn: 302              |
+|  6 CE | Mr Er Kim Hoe<br>[er_kim_hoe@moe.edu.sg](mailto:er_kim_hoe@moe.edu.sg)<br>Extn: 301      |         Mr Chua Liang Cun<br>[chua_liang_cun@moe.edu.sg](mailto:chua_liang_cun@moe.edu.sg)<br>Extn: 545        |
+|  6 CE | Mdm Thanalaxshmi<br>[thanalaxshmi_sellakumaran@moe.edu.sg](mailto:thanalaxshmi_sellakumaran@moe.edu.sg)<br>Extn: 523             |
+|  6 CN |Mr Mohd Faizal Razak<br>[Mohamed_faizal_mohamed_raz@moe.edu.sg](mailto:Mohamed_faizal_mohamed_raz@moe.edu.sg)<br>Extn: 565 |Mr Herman Bin Ismail<br>[herman_ismail@moe.edu.sg](mailto:herman_ismail@moe.edu.sg)<br>Extn: 523         |
+|  6 CN |Miss Shan Mengdi<br>[shan_mengdi@moe.edu.sg](mailto:shan_mengdi@moe.edu.sg)<br>Extn: 505  |Mdm Toh Soo Leng<br>[toh_soo_leng@moe.edu.sg](mailto:toh_soo_leng@moe.edu.sg)<br>Extn: 524
+|  6 EE | Mdm Tan Siew Ching<br>[tan_siew_ching@moe.edu.sg](mailto:tan_siew_ching@moe.edu.sg)<br>Extn: 522      |     Mdm Siti Manisah Bte As'at<br>[siti_manisah_asat@moe.edu.sg](mailto:siti_manisah_asat@moe.edu.sg)<br>Extn: 523        |
+|  6 EE |   Mr Ng Teng Yik<br>[ng_teng_yik@moe.edu.sg](mailto:ng_teng_yik@moe.edu.sg)<br>Extn: 583            |
+|  6 HY |Mr Goh Boon Tiong<br>[goh_boon_tiong@moe.edu.sg](mailto:goh_boon_tiong@moe.edu.sg)<br>Extn: 542 | Miss Sim Wenyan<br>[sim_wenyan@moe.edu.sg](mailto:sim_wenyan@moe.edu.sg)<br>Extn: 511  |
+|  6 HY | Mrs Siti Aisyah Sasikumar<br>[siti_aisyah_a@moe.edu.sg](mailto:siti_aisyah_a@moe.edu.sg)<br>Extn: 572     |
+|  6 IN | Mdm Lim Min Chern<br>[lim_min_chern@moe.edu.sg](mailto:lim_min_chern@moe.edu.sg)<br>Extn: 514  |Miss Poon Mei Ming<br>[poon_mei_ming@moe.edu.sg](mailto:poon_mei_ming@moe.edu.sg)<br>Extn: 304 |
+|  6 IN | Mdm Zhu Wencheng<br>[zhu_wencheng@moe.edu.sg](mailto:zhu_wencheng@moe.edu.sg)<br>Extn: 508             |
+|  6 IY | Mr Alex Chew<br>[chew_wei_leck_alex@moe.edu.sg](mailto:chew_wei_leck_alex@moe.edu.sg)<br>Extn: 306    | Ms Chan May Ling<br>[chan_may_ling@moe.edu.sg](mailto:chan_may_ling@moe.edu.sg)<br>Extn: 524       |
+|  6 IY | Miss Khor Ting Yan<br>[khor_ting_yan@moe.edu.sg](mailto:khor_ting_yan@moe.edu.sg)<br>Extn: 538              |
+|6 RE|Mr Benjamin Chong<br>[chong_yong_yeow@moe.edu.sg](mailto:chong_yong_yeow@moe.edu.sg)<br>Extn: 520|Mdm Khor Mei Zhen Nicole<br>[Khor_mei_zhen@moe.edu.sg](mailto:Khor_mei_zhen@moe.edu.sg)<br>Extn: 510
+||Mr Shawn Yeap Wen Bin<br>[yeap_wen_bin_shawn@moe.edu.sg](mailto:yeap_wen_bin_shawn@moe.edu.sg)<br>Extn: 542
