@@ -2,6 +2,7 @@ collections:
   our-info-hub:
     output: true
     order:
+      - Information for Parents/Open House 2023.md
       - Information for Parents/.keep
       - Information for Parents/School Calendar.md
       - Information for Parents/School Term Calendar.md
