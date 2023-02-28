@@ -32,7 +32,7 @@ P2 -P6 BRIEFING SLIDES (04/02/2023)
 
 [4 Feb 2023\_Principals Talk\_School Priorities School-Parent Partnership .pdf](/files/4%20Feb%202023_Principals%20Talk_School%20Priorities%20%20School-Parent%20Partnership%201%201.pdf)
 [4 Feb 2023\_Choosing Sec Schs\_Full Subject-based Banding.pdf](/files/4%20Feb%202023_Choosing%20Sec%20Schs_Full%20Subject-based%20Banding-compressed%201.pdf)
-[4 Feb 2023\_Support for P6 Students.pdf](https://zhenghuapri.moe.edu.sg/qql/slot/u516/Stakeholders/Information%20for%20Parents/2023/PARENTS%20BRIEFING/updated/4%20Feb%202023_Support%20for%20P6%20Students%20%201%201.pdf)  
+[4 Feb 2023\_Support for P6 Students.pdf](/files/4%20Feb%202023_Support%20for%20P6%20Students%20%201%201.pdf)
 [Primary 2 Parents Briefing 2023\_AYH.pdf](https://zhenghuapri.moe.edu.sg/qql/slot/u516/Stakeholders/Information%20for%20Parents/2023/PARENTS%20BRIEFING/updated/Primary%202%20Parents%20Briefing%202023_AYH-compressed.pdf)  
 [P3 AYH Briefing\_4 Feb 2023.pdf](https://zhenghuapri.moe.edu.sg/qql/slot/u516/Stakeholders/Information%20for%20Parents/2023/PARENTS%20BRIEFING/updated/P3%20AYH%20Briefing_4%20Feb%202023%201%201.pdf)  
 [P4 YH Slides.pdf](https://zhenghuapri.moe.edu.sg/qql/slot/u516/Stakeholders/Information%20for%20Parents/2023/PARENTS%20BRIEFING/updated/P4%20YH%20Slides%201%201.pdf)  
