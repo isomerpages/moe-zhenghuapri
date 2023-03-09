@@ -2,9 +2,6 @@ collections:
   our-info-hub:
     output: true
     order:
-      - Staff Achievements/2022.md
-      - Staff Achievements/2021.md
-      - Staff Achievements/.keep
       - Information for Parents/.keep
       - Information for Parents/School Calendar.md
       - Information for Parents/School Term Calendar.md
@@ -15,6 +12,9 @@ collections:
       - Information for Parents/Sexuality Education.md
       - Information for Parents/PSLE Matters.md
       - Information for Parents/Open House 2023.md
+      - Staff Achievements/.keep
+      - Staff Achievements/2022.md
+      - Staff Achievements/2021.md
       - Student Achievements/.keep
       - Student Achievements/2022.md
       - Student Achievements/2021.md
