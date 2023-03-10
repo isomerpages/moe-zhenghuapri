@@ -4,7 +4,6 @@ permalink: /our-info-hub/school-services/facilities/
 description: ""
 third_nav_title: School Services
 ---
-# upload image slide to google slide
 # Facilities
 
 **School General Office**
@@ -32,7 +31,7 @@ You Can Reach Us At :
 | HOD’s Room        | -        General Office directed    |
 | School Counsellor | -        General Office directed    |
 | Fax               | -        6763 6459                  |
-| Website           | -        <a href="http://www.zhenghuapri.moe.edu.sg/" target="_blank">www.zhenghuapri.moe.edu.sg</a> |
+| Website           | -        <a target="_blank" href="http://www.zhenghuapri.moe.edu.sg/">www.zhenghuapri.moe.edu.sg</a> |
 
 
 ## Bookshop
@@ -49,7 +48,7 @@ Fax: 6464 0110
 
 The Canteen Stall Price List is available in the school website for parents’ information so that parents can prepare sufficient pocket money for your child/ children when he/she/they is/are in school.  
   
-<a href="/files/Our%20Info%20Hub/2023%20Canteen%20Stall%20Price%20List%20Final_171122.pdf" target="_blank">2022 Canteen Stall Price List.pdf</a>
+<a target="_blank" href="/files/Our%20Info%20Hub/2023%20Canteen%20Stall%20Price%20List%20Final_171122.pdf">2022 Canteen Stall Price List.pdf</a>
 
 ## Dental Clinic
 
@@ -68,3 +67,5 @@ Kilat Court
 Singapore 598139   
 Tel: 6465 5959   
 Fax: 6466 5959
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSqj0a__SL7aWJRBHMzd8TnIO_KxR_TpVypUEFQnZk9fIG_KPOrhI5MoJlt-auRFzRNeQwI9n7w0ugY/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
