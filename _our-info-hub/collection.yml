@@ -2,6 +2,7 @@ collections:
   our-info-hub:
     output: true
     order:
+      - Invite to quote.md
       - Information for Parents/.keep
       - Information for Parents/School Calendar.md
       - Information for Parents/School Term Calendar.md
