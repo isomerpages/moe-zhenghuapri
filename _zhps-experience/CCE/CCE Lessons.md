@@ -10,12 +10,10 @@ third_nav_title: CCE
 
 **CCE (FTGP), School-Based Values Education, Education and Career Guidance (ECG), Cyber Wellness, (ECG) & Student Affirmation Initiatives**
 
-<u>CCE (FTGP)</u>
-
+<u>CCE (FTGP)</u><br>
 Explicit teaching of values happens during CCE (Form Teacher Guidance Period) lessons. These lessons also provide the time for teachers to engage and build relationships with their students through discussions and effective classroom strategies to help bring meaning to core values and key social-emotional competencies to better navigate the real world.
 
-<u>School-based Values Education (FTGP+ Lessons, L-O-V-E Talks)</u>
-
+<u>School-based Values Education (FTGP+ Lessons, L-O-V-E Talks)</u><br>
 Form Teacher Guidance Period+ (FTGP+) forms part of the school-based Values Education curriculum which envisions students to be leaders of characters. Social-emotional learning is an integral part of this curriculum as students live out **R**esilience, **I**ntegrity, **I**nnovation, **C**ollaboration, **C**are, **E**xcellence (RI2C2E) values. During these FTGP+ lessons, students engage in school assembly talks followed by classroom activities. These classroom activities include discussion of scenarios that encourage students to engage in perspective taking and responsible decision-making by identifying choices and consequences. Hands-on activities are customised to different levels so that each batch of students engages in new experiences in ZHPS as they progress.
 
   
