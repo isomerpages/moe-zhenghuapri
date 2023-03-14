@@ -10,9 +10,8 @@ third_nav_title: Our School Identity
 
 ### <center><span style = "color: #428e3f"> <b>Our Vision</b> </span></center>
 
-
 <center>"Leaders of Character, Critical and Creative Thinkers, Lifelong Learners"</center>
 
-![](/images/About%20us/01-Philosophy.jpg)
+<img src="/images/About%20us/01-Philosophy.jpg" style="width:35%">
 
-![](/images/About%20us/VMPMVFINAL.jpg)
+<img src="/images/About%20us/VMPMVFINAL.jpg" style="width:55%">
