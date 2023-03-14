@@ -4,8 +4,6 @@ permalink: /about-us/our-school-identity/school-song/
 description: ""
 third_nav_title: Our School Identity
 ---
-
-# upload video to youtube
 # School Song
 
 
@@ -30,3 +28,5 @@ third_nav_title: Our School Identity
   
 
 <center>Verse 2:<br>Of life we learn, for wisdom we seek<br>With dreams we dare to reach<br>Onwards as one, a team in harmony<br>For our Zhenghua family!</center>
+
+<center><b>upload video to youtube</b></center>
