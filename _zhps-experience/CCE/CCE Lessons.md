@@ -84,22 +84,27 @@ In ZHPS, there is a dedicated topic on Cyber Wellness that is being focused on f
 
 The Cyber Wellness activities include an Assembly talk by P3 – P6 Cyber Wellness Ambassadors, who have been trained, followed by enriching lessons filled with discussions.
 
+<img src="/images/ccelessons1.jpg" style="width:40%;margin-left:75px;" align = "left">
+<img src="/images/ccelessons2.jpg" style="width:40%;margin-right:65px;" align = "right">
 
+<br clear="left">
 
 <center><i>Cyber Wellness Ambassadors during Training</i></center>
 
 In the classroom, rich discussions take place after the Assembly talk, followed by interactive quizzes and games during FTGP. There will also be annual Cyber Wellness Week, to help raise awareness and educate students on cyber wellness related topics through fun and meaningful activities.
 
-|   |   |
-|:-:|:-:|
-| <img src="/images/ZHPS%20Experience/CCE%20Lessons/CW4.jpg" style="width:50%">  | ![](/images/ZHPS%20Experience/CCE%20Lessons/CW5.jpg)    |
+<img src="/images/ccelessons3.jpg" style="width:40%;margin-left:75px;" align = "left">
+<img src="/images/ccelessons4.jpg" style="width:40%;margin-right:65px;" align = "right">
+
+<br clear="left">
 
 <center><i>Go Safe Online Pop-Up by Cyber Security Agency of Singapore (CSA) at the Indoor Sports Hall.
 </i></center>
 
-|   |   |
-|:-:|:-:|
-| <img src="/images/ZHPS%20Experience/CCE%20Lessons/CW6.jpg" style="width:80%">  | ![](/images/ZHPS%20Experience/CCE%20Lessons/CW7.jpg)    |
+<img src="/images/ccelessons5.jpg" style="width:40%;margin-left:75px;" align = "left">
+<img src="/images/ccelessons6.jpg" style="width:40%;margin-right:65px;" align = "right">
+
+<br clear="left">
 
 <center><i>Cyber Wellness Bookmark Making Activity</i></center>
 
@@ -107,10 +112,11 @@ In the classroom, rich discussions take place after the Assembly talk, followed 
 
 In Zhenghua Primary School, outstanding Leaders of Characters are consistently affirmed through the Student Affirmation Initiatives, namely, the monthly “Leader of Character” award and **C**aught D**O**ing G**O**od in Schoo**L** **(COOL)** Kids termly presentation where teachers affirm students displaying values. It is done in a slideshow format where captions, pictures and music are played throughout the levels, contributing to a vibrant school environment.
 
-|   |   |   |
-|:----:|:----:|:---:|
-|  <img src="/images/ZHPS%20Experience/CCE%20Lessons/SA1.png" style="width:52%"> | <img src="/images/ZHPS%20Experience/CCE%20Lessons/SA2.jpg" style="width:58%">  |  ![](/images/ZHPS%20Experience/CCE%20Lessons/SA3.jpg)  |
+<img src="/images/ccelessons7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/ccelessons8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/ccelessons9.jpg" style="width:30%;margin-right:15px;" align = "left">
 
+<br clear="left">
 
 <center><i>Leader of Character Award Presentation in Class</i></center>
 
