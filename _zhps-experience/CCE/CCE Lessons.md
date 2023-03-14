@@ -93,8 +93,8 @@ The Cyber Wellness activities include an Assembly talk by P3 – P6 Cyber Wellne
 
 In the classroom, rich discussions take place after the Assembly talk, followed by interactive quizzes and games during FTGP. There will also be annual Cyber Wellness Week, to help raise awareness and educate students on cyber wellness related topics through fun and meaningful activities.
 
-<img src="/images/ccelessons3.jpg" style="width:40%;margin-left:75px;" align = "left">
-<img src="/images/ccelessons4.jpg" style="width:40%;margin-right:65px;" align = "right">
+<img src="/images/ccelessons3.jpg" style="width:30%;margin-left:155px;" align = "left">
+<img src="/images/ccelessons4.jpg" style="width:30%;margin-right:145px;" align = "right">
 
 <br clear="left">
 
