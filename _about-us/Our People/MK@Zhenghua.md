@@ -18,7 +18,7 @@ third_nav_title: Our People
 | K1 - IP | Ang Bi Xia Karyn | K2- IP | Nor Syahidah Binte Sariman |
 |
 
-| MTL |  class | TEACHER |
+| MTL |  CLASS | TEACHER |
 |:---:|:---:|:---:|
 | CL TEACHER | K1 CA/K1 CP  | Jiang Yanyu (Sarah) |
 | CL TEACHER |  K1 EA | Su Wenru |
