@@ -4,12 +4,11 @@ permalink: /zhps-experience/cce/cce-lessons/
 description: ""
 third_nav_title: CCE
 ---
-
 # CCE Lessons
 
 ![](/images/ZHPS%20Experience/CCE%20Lessons/Header.jpg)
 
-## CCE (FTGP), School-Based Values Education, Education and Career Guidance (ECG), Cyber Wellness, (ECG) & Student Affirmation Initiatives
+**CCE (FTGP), School-Based Values Education, Education and Career Guidance (ECG), Cyber Wellness, (ECG) & Student Affirmation Initiatives**
 
 <u>CCE (FTGP)</u>
 
