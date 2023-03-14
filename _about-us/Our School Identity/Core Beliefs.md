@@ -10,5 +10,4 @@ third_nav_title: Our School Identity
 2\.  We believe that every child is special and talented in his/her own way. Through what we do, we seek to bring out the best in each of our students.<br>
 3\.  We believe that, with effective effort, our students can improve themselves and are capable of achieving their personal best.
   
-(<a href="/our-info-hub/information-for-parents/primary-1-matters/" target="_blank">Source 2021 P’s talk during P1 Orientation</a>)
-
+[(Source 2021 P’s talk during P1 Orientation)](https://staging.d1kzj21lsiskym.amplifyapp.com/our-info-hub/information-for-parents/primary-1-matters/)
