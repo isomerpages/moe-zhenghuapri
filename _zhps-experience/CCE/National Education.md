@@ -4,7 +4,6 @@ permalink: /zhps-experience/cce/national-education/
 description: ""
 third_nav_title: CCE
 ---
-
 # National Education
 
 Four NE core events are commemorated in Zhenghua Primary, namely, Total Defence Day, International Friendship Day, Racial Harmony Day and National Day. The commemoration of the four NE Core Events take into consideration the school’s total education framework where we seek to provide a holistic learning experience for our students through the Cognitive, Leadership, Aesthetic, Physical, Social-Emotional (C.L.A.P.S.) domains and the CCE’s Learn, Appy and Reflect (L.A.R.) approach.
@@ -18,9 +17,10 @@ A wide range of school efforts help students experience and explore their nation
 
 ## Total Defence Day
 
-|   |   |
-|:-:|:-:|
-| ![](/images/ZHPS%20Experience/National%20Education/NE1.jpg)  |  ![](/images/ZHPS%20Experience/National%20Education/NE2.jpg) |
+<img src="/images/ZHPS%20Experience/National%20Education/NE1.jpg" style="width:40%;margin-left:45px;" align = "left">
+<img src="/images/ZHPS%20Experience/National%20Education/NE2.jpg" style="width:40%;margin-right:85px;" align = "right">
+
+<br clear="left">
 
 
 <center>P6 Students applying what they have learn through the <b><i>SGUnite!</i></b> Card Game</center>
