@@ -59,11 +59,10 @@ Red Cross created basic First Aid videos to promote civil defence.
 
 ## International Friendship Day
 
+<img src="/images/ZHPS%20Experience/National%20Education/NE_15.png" style="width:35%;margin-left:105px;" align = "left">
+<img src="/images/ZHPS%20Experience/National%20Education/NE_16.png" style="width:45%;margin-right:35px;" align = "right">
 
-|   |   |
-|:-:|:-:|
-| ![](/images/ZHPS%20Experience/National%20Education/NE_15.png)  | ![](/images/ZHPS%20Experience/National%20Education/NE_16.png)  |
-
+<br clear="left">
 
 <figure>
 	<img src="/images/ZHPS%20Experience/National%20Education/NE_17.png"
@@ -73,17 +72,21 @@ Commemoration of International Friendship Day Talk presented by our students fro
 	</figcaption>
 </figure>
 
-|   |   |
-|:-:|:-:|
-| ![](/images/ZHPS%20Experience/National%20Education/NE5.jpg)  | ![](/images/ZHPS%20Experience/National%20Education/NE6.png)  |
+<img src="/images/ZHPS%20Experience/National%20Education/NE5.jpg" style="width:47%;margin-left:60px;" align = "left">
+<img src="/images/ZHPS%20Experience/National%20Education/NE6.png" style="width:35%;margin-right:60px;" align = "right">
+
+<br clear="left">
+
 
 <center><i>Bookmark Exchange with MK Zhenghua</i></center>
 
 ## Racial Harmony Day
 
-|   |   |
-|:-:|:-:|
-| ![](/images/ZHPS%20Experience/National%20Education/NE7.png)  | ![](/images/ZHPS%20Experience/National%20Education/NE8.png)  |
+<img src="/images/ZHPS%20Experience/National%20Education/NE7.png" style="width:35%;margin-left:125px;" align = "left">
+<img src="/images/ZHPS%20Experience/National%20Education/NE8.png" style="width:35%;margin-right:85px;" align = "right">
+
+<br clear="left">
+
 
 <img src="/images/ZHPS%20Experience/National%20Education/NE_18.png"
      style="width:50%">
