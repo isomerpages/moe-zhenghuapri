@@ -122,9 +122,10 @@ National Day Observance Ceremony led by the student leaders
 </figcaption>
 </figure>
 
-|   |   |
-|:-:|:-:|
-| ![](/images/ZHPS%20Experience/National%20Education/NE11.png)  | <img src="/images/ZHPS%20Experience/National%20Education/NE12.jpg" style="width:69%"> |
+<img src="/images/ZHPS%20Experience/National%20Education/NE11.png" style="width:50%;margin-left:15px;" align = "left">
+<img src="/images/ZHPS%20Experience/National%20Education/NE12.jpg" style="width:40%;margin-right:45px;" align = "right">
+
+<br clear="left">
 
 <center><i>Mass Dance during National Day</i></center>
 
@@ -136,10 +137,10 @@ Reciting The Pledge In Class
 </figcaption>
 </figure>
 
+<img src="/images/ZHPS%20Experience/National%20Education/NE13.jpg" style="width:29%;margin-left:15px;" align = "left">
+<img src="/images/ZHPS%20Experience/National%20Education/NE14.jpg" style="width:61%;margin-right:45px;" align = "right">
 
-|   |   |
-|:-:|:-:|
-| <img src="/images/ZHPS%20Experience/National%20Education/NE13.jpg" style="width:64%">  | ![](/images/ZHPS%20Experience/National%20Education/NE14.jpg) |
+<br clear="left">
 
 <center><i>Students Donned in Red to Celebrate the Singapore Spirit!</i></center>
 
