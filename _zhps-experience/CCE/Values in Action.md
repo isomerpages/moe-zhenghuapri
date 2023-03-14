@@ -4,16 +4,11 @@ permalink: /zhps-experience/cce/values-in-action/
 description: ""
 third_nav_title: CCE
 ---
-
 # Values-in-Action
 
 VIA aims to nurture our students to become socially responsible citizens who contribute meaningfully to the community, through the **learning and application of values, knowledge and skills**. As part of VIA, students **reflect on their experience, the values they have put into practice, and how they can continue to contribute meaningfully**.
 
-  
-
 Culture of **C.A.R.E**
-
-  
 
 VIA at Zhenghua reinforces the culture of **C.A.R.E** as exemplified by our students who are:
 
@@ -63,9 +58,10 @@ Through these opportunities, students are inspired to lead VIA projects in schoo
 	</figcaption>
 </figure>
 
-|   |   |
-|:-:|:-:|
-| <img src="/images/ZHPS%20Experience/Values%20In%20Action/Bags%20of%20Love.jpg" style="width:60%">  |   ![](/images/ZHPS%20Experience/Values%20In%20Action/Bags%20of%20Love%202.jpg) |
+<img src="/images/via.jpg" style="width:40%;margin-right:15px;" align = "left">
+<img src="/images/via.jpg" style="width:40%;margin-left:55px;" align = "right">
+
+<br clear="left">
 
 <center><b>Bags of Love Project led by Prefects</b></center>
 
@@ -92,25 +88,33 @@ Our VIA programmes provide holistic learning experiences that develop our studen
 	</figcaption>
 </figure>
 
-<img src="/images/ZHPS%20Experience/Values%20In%20Action/Students%20donating%20to%20Project%20Hong%20Bao_1.png" style="width:40%; float: left; padding:10px"><img src="/images/ZHPS%20Experience/Values%20In%20Action/Angpow%202.jpg" style="width:54%; float: left; padding:10px"><br clear="left">
+<img src="/images/via.jpg" style="width:40%;margin-right:15px;" align = "left">
+<img src="/images/via.jpg" style="width:40%;margin-left:55px;" align = "right">
+
+<br clear="left">
 
 <center><i>Students donating to Project Hong Bao for Tan Tock Seng Community Fund</i></center>
 
-|   |   |
-|:-:|:-:|
-| ![](/images/ZHPS%20Experience/Values%20In%20Action/Appreciation%20to%20migrant%20workers_1.png)  | ![](/images/ZHPS%20Experience/Values%20In%20Action/Appreciation%20to%20migrant%20workers_2.png)  |
+<img src="/images/via.jpg" style="width:40%;margin-right:15px;" align = "left">
+<img src="/images/via.jpg" style="width:40%;margin-left:55px;" align = "right">
+
+<br clear="left">
 
 <center><i>Students wrote postcards to show their appreciation for the Migrant workers</i></center>
 
-|   |   |   |
-|:-:|:-:|:---:|
-| ![](/images/ZHPS%20Experience/Values%20In%20Action/Appreciation%20to%20migrant%20workers_3.png)  |<img src="/images/ZHPS%20Experience/Values%20In%20Action/Appreciation%20to%20migrant%20workers_4.png" style="width:85%">  | <img src="/images/ZHPS%20Experience/Values%20In%20Action/Appreciation%20to%20migrant%20workers_5.png" style="width:55%">  |
+<img src="/images/via.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/via.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/via.jpg" style="width:30%;margin-right:15px;" align = "left">
+
+<br clear="left">
 
 <center><i>Students wrote postcards to show their appreciation for the Migrant workers</i></center>
 
 
-|   |   |   |
-|:-:|:-:|:---:|
-| <img src="/images/ZHPS%20Experience/Values%20In%20Action/1EE%20Sweeping%20floor.jpg" style="width:70%">  | ![](/images/ZHPS%20Experience/Values%20In%20Action/2IN%20-%20Emptying%20Dustbin.jpg) | <img src="/images/ZHPS%20Experience/Values%20In%20Action/3CN%20-%20Doing%20wipe%20down.jpg" style="width:95%"> |
+<img src="/images/via.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/via.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/via.jpg" style="width:30%;margin-right:15px;" align = "left">
+
+<br clear="left">
 
 <center>VIA starts with <b>Everyday Responsibilities</b> where students will develop a sense of responsibility and care for their own shared spaces through daily cleaning and adopting sustainable practices in school and at home.</center>
