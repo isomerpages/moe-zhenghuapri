@@ -40,6 +40,7 @@ Our Applied Learning Programme (ALP) engages our students in inter-disciplinary,
 In our brief history of more than 30 years, students who have graduated from here to further education and have developed lifelong skills in physical, intellectual, emotional and social domains. They have become useful, productive and contributing citizens of our nation. We are very proud of all our graduates. All these achievements bear testimony to the school motto, ‘The Best That We Can Be’ and the emphasis on the development of the whole child.
 
 
-|   |   |
-|:---:|:---:|
-| <img src="/images/About%20us/02-OurHistory.jpg" style="width:50%"> | ![](/images/About%20us/01-OurHistory.jpg)  |
+<img src="/images/About%20us/02-OurHistory.jpg" style="width:35%;margin-right:15px;margin-left:105px;" align = "left">
+<img src="/images/About%20us/01-OurHistory.jpg" style="width:40%;margin-right:65px;" align = "right">
+
+<br clear="left">
