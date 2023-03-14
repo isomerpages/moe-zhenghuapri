@@ -11,3 +11,13 @@ third_nav_title: Our School Identity
 3\.  We believe that, with effective effort, our students can improve themselves and are capable of achieving their personal best.
   
 [(Source 2021 P’s talk during P1 Orientation)](https://staging.d1kzj21lsiskym.amplifyapp.com/our-info-hub/information-for-parents/primary-1-matters/)
+
+<img src="/images/corebelief1.jpg" style="width:40%;margin-left:105px;" align = "left">
+<img src="/images/corebelief2.jpg" style="width:40%;margin-right:35px;" align = "right">
+
+<br clear="left">
+
+<img src="/images/corebelief3.jpg" style="width:40%;margin-left:105px;" align = "left">
+<img src="/images/corebelief4.jpg" style="width:40%;margin-right:35px;" align = "right">
+
+<br clear="left">
