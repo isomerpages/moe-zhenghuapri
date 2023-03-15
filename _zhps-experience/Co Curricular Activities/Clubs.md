@@ -19,7 +19,7 @@ Art and Craft (TArP)
 
 | Teachers-in-charge |
 |---|
-| Mdm Lem Li Kuen (IC)<br>Mdm Gina Chai<br>Ms Khor Ting Yan<br><br><br>Advisor: Mr Eddy Norisman |
+| Mdm Lem Li Kuen (IC)<br>Mdm Gina Chai<br>Ms Khor Ting Yan<br><br>Advisor: Mr Eddy Norisman |
 |
 
 Greenovation Club
