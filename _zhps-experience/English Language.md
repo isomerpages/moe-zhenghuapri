@@ -37,7 +37,9 @@ Students will be exposed to different occupations and give a speech on their dre
 
 Students dress up as their favourite characters to do a presentation. This programme aims to arouse students’ curiosity in the characters found in the books that they read and instil the joy of reading.
 
+![](/images/englishlanguage1.jpg)
 
+![](/images/englishlanguage2.jpg)
 
 **Authentic Learning Experiences**  
 
