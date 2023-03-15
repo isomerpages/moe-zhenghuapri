@@ -72,7 +72,7 @@ The department adopts the Outdoor Experiential Learning Approach for Life Skills
 4\.  Generalize- to connect the life skills learnt to the larger world/ realities of living.
 5\.  Apply- the new life skills learned to other parts of their lives.
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS-a2QEGjSkOjqznREeRlz3khMsIZ4_swOO9jeek6Fo8skFMkyRM6m9bSBEJV-radJr-mLb51mEvJ8N/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS-a2QEGjSkOjqznREeRlz3khMsIZ4_swOO9jeek6Fo8skFMkyRM6m9bSBEJV-radJr-mLb51mEvJ8N/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 ## Health Education Programmes
 
@@ -91,3 +91,5 @@ The following health related programmes are organized for the pupils throughout 
 4\.  The Fruity Day encourages students to pack fruits for their snack time. They will then take a group picture with their form teachers. At the same time, they are reminded to stay healthy by having 2 servings of fruit and 2 servings of vegetables every day.
 
 5\.  Dental Programme promotes proper oral care by educating the pupils on proper tooth brushing exercises.
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTr1iDn7JODW-_WneQt7XAqj_0pYLZhtlVMeqfQ0czdvg3ZWFt-pMklUFttRThHAmnNXZllJ98kGd_u/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
