@@ -54,3 +54,4 @@ Students who require more intensive intervention will be referred to our Lead Sc
 
 <center>REMBMER</center>
 Our school counsellors are available for you and want to make your school experience the best as enriching as it can be. You may be feeling uncomfortable with certain issues or are not doing as well in school as according to your expectations— and that's OK. The counsellors will try to help you figure out what's going on. It's also a good idea to know about counselling and what they school counsellors do even if you don't need any help right now.
+
