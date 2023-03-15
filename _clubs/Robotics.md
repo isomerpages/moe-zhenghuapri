@@ -19,19 +19,24 @@ Programming using EV3 Lego Mindstorm / Spike
 Building using EV3 Lego Mindstorm / Spike
 
 
-| Year |            Events/Program            |         Achievement        |
+| Year |Events/Program| Achievement        |
 |:----:|:------------------------------------:|:--------------------------:|
 | 2021 | RCAP CoSpace Rescue, FirstSteps, U12 | **1st, 2nd, 3rd, Merit Place** |
-| 2021 |       RCAP CoSpace Rescue, U12       |          **3rd Place**         |
+| 2021 |       RCAP CoSpace Rescue, U12       | **3rd Place** |
+|
 
+<img src="/images/ZHPS%20Experience/Robotics/Robotics_1.jpg" style="width:40%;margin-left:45px;" align = "left">
+<img src="/images/ZHPS%20Experience/Robotics/Robotics_3.jpg" style="width:40%;margin-right:95px;" align = "right">
 
-|   |   |
-|:-:|:-:|
-|  ![](/images/ZHPS%20Experience/Robotics/Robotics_1.jpg) | ![](/images/ZHPS%20Experience/Robotics/Robotics_3.jpg)  |
+<br clear="left">
 
-|   |   |    |    |
-|:----:|----:|:----:|:---:|
-|  ![](/images/ZHPS%20Experience/Robotics/Robotics_4.jpg) | ![](/images/ZHPS%20Experience/Robotics/Robotics_5.jpg)  |  ![](/images/ZHPS%20Experience/Robotics/Robotics_6.jpg)  |  ![](/images/ZHPS%20Experience/Robotics/Robotics_2.jpg) |
+<img src="/images/ZHPS%20Experience/Robotics/Robotics_4.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img src="/images/ZHPS%20Experience/Robotics/Robotics_5.jpg" style="width:21%;margin-right:15px;" align = "left">
+<img src="/images/ZHPS%20Experience/Robotics/Robotics_6.jpg" style="width:23%;margin-right:15px;" align = "left">
+<img src="/images/ZHPS%20Experience/Robotics/Robotics_2.jpg" style="width:20%;margin-right:15px;" align = "left">
+
+<br clear="left">
+
 
 <img src="/images/ZHPS%20Experience/Robotics/Robotics_7.jpg" style="width:20%">
 
