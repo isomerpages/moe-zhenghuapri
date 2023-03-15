@@ -92,9 +92,13 @@ In promoting Art appreciation further, art is integrated in other subjects to su
 
 The art making process in the Primary 3 Applied Learning Programme is conducted through a choice-based lesson setting. Through a series of lessons, students are given the opportunity to ideate what they have learned during Social Studies to create an artwork that advocates water conservation.
 
-|   |   |   |
-|:-:|:-:|:-:|
-| ![](/images/ZHPS%20Experience/Art/ALP_1.jpg)  | <img src="/images/ZHPS%20Experience/Art/ALP_2.jpg" style="width:67%">   | ![](/images/ZHPS%20Experience/Art/ALP_3.jpg)   |
+
+<img src="/images/ZHPS%20Experience/Art/ALP_1.jpg" style="width:30%;margin-right:15px;margin-left:75px;" align = "left">
+<img src="/images/ZHPS%20Experience/Art/ALP_2.jpg" style="width:17%;margin-right:15px;" align = "left">
+<img src="/images/ZHPS%20Experience/Art/ALP_3.jpg" style="width:30%;margin-right:15px;" align = "left">
+
+<br clear="left">
+
 
 **(b) Primary 4 Interdisciplinary Museum Based Learning (IMBL)**
 
