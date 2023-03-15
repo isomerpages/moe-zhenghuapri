@@ -14,7 +14,7 @@ third_nav_title: Co Curricular Activities
 | Mrs Angela Tan (I/C)<br>Mdm Nur Khairunnisa (AI/C)<br>Mdm Arianna<br>Miss Ding Caihong<br>Mdm Siti Aisyah Azan<br>Mr Zulkifli<br><br>Advisor: Mr Alex Chew |
 |
 
-[Art and Craft (TArP)](/clubs/tarp/)
+[Art and Craft (TArP)](/clubs/art-and-craft-tarp/)
 --------------------
 
 | Teachers-in-charge |
