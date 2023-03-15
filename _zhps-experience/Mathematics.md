@@ -121,10 +121,8 @@ Our little bakers need to use Mathematics when measuring and weighing ingredient
 The pictures below show students having fun baking different types of cookies.
   
 
-**Watch the videos - Let’s learn baking from Kelyn Lim (5IY) and Yon Kundu (5CE).**
-
-[Baking with Lim Qian Yu Kelyn.mp4](https://drive.google.com/file/d/1WVAcDSx3QG6gNLPsDM8bOgYX4hqdN3GY/view?usp=share_link)
-
+**Watch the videos - Let’s learn baking from Kelyn Lim (5IY) and Yon Kundu (5CE).**<br>
+[Baking with Lim Qian Yu Kelyn.mp4](https://drive.google.com/file/d/1WVAcDSx3QG6gNLPsDM8bOgYX4hqdN3GY/view?usp=share_link)<br>
 [Baking with SYON KUNDU.mp4](https://drive.google.com/file/d/1HgPFxk0-ZaYed8FfH_UDDuUUR1LkKPr6/view?usp=share_link)
 
 **Math Olympiad and Investigative Math Programmes for selected P4, P5 and P6 Students**<br>
