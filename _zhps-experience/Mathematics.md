@@ -63,21 +63,17 @@ To ignite the joy of learning in Mathematics, students are provided with differe
 
 3\. **Making Thinking Visible through Mathematical Reasoning and Communication**
 
-
-
 To develop a thinker and a resilient problem solver, our students are encouraged to communicate their reasoning and connections through various Mathematical tasks and activities such as performance tasks. Students are given opportunities to discuss and express their thoughts and ideas in both verbal and written forms (Mathematical Journal Writing). As a result, our students will be able to develop the capacities to think critically, creatively as well as confidently. 
 
 Mathematics Department Programmes
 ---------------------------------
 
-**P3 Math Shopping Day – Self-Directed Learning**
-
+**P3 Math Shopping Day – Self-Directed Learning**<br>
 P3 Shopping allows students to see the connection between the mathematics they complete in the classroom and the world outside the classroom. Students engage in decision-making, exercise adaptability, and communicate their ideas during the shopping experience. The concept of money is also further consolidated and enhanced as students make purchases within a given budget for their group party which they have planned the day before.  
 
   
 
-**<u>P</u>lay <u>A</u>nd <u>L</u>earn <u>M</u>ath (PALM) @ the Classroom - P1 to P6**
-
+**<u>P</u>lay <u>A</u>nd <u>L</u>earn <u>M</u>ath (PALM) @ the Classroom - P1 to P6**<br>
 To inculcate the love for the subject, the Mathematics Department organises PALM @ the Classroom for our students. The programme aims to:
 
 *   provide more opportunities for students to be more engaged during Math lessons.
@@ -94,8 +90,7 @@ To inculcate the love for the subject, the Mathematics Department organises PAL
 |:-:|:-:|:--:|
 | ![](/images/ZHPS%20Experience/Mathematics/PALM%20%20Classroom_1.jpg)  | ![](/images/ZHPS%20Experience/Mathematics/PALM%20%20Classroom_2.jpg)   |  ![](/images/ZHPS%20Experience/Mathematics/PALM%20%20Classroom_3.jpg)  |
 
-**Mathematics Learning Trail - P1 to P6**
-
+**Mathematics Learning Trail - P1 to P6**<br>
 During the trail, students will be exposed to mathematical problem solving in a real-life situation. Students will need to apply concepts learnt in the classroom curriculum to solve problems in authentic situations.
 
 |     |                       |
@@ -118,8 +113,7 @@ P4 – Symmetry
 P5 – Cubes and Cuboids  
 P6 – Circles/Nets
 
-**P5 Little Bakers Programme**
-
+**P5 Little Bakers Programme**<br>
 To foster the joy of learning and nurture the spirit of Entrepreneurial Dare, the Math department embarked on a specially designed programme for our Primary 5 students.  The Little Bakers Programme aims to engage our students through fun and hands-on baking experience and provide them with the opportunity to appreciate and apply Mathematics and Science concepts in real life. 
 
 Our little bakers need to use Mathematics when measuring and weighing ingredients, conversion of units, calculating ratio when making changes to recipes. They also have to apply Science concepts such as heat and temperature. Through this programme, students will understand how the concepts and skills learnt during Mathematics and Science lessons affect the quality of cookies they are baking. 
@@ -133,8 +127,7 @@ The pictures below show students having fun baking different types of cookies.
 
 [Baking with SYON KUNDU.mp4](https://drive.google.com/file/d/1HgPFxk0-ZaYed8FfH_UDDuUUR1LkKPr6/view?usp=share_link)
 
-  
-
-**Math Olympiad and Investigative Math Programmes for selected P4, P5 and P6 Students**
-
+**Math Olympiad and Investigative Math Programmes for selected P4, P5 and P6 Students**<br>
 The objective of the programme is to equip our upper primary students with mathematical problem-solving techniques and a creative mindset. They will also be trained and honed for competitions such as Singapore Math Kangaroo Contest (SMKC), Singapore and Asian Schools Math Olympiad (SASMO), Singapore Mathematical Olympiad for Primary Schools (SMOPS) and National Mathematical Olympiad of Singapore (NMOS).
+
+<img src="/images/math.png" style="width:75%">
