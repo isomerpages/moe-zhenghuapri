@@ -106,9 +106,11 @@ The Primary 4 Interdisciplinary Museum Based Learning is a collaborative program
 
 For example, students are engaged in discussions of artworks to discover the connections across subjects such as English Language, Social Studies, Character and Citizenship Education (CCE) and the Malay Language.
 
-|   |   |   |
-|:-:|:-:|:-:|
-|![](/images/ZHPS%20Experience/Art/IMBL_1.jpg)   |  ![](/images/ZHPS%20Experience/Art/IMBL_3.jpg)    |    <img src="/images/ZHPS%20Experience/Art/IMBL_2.jpg" style="width:47%">    |
+<img src="/images/ZHPS%20Experience/Art/IMBL_1.jpg" style="width:35.5%;margin-right:15px;margin-left:25px;" align = "left">
+<img src="/images/ZHPS%20Experience/Art/IMBL_3.jpg" style="width:35.5%;margin-right:15px;" align = "left">
+<img src="/images/ZHPS%20Experience/Art/IMBL_2.jpg" style="width:20%;margin-right:5px;" align = "left">
+
+<br clear="left">
 
 <img src="/images/ZHPS%20Experience/Art/IMBL_4.jpg" style="width:47%">
 
