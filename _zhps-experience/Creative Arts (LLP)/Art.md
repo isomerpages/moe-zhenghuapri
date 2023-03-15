@@ -20,10 +20,15 @@ Meanwhile, Art enrichment programmes support the curriculum in enhancing and eng
 
 <center><i>A framework depicting the Vision and Mission of the Art department in our school</i></center>
 
-|   |   |
-|:-:|:-:|
-| ![](/images/ZHPS%20Experience/Art/Art_1.jpg)  | ![](/images/ZHPS%20Experience/Art/Art_2.jpg)   |
-|  ![](/images/ZHPS%20Experience/Art/Art_3.jpg)  | ![](/images/ZHPS%20Experience/Art/Art_4.jpg)   |
+<img src="/images/ZHPS%20Experience/Art/Art_1.jpg" style="width:35%;margin-left:95px;" align = "left">
+<img src="/images/ZHPS%20Experience/Art/Art_2.jpg" style="width:35%;margin-right:115px;" align = "right">
+
+<br clear="left">
+
+<img src="/images/ZHPS%20Experience/Art/Art_3.jpg" style="width:35%;margin-left:95px;" align = "left">
+<img src="/images/ZHPS%20Experience/Art/Art_4.jpg" style="width:35%;margin-right:115px;" align = "right">
+
+<br clear="left">
 
 
 The table below summarises provides examples of enrichment programmes that develop and further students’ skills in Art:
