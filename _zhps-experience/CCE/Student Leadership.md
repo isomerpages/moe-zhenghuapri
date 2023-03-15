@@ -16,8 +16,7 @@ In Zhenghua Primary School, we believe that every student can be a leader of cha
 
   
 
-<b><u>Tier 1</u></b>
-
+<b><u>Tier 1</u></b><br>
 As part of developing each student’s leadership skills, all students go through a school-wide programme based on the 4 Leadership Practices that the school subscribes to.
 
 As a leader of character, students are expected to:
@@ -33,13 +32,11 @@ Students undergo explicit lessons during form teacher guidance periods (FTGP) to
 <img src="/images/ZHPS%20Experience/Student%20Leadership/Serve%20with%20Humility%20and%20Care.png" style="width:70%; float:left">
 <img src="/images/ZHPS%20Experience/Student%20Leadership/Leadership%20Practice%202.png" style="width:27%; float:left"><br clear="left">
 
-<b><u>Tier 2</u></b>
-
+<b><u>Tier 2</u></b><br>
 Class leaders include roles such as Chairperson, Vice-chairperson, Environmental Champions, Cyber Wellness Ambassadors, and Peer Support Leaders. They are selected at the start of each year and will serve as the main group of leaders in class. To help them better manage their roles and responsibilities, they undergo leadership trainings and work with the teachers to plan and implement projects that will serve their classmates and schoolmates.
 
   
-<b><u>Tier 3</u></b>
-
+<b><u>Tier 3</u></b><br>
 Prefects and CCA leaders make up this group of student leaders. The students in this tier are also engaged in targeted leadership trainings to hone their leadership potential and skills. Prefects are role models to their schoolmates and are involved in the running of various school events such as Chinese New Year and Teachers’ Day celebrations as well as carrying out of duties such as safety duties. CCA leaders are role models in their CCAs and influence their CCA mates positively. Tier 3 leaders are exposed to more leadership opportunities and they are given the opportunity to initiate projects and contribute to initiatives that will serve the school and community.
 
 
@@ -49,8 +46,7 @@ Prefects and CCA leaders make up this group of student leaders. The students in 
 
  ![](/images/ZHPS%20Experience/Student%20Leadership/Student%20Leadership_3.jpg)
  
-<b><u>Tier 4</u></b>
-
+<b><u>Tier 4</u></b><br>
 This is the pinnacle of student leadership in Zhenghua Primary School. Potential prefects are monitored since Primary 5 in order to ascertain that they have what it takes to lead the school and be exemplary role models.
 
   
