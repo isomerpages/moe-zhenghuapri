@@ -47,47 +47,7 @@ Student Welfare Support refers to the work with students with attendance issues.
 
 A Student Welfare Officer assesses the needs of students with poor school attendance and works with community partners, parents and teachers to address their needs and help them return to school.
 
-**Referral to specialists or community agencies**
-
+**Referral to specialists or community agencies**<br>
 Students who require more intensive intervention will be referred to our Lead School Counsellors, Lead Student Welfare Officers or mental health professionals from our school network. These would include FSCs, MSF, REACH, NAMS, TOUCH.
 
-|   |   |
-|:----:|:----:|
-|  ![](/images/ZHPS%20Experience/Student%20Dev%20&%20Well%20Being/Reminder.jpg) | REMEMBER<br><br>Our school counsellors are available for you and want to make your school experience the best as enriching as it can be. You may be feeling uncomfortable with certain issues or are not doing as well in school as according to your expectations— and that's OK. The counsellors will try to help you figure out what's going on. It's also a good idea to know about counselling and what they school counsellors do even if you don't need any help right now.  |
-
-
-<img src="/images/ZHPS%20Experience/Student%20Dev%20&%20Well%20Being/Visit%20Us.jpg" style="width:20%;float:left"><br clear="left">
-
-
-You are also welcomed to walk into the counselling room to speak with the counsellor should you encounter difficult situations such as:
-
-|                                |                                  |
-|---------------|-------------------------|
-| Stress                         | Friendship Issues                |
-| Academic /Exam Anxieties       | Gaming and Social Media Reliance |
-| Grief and Loss                 | Cyberbullying/Stalking           |
-| Relationship issues with Peers | Constant worrying                |
-| Family Conflicts               | Time Management/Goal setting     |
-| School Anxieties               | Low Motivation                   |
-
-<center>Upcoming Events in ZHPS : Coffee Sessions</center>
-
-|   |   |
-|---|:-:|
-| The counselling Team will be hosting Coffee Sessions with Parents as our SMM measure starts to relax. Parents will be notified vide PG. Do look out for your messages.  <br>The sessions will cover topics of concern and also help to address concerns you may have.  | ![](/images/ZHPS%20Experience/Student%20Dev%20&%20Well%20Being/Coffee%20Session.png)   |
-
-
-Programmes by the Counselling Team @ ZHPS focused on building and empowering students through engagement and motivation
-
-|                          |              |                          |
-|-----------------------|----------|----------------|
-| Sakura                   | P3–P5        | Guidance and Support     |
-| Rainbow Connections      | P1–P2        | Friendship/Social Skills |
-| Screen on and Screen Off | Whole school | Guidance and Support     |
-| Chapters                 | P6           | Transitions              |
-| Crossroads               | P6           | Coaching and Mentoring   |
-
-
-<img src="/images/ZHPS%20Experience/Student%20Dev%20&%20Well%20Being/More%20Info.jpg" style="width:20%;float:left"><br clear="left">
-
-Please feel free to call us and talk to us if you have any concerns. The counselling team is here to support you.
+![](/images/counsellingprogramme1.jpg)
