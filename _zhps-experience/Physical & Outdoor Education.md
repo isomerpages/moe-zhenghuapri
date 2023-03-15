@@ -4,7 +4,7 @@ permalink: /zhps-experience/physical-n-outdoor-education/
 description: ""
 ---
 # upload image slides to google slide
-# Physical & Outdoor Education
+# Physical &amp; Outdoor Education
 
 ## Vision
 
@@ -12,9 +12,9 @@ Every Pupil acquires the physical skills, knowledge, practices and values to pur
 
 ## Mission
 
-Through a dynamic team, opportunities are created & provided for every pupil to be effectively engaged in the development of their physical skills, knowledge, practices and values so that they will be inspired to lead a lifetime of active, healthy living so as to be a useful citizen of Singapore.
+Through a dynamic team, opportunities are created &amp; provided for every pupil to be effectively engaged in the development of their physical skills, knowledge, practices and values so that they will be inspired to lead a lifetime of active, healthy living so as to be a useful citizen of Singapore.
 
-![](/images/ZHPS%20Experience/Physical%20&%20Outdoor%20Education/PE%20Aim%20Goals.jpg)
+![](/images/ZHPS%20Experience/Physical%20&amp;%20Outdoor%20Education/PE%20Aim%20Goals.jpg)
 
 
 ## Physical development through the PE curriculum
@@ -27,24 +27,24 @@ The motor skills and movement concepts framework identifies the three different 
 
 ## Motor skills and Movement Concept Framework
 
-![](/images/ZHPS%20Experience/Physical%20&%20Outdoor%20Education/Motor%20skills%20and%20Movement%20Concept%20Framework.jpg)
+![](/images/ZHPS%20Experience/Physical%20&amp;%20Outdoor%20Education/Motor%20skills%20and%20Movement%20Concept%20Framework.jpg)
 
 ## Character development through the PE curriculum
 
-The PE curriculum framework comes in the shape of a sail boat as we believe the development of our students through the PE curriculum is more of a journey rather than the destination. It is through the process of learning that the pupils’ body, mind and soul are strengthened. The shape of a sail boat also depicts the need to adapt to the winds of change ever so prevalent in the 21st century landscape and to acquire the emerging 21st century competencies. However, as the pupils embark on the journey towards mastery of change and steer through the seas of change, they must be guided and grounded with strong core values. The PE curriculum aims to provide an authentic setting for the pupils to learn and practice values and ideals, develop appropriate social interaction skills, and express as well as control emotions that support the development of character.
+The PE curriculum framework comes in the shape of a sail boat as we believe the development of our students through the PE curriculum is more of a journey rather than the destination. It is through the process of learning that the pupils’ body, mind and soul are strengthened. The shape of a sail boat also depicts the need to adapt to the winds of change ever so prevalent in the 21st&nbsp;century landscape and to acquire the emerging 21st&nbsp;century competencies. However, as the pupils embark on the journey towards mastery of change and steer through the seas of change, they must be guided and grounded with strong core values. The PE curriculum aims to provide an authentic setting for the pupils to learn and practice values and ideals, develop appropriate social interaction skills, and express as well as control emotions that support the development of character.
 
   
 
-The table below shows how the various socio emotional and Emerging 21st competencies predominantly serves as prerequisites as well as outcomes of the PE goals, and what desired outcomes to be derived from the goals.
+The table below shows how the various socio emotional and Emerging 21st&nbsp;competencies predominantly serves as prerequisites as well as outcomes of the PE goals, and what desired outcomes to be derived from the goals.
 
 
-![](/images/ZHPS%20Experience/Physical%20&%20Outdoor%20Education/Character%20development%20through%20the%20PE%20curriculum.jpg)
+![](/images/ZHPS%20Experience/Physical%20&amp;%20Outdoor%20Education/Character%20development%20through%20the%20PE%20curriculum.jpg)
 
 
-Enriching the school experience through the sports & outdoor programmes
+Enriching the school experience through the sports &amp; outdoor programmes
 -----------------------------------------------------------------------
 
-The PE department constantly seeks to provide opportunities for students to develop their characters and enrich their school experiences through the school’s sports & outdoor education. The Amazhenghua Race, Sports Education Programmes , Swimsafer programme , Adventure Camp cum IP Trail, Youth Olympic Games, Play@Recess programmes, and other sports & education programmes are implemented with the following objectives
+The PE department constantly seeks to provide opportunities for students to develop their characters and enrich their school experiences through the school’s sports &amp; outdoor education. The Amazhenghua Race, Sports Education Programmes , Swimsafer programme , Adventure Camp cum IP Trail, Youth Olympic Games, Play@Recess programmes, and other sports &amp; education programmes are implemented with the following objectives
 
   
 
@@ -52,7 +52,7 @@ The PE department constantly seeks to provide opportunities for students to deve
 *   Developing sound attitude
 *   Expanding students’ mindset
 *   Developing the sense of perseverance
-*   Understand and apply teamwork & leadership qualities
+*   Understand and apply teamwork &amp; leadership qualities
 *   Build self-reliance and discipline in our students
 *   Expanding the students’ creative approach to challenges
 *   To equip the students with life skills to meet future challenges
@@ -72,8 +72,9 @@ The department adopts the Outdoor Experiential Learning Approach for Life Skills
 4\.  Generalize- to connect the life skills learnt to the larger world/ realities of living.
 5\.  Apply- the new life skills learned to other parts of their lives.
 
-## Health Education Programmes
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS-a2QEGjSkOjqznREeRlz3khMsIZ4_swOO9jeek6Fo8skFMkyRM6m9bSBEJV-radJr-mLb51mEvJ8N/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
+## Health Education Programmes
 
 The PE Department has a vision that every pupil of Zhenghua is personally and socially responsible for the health and well-being of others and the environment. We also believe that every pupil should be equipped with the process skills and knowledge on health related matters regarding oral hygiene, environment hygiene, nutrition and physical fitness.
 
