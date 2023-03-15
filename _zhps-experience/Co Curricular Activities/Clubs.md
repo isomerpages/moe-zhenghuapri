@@ -6,7 +6,7 @@ third_nav_title: Co Curricular Activities
 ---
 # Clubs
 
-Robotics
+[Robotics](/clubs/robotics/)
 --------
 
 | Teachers-in-charge |
@@ -14,7 +14,7 @@ Robotics
 | Mrs Angela Tan (I/C)<br>Mdm Nur Khairunnisa (AI/C)<br>Mdm Arianna<br>Miss Ding Caihong<br>Mdm Siti Aisyah Azan<br>Mr Zulkifli<br><br>Advisor: Mr Alex Chew |
 |
 
-Art and Craft (TArP)
+[Art and Craft (TArP)](/clubs/tarp/)
 --------------------
 
 | Teachers-in-charge |
@@ -22,7 +22,7 @@ Art and Craft (TArP)
 | Mdm Lem Li Kuen (IC)<br>Mdm Gina Chai<br>Ms Khor Ting Yan<br><br>Advisor: Mr Eddy Norisman |
 |
 
-Greenovation Club
+[Greenovation Club](/clubs/greenovation-club/)
 --------------------
 
 | Teachers-in-charge |
