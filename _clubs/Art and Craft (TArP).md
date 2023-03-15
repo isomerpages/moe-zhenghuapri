@@ -17,16 +17,17 @@ Students are active participants in Singapore Youth Festival (SYF) Art Exhibitio
 
 | Year | Events/Program |              Achievement              |
 |:----:|:--------------:|:-------------------------------------:|
-| 2021 |       SYF      |            Special Mention            |
-| 2019 |       SYF      | On-site Exhibition and Extended Sites |
-| 2017 |       SYF      | On-site Exhibition and Extended Sites |
-| 2015 |       SYF      | On-site Exhibition and Extended Sites |
+| 2021 | SYF | Special Mention |
+| 2019 | SYF | On-site Exhibition and Extended Sites |
+| 2017 | SYF | On-site Exhibition and Extended Sites |
+| 2015 | SYF | On-site Exhibition and Extended Sites |
+|
 
+<img src="/images/ZHPS%20Experience/Art%20and%20Craft%20(TArP)/Art%20and%20Craft_1.jpg" style="width:30%;margin-left:45px;" align = "left">
+<img src="/images/ZHPS%20Experience/Art%20and%20Craft%20(TArP)/Art%20and%20Craft_2.jpg" style="width:55%;margin-right:55px;" align = "right">
 
-|   |   | 
-|:-:|:-:|
-|![](/images/ZHPS%20Experience/Art%20and%20Craft%20(TArP)/Art%20and%20Craft_1.jpg)   |  ![](/images/ZHPS%20Experience/Art%20and%20Craft%20(TArP)/Art%20and%20Craft_2.jpg)    |  
+<br clear="left">
 
-![](/images/ZHPS%20Experience/Art%20and%20Craft%20(TArP)/Art%20and%20Craft_3.jpg)  
+<img src="/images/ZHPS%20Experience/Art%20and%20Craft%20(TArP)/Art%20and%20Craft_3.jpg" style="width:75%">
 
 \*Photos taken without masks were pre-COVID times
