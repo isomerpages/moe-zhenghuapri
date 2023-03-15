@@ -58,57 +58,10 @@ Most CCA will run on Fridays except for Rugby on Monday and Football on Thursday
 
 Please refer to the following CCA schedule:
 
-<table class="iveo_table ives_tab_simple3 ive_eobj_center">
-<tbody>
-<tr>
-<td style="text-align: center;" width="156"><strong>Monday</strong></td>
-<td style="text-align: center;" width="156"><strong>Thursday</strong></td>
-<td style="text-align: center;" colspan="2" width="312"><strong>Friday</strong></td>
-</tr>
-<tr>
-<td style="text-align: center;" width="156"><strong>3.30pm-5.30pm</strong></td>
-<td style="text-align: center;" width="156"><strong>3.30pm-5.30pm</strong></td>
-<td style="text-align: center;" width="156"><strong>1.00pm-3.30pm</strong><br /><strong>(Lunch:1.30pm)</strong></td>
-<td style="text-align: center;" width="156"><strong>1.30pm-3.30pm</strong><br /><strong>(Lunch:1.00pm)</strong></td>
-</tr>
-<tr>
-<td style="text-align: center;" width="156"><strong>Rugby</strong></td>
-<td style="text-align: center;" width="156"><strong>Football</strong></td>
-<td style="text-align: center;" width="156"><strong>Brass Band</strong></td>
-<td style="text-align: center;" width="156"><strong>Basketball</strong></td>
-</tr>
-<tr>
-<td style="text-align: center;" width="156">&nbsp;</td>
-<td style="text-align: center;" width="156">&nbsp;</td>
-<td style="text-align: center;" width="156"><strong>Brownies</strong></td>
-<td style="text-align: center;" width="156"><strong>Chinese Dance</strong></td>
-</tr>
-<tr>
-<td style="text-align: center;" width="156">&nbsp;</td>
-<td style="text-align: center;" width="156">&nbsp;</td>
-<td style="text-align: center;" width="156"><strong>Choir</strong></td>
-<td style="text-align: center;" width="156"><strong>Indian Dance</strong></td>
-</tr>
-<tr>
-<td style="text-align: center;" width="156">&nbsp;</td>
-<td style="text-align: center;" width="156">&nbsp;</td>
-<td style="text-align: center;" width="156"><strong>Red Cross</strong></td>
-<td style="text-align: center;" width="156"><strong>Floorball</strong></td>
-</tr>
-<tr>
-<td style="text-align: center;" width="156">&nbsp;</td>
-<td style="text-align: center;" width="156">&nbsp;</td>
-<td style="text-align: center;" width="156"><strong>Talent Art</strong></td>
-<td style="text-align: center;" width="156"><strong>Malay Dance</strong></td>
-</tr>
-<tr>
-<td width="156">&nbsp;</td>
-<td width="156">&nbsp;</td>
-<td width="156">&nbsp;</td>
-<td  style="text-align: center;"  width="156"><strong>Robotics</strong></td>
-</tr>
-</tbody>
-</table>
+| Monday | Thursday |
+|:---:|:---:|
+| Rugby | Brass Band<br>Brownies<br>Choir<br>Red Cross<br>Talent Art<br>Greenovation<br>Football<br>Basketball<br>Chinese Dance<br>Indian Dance<br>Floorball<br>Malay Dance<br>Robotics |
+|  |  |
 
 Change of CCA
 -------------
