@@ -18,11 +18,11 @@ A School Counsellor supports students by helping them learn and use strategies t
 
 Counseling services are the heartbeat of ZhengHua Primary School . Counselors take a proactive, child-centered, and developmental approach in working with students, parents, and teachers. ZHPS counselors teach character education lessons, provide individual and help refer out for family counseling, facilitate small group workshops for students, have parent coffee sessions, do transitional programs, and coordinate student services in the school.
 
-![](/images/ZHPS%20Experience/Student%20Dev%20&%20Well%20Being/Counselling_1.jpg)
+<img src="/images/ZHPS%20Experience/Student%20Dev%20&%20Well%20Being/Counselling_1.jpg" style="width:85%">
 
-|   |   |
-|:--------:|------|
-|  <img src="/images/ZHPS%20Experience/Student%20Dev%20&%20Well%20Being/Counselling_2.png" style="width:100%"> |**An Overview of How we Work**<br>The counselling services in school are organised in a tiered system, beginning with first level intervention by teachers.<br><br>Second tier support are those cases requiring more specialised attention, referral is made by teachers to the Teacher Counsellors, Allied Educator (Counselling), Part Time School Counsellors, or external counsellors employed by the school.<br><br>Third Tier would be when students and families are supported with more intense intervention are referred to MOE Guidance Specialists or professional agencies, such REACH, NUH, NAMS , TOUCH, FSCs, MSF and many more   |
+<img src="/images/ZHPS%20Experience/Student%20Dev%20&%20Well%20Being/Counselling_2.png" style="width:45%;margin-right:15px;" align = "left">
+
+**An Overview of How we Work**<br>The counselling services in school are organised in a tiered system, beginning with first level intervention by teachers.<br><br>Second tier support are those cases requiring more specialised attention, referral is made by teachers to the Teacher Counsellors, Allied Educator (Counselling), Part Time School Counsellors, or external counsellors employed by the school.<br><br>Third Tier would be when students and families are supported with more intense intervention are referred to MOE Guidance Specialists or professional agencies, such REACH, NUH, NAMS , TOUCH, FSCs, MSF and many more
 
 
 ## How can School Counselling help?
