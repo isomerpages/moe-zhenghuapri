@@ -28,6 +28,7 @@ Junior Band
 | Year | Events/Program |          Achievement          |
 |:----:|:--------------:|:-----------------------------:|
 | 2018 |       SYF      | Certificate of Accomplishment |
+|
 
 
 <img src=" /images/ZHPS%20Experience/Performing%20arts/Brass%20Band%201.jpg" style="width:27%;float:left; padding:10px"><img src=" /images/ZHPS%20Experience/Performing%20arts/Brass%20Band%202.jpeg" style="width:35%;float:left; padding:10px"><img src=" /images/ZHPS%20Experience/Performing%20arts/Brass%20Band%203.jpeg" style="width:32%;float:left; padding:10px">
