@@ -71,14 +71,11 @@ Mathematics Department Programmes
 **P3 Math Shopping Day – Self-Directed Learning**<br>
 P3 Shopping allows students to see the connection between the mathematics they complete in the classroom and the world outside the classroom. Students engage in decision-making, exercise adaptability, and communicate their ideas during the shopping experience. The concept of money is also further consolidated and enhanced as students make purchases within a given budget for their group party which they have planned the day before.  
 
-  
-
 **<u>P</u>lay <u>A</u>nd <u>L</u>earn <u>M</u>ath (PALM) @ the Classroom - P1 to P6**<br>
 To inculcate the love for the subject, the Mathematics Department organises PALM @ the Classroom for our students. The programme aims to:
 
 *   provide more opportunities for students to be more engaged during Math lessons.
     
-
 *   inject fun into lessons, besides having hands-on activities.
     
 *   guide children to make meaning out of what they learn through purposeful play.
@@ -86,21 +83,18 @@ To inculcate the love for the subject, the Mathematics Department organises PAL
 *   help students manage their ‘real-world’ problems, (for example, taking turns).
 
 
-|   |   |   |
-|:-:|:-:|:--:|
-| ![](/images/ZHPS%20Experience/Mathematics/PALM%20%20Classroom_1.jpg)  | ![](/images/ZHPS%20Experience/Mathematics/PALM%20%20Classroom_2.jpg)   |  ![](/images/ZHPS%20Experience/Mathematics/PALM%20%20Classroom_3.jpg)  |
-
 **Mathematics Learning Trail - P1 to P6**<br>
 During the trail, students will be exposed to mathematical problem solving in a real-life situation. Students will need to apply concepts learnt in the classroom curriculum to solve problems in authentic situations.
 
-|     |                       |
+|  |  |
 |:---:|------------------------|
-| P1  | Math Learning Trail @ School                          |
-| P2  | Math Learning Trail @ School                          |
-| P3  | Math Shopping and Experiential Learning Trail         |
+| P1  | Math Learning Trail @ School |
+| P2  | Math Learning Trail @ School |
+| P3  | Math Shopping and Experiential Learning Trail |
 | P4  | Interdisciplinary Learning Trail @ Gardens by the Bay |
-| P5  | Eco-Math Learning Trail                               |
+| P5  | Eco-Math Learning Trail |
 | P6  | Experiential and Financial Literacy Trail @ Vivo City |
+|
 
 **<u>I</u>ntegrating <u>A</u>rt in <u>M</u>athematics ( I AiM)**
 
