@@ -14,12 +14,12 @@ In Zhenghua, our primary aim is to seek and provide opportunities for all studen
 
 We achieve this through our **3E** (Exposure, Enrichment and Excellence) approaches:
 
-|             |                                   |
+|  |  |
 |-------------|--------------------|
-| **Exposure:**   | To provide students with a variety of platforms for exposure to the different learning experiences to realise their potential through CCA. This experience includes experiences for all, and experiences for your core team.                                                                                                                             |
-| **Enrichment:** | Skillset gained through active participation in CCA thus ensuring growth in their skills and knowledge.                                                                                                                                              |
+| **Exposure:**   | To provide students with a variety of platforms for exposure to the different learning experiences to realise their potential through CCA. This experience includes experiences for all, and experiences for your core team. |
+| **Enrichment:** | Skillset gained through active participation in CCA thus ensuring growth in their skills and knowledge. |
 | **Excellence:** | Exposure to various platforms that would offer opportunities to enhance and further hone students’ skills. This may come in the form of competitions, performances, exhibitions at various levels (inter-school, national or international). Platform which allows students to perform the best that they can be, it is about their personal excellence. |
-
+|
 
 We provide students with broad experience through variety of CCAs comprising of the 4 domains:
 
