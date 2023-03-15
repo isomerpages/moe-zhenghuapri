@@ -52,6 +52,49 @@ Students who require more intensive intervention will be referred to our Lead Sc
 
 <img src="/images/counsellingprogramme1.jpg" style="width:50%;margin-right:15px;" align = "left">
 
-<center>REMBMER</center>
+<center>REMEMBER</center>
 Our school counsellors are available for you and want to make your school experience the best as enriching as it can be. You may be feeling uncomfortable with certain issues or are not doing as well in school as according to your expectations— and that's OK. The counsellors will try to help you figure out what's going on. It's also a good idea to know about counselling and what they school counsellors do even if you don't need any help right now.
 
+<br clear="left">
+
+<img src="/images/counsellingprogramme2.jpg" style="width:20%" align=left>
+
+<br clear="left">
+
+You are also welcomed to walk into the counselling room to speak with the counsellor should you encounter difficult situations such as:
+
+|  |  |
+|---|---|
+| Stress | Friendship Issues |
+| Academic /Exam Anxieties | Gaming and Social Media Reliance |
+| Grief and Loss | Cyberbullying/Stalking |
+| Relationship issues with Peers | Constant worrying |
+| Family Conflicts | Time Management/Goal setting |
+| School Anxieties | Low Motivation |
+|
+
+<center>Upcoming Events in ZHPS : Coffee Sessions</center>
+
+<img src="/images/counsellingprogramme3.jpg" style="width:30%;margin-left:55px;" align = "right">
+
+The counselling Team will be hosting Coffee Sessions with Parents as our SMM measure starts to relax. Parents will be notified vide PG. Do look out for your messages.<br>
+The sessions will cover topics of concern and also help to address concerns you may have.	
+
+<br clear="left">
+
+Programmes by the Counselling Team @ ZHPS focused on building and empowering students through engagement and motivation
+
+|  |  |  |
+|---|---|---|
+| Sakura | P3–P5 | Guidance and Support |
+| Rainbow Connections | P1–P2 | Friendship/Social Skills |
+| Screen on and Screen Off | Whole school | Guidance and Support |
+| Chapters | P6 | Transitions |
+| Crossroads | P6 | Coaching and Mentoring |
+|
+
+<img src="/images/counsellingprogramme4.jpg" style="width:15%" align=left>
+
+<br clear="left">
+
+Please feel free to call us and talk to us if you have any concerns. The counselling team is here to support you.
