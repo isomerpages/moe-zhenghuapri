@@ -120,10 +120,11 @@ For example, students are engaged in discussions of artworks to discover the con
 
 The Primary 5 students are given the opportunity to learn ceramics. Through our collaboration with NUS Museum and Asian Civilisation Museum, students learn more about ceramic trading in Singapore. During the lessons, different ceramic techniques are taught and students are given time to create their own ceramic ware.
 
+<img src="/images/ZHPS%20Experience/Art/Ceramics_1.jpg" style="width:40%;margin-left:65px;" align = "left">
+<img src="/images/ZHPS%20Experience/Art/Ceramics_2.jpg" style="width:40%;margin-right:65px;" align = "right">
 
-|   |   | 
-|:-:|:-:|
-| <img src="/images/ZHPS%20Experience/Art/Ceramics_1.jpg" style="width:65%">   |   ![](/images/ZHPS%20Experience/Art/Ceramics_2.jpg)   | 
+<br clear="left">
+
 
 Art Gallery@Zhenghua
 --------------------
@@ -135,13 +136,19 @@ The Art Gallery is the pride and joy of the school. Completed in 2021, the galle
 A set of gallery lessons are also customised for our students. They learn basic gallery etiquette and will be engaged in exciting lessons using the artworks in the gallery. A part of the gallery will also be opened to the students to learn how to curate artworks.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i9EdUx_fXfY" title="Talent Art Love Talk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-![](/images/ZHPS%20Experience/Art/Art%20GalleryZhenghua_1.jpg)
  
- |   |   |
-|:-:|:-:|
-| ![](/images/ZHPS%20Experience/Art/Art%20GalleryZhenghua_2.jpg)  |  ![](/images/ZHPS%20Experience/Art/Art%20GalleryZhenghua_3.jpg)  |
-|   ![](/images/ZHPS%20Experience/Art/Art%20GalleryZhenghua_4.jpg) |  ![](/images/ZHPS%20Experience/Art/Art%20GalleryZhenghua_5.jpg)  |
+<img src="/images/ZHPS%20Experience/Art/Art%20GalleryZhenghua_1.jpg" style="width:75%"> 
+ 
+<img src="/images/ZHPS%20Experience/Art/Art%20GalleryZhenghua_2.jpg" style="width:40%;margin-left:65px;" align = "left">
+<img src="/images/ZHPS%20Experience/Art/Art%20GalleryZhenghua_3.jpg" style="width:40%;margin-right:65px;" align = "right">
+
+<br clear="left">
+
+
+<img src="/images/ZHPS%20Experience/Art/Art%20GalleryZhenghua_4.jpg" style="width:40%;margin-left:65px;" align = "left">
+<img src="/images/ZHPS%20Experience/Art/Art%20GalleryZhenghua_5.jpg" style="width:40%;margin-right:65px;" align = "right">
+
+<br clear="left">
  
 ## Art – The Co-Curriculum
 
@@ -149,14 +156,12 @@ The Young Budding Artists is an art enrichment programme specially crafted for o
 
 Our young budding artists will get to enjoy a wide spectrum of creative processes. In the pursue of their artistic journey, they will learn about renowned master artists and their art movement. Whereafter, they get to explore the elements of various art materials as they create their meaningful artistic experience.
 
-  
-
 Students who go through the programme are then identified and encouraged to pursue their interest and hone their art skills further in Talent Art Co-Curricular Activity (CCA) at Primary 3.
 
+<img src="/images/ZHPS%20Experience/Art/Art%20Co-Curriculum_1.jpg" style="width:40%;margin-left:65px;" align = "left">
+<img src="/images/ZHPS%20Experience/Art/Art%20Co-Curriculum_2.jpg" style="width:40%;margin-right:65px;" align = "right">
 
-|   |   |
-|:-:|:-:|
-|![](/images/ZHPS%20Experience/Art/Art%20Co-Curriculum_1.jpg)   |  <img src="/images/ZHPS%20Experience/Art/Art%20Co-Curriculum_2.jpg" style="width:72%"> |
+<br clear="left">
 
 <img src="/images/ZHPS%20Experience/Art/Art%20Co-Curriculum_3.jpg" style="width:70%">
 
