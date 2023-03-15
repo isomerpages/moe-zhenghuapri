@@ -39,10 +39,11 @@ Class leaders include roles such as Chairperson, Vice-chairperson, Environmental
 <b><u>Tier 3</u></b><br>
 Prefects and CCA leaders make up this group of student leaders. The students in this tier are also engaged in targeted leadership trainings to hone their leadership potential and skills. Prefects are role models to their schoolmates and are involved in the running of various school events such as Chinese New Year and Teachers’ Day celebrations as well as carrying out of duties such as safety duties. CCA leaders are role models in their CCAs and influence their CCA mates positively. Tier 3 leaders are exposed to more leadership opportunities and they are given the opportunity to initiate projects and contribute to initiatives that will serve the school and community.
 
+<img src="/images/ZHPS%20Experience/Student%20Leadership/Student%20Leadership_1.jpg" style="width:53%;margin-left:25px;" align = "left">
+<img src="/images/ZHPS%20Experience/Student%20Leadership/Student%20Leadership_2.jpg" style="width:30%;margin-right:85px;" align = "right">
 
-|   |   |
-|:-:|:-:|
-|  ![](/images/ZHPS%20Experience/Student%20Leadership/Student%20Leadership_1.jpg) |  <img src="/images/ZHPS%20Experience/Student%20Leadership/Student%20Leadership_2.jpg" style="width:75%">  |
+<br clear="left">
+
 
  ![](/images/ZHPS%20Experience/Student%20Leadership/Student%20Leadership_3.jpg)
  
@@ -57,10 +58,10 @@ At the start of the year, the Head Prefect selection is carried out where select
 
 The Head Prefect and Deputy Head Prefects are expected to be able to rally their fellow schoolmates to create a positive impact. They will be in-charge of the school-wide values-in-action (VIA) project where the school will be encouraged to contribute to a worthwhile cause.
 
+<img src="/images/ZHPS%20Experience/Student%20Leadership/Student%20Leadership_4.jpg" style="width:53%;margin-left:35px;" align = "left">
+<img src="/images/ZHPS%20Experience/Student%20Leadership/Student%20Leadership_5.jpg" style="width:30%;margin-right:75px;" align = "right">
 
-|   |   |
-|:-:|:-:|
-|  ![](/images/ZHPS%20Experience/Student%20Leadership/Student%20Leadership_4.jpg) |  <img src="/images/ZHPS%20Experience/Student%20Leadership/Student%20Leadership_5.jpg" style="width:75%">  |
+<br clear="left">
 
  ![](/images/ZHPS%20Experience/Student%20Leadership/Student%20Leadership_6.jpg)
  
