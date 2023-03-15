@@ -51,11 +51,27 @@ Students will be captivated as they learn about metamorphosis and watch their ca
 
 <br clear="left">
 
+<img src="/images/englishlanguage5.jpg" style="width:32%;margin-left:75px;" align = "left">
+<img src="/images/englishlanguage6.jpg" style="width:43%;margin-right:67px;" align = "right">
+
+<br clear="left">
+
+<img src="/images/englishlanguage7.jpg" style="width:40%">
 
 <u>Making Ice Cream</u><br>
 Students get a chance to make ice cream after they learn about the features of a procedural text. Learning writing can be really fun too!
 
+<img src="/images/englishlanguage8.jpg" style="width:40%;margin-left:45px;" align = "left">
+<img src="/images/englishlanguage9.jpg" style="width:40%;margin-right:85px;" align = "right">
 
+<br clear="left">
+
+<img src="/images/englishlanguage10.jpg" style="width:40%;margin-left:45px;" align = "left">
+<img src="/images/englishlanguage11.jpg" style="width:40%;margin-right:85px;" align = "right">
+
+<br clear="left">
+
+<img src="/images/englishlanguage12.jpg" style="width:40%">
 
  <u>A Meal with My Family</u><br>
 Students share how they have bonded with their family members over a meal. Students are encouraged to take ownership over their own learning, provide constructive feedback to their peers, and showcase their creativity in creating artefacts for their Show and Tell.
