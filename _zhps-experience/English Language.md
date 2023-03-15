@@ -46,6 +46,10 @@ Students dress up as their favourite characters to do a presentation. This progr
 <u>A Butterfly is Born</u><br>
 Students will be captivated as they learn about metamorphosis and watch their caterpillars grow beautiful wings. Growing butterflies is definitely a fun way to teach our students writing.
 
+<img src="/images/englishlanguage3.jpg" style="width:40%;margin-left:45px;" align = "left">
+<img src="/images/englishlanguage4.jpg" style="width:42%;margin-right:75px;" align = "right">
+
+<br clear="left">
 
 
 <u>Making Ice Cream</u><br>
@@ -55,4 +59,3 @@ Students get a chance to make ice cream after they learn about the features of a
 
  <u>A Meal with My Family</u><br>
 Students share how they have bonded with their family members over a meal. Students are encouraged to take ownership over their own learning, provide constructive feedback to their peers, and showcase their creativity in creating artefacts for their Show and Tell.
-
