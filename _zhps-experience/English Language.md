@@ -75,3 +75,13 @@ Students get a chance to make ice cream after they learn about the features of a
 
  <u>A Meal with My Family</u><br>
 Students share how they have bonded with their family members over a meal. Students are encouraged to take ownership over their own learning, provide constructive feedback to their peers, and showcase their creativity in creating artefacts for their Show and Tell.
+
+<img src="/images/englishlanguage13.jpg" style="width:45%;margin-left:45px;" align = "left">
+<img src="/images/englishlanguage14.jpg" style="width:30%;margin-right:145px;" align = "right">
+
+<br clear="left">
+
+<img src="/images/englishlanguage15.jpg" style="width:42%;margin-left:45px;" align = "left">
+<img src="/images/englishlanguage16.jpg" style="width:40%;margin-right:85px;" align = "right">
+
+<br clear="left">
