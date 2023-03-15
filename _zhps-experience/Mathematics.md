@@ -82,6 +82,7 @@ To inculcate the love for the subject, the Mathematics Department organises PAL
     
 *   help students manage their ‘real-world’ problems, (for example, taking turns).
 
+<img src="/images/matha.jpg" style="width:75%">
 
 **Mathematics Learning Trail - P1 to P6**<br>
 During the trail, students will be exposed to mathematical problem solving in a real-life situation. Students will need to apply concepts learnt in the classroom curriculum to solve problems in authentic situations.
@@ -96,16 +97,28 @@ During the trail, students will be exposed to mathematical problem solving in a 
 | P6  | Experiential and Financial Literacy Trail @ Vivo City |
 |
 
-**<u>I</u>ntegrating <u>A</u>rt in <u>M</u>athematics ( I AiM)**
+**P1 and P2 Math Learning Trail @ School**
 
-I AiM (Integrate Art in Math) is an enrichment programme that infuses Art into Mathematics. The rationale of the activity is for students to better appreciate Mathematics through Art, have an awareness of applications of Mathematics in Art and for them to display their creativity through artefact creation or design.
+<img src="/images/mathb.jpg" style="width:95%">
 
-P1 – Shapes  
-P2 – Solid Figures  
-P3 – Angles  
-P4 – Symmetry  
-P5 – Cubes and Cuboids  
+**P4 interdisciplinary Learning Trail @ Gardens by  the Bay**
+
+<img src="/images/mathc.jpg" style="width:75%">
+
+**P6 Experiential and Financial Literacy Trail @ Vivo City**
+
+<img src="/images/mathd.jpg" style="width:95%">
+
+**<u>I</u>ntegrating <u>A</u>rt in <u>M</u>athematics ( I AiM)**<br>
+I AiM (Integrate Art in Math) is an enrichment programme that infuses Art into Mathematics. The rationale of the activity is for students to better appreciate Mathematics through Art, have an awareness of applications of Mathematics in Art and for them to display their creativity through artefact creation or design.<br>
+P1 – Shapes<br>
+P2 – Solid Figures<br>
+P3 – Angles<br>
+P4 – Symmetry<br>
+P5 – Cubes and Cuboids<br>
 P6 – Circles/Nets
+
+<img src="/images/mathe.jpg" style="width:65%">
 
 **P5 Little Bakers Programme**<br>
 To foster the joy of learning and nurture the spirit of Entrepreneurial Dare, the Math department embarked on a specially designed programme for our Primary 5 students.  The Little Bakers Programme aims to engage our students through fun and hands-on baking experience and provide them with the opportunity to appreciate and apply Mathematics and Science concepts in real life. 
