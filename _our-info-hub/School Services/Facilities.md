@@ -35,12 +35,11 @@ You Can Reach Us At :
 
 ## Bookshop
 
-<u>School Bookshop and Uniform Supplier</u>
-
-**Monday to Friday**   
-8.30 am to 3.30 pm   
-(Parents can only access the school bookshop from 2 to 3.30 pm)   
-Tel: 6464 0111   
+<u>School Bookshop and Uniform Supplier</u><br>
+**Monday to Friday**<br>
+8.30 am to 3.30 pm<br>
+(Parents can only access the school bookshop from 2 to 3.30 pm)<br>
+Tel: 6464 0111<br>
 Fax: 6464 0110
 
 ## Canteen
@@ -51,20 +50,16 @@ The Canteen Stall Price List is available in the school website for parents’ i
 
 ## Dental Clinic
 
-<u>School Dental Clinic</u>
-
-Dental consultation is strictly by appointment only    
+<u>School Dental Clinic</u><br>
+Dental consultation is strictly by appointment only<br>
 Tel: 6468 9685
 
 ## School Bus
 
-<u>School Transport Service</u>
-
-**JK59 Transport Pte Ltd**   
-17 Lorong Kilat #01-10   
-Kilat Court   
-Singapore 598139   
-Tel: 6465 5959   
+<u>School Transport Service</u><br>
+**JK59 Transport Pte Ltd**<br>
+17 Lorong Kilat #01-10<br>
+Kilat Court<br>
+Singapore 598139<br>
+Tel: 6465 5959<br>
 Fax: 6466 5959
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSqj0a__SL7aWJRBHMzd8TnIO_KxR_TpVypUEFQnZk9fIG_KPOrhI5MoJlt-auRFzRNeQwI9n7w0ugY/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
