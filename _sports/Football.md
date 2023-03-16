@@ -39,11 +39,12 @@ CCE-in-CCA sessions
 | 2016 |   WZPSSC Football Tournament (Senior)<br><br>Nationals Football Tournament (Senior)  |  1st Place<br><br>1st Place   |
 | 2015 |   WZPSSC Football Tournament (Junior) <br><br>Nationals Football Tournament (Junior)<br><br>WZPSSC Football Tournament (Senior) |  1st Place<br><br>4th Place<br><br>2nd Place  |
 | 2014 |   WZPSSC Football Tournament (Senior)<br><br>WZPSSC Football Tournament (Junior)  |  4th Place<br><br>3rd Place  |
+|
 
+<img src="/images/ZHPS%20Experience/Sports/Football_1.png" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/ZHPS%20Experience/Sports/Football_2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/ZHPS%20Experience/Sports/Football_3.jpg" style="width:30%;margin-right:15px;" align = "left">
 
-
-|   |   |   |
-|:-:|:-:|:-:|
-| ![](/images/ZHPS%20Experience/Sports/Football_1.png)   |  ![](/images/ZHPS%20Experience/Sports/Football_2.jpg)   |    ![](/images/ZHPS%20Experience/Sports/Football_3.jpg)     |
+<br clear="left">
 
 \*Photos taken without masks were pre-COVID times
