@@ -32,11 +32,12 @@ Packed Holiday
 | 2018 | Puan Noor Aishah Award |     GOLD    |
 | 2017 | Puan Noor Aishah Award |     GOLD    |
 | 2016 | Puan Noor Aishah Award |     GOLD    |
+|
 
+<img src="/images/ZHPS%20Experience/Uniformed%20Groups/Brownies_1.jpg" style="width:39.5%;margin-left:65px;" align = "left">
+<img src="/images/ZHPS%20Experience/Uniformed%20Groups/Brownies_3.jpg" style="width:41%;margin-right:65px;" align = "right">
 
-|   |   |
-|:-:|:-:|
-| ![](/images/ZHPS%20Experience/Uniformed%20Groups/Brownies_1.jpg)  |    ![](/images/ZHPS%20Experience/Uniformed%20Groups/Brownies_3.jpg)   |
+<br clear="left">
 
 <img src="/images/ZHPS%20Experience/Uniformed%20Groups/Brownies_4.jpg" style="width:50%">
 <br>
@@ -45,4 +46,4 @@ Packed Holiday
 
 
 
-\*Photos taken without masks were pre-COVID times  
+\*Photos taken without masks were pre-COVID times
