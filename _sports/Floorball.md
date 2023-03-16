@@ -30,12 +30,16 @@ Friendly matches among members
 | 2018 |                      Junior National Games                      |        Top 8 Schools        |
 | 2016 |                      Senior National Games                      |        Top 8 Schools        |
 | 2015 |                      Junior National Games                      |        Top 8 Schools        |
+|
 
+<img src="/images/ZHPS%20Experience/Sports/Floorball_1.png" style="width:52%;margin-left:65px;" align = "left">
+<img src="/images/ZHPS%20Experience/Sports/Floorball_2.png" style="width:31%;margin-right:65px;" align = "right">
 
-|   |   |
-|:-:|:-:|
-| ![](/images/ZHPS%20Experience/Sports/Floorball_1.png)  |  ![](/images/ZHPS%20Experience/Sports/Floorball_2.png)   |
-|  ![](/images/ZHPS%20Experience/Sports/Floorball_3.png)   |  ![](/images/ZHPS%20Experience/Sports/Floorball_4.png)  |
+<br clear="left">
 
+<img src="/images/ZHPS%20Experience/Sports/Floorball_3.png" style="width:40%;margin-left:65px;" align = "left">
+<img src="/images/ZHPS%20Experience/Sports/Floorball_4.png" style="width:40%;margin-right:85px;" align = "right">
+
+<br clear="left">
 
 \*Photos taken without masks were pre-COVID times
