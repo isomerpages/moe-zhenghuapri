@@ -17,12 +17,9 @@ third_nav_title: Information for Parents
 
 ### P1 Orientation 2022
 
-**Date: 18 November 2022, Friday**
-
-**Time: 3pm to 4.30pm** 
-
-**Venue: Zhenghua Primary School**
-
+**Date: 18 November 2022, Friday**<br>
+**Time: 3pm to 4.30pm** <br>
+**Venue: Zhenghua Primary School**<br>
 
 [P1 Orientation Day\_ P1 Parents of 2023 1.pdf](/files/Our%20Info%20Hub/P1%20Orientation%20Day_%20P1%20Parents%20of%202023%201.pdf)
 
