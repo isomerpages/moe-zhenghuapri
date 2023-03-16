@@ -31,10 +31,13 @@ Performances
 | 2016 |       SYF      |    Distinction   |
 | 2014 |       SYF      |    Distinction   |
 | 2012 |       SYF      | Gold with Honors |
+|
 
+<img src="/images/ZHPS%20Experience/Performing%20arts/Chinese%20Dance_1.jpg" style="width:34%;margin-right:15px;" align = "left">
+<img src="/images/ZHPS%20Experience/Performing%20arts/Chinese%20Dance_2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/ZHPS%20Experience/Performing%20arts/Chinese%20Dance_3.jpg" style="width:30%;margin-right:15px;" align = "left">
 
-|   |   |   |
-|:-:|:-:|:-:|
-| ![](/images/ZHPS%20Experience/Performing%20arts/Chinese%20Dance_1.jpg)  |  ![](/images/ZHPS%20Experience/Performing%20arts/Chinese%20Dance_2.jpg)   | ![](/images/ZHPS%20Experience/Performing%20arts/Chinese%20Dance_3.jpg)    |
+<br clear="left">
+
 
 \*Photos taken without masks were pre-COVID times
