@@ -28,10 +28,11 @@ Performances
 | 2016 |       SYF      | Distinction |
 | 2014 |       SYF      | Distinction |
 | 2012 |       SYF      |     Gold    |
+|
 
+<img src="/images/ZHPS%20Experience/Performing%20arts/Malay%20Dance_1.jpg" style="width:40%;margin-left:55px;" align = "left">
+<img src="/images/ZHPS%20Experience/Performing%20arts/Malay%20Dance_2.jpg" style="width:40%;margin-right:75px;" align = "right">
 
-|   |   |
-|:-:|:-:|
-| ![](/images/ZHPS%20Experience/Performing%20arts/Malay%20Dance_1.jpg)  | ![](/images/ZHPS%20Experience/Performing%20arts/Malay%20Dance_2.jpg)  |
+<br clear="left">
 
 \*Photos taken without masks were pre-COVID times
