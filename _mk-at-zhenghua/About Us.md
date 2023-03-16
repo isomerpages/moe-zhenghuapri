@@ -44,7 +44,7 @@ Our People
 |  K1- CP | Dayang Anisa Binte Kamaruzaini (FT/SL) Zulaikha Beevi (HL) |  K2- CP |                       Yap Wai Han                      |
 | K1 - EP |            Sharifah Ulfah Zhatul Syed Zainuddin            | K2 - EP |                     Leong Xue Fang                     |
 | K1 - IP |                      Ang Bi Xia Karyn                      |  K2- IP |               Nor Syahidah Binte Sariman               |
-
+|
 
 |     MTL    |                        TEACHER                       |
 |:----------:|:------------------:|
@@ -55,5 +55,6 @@ Our People
 | CL TEACHER |                      Hao Yiming                      |
 | CL TEACHER |                        Chen Yi                       |
 | CL TEACHER |                       Jiang Jie                      |
-| ML TEACHER | Siti Nurul Ain Binte Abdul Rahman Azlina Binte Yazid |
+| ML TEACHER | Siti Nurul Ain Binte Abdul Rahman A<br>zlina Binte Yazid |
 | TL TEACHER |                Darshini d/o Alagaraja                |
+|
