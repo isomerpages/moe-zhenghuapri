@@ -29,12 +29,18 @@ Safety of the game
 | 2018 |             National School Games Junior Division            |    Participated for Bowl Category    |
 | 2017 | West Zone Primary School Rugby Championships Senior Division |             1st runner-up            |
 | 2017 | West Zone Primary School Rugby Championships Junior Division |             2nd runner-up            |
+|
 
-|   |   |
-|:-:|:-:|
-|  ![](/images/ZHPS%20Experience/Sports/Rugby_1.jpg) |  ![](/images/ZHPS%20Experience/Sports/Rugby_2.png)   |
-|  ![](/images/ZHPS%20Experience/Sports/Rugby_3.jpg)   |  ![](/images/ZHPS%20Experience/Sports/Rugby_4.jpg)    |
+<img src="/images/ZHPS%20Experience/Sports/Rugby_1.jpg" style="width:45%;margin-left:65px;" align = "left">
+<img src="/images/ZHPS%20Experience/Sports/Rugby_2.png" style="width:36.5%;margin-right:65px;" align = "right">
 
-<img src="/images/ZHPS%20Experience/Sports/Rugby_5.jpg" style="width:50%">
+<br clear="left">
+
+<img src="/images/ZHPS%20Experience/Sports/Rugby_3.jpg" style="width:39%;margin-left:65px;" align = "left">
+<img src="/images/ZHPS%20Experience/Sports/Rugby_4.jpg" style="width:42%;margin-right:65px;" align = "right">
+
+<br clear="left">
+
+<center><img src="/images/ZHPS%20Experience/Sports/Rugby_5.jpg" style="width:60%"></center>
 
 \*Photos taken without masks were pre-COVID times
