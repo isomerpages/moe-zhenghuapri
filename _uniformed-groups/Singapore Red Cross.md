@@ -38,11 +38,16 @@ Through involvement in the various activities and programmes, our Links acquire 
 | 2020 | Excellent Unit Award |     Gold    |
 | 2019 | Excellent Unit Award |     Gold    |
 | 2018 | Excellent Unit Award |     Gold    |
+|
 
+<img src="/images/ZHPS%20Experience/Uniformed%20Groups/SG%20Red%20Cross_1.jpg" style="width:50%;margin-left:65px;" align = "left">
+<img src="/images/ZHPS%20Experience/Uniformed%20Groups/SG%20Red%20Cross_2.png" style="width:25%;margin-right:105px;" align = "right">
 
-|   |   |
-|:-:|:-:|
-| ![](/images/ZHPS%20Experience/Uniformed%20Groups/SG%20Red%20Cross_1.jpg)  |   ![](/images/ZHPS%20Experience/Uniformed%20Groups/SG%20Red%20Cross_2.png)  |
-|  ![](/images/ZHPS%20Experience/Uniformed%20Groups/SG%20Red%20Cross_3.jpg)   |  ![](/images/ZHPS%20Experience/Uniformed%20Groups/SG%20Red%20Cross_4.jpg)   |
+<br clear="left">
 
- ![](/images/ZHPS%20Experience/Uniformed%20Groups/SG%20Red%20Cross_5.png) 
+<img src="/images/ZHPS%20Experience/Uniformed%20Groups/SG%20Red%20Cross_3.jpg" style="width:50%;margin-left:65px;" align = "left">
+<img src="/images/ZHPS%20Experience/Uniformed%20Groups/SG%20Red%20Cross_4.jpg" style="width:25%;margin-right:105px;" align = "right">
+
+<br clear="left">
+
+<img src="/images/ZHPS%20Experience/Uniformed%20Groups/SG%20Red%20Cross_5.png" style="width:75%">
