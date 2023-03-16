@@ -30,10 +30,7 @@ Parents Kit (Transition to P1)
 
 The Parent-Child Activity Book (PCAB) supports parents and children in the transition from preschool to P1 through fun and meaningful parent-child activities. 
 
-  
-
-\[Digital PCAB\]
-
+\[Digital PCAB\]<br>
 To make it more convenient for you, there is a digital version where you can find 10 useful tips and suggested activities as your child gears up for P1 next year. Worried about how your child will socialise and make new friends in P1? Check out Tip 3 on New Places, New Faces. While you are at it, check out the rest of our 10 useful tips.
 
   
@@ -60,14 +57,9 @@ To make it more convenient for you, there is a digital version where you can fin
 
   
 
-Pace yourself with these activities as we continue to share activities and resources with you throughout the year. Have fun :)
-
-Link 
-
-Digital PCAB
-
+Pace yourself with these activities as we continue to share activities and resources with you throughout the year. Have fun :)<br>
+Link <br>
+Digital PCAB<br>
 [https://ParentsChildRelationship](https://www.moe.gov.sg/parentkit?pt=Parent-Child%20Relationship)  
-
-  
 
 [How to Use This Book.pdf](/files/How%20to%20Use%20This%20Book.pdf)
