@@ -71,18 +71,35 @@ Selected ALP activities are carried out in the T(h)inker Space equipped with tin
 
 We believe that our students have a voice and are never too young to make a difference. They advocate for their cause using their skills in the Technology and the Creative Arts domains. Each of them play their role as a concerned citizen and an active contributor when they express their innovative ideas, hopes and dreams for the future of sustainable living through their value-creations.
 
-|   |   |
-|:---:|:---:|
-|    ![](/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_13.png) |   ![](/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_14.png)  |
-|    ![](/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_15.jpg) |   ![](/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_16.jpg)  |
-|    ![](/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_17.png) |   ![](/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_18.jpg)  |
+<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_13.png" style="width:40%;margin-left:65px;" align = "left">
+<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_14.png" style="width:40%;margin-right:65px;" align = "right">
 
-|   |   |
-|:---:|:---:|
-|    ![](/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_19.jpg) |   ![](/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_21.jpg)  |
-|    ![](/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_20.jpg) |   ![](/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_22.jpg)  |
-|    ![](/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_23.jpg) |   ![](/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_24.jpg)  |
+<br clear="left">
 
+<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_15.jpg" style="width:40%;margin-left:65px;" align = "left">
+<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_16.jpg" style="width:40%;margin-right:65px;" align = "right">
+
+<br clear="left">
+
+<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_17.png" style="width:40%;margin-left:65px;" align = "left">
+<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_18.jpg" style="width:40%;margin-right:65px;" align = "right">
+
+<br clear="left">
+
+<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_19.jpg" style="width:43%;margin-left:65px;" align = "left">
+<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_21.jpg" style="width:38%;margin-right:65px;" align = "right">
+
+<br clear="left">
+
+<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_20.jpg" style="width:26%;margin-left:65px;" align = "left">
+<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_22.jpg" style="width:55%;margin-right:65px;" align = "right">
+
+<br clear="left">
+
+<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_23.jpg" style="width:52%;margin-left:65px;" align = "left">
+<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_24.jpg" style="width:29%;margin-right:65px;" align = "right">
+
+<br clear="left">
 
 ## Tier 2 ALP - Greenovation Club
 
