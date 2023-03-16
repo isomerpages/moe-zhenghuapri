@@ -19,10 +19,6 @@ Please note that the savings in the Child Development Account (CDA) under the Ba
 
 We would like to invite you to join our GIRO scheme and enjoy the hassle-free and convenient payment arrangement. In this way, your child/ward will not need to bring additional cash to school monthly. In addition, for Singapore Citizen P1 students, you can sign up to use your child’s/ward’s Edusave account to pay for the 2nd tier miscellaneous fees and enrichment programmes to reduce your out-of-pocket expenses.
 
-  
-
-You may sign up for GIRO and Edusave online by accessing the online forms via the links provided below.
-
-Online Giro Application: <a href="https://www.moe.gov.sg/financial-matters/fees" target="_blank">https://www.moe.gov.sg/financial-matters/fees</a>
-
+You may sign up for GIRO and Edusave online by accessing the online forms via the links provided below.<br>
+Online Giro Application: <a href="https://www.moe.gov.sg/financial-matters/fees" target="_blank">https://www.moe.gov.sg/financial-matters/fees</a><br>
 Online Edusave Account: <a href="https://go.gov.sg/edusave-form" target="_blank">https://go.gov.sg/edusave-form</a>
