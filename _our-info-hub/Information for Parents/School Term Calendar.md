@@ -8,7 +8,7 @@ third_nav_title: Information for Parents
 
 <center><b><u>Termly Calendar 2023</u></b></center>
 
-|  Term 1       |  Term 2     |     Term 3      |   Term 4          |
-|------------|---------|---------|----------|
-| Term 1 Calendar 2023.pdf                     | Term 2 Calendar 2023.pdf | Term 3 Calendar 2023.pdf | Term 4 Calendar 2023 .pdf |
-| After school Programme Schedule 2023 Jan.pdf |                          |                          |                           |
+| Term 1 | Term 2 | Term 3 | Term 4 |
+|:---:|:---:|:---:|:---:|
+| [2023 Term 1 Calendar \_For Students.pdf](/files/2023term1.pdf) |  |  |  |
+|
