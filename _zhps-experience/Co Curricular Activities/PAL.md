@@ -35,16 +35,16 @@ These modules will enhance the total experience of students in primary schools i
 Outdoor Education
 -----------------
 
-<img src="/images/ZHPS%20Experience/PAL/Outdoor%20Education_1.jpg" style="width:40%;margin-left:65px;" align = "left">
-<img src="/images/ZHPS%20Experience/PAL/Outdoor%20Education_2.jpg" style="width:40%;margin-right:65px;" align = "right">
+<img src="/images/ZHPS%20Experience/PAL/Outdoor%20Education_1.jpg" style="width:46%;margin-left:65px;" align = "left">
+<img src="/images/ZHPS%20Experience/PAL/Outdoor%20Education_2.jpg" style="width:35%;margin-right:65px;" align = "right">
 
 <br clear="left">
 
 Performing Arts - Dance
 -----------------------
 
-<img src="/images/ZHPS%20Experience/PAL/Performing%20Arts%20-%20Dance_1.jpg" style="width:40%;margin-left:65px;" align = "left">
-<img src="/images/ZHPS%20Experience/PAL/Performing%20Arts%20-%20Dance_2.jpg" style="width:40%;margin-right:65px;" align = "right">
+<img src="/images/ZHPS%20Experience/PAL/Performing%20Arts%20-%20Dance_1.jpg" style="width:43%;margin-left:65px;" align = "left">
+<img src="/images/ZHPS%20Experience/PAL/Performing%20Arts%20-%20Dance_2.jpg" style="width:38%;margin-right:65px;" align = "right">
 
 <br clear="left">
 
@@ -59,15 +59,15 @@ Performing Arts - Drama
 Visual Arts
 -----------
 
-<img src="/images/ZHPS%20Experience/PAL/Visual%20Arts_1.jpg" style="width:40%;margin-left:65px;" align = "left">
-<img src="/images/ZHPS%20Experience/PAL/Visual%20Arts_2.jpg" style="width:40%;margin-right:65px;" align = "right">
+<img src="/images/ZHPS%20Experience/PAL/Visual%20Arts_1.jpg" style="width:35%;margin-left:65px;" align = "left">
+<img src="/images/ZHPS%20Experience/PAL/Visual%20Arts_2.jpg" style="width:47%;margin-right:55px;" align = "right">
 
 <br clear="left">
 
 Sports & Games
 --------------
 
-<img src="/images/ZHPS%20Experience/PAL/Sports%20&%20Games_1.jpg" style="width:40%;margin-left:65px;" align = "left">
-<img src="/images/ZHPS%20Experience/PAL/Sports%20&%20Games_2.jpg" style="width:40%;margin-right:65px;" align = "right">
+<img src="/images/ZHPS%20Experience/PAL/Sports%20&%20Games_1.jpg" style="width:48%;margin-left:65px;" align = "left">
+<img src="/images/ZHPS%20Experience/PAL/Sports%20&%20Games_2.jpg" style="width:36%;margin-right:35px;" align = "right">
 
 <br clear="left">
