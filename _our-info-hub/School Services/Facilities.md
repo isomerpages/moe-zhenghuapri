@@ -6,16 +6,14 @@ third_nav_title: School Services
 ---
 # Facilities
 
-**School General Office**
-
-Zhenghua Primary School    
-9 Fajar Road   
+**School General Office**<br>
+Zhenghua Primary School<br>
+9 Fajar Road<br>
 Singapore 679002
 
-**Monday to Friday**
-
-9 am to 5 pm    
-Tel: 6769 7478    
+**Monday to Friday**<br>
+9 am to 5 pm<br>
+Tel: 6769 7478<br>
 Fax: 6763 6459
 
 Useful Telephone Numbers
