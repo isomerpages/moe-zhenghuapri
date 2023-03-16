@@ -17,15 +17,24 @@ Modified game play
 | Year |                 Events/Program                |    Achievement   |
 |:----:|:----------------:|:----------------:|
 | 2015 | West Zone Basketball Tournament (Senior Boys) | Quarter-Finalist |
+|
 
+<img src="/images/ZHPS%20Experience/Sports/Basketball_1.png" style="width:40%;margin-left:65px;" align = "left">
+<img src="/images/ZHPS%20Experience/Sports/Basketball_2.jpg" style="width:40%;margin-right:65px;" align = "right">
 
-|   |   |
-|:-:|:-:|
-|  ![](/images/ZHPS%20Experience/Sports/Basketball_1.png) |  ![](/images/ZHPS%20Experience/Sports/Basketball_2.jpg)    |
-|  ![](/images/ZHPS%20Experience/Sports/Basketball_4.jpg)  |   ![](/images/ZHPS%20Experience/Sports/Basketball_5.jpg) |
-|  ![](/images/ZHPS%20Experience/Sports/Basketball_6.jpg)  |   ![](/images/ZHPS%20Experience/Sports/Basketball_7.jpg)   |
+<br clear="left">
 
-<img src="/images/ZHPS%20Experience/Sports/Basketball_3.png" style="width:40%">
+<img src="/images/ZHPS%20Experience/Sports/Basketball_4.jpg" style="width:40%;margin-left:65px;" align = "left">
+<img src="/images/ZHPS%20Experience/Sports/Basketball_5.jpg" style="width:40%;margin-right:65px;" align = "right">
+
+<br clear="left">
+
+<img src="/images/ZHPS%20Experience/Sports/Basketball_6.jpg" style="width:40%;margin-left:65px;" align = "left">
+<img src="/images/ZHPS%20Experience/Sports/Basketball_7.jpg" style="width:40%;margin-right:65px;" align = "right">
+
+<br clear="left">
+
+<center><img src="/images/ZHPS%20Experience/Sports/Basketball_3.png" style="width:30%"></center>
 
 
 \*Photos taken without masks were pre-COVID times
