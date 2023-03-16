@@ -41,9 +41,9 @@ CCE-in-CCA sessions
 | 2014 |   WZPSSC Football Tournament (Senior)<br><br>WZPSSC Football Tournament (Junior)  |  4th Place<br><br>3rd Place  |
 |
 
-<img src="/images/ZHPS%20Experience/Sports/Football_1.png" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/ZHPS%20Experience/Sports/Football_2.jpg" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/ZHPS%20Experience/Sports/Football_3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/ZHPS%20Experience/Sports/Football_1.png" style="width:31%;margin-right:15px;" align = "left">
+<img src="/images/ZHPS%20Experience/Sports/Football_2.jpg" style="width:32%;margin-right:15px;" align = "left">
+<img src="/images/ZHPS%20Experience/Sports/Football_3.jpg" style="width:29%;margin-right:15px;" align = "left">
 
 <br clear="left">
 
