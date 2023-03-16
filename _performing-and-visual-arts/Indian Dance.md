@@ -19,6 +19,7 @@ Over the years, our dancers have been able to showcase their talents confidently
 | 2018 | SYF Arts Presentation | Distinction |
 | 2016 | SYF Arts Presentation | Distinction |
 | 2014 | SYF Arts Presentation | Distinction |
+|
 
 <img src="/images/ZHPS%20Experience/Performing%20arts/Indian%20Dance_1.jpg" style="width:40%;margin-left:55px;" align = "left">
 <img src="/images/ZHPS%20Experience/Performing%20arts/Indian%20Dance_2.jpg" style="width:40%;margin-right:75px;" align = "right">
