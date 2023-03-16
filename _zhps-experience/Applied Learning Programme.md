@@ -31,11 +31,20 @@ Students
 *   go on (virtual) learning journeys, make observations, collect and analyse data
 *   apply their knowledge and skills to create new value through advocacy and innovation
 
-|   |   |
-|:---:|:---:|
-| ![](/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_3.jpg)  | ![](/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_4.png)  |
-|  ![](/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_5.jpg) |  ![](/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_6.jpg) |
-|![](/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_7.jpg)   |  ![](/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_8.jpg) |
+<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_3.jpg" style="width:40%;margin-left:65px;" align = "left">
+<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_4.png" style="width:40%;margin-right:65px;" align = "right">
+
+<br clear="left">
+
+<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_5.jpg" style="width:40%;margin-left:65px;" align = "left">
+<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_6.jpg" style="width:40%;margin-right:65px;" align = "right">
+
+<br clear="left">
+
+<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_7.jpg" style="width:40%;margin-left:65px;" align = "left">
+<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_8.jpg" style="width:40%;margin-right:65px;" align = "right">
+
+<br clear="left">
 
 <img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_9.jpg" style="width:50%">
 
