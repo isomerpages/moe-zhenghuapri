@@ -19,6 +19,7 @@ PAL complements Art, Music and PE, and it provides the platform for students to 
 |    Outdoor Education    |    Outdoor Education    |
 |       Visual Arts       | Performing Arts - Dance |
 |     Sports and Games    | Performing Arts - Drama |
+|
 
 
 PAL modules engage pupils through their heads, hearts and hands. They are designed with the five characteristics in mind:
@@ -34,36 +35,39 @@ These modules will enhance the total experience of students in primary schools i
 Outdoor Education
 -----------------
 
-|   |   |
-|:-:|:-:|
-| ![](/images/ZHPS%20Experience/PAL/Outdoor%20Education_1.jpg)  | ![](/images/ZHPS%20Experience/PAL/Outdoor%20Education_2.jpg)  |
+<img src="/images/ZHPS%20Experience/PAL/Outdoor%20Education_1.jpg" style="width:40%;margin-left:65px;" align = "left">
+<img src="/images/ZHPS%20Experience/PAL/Outdoor%20Education_2.jpg" style="width:40%;margin-right:65px;" align = "right">
+
+<br clear="left">
 
 Performing Arts - Dance
 -----------------------
 
-|   |   |
-|:-:|:-:|
-| ![](/images/ZHPS%20Experience/PAL/Performing%20Arts%20-%20Dance_1.jpg)  |   ![](/images/ZHPS%20Experience/PAL/Performing%20Arts%20-%20Dance_2.jpg)|
+<img src="/images/ZHPS%20Experience/PAL/Performing%20Arts%20-%20Dance_1.jpg" style="width:40%;margin-left:65px;" align = "left">
+<img src="/images/ZHPS%20Experience/PAL/Performing%20Arts%20-%20Dance_2.jpg" style="width:40%;margin-right:65px;" align = "right">
 
+<br clear="left">
 
 Performing Arts - Drama
 -----------------------
 
-|   |   |
-|:-:|:-:|
-|  ![](/images/ZHPS%20Experience/PAL/Performing%20Arts%20-%20Drama_1.jpg)  | ![](/images/ZHPS%20Experience/PAL/Performing%20Arts%20-%20Drama_2.jpg)  |
+<img src="/images/ZHPS%20Experience/PAL/Performing%20Arts%20-%20Drama_1.jpg" style="width:40%;margin-left:65px;" align = "left">
+<img src="/images/ZHPS%20Experience/PAL/Performing%20Arts%20-%20Drama_2.jpg" style="width:40%;margin-right:65px;" align = "right">
+
+<br clear="left">
 
 Visual Arts
 -----------
 
-|   |   |
-|:-:|:-:|
-| ![](/images/ZHPS%20Experience/PAL/Visual%20Arts_1.jpg)     |  ![](/images/ZHPS%20Experience/PAL/Visual%20Arts_2.jpg)    |
+<img src="/images/ZHPS%20Experience/PAL/Visual%20Arts_1.jpg" style="width:40%;margin-left:65px;" align = "left">
+<img src="/images/ZHPS%20Experience/PAL/Visual%20Arts_2.jpg" style="width:40%;margin-right:65px;" align = "right">
 
+<br clear="left">
 
 Sports & Games
 --------------
 
-|   |   |
-|:-:|:-:|
-|  ![](/images/ZHPS%20Experience/PAL/Sports%20&%20Games_1.jpg) |   ![](/images/ZHPS%20Experience/PAL/Sports%20&%20Games_2.jpg)   |
+<img src="/images/ZHPS%20Experience/PAL/Sports%20&%20Games_1.jpg" style="width:40%;margin-left:65px;" align = "left">
+<img src="/images/ZHPS%20Experience/PAL/Sports%20&%20Games_2.jpg" style="width:40%;margin-right:65px;" align = "right">
+
+<br clear="left">
