@@ -62,9 +62,10 @@ The design thinking frame is used to support students in the process. On their A
 
 Selected ALP activities are carried out in the T(h)inker Space equipped with tinkering tools and materials. The space seeks to allow for brainstorming, collaboration and tinkering to take place. It is an area where students immerse themselves as Thinkers and subsequently Tinkers. As a Thinker, they brainstorm new and interesting ideas. As a Tinker, they engage in the making process, working with their value creation in an experimental manner.
 
-|   |   |
-|:---:|:---:|
-|    ![](/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_11.png) |   ![](/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_12.png)  |
+<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_11.png" style="width:38%;margin-left:65px;" align = "left">
+<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_12.png" style="width:43%;margin-right:65px;" align = "right">
+
+<br clear="left">
 
 ## Value Creations
 
