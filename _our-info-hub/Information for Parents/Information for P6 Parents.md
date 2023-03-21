@@ -31,3 +31,8 @@ There are many different secondary schools to choose from. While some have uniqu
 
 
 ## MySkills Future
+Primary Student Portal<br>
+[www.myskillsfuture.sg/primarywww.myskillsfuture.sg/primary)
+
+My School, My Friends, My Dreams<br>
+[https://youtu.be/i9fpBx9xeGU](https://youtu.be/i9fpBx9xeGU)
