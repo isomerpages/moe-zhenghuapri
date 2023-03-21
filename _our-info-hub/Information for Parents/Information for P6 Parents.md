@@ -22,10 +22,10 @@ There are many different secondary schools to choose from. While some have uniqu
 |   6  | What’s Next After PSLE? | [https://go.gov.sg/whats-next-for-psle-students](https://go.gov.sg/whats-next-for-psle-students) **broken link** |         |
 |   7  | School Choice Infographic: A Secondary School That’s Right For Your Children | https://go.gov.sg/psle-a-secondary-school-thats-right-for-your-child |         |
 |   8  | Myth Busters: Maybe you have questions about the new PSLE scoring changes and Secondary 1 posting changes, or heard some information you aren’t sure about.        | https://go.gov.sg/psle-myth-busters |         |
-|   9  | New PSLE Scoring System: What does this mean for your child? | https://www.moe.gov.sg/microsites/psle-fsbb/psle/new-psle-scoring-system.html     |         |
-|  10  | Posting to Secondary School | https://www.moe.gov.sg/microsites/psle-fsbb/posting-to-secondary-school/main.html |         |
-|  11  | Full Subject-Based Banding (Full SBB) | https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html  |         |
-|  12  | Direct School Admission for secondary schools (DSA-Sec) | https://www.moe.gov.sg/secondary/dsa |         |
+|   9  | New PSLE Scoring System: What does this mean for your child? | [https://www.moe.gov.sg/microsites/psle-fsbb/psle/new-psle-scoring-system.html](https://www.moe.gov.sg/microsites/psle-fsbb/psle/new-psle-scoring-system.html)     |         |
+|  10  | Posting to Secondary School | [https://www.moe.gov.sg/microsites/psle-fsbb/posting-to-secondary-school/main.html](https://www.moe.gov.sg/microsites/psle-fsbb/posting-to-secondary-school/main.html) |         |
+|  11  | Full Subject-Based Banding (Full SBB) | [https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html](https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html)  |         |
+|  12  | Direct School Admission for secondary schools (DSA-Sec) | [https://www.moe.gov.sg/secondary/dsa](https://www.moe.gov.sg/secondary/dsa) |         |
 |  13  | WEStories Flipbook | [WEStories 2022](https://online.fliphtml5.com/obrr/qkde/#p=1) |  |
 |
 
