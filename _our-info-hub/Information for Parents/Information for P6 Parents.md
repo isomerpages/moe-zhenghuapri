@@ -26,7 +26,7 @@ There are many different secondary schools to choose from. While some have uniqu
 |  10  | Posting to Secondary School | https://www.moe.gov.sg/microsites/psle-fsbb/posting-to-secondary-school/main.html |         |
 |  11  | Full Subject-Based Banding (Full SBB) | https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html  |         |
 |  12  | Direct School Admission for secondary schools (DSA-Sec) | https://www.moe.gov.sg/secondary/dsa |         |
-|  13  | WEStories Flipbook | WEStories 2022 |  |
+|  13  | WEStories Flipbook | [WEStories 2022](https://online.fliphtml5.com/obrr/qkde/#p=1) |  |
 |
 
 
