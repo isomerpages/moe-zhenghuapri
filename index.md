@@ -17,8 +17,8 @@ sections:
           url: /zps/quick-links/
         - title: ZHPS Experience
           description: ""
-          url: /zhps-experience
+          url: /zhps-experience/
         - title: Our Info Hub
           description: ""
-          url: ""
+          url: /our-info-hub/
 ---
