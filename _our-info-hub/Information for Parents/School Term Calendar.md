@@ -10,5 +10,5 @@ third_nav_title: Information for Parents
 
 | Term 1 | Term 2 | Term 3 | Term 4 |
 |:---:|:---:|:---:|:---:|
-| [2023 Term 1 Calendar <br>For Students.pdf](/files/2023term1.pdf) |  |  |  |
+| [2023 Term 1 Calendar <br>For Students.pdf](/files/2023term1.pdf) | [2023 Term 2 Calendar <br>For Students.pdf](/files/2023term1.pdf) |  |  |
 |
