@@ -15,10 +15,4 @@ sections:
         - title: Quick Links
           description: ""
           url: /zps/quick-links/
-        - title: ZHPS Experience
-          description: ""
-          url: /zhps-experience/
-        - title: Our Info Hub
-          description: ""
-          url: /our-info-hub/
 ---
