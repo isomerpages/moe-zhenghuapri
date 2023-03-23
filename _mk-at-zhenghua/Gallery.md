@@ -5,4 +5,4 @@ description: ""
 ---
 # Gallery
 
-Click [here](/zhenghua-memories/media-gallery/mk-at-zhenghua/2022/) for MK Gallery.
+Click [here](https://cms.isomer.gov.sg/sites/moe-zhenghuapri/folders/media-gallery) for MK Gallery.
