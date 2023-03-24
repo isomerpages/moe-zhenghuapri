@@ -2,7 +2,6 @@ collections:
   zhenghua-gallery:
     output: true
     order:
-      - PS 2023.md
       - MK 2023.md
       - PS 2022.md
       - MK 2022.md
