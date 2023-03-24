@@ -5,4 +5,4 @@ description: ""
 ---
 # Gallery
 
-Click [here](https://moe-zhenghuapri/folders/mk-media-gallery) for MK Gallery.
+Click [here](https://zhenghuapri.moe.edu.sg/mk-media-gallery/permalink/) for MK Gallery.
