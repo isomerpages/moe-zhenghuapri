@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - MK 2023.md
-      - PS 2022.md
       - MK 2022.md
