@@ -13,5 +13,5 @@ links:
     sublinks:
       - title: Media Gallery
         url: /zhenghua-memories/media-gallery/2022
-      - title: MK Media Gallery
-        url: /zhenghua-memories/media-gallery/2022
+  - title: ZH Gallery
+    collection: zhenghua-gallery
