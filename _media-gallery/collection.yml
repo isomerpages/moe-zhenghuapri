@@ -1,5 +1,4 @@
 collections:
   media-gallery:
     output: true
-    order:
-      - ZHPS 2022.md
+    order: []
