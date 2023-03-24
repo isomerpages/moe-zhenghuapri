@@ -1,5 +1,4 @@
 collections:
   zhenghua-gallery:
     output: true
-    order:
-      - MK 2022.md
+    order: []
