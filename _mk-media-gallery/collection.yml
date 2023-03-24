@@ -1,4 +1,5 @@
 collections:
   mk-media-gallery:
     output: true
-    order: []
+    order:
+      - MK 2023.md
