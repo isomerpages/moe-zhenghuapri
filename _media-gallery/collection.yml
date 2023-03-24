@@ -2,5 +2,5 @@ collections:
   media-gallery:
     output: true
     order:
-      - 2023.md
+      - ZHPS 2023.md
       - 2022.md
