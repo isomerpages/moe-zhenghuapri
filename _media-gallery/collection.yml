@@ -2,5 +2,5 @@ collections:
   media-gallery:
     output: true
     order:
-      - PS 2022.md
+      - 2022.md
       - PS 2023.md
