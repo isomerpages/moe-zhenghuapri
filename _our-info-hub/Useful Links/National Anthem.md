@@ -6,7 +6,7 @@ third_nav_title: Useful Links
 ---
 # National Anthem
 
-<a href="https://www.youtube.com/watch?v=che2uTVwtGw" target="_blank">https://www.youtube.com/watch?v=che2uTVwtGw</a>.
+<a href="https://youtu.be/l5mymyQ3ewE" target="_blank">https://youtu.be/l5mymyQ3ewE</a>.
 
 # National Pledge
 
