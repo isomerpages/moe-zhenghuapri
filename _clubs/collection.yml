@@ -1,0 +1,7 @@
+collections:
+  clubs:
+    output: true
+    order:
+      - Robotics.md
+      - Art and Craft (TArP).md
+      - Greenovation Club.md
