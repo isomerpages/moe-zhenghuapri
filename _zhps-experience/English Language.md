@@ -46,17 +46,18 @@ Students dress up as their favourite characters to do a presentation. This progr
 <u>A Butterfly is Born</u><br>
 Students will be captivated as they learn about metamorphosis and watch their caterpillars grow beautiful wings. Growing butterflies is definitely a fun way to teach our students writing.
 
-<img src="/images/englishlanguage3.jpg" style="width:40%;margin-left:45px;" align = "left">
-<img src="/images/englishlanguage4.jpg" style="width:42%;margin-right:75px;" align = "right">
+<img src="/images/ZHPS%20Experience/English%20Language/A%20Butterfly%20is%20Born%202023/Butterfly%20is%20Born_1.jpg" style="width:38%;margin-left:45px;" align = "left">
+<img src="/images/ZHPS%20Experience/English%20Language/A%20Butterfly%20is%20Born%202023/Butterfly%20is%20Born_2.jpg" style="width:42%;margin-right:80px;" align = "right">
 
 <br clear="left">
 
-<img src="/images/englishlanguage5.jpg" style="width:32%;margin-left:75px;" align = "left">
-<img src="/images/englishlanguage6.jpg" style="width:43%;margin-right:67px;" align = "right">
+<img src="/images/ZHPS%20Experience/English%20Language/A%20Butterfly%20is%20Born%202023/Butterfly%20is%20Born_3.jpg" style="width:34%;margin-left:71px;" align = "left">
+<img src="/images/ZHPS%20Experience/English%20Language/A%20Butterfly%20is%20Born%202023/Butterfly%20is%20Born_4.jpg" style="width:40%;margin-right:96px;" align = "right">
 
 <br clear="left">
 
-<img src="/images/englishlanguage7.jpg" style="width:40%">
+<img src="/images/ZHPS%20Experience/English%20Language/A%20Butterfly%20is%20Born%202023/Butterfly%20is%20Born_5.jpg" style="width:45%">
+
 
 <u>Making Ice Cream</u><br>
 Students get a chance to make ice cream after they learn about the features of a procedural text. Learning writing can be really fun too!
