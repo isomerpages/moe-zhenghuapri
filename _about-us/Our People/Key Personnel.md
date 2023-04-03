@@ -11,7 +11,7 @@ third_nav_title: Our People
 |   | SCHOOL LEADERS  |   |
 |:---:|:---:|:---:|
 |   | <img src="/images/About%20us/mrs%20constance%20loke%20principal%202.jpg" style="width: 63%"> [**Mrs Constance Loke**](mailto:zhenghua_ps@moe.edu.sg)<br>**Principal**<br>wong\_hian\_hwee\_constance@moe.edu.sg |   |
-| <img src="/images/About%20us/Mr%20Tommy%20Yang.jpg" style="width: 85%"> [**Mr Tommy Yang**](mailto:tommy_yang@moe.edu.sg)<br>**Vice-Principal(Admin)**<br>tommy\_yang@moe.edu.sg  |<img src="/images/About%20us/mrs%20josephine%20lim%20vice-principal%201.jpg" style="width: 63%"> [**Mrs Josephine Lim**](mailto:sng_yee_yee@moe.edu.sg)<br>**Vice-Principal (Acad)**<br>sng\_yee\_yee@moe.edu.sg  | <img src="/images/About%20us/ms%20santhana%20mary%20vice-principal.jpg" style="width: 68%">  [**Ms Santhana Mary Poobalan**](mailto:santhana_mary_poobalan@moe.edu.sg)<br>**Vice-Principal (Acad)**<br>santhana\_mary\_poobalan@moe.edu.sg|
+| <img src="/images/About%20us/Mr%20Tommy%20Yang.jpg" style="width: 83%"> [**Mr Tommy Yang**](mailto:tommy_yang@moe.edu.sg)<br>**Vice-Principal(Admin)**<br>tommy\_yang@moe.edu.sg  |<img src="/images/About%20us/mrs%20josephine%20lim%20vice-principal%201.jpg" style="width: 63%"> [**Mrs Josephine Lim**](mailto:sng_yee_yee@moe.edu.sg)<br>**Vice-Principal (Acad)**<br>sng\_yee\_yee@moe.edu.sg  | <img src="/images/About%20us/ms%20santhana%20mary%20vice-principal.jpg" style="width: 68%">  [**Ms Santhana Mary Poobalan**](mailto:santhana_mary_poobalan@moe.edu.sg)<br>**Vice-Principal (Acad)**<br>santhana\_mary\_poobalan@moe.edu.sg|
 
 
 <center>To contact the respective staff below<br>please call 67697478 followed by the Extension No.</center>
