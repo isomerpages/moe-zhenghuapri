@@ -46,32 +46,33 @@ Students dress up as their favourite characters to do a presentation. This progr
 <u>A Butterfly is Born</u><br>
 Students will be captivated as they learn about metamorphosis and watch their caterpillars grow beautiful wings. Growing butterflies is definitely a fun way to teach our students writing.
 
-<img src="/images/englishlanguage3.jpg" style="width:40%;margin-left:45px;" align = "left">
-<img src="/images/englishlanguage4.jpg" style="width:42%;margin-right:75px;" align = "right">
+<img src="/images/ZHPS%20Experience/English%20Language/A%20Butterfly%20is%20Born%202023/Butterfly%20is%20Born_1.jpg" style="width:40%;margin-left:45px;" align = "left">
+<img src="/images/ZHPS%20Experience/English%20Language/A%20Butterfly%20is%20Born%202023/Butterfly%20is%20Born_2.jpg" style="width:42%;margin-right:75px;" align = "right">
 
 <br clear="left">
 
-<img src="/images/englishlanguage5.jpg" style="width:32%;margin-left:75px;" align = "left">
-<img src="/images/englishlanguage6.jpg" style="width:43%;margin-right:67px;" align = "right">
+<img src="/images/ZHPS%20Experience/English%20Language/A%20Butterfly%20is%20Born%202023/Butterfly%20is%20Born_3.jpg" style="width:32%;margin-left:75px;" align = "left">
+<img src="/images/ZHPS%20Experience/English%20Language/A%20Butterfly%20is%20Born%202023/Butterfly%20is%20Born_4.jpg" style="width:43%;margin-right:67px;" align = "right">
 
 <br clear="left">
 
-<img src="/images/englishlanguage7.jpg" style="width:40%">
+<img src="/images/ZHPS%20Experience/English%20Language/A%20Butterfly%20is%20Born%202023/Butterfly%20is%20Born_5.jpg" style="width:40%">
+
 
 <u>Making Ice Cream</u><br>
 Students get a chance to make ice cream after they learn about the features of a procedural text. Learning writing can be really fun too!
 
-<img src="/images/englishlanguage8.jpg" style="width:40%;margin-left:45px;" align = "left">
-<img src="/images/englishlanguage9.jpg" style="width:40%;margin-right:85px;" align = "right">
+<img src="/images/ZHPS%20Experience/English%20Language/Making%20Ice%20Cream%202023/Making%20Ice%20Cream_1.jpg" style="width:40%;margin-left:40px;" align = "left">
+<img src="/images/ZHPS%20Experience/English%20Language/Making%20Ice%20Cream%202023/Making%20Ice%20Cream_2.jpg" style="width:40%;margin-right:85px;" align = "right">
 
 <br clear="left">
 
-<img src="/images/englishlanguage10.jpg" style="width:40%;margin-left:45px;" align = "left">
-<img src="/images/englishlanguage11.jpg" style="width:40%;margin-right:85px;" align = "right">
+<img src="/images/ZHPS%20Experience/English%20Language/Making%20Ice%20Cream%202023/Making%20Ice%20Cream_3.jpg" style="width:40%;margin-left:40px;" align = "left">
+<img src="/images/ZHPS%20Experience/English%20Language/Making%20Ice%20Cream%202023/Making%20Ice%20Cream_4.jpg" style="width:40%;margin-right:85px;" align = "right">
 
 <br clear="left">
 
-<img src="/images/englishlanguage12.jpg" style="width:40%">
+<img src="/images/ZHPS%20Experience/English%20Language/Making%20Ice%20Cream%202023/Making%20Ice%20Cream_5.jpg" style="width:40%">
 
  <u>A Meal with My Family</u><br>
 Students share how they have bonded with their family members over a meal. Students are encouraged to take ownership over their own learning, provide constructive feedback to their peers, and showcase their creativity in creating artefacts for their Show and Tell.
