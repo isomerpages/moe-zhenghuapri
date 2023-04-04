@@ -9,8 +9,7 @@ description: ""
 |:-------------:|:----------------:|
 | ![](/images/Children%20in%20Action.jpeg) <a href="https://photos.app.goo.gl/PyKMPJCmrF9AcY4q8" target="_blank"> K1 First day of school</a>      |![](/images/20230120_105708.jpeg)    <a href="https://photos.app.goo.gl/rnBk7s4tf6dJwfVY6" target="_blank"> CNY Celebration</a> 
 | ![](/images/MK-Children%20in%20Action.jpg) <a href="https://photos.app.goo.gl/isaJiqYZo3LzR4WPA" target="_blank"> Children in Action</a>      |![](/images/MK-Open%20House.jpg)    <a href="https://photos.app.goo.gl/Led4RMDx9iV1CsLz9" target="_blank"> Open House</a>
-|![](/images/MK-Open%20House.jpg)    <a href="https://photos.app.goo.gl/LcUkQk4VymNPwNDA7" target="_blank"> Total Defence Day</a>|
-
+|![](/images/total%20defence%20day.JPG)    <a href="https://photos.app.goo.gl/LcUkQk4VymNPwNDA7" target="_blank"> Total Defence Day</a>|
 
 # 2022
 
