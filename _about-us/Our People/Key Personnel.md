@@ -28,7 +28,7 @@ third_nav_title: Our People
 
 |            |                    |                        |
 |:-----------:|:------------:|:-------------:|
-|  [**Mrs Dorcas Yiong**](mailto:dorcas_hee_shee_kuan@moe.edu.sg)<br>**Year Head / Upper Primary**<br>Extn: *576*  | [**Mdm**&nbsp;**Hafiza Bte Ahssan**](mailto:hafiza_ahssan@moe.edu.sg)<br>**Year Head /Upper Primary**<br>Extn: *571* | Mdm Nor Hazwani Bte Harun Rashid<br>**Asst Year Head / Middle Primary**<br>Extn: *578* |
+|  [**Mrs Dorcas Yiong**](mailto:dorcas_hee_shee_kuan@moe.edu.sg)<br>**Year Head / Upper Primary**<br>Extn: *576*  | [**Mdm**&nbsp;**Hafiza Bte Ahssan**](mailto:hafiza_ahssan@moe.edu.sg)<br>**Year Head /Upper Primary**<br>Extn: *571* | [**Mdm Nor Hazwani Bte Harun Rushid**](mailto:Nor_Hazwani_Harun_Rushid@moe.edu.sg)<br>**Asst Year Head / Middle Primary**<br>Extn: *578* |
 | [**Mrs Lee Boon Kwang**](mailto:lee_boon_kwang@moe.edu.sg)<br>**Year Head / Lower Primary**<br>Extn: *570* |     [**Mdm Sieow Kim Lian**](mailto:sieow_kim_lian@moe.edu.sg)<br>**Asst Year Head / Lower Primary**<br>Extn: *564*    |[**Mdm Ong Yan Joo**](mailto:ong_yan_joo@moe.edu.sg)<br>**Asst Year Head / Lower Primary**<br>Extn: *585*  
 |[**Mdm Ou Yanxia**](mailto:ou_yanxia@moe.edu.sg)<br>**Asst Year Head (Int)**<br>Extn:&nbsp;_573_
 
