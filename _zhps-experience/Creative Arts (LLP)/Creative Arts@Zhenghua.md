@@ -10,7 +10,7 @@ As a strong supporter of the arts, the school believes in the power of the arts 
 
 Students are provided with a variety of exposure and opportunities to experience quality arts programmes with integrated values education that supports the students’ development of 21st&nbsp;century competencies. The school’s thematic and customised approach to the arts enable students to see connections and relevance across Music, Art, Dance and Drama and the other disciplines in the school. The school’s Applied Learning Programme, Inter-disciplinary Museum-based Learning (IMBL) programme, Physical Education (PE), Mother Tongue Language, English Language and Social Studies lessons employ the arts to allow students to build connections across the different subjects and develop an understanding of the world around them.
 
-<font size="2">_The table below shows the Tiered-approach to arts education under **Creative Arts@Zhenghua**._    </font>
+<font size="2">The table below shows the Tiered-approach to arts education under Creative Arts@Zhenghua.    </font>
 
 
 <table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="609" style="border-collapse:collapse;mso-table-layout-alt:fixed;mso-yfti-tbllook:
