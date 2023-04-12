@@ -8,8 +8,6 @@ third_nav_title: Creative Arts (LLP)
 
 As a strong supporter of the arts, the school believes in the power of the arts to nurture confident, creative and expressive learners. The creative arts is the school’s tradition and strength, and it is proud to have developed a distinctive approach that involves learning in and through the arts. Thus, the&nbsp;**Creative Arts@Zhenghua**&nbsp;becomes a natural fit as the school’s Learning for Life Programme (LLP).
 
-  
-
 Students are provided with a variety of exposure and opportunities to experience quality arts programmes with integrated values education that supports the students’ development of 21st&nbsp;century competencies. The school’s thematic and customised approach to the arts enable students to see connections and relevance across Music, Art, Dance and Drama and the other disciplines in the school. The school’s Applied Learning Programme, Inter-disciplinary Museum-based Learning (IMBL) programme, Physical Education (PE), Mother Tongue Language, English Language and Social Studies lessons employ the arts to allow students to build connections across the different subjects and develop an understanding of the world around them.
 
 <font size="2">_The table below shows the Tiered-approach to arts education under **Creative Arts@Zhenghua**._    </font>
