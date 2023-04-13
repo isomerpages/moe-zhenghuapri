@@ -2,7 +2,6 @@ collections:
   mk-at-zhenghua:
     output: true
     order:
-      - Gallery.md
       - About Us.md
       - Curriculum.md
       - Gallery/.keep
