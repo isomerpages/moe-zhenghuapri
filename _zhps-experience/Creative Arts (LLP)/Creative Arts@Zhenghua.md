@@ -279,12 +279,9 @@ Students are provided with a variety of exposure and opportunities to experience
   102;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:32.7pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:9.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">Drama in Curriculum (Social Studies** &amp; Mother Tongue)</span><span style="font-size:9.0pt;
   font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td></tr></tbody></table>
-<p style="line-height:1%">
-<font size="2"> * Students revisit the study of musical instruments previously learnt in preparation for Ensemble in Semester 2. </font></p>
-<p style="line-height:1%">
-<font size="2"> ** Piloted in 2022 for a class in Primary 5’s English Language and a class in Primary 6 for Social Studies.</font></p>
-<p style="line-height:1%">
-<font size="2">The tiered approach to arts education in the Creative Arts LLP</font></p>
+<font size="2"> * Students revisit the study of musical instruments previously learnt in preparation for Ensemble in Semester 2. </font><br>
+<font size="2"> ** Piloted in 2022 for a class in Primary 5’s English Language and a class in Primary 6 for Social Studies.</font><br>
+<font size="2">The tiered approach to arts education in the Creative Arts LLP</font>
 
 
 The infusion of the arts in the various disciplines also enable students to learn through the arts, appreciate different art forms and cultures, and develop creative and critical thinking. Students’ personal voice is also developed as they are given opportunities to express themselves through the arts. The school provides platforms for students to serve the community through arts performances and arts outreach programmes.
