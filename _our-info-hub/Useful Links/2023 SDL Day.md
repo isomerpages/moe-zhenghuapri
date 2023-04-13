@@ -10,3 +10,5 @@ third_nav_title: Useful Links
 [2. Self-Directed Interest-Based Learning](https://drive.google.com/drive/folders/1VBuW92ZTWUGcLqSIdxpIFiZMQKFaMZ_R)
 
 [P5 SDL Video Montage](https://youtu.be/vMNz8pkklwM)
+
+[P6 SDL Video Montage](https://youtu.be/YjE8dabDhGQ)
