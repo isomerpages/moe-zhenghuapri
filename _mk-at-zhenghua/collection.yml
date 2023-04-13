@@ -2,12 +2,12 @@ collections:
   mk-at-zhenghua:
     output: true
     order:
+      - About Us.md
+      - Curriculum.md
+      - Gallery/.keep
       - Gallery/2022.md
       - Gallery/2023.md
       - Gallery/Gallery.md
-      - Gallery/.keep
-      - About Us.md
-      - Curriculum.md
       - Partners.md
       - MK Open House 2023.md
       - MK Orientation for 2023 Students.md
