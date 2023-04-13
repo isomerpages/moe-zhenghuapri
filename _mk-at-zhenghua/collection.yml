@@ -2,6 +2,7 @@ collections:
   mk-at-zhenghua:
     output: true
     order:
+      - Gallery/2022.md
       - Gallery/2023.md
       - Gallery/Gallery.md
       - Gallery/.keep
