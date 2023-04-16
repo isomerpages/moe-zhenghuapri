@@ -279,11 +279,8 @@ Students are provided with a variety of exposure and opportunities to experience
   102;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:32.7pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:9.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">Drama in Curriculum (Social Studies** &amp; Mother Tongue)</span><span style="font-size:9.0pt;
   font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td></tr></tbody></table>
-<p style="line-height:1%">
-<font size="2"> * Students revisit the study of musical instruments previously learnt in preparation for Ensemble in Semester 2. </font></p>
-<p style="line-height:1%">
-<font size="2"> ** Piloted in 2022 for a class in Primary 5’s English Language and a class in Primary 6 for Social Studies.</font></p>
-<p style="line-height:1%">
+<p style="line-height:80%"><font size="2"> * Students revisit the study of musical instruments previously learnt in preparation for Ensemble in Semester 2. </font><br>
+<font size="2"> ** Piloted in 2022 for a class in Primary 5’s English Language and a class in Primary 6 for Social Studies.</font><br>
 <font size="2">The tiered approach to arts education in the Creative Arts LLP</font></p>
 
 
