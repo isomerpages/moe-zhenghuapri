@@ -75,6 +75,6 @@ Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 
 
 8\.  Parents may opt their children out of the Sexuality Education programme, and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-9\.  Parents who wish to opt their children out of the&nbsp;**Sexuality Education Lesson**&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of this year and is also downloadable&nbsp;[here](https://go.gov.sg/zhenghua-sexuality-ed-opt-out-form). The complete opt-out form is to be submitted by 12/01/2023.
+9\.  Parents who wish to opt their children out of the&nbsp;**Sexuality Education Lesson**&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of this year and is also downloadable&nbsp;[Here](/files/sexuality%20education%20optout%20form%202023.pdf). The complete opt-out form is to be submitted by 12/01/2023.
 
 10\.  Parents can contact the school at&nbsp;[zhenghua\_ps@moe.edu.sg](mailto:zhenghua_ps@moe.edu.sg)&nbsp;for discussion or to seek clarification about the school’s sexuality education programme.
