@@ -18,7 +18,7 @@ We also offer Kindergarten Care (KCare), a full-day service. If you register, yo
 
 <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/kindergarten-care/" target="_blank">Learn more about KCare, their fees and how to register.</a>
 
-Our Vision, Mission & Beliefs
+Our Vision, Mission &amp; Beliefs
 -----------------------------
 
 Our vision is to provide a strong start for every child. We seek to do so through providing quality pre-school education that is affordable to Singapore citizens and Permanent Residents aged 5 and 6.
@@ -29,7 +29,7 @@ We believe that children are curious, active and competent learners. They are ke
 
   
 
-For more information, please visit the <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/overview" target="_blank">MOE website</a>.
+For more information, please visit the&nbsp;<a href="https://www.moe.gov.sg/preschool/moe-kindergarten/overview" target="_blank">MOE website</a>.
 
 Our People
 ----------
@@ -55,6 +55,6 @@ Our People
 | CL TEACHER |                      Hao Yiming                      |
 | CL TEACHER |                        Chen Yi                       |
 | CL TEACHER |                       Jiang Jie                      |
-| ML TEACHER | Siti Nurul Ain Binte Abdul Rahman A<br>zlina Binte Yazid |
+| ML TEACHER | Siti Nurul Ain Binte Abdul Rahman <br>Azlina Binte Yazid |
 | TL TEACHER |                Darshini d/o Alagaraja                |
 |
