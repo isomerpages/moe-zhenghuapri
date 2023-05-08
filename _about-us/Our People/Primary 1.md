@@ -10,7 +10,7 @@ third_nav_title: Our People
 | CLASS |  FORM TEACHER    |   FORM TEACHER         |
 |:-----:|:---------------:|:-----------:|
 |  1 CE | Mdm Hyeryanti Binte Suradi<br>[hyeryanti_suradi@moe.edu.sg](mailto:hyeryanti_suradi@moe.edu.sg)<br>Extn: 509            | Mdm Soh Shan Shan Serene<br>[soh_shan_shan_serene@moe.edu.sg](mailto:soh_shan_shan_serene@moe.edu.sg)<br>Extn: 533              |
-|  1 CN | Miss Daphne Lau Siew Hui<br>[lau_siew_hui_daphne@moe.edu.sg](mailto:lau_siew_hui_daphne@moe.edu.sg)<br>Extn: 509       |Mdm Kang Shuangjuan<br>[kang_shuangjuan@moe.edu.sg](mailto:kang_shuangjuan@moe.edu.sg)<br>Extn: 509
+|  1 CN | Miss Daphne Lau Siew Hui<br>[lau_siew_hui_daphne@moe.edu.sg](mailto:lau_siew_hui_daphne@moe.edu.sg)<br>Extn: 509       |Mdm Kang Shuangjuan<br>[kang_shuang_juan@moe.edu.sg](mailto:kang_shuangjuan@moe.edu.sg)<br>Extn: 509
 |  1 CN | Mrs Margaret Tan<br>[margaret_tan@moe.edu.sg](mailto:margaret_tan@moe.edu.sg)<br>Extn: 535           | 
 |  1 EE | Miss Jolene Tan Ying Jun<br>[jolene_tan_ying_jun@moe.edu.sg](mailto:jolene_tan_ying_jun@moe.edu.sg)<br>Extn: 515 |   Mdm Juliana Bte Sahak<br>[juliana_sahak@moe.edu.sg](mailto:juliana_sahak@moe.edu.sg)<br>Extn: 536  |
 |  1 HY | Mdm Intan Rosnah Bte Ahmad<br>[intan_rosnah_ahmad@moe.edu.sg](mailto:intan_rosnah_ahmad@moe.edu.sg)<br>Extn: 536 |Mdm Suriyana Bte Ghapari<br>[suriyana_ghapari@moe.edu.sg](mailto:suriyana_ghapari@moe.edu.sg)<br>Extn: 581     |
