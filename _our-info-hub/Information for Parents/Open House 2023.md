@@ -11,3 +11,5 @@ third_nav_title: Information for Parents
 |
 
 ![](/images/Our%20info%20hub/zhenghua%20primary%20school%20-%20p1%20open%20house%202023%20(motd%20poster)%20.png)
+
+![](/images/Our%20info%20hub/zhenghua%20primary%20school-p1%20open%20house%202023%20(physical%20banner).jpg)
