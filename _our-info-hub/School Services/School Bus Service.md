@@ -14,4 +14,4 @@ Singapore 598138<br>
 Tel: 64655959<br>
 Fax: 64665959<br>
 
-[School Bus Services.pdf](/files/Our%20Info%20Hub/2023%20zhps%20bus%20price%20lists.pdf)
+[School Bus Service](/files/Our%20Info%20Hub/2023%20zhps%20bus%20price%20lists.pdf)
