@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Useful Links
 ---
 # 2023 SDL Day
-[1. Self-Directed Subject-Based Learning](https://drive.google.com/drive/folders/1SnuHMMD1jUi18a9qhWo3GUjsAkT39LG8)
+[1. Self-Directed Subject-Based Learning](https://drive.google.com/drive/folders/1A58O9Uj2XQr45eK3Pm8RMccdDEkrlBJg?usp=share_link)
 
 [2. Self-Directed Interest-Based Learning](https://drive.google.com/drive/folders/1VBuW92ZTWUGcLqSIdxpIFiZMQKFaMZ_R)
 
