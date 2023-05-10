@@ -14,3 +14,6 @@ third_nav_title: Useful Links
 [P5 SDL Video Montage](https://youtu.be/vMNz8pkklwM)
 
 [P6 SDL Video Montage](https://youtu.be/YjE8dabDhGQ)
+
+<a href="https://sites.google.com/moe.edu.sg/zhenghuasdl/home"><img src="/images/Our%20info%20hub/sdl%20infographic.jpg"></a>
+
