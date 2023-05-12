@@ -30,3 +30,4 @@ third_nav_title: Our School Identity
 <center>Verse 2:<br>Of life we learn, for wisdom we seek<br>With dreams we dare to reach<br>Onwards as one, a team in harmony<br>For our Zhenghua family!</center>
 
 <center>School Song: <a href="https://youtu.be/5VM0Xh7dz1Y" target="_blank">https://youtu.be/5VM0Xh7dz1Y</a></center>
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/5VM0Xh7dz1Y" height="315" width="560"></iframe></center>
