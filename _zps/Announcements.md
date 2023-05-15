@@ -6,11 +6,13 @@ description: ""
 <a id="top"></a>
 # Announcements
 
+[**2023 Primary 1 Open House**](https://www.zhenghuapri.moe.edu.sg/our-info-hub/Information-for-Parents/Open-House-2023/)
 
+* * *
 
 [**MOE Kindergarten (MK) Registration for 2023**](https://zhenghuapri.moe.edu.sg/zps/announcements#)
 
-Click <a href="/zps/announcements/moe-kindergarten-mk-registration-for-2023/" target="_blank">here</a> for more details.
+Click&nbsp;<a href="/zps/announcements/moe-kindergarten-mk-registration-for-2023/" target="_blank">here</a>&nbsp;for more details.
 
 
 * * *
