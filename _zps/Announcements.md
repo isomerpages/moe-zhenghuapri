@@ -6,7 +6,7 @@ description: ""
 <a id="top"></a>
 # Announcements
 
-[**2023 Primary 1 Open House**](https://www.zhenghuapri.moe.edu.sg/our-info-hub/Information-for-Parents/Open-House-2023/)
+[**Primary 1 Open House 2023**](https://www.zhenghuapri.moe.edu.sg/our-info-hub/Information-for-Parents/Open-House-2023/)
 
 * * *
 
