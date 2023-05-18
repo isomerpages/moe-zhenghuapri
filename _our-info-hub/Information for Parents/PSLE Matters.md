@@ -28,7 +28,7 @@ There are many different secondary schools to choose from. While some have uniqu
 |   9  | New PSLE Scoring System:<br>What does this mean for your child?                                                                                                       |   <a href="https://www.moe.gov.sg/microsites/psle-fsbb/psle/new-psle-scoring-system.html" target="_blank">https://www.moe.gov.sg/microsites/psle-fsbb/psle/new-psle-scoring-system.html</a>   |    ![](/images/Psle%20matters/new%20psle%20scoring%20system.png)   |
 |  10  | Posting to Secondary School                                                                                                                                           | <a href="https://www.moe.gov.sg/microsites/psle-fsbb/posting-to-secondary-school/main.html" target="_blank">https://www.moe.gov.sg/microsites/psle-fsbb/posting-to-secondary-school/main.html</a> |    ![](/images/Psle%20matters/posting%20to%20a%20secondary%20school.png)    |
 |  11  | Full Subject-Based Banding (Full SBB)                                                                                                                                 | <a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html" target="_blank">https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html</a>  |    ![](/images/Psle%20matters/full%20subject%20based%20banding.png)    |
-|  12  | Direct School Admission for secondary schools (DSA-Sec)                                                                                                               | <a href="https://www.moe.gov.sg/secondary/dsa " target="_blank">https://www.moe.gov.sg/secondary/dsa </a>                                             |    ![](/images/Psle%20matters/DSA.png)    |
+|  12  | Direct School Admission for secondary schools (DSA-Sec)                                                                                                               | <a href="https://www.moe.gov.sg/secondary/dsa" target="_blank">https://www.moe.gov.sg/secondary/dsa </a>                                             |    ![](/images/Psle%20matters/DSA.png)    |
 |  13  | WEStories Flipbook                                                                                                                                                    |            <a href="https://online.fliphtml5.com/obrr/qkde/#p=1" target="_blank">WEStories 2022</a>                                                          |    ![](/images/Psle%20matters/WEStories%202022.png)    |
 |
 
@@ -39,4 +39,7 @@ Primary Student Portal<br>
 <a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary/about/myskillsfuture-for-students.html" target="_blank">www.myskillsfuture.sg/primary</a>
 
 My School, My Friends, My Dreams<br>
-<a href="https://youtu.be/i9fpBx9xeGU" target="_blank">https://youtu.be/i9fpBx9xeGU</a>
+<a href="https://youtu.be/i9fpBx9xeGU" target="_blank">https://youtu.be/i9fpBx9xeGU</a><br>
+
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/i9fpBx9xeGU" height="315" width="560"></iframe>
