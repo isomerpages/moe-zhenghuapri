@@ -34,4 +34,6 @@ Primary Student Portal<br>
 [www.myskillsfuture.sg/primarywww.myskillsfuture.sg/primary)
 
 My School, My Friends, My Dreams<br>
-[https://youtu.be/i9fpBx9xeGU](https://youtu.be/i9fpBx9xeGU)
+[https://youtu.be/i9fpBx9xeGU](https://youtu.be/i9fpBx9xeGU)<br>
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/i9fpBx9xeGU" height="315" width="560"></iframe>
