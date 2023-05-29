@@ -4,6 +4,8 @@ permalink: /our-info-hub/Information-for-Parents/Open-House-2023/
 description: ""
 third_nav_title: Information for Parents
 ---
+[Primary One Open House Principal's Talk](/files/Our%20Info%20Hub/2023%20open%20house%20principal's%20talk.pdf)
+
 | Date | Event | Time |
 | -------- | -------- | -------- |
 | 22nd May    | P1 Open House Day 1     | 9 am to 12 noon     |
