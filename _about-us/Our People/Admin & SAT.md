@@ -10,7 +10,7 @@ third_nav_title: Our People
 
 | |
 |:---:|
-| Mr Loh Yuen Fong ,Eric<br>Administration Manager<br>Email: [low_yuen_fong@moe.edu.sg](mailto:loh_yuen_fong@moe.edu.sg)<br>Extn: 201 |
+| Mr Loh Yuen Fong ,Eric<br>Administration Manager<br>Email: [loh_yuen_fong@moe.edu.sg](mailto:loh_yuen_fong@moe.edu.sg)<br>Extn: 201 |
 | Mr Shah Irwan Sazali<br>Adjunct OM<br>Email: [shah_irwan_sazali@moe.edu.sg](mailto:shah_irwan_sazali@moe.edu.sg)<br>Extn: 202 |
 | Mdm Suzie Miranti<br>Administration Executive<br>Email: [suzie_miranti_razali@moe.edu.sg](mailto:suzie_miranti_razali@moe.edu.sg)<br>Extn: 210 |
 | Mdm Chua Bee Ching<br>Administration Executive (MK @Zhenghua)<br>Email: [chua_bee_ching@moe.edu.sg](mailto:chua_bee_ching@moe.edu.sg)<br>Extn: 271 |
