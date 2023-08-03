@@ -11,12 +11,12 @@ third_nav_title: Our People
 | |
 |:---:|
 | Mr Loh Yuen Fong ,Eric<br>Administration Manager<br>Email: [loh_yuen_fong@moe.edu.sg](mailto:loh_yuen_fong@moe.edu.sg)<br>Extn: 201 |
-| Mr Shah Irwan Sazali<br>Adjunct OM<br>Email: [shah_irwan_sazali@moe.edu.sg](mailto:shah_irwan_sazali@moe.edu.sg)<br>Extn: 202 |
+| Mr Shah Irwan Sazali<br>Adjunct OM<br>Email: [shah_irwan_sazali@moe.edu.sg](mailto:shah_irwan_sazali@moe.edu.sg)<br>Extn: 203 |
 | Mdm Suzie Miranti<br>Administration Executive<br>Email: [suzie_miranti_razali@moe.edu.sg](mailto:suzie_miranti_razali@moe.edu.sg)<br>Extn: 210 |
 | Mr Myo Thein htaik<br>Corporate Support Officer<br>Email: [myo_thein_htaik@moe.edu.sg](mailto:myo_thein_htaik@moe.edu.sg)<br>Extn: 204 |
 | Mr Chan Hoe Yin<br>ICT Manager<br>Email: [chan_hoe_yin@moe.edu.sg](mailto:chan_hoe_yin@moe.edu.sg)<br>Extn: 582 |
 | Mrs. Kalivaradhan Bargavi<br>ICT Associate<br>Email: [bargavi_kalivaradhan@moe.edu.sg](mailto:bargavi_kalivaradhan@moe.edu.sg)<br>Extn: 526 |
-| Mdm Yati<br>Corporate Support Officer<br>Email: [marhayati_saadon@moe.edu.sg](mailto:marhayati_saadon@moe.edu.sg)<br>Extn: 205 |
+| Mdm Tan Jing Geok<br>Corporate Support Officer<br>Email: [tan_jing_geok@moe.edu.sg](mailto:tan_jing_geok@moe.edu.sg)<br>Extn: 202 |
 |    Mdm Joelle Ang Hsiao Chiah<br>Corporate Support Officer<br>Email: [ang_hsiao_chiah@moe.edu.sg](mailto:ang_hsiao_chiah@moe.edu.sg)<br>Extn: 206   |
 |Mdm Irene Seet<br>Corporate Support Officer<br>Email: [irene_seet@moe.edu.sg](mailto:irene_seet@moe.edu.sg)<br>Extn: 271
 | Mr Cheong Ye Ching<br>Desktop Engineer (DE)<br>Extn: 575 |
