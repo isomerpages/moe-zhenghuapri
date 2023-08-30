@@ -6,6 +6,9 @@ description: ""
 <a id="top"></a>
 # Announcements
 
+[**2023 Alumni Homecoming**](/files/2023%20alumni%20teachers’%20day%20invite.pdf)<br>
+[Registration](https://forms.moe.edu.sg/forms/Jq25ro)
+
 [**Primary 1 Open House 2023**](https://www.zhenghuapri.moe.edu.sg/our-info-hub/Information-for-Parents/Open-House-2023/)
 
 * * *
