@@ -10,7 +10,7 @@ third_nav_title: Information for Parents
 
 ## P1 Orientation Matters
 
-### P1 Orientation 2022
+### P1 Orientation (for 2024)
 
 **Date: 20 November 2023, Monday**<br>
 **Time: 3pm to 4.30pm**&nbsp;<br>
