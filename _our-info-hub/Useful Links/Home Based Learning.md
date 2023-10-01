@@ -4,8 +4,13 @@ permalink: /our-info-hub/useful-links/home-based-learning/
 description: ""
 third_nav_title: Useful Links
 ---
-**For Week 4 - 2nd and 3rd October 2023**<br>
+**For Week 3 - 28th and 29th September 2023**<br>
 
+[Primary 4 Home Based Learning]( https://docs.google.com/spreadsheets/d/1SZR_r-4lPKAaSRMH1XAK2CYeJwGrQyuG/edit?usp=sharing&amp;ouid=107631230945873581509&amp;rtpof=true&amp;sd=true)
+
+[Primary 5 Home Based Learning](https://docs.google.com/spreadsheets/d/1bykeRiD2txd35KnDtT9Paj_u2Fk3_8L4/edit?usp=sharing&amp;ouid=107631230945873581509&amp;rtpof=true&amp;sd=true)
+
+**For Week 4 - 2nd and 3rd October 2023**<br>
 
 [Primary 4 Home Based Learning](https://docs.google.com/spreadsheets/d/1ANCpaZavK6zBTlS-wNViT3AC6MKMRdcm/edit?usp=sharing&amp;ouid=107631230945873581509&amp;rtpof=true&amp;sd=true)
 
