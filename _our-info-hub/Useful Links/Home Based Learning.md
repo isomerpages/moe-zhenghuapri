@@ -4,14 +4,10 @@ permalink: /our-info-hub/useful-links/home-based-learning/
 description: ""
 third_nav_title: Useful Links
 ---
-**For Week 3 - 28th and 29th September 2023**<br>
+**For Week 6 - 16th, 17th and 18th October 2023**<br>
 
-[Primary 4 Home Based Learning]( https://docs.google.com/spreadsheets/d/1SZR_r-4lPKAaSRMH1XAK2CYeJwGrQyuG/edit?usp=sharing&amp;ouid=107631230945873581509&amp;rtpof=true&amp;sd=true)
+[Primary 1 Home Based Learning](https://docs.google.com/spreadsheets/d/12mWUvZjV8faTfW1NDENtx9OBKyLwUV5-/edit?usp=drive_link&amp;ouid=107631230945873581509&amp;rtpof=true&amp;sd=true)
 
-[Primary 5 Home Based Learning](https://docs.google.com/spreadsheets/d/1bykeRiD2txd35KnDtT9Paj_u2Fk3_8L4/edit?usp=sharing&amp;ouid=107631230945873581509&amp;rtpof=true&amp;sd=true)
+[Primary 2 Home Based Learning](https://docs.google.com/spreadsheets/d/1N-GqezjHdwYZAXo75GoCqrI-UvZDt8e0/edit?usp=drive_link&amp;ouid=107631230945873581509&amp;rtpof=true&amp;sd=true)
 
-**For Week 4 - 2nd and 3rd October 2023**<br>
-
-[Primary 4 Home Based Learning](https://docs.google.com/spreadsheets/d/1ANCpaZavK6zBTlS-wNViT3AC6MKMRdcm/edit?usp=sharing&amp;ouid=107631230945873581509&amp;rtpof=true&amp;sd=true)
-
-[Primary 5 Home Based Learning](https://docs.google.com/spreadsheets/d/1ZW2ypirzLGdy93rrN0Af9aVpYpMR1Vfv/edit?usp=sharing&amp;ouid=107631230945873581509&amp;rtpof=true&amp;sd=true)
+[Primary 6 Home Based Learning](https://docs.google.com/spreadsheets/d/1OZZozqua10BAisdrYNxj8Wn3cFNc2tyH/edit?usp=drive_link&amp;ouid=107631230945873581509&amp;rtpof=true&amp;sd=true)
