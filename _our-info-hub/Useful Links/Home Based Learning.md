@@ -4,7 +4,7 @@ permalink: /our-info-hub/useful-links/home-based-learning/
 description: ""
 third_nav_title: Useful Links
 ---
-**For Week 6 - 16th and 18th October 2023**<br>
+**For Week 6 - 16th, 17th and 18th October 2023**<br>
 
 [Primary 1 Home Based Learning](https://docs.google.com/spreadsheets/d/12mWUvZjV8faTfW1NDENtx9OBKyLwUV5-/edit?usp=drive_link&amp;ouid=107631230945873581509&amp;rtpof=true&amp;sd=true)
 
