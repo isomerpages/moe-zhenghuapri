@@ -25,13 +25,13 @@ Mission
 
 *   To build a strong Mathematical foundation in students.
     
-*    To foster joy in the learning of Mathematics.
+*   &nbsp;To foster joy in the learning of Mathematics.
     
-*    To engage students through various learning of Mathematics.
+*   &nbsp;To engage students through various learning of Mathematics.
     
-*    To engage students through various learning experiences.
+*   &nbsp;To engage students through various learning experiences.
     
-*    To develop reasoning and communication skills in students.
+*   &nbsp;To develop reasoning and communication skills in students.
     
 *   To give students opportunities to appreciate and apply Mathematics in real life context.
     
@@ -39,11 +39,11 @@ Mission
 Department's Focus
 ------------------
 
-*   We believe that every child wants to and can learn. The Math Department aims to enable our students to: 
+*   We believe that every child wants to and can learn. The Math Department aims to enable our students to:&nbsp;
     
     *   acquire Mathematical concepts and skills for everyday use
         
-    *   develop thinking, reasoning, communication, application, and   metacognitive skills
+    *   develop thinking, reasoning, communication, application, and &nbsp; metacognitive skills
         
     *   build confidence and foster interest in Mathematics.
         
@@ -52,18 +52,18 @@ Department's Focus
 Key Approaches
 --------------
 
-1\. **Using Concrete to Pictorial to Abstract (C-P-A) Approach**
+1\. **Using Concrete&nbsp;to Pictorial to Abstract (C-P-A) Approach**
 
-To enhance conceptual understanding, our teachers make use of CPA (Concrete to Pictorial to Abstract) Approach in the teaching of Mathematics in the classroom. Students have the opportunities to make use manipulatives such as base-ten blocks, number discs and fraction bars to better understand the Mathematical concepts and this makes learning more fun at the same time.   
+To enhance conceptual understanding, our teachers make use of CPA (Concrete to&nbsp;Pictorial to&nbsp;Abstract) Approach in the teaching of Mathematics in the classroom. Students have the opportunities to make use manipulatives such as base-ten blocks, number discs and fraction bars to better understand the Mathematical concepts and this makes learning more fun at the same time.&nbsp;&nbsp;&nbsp;
 
 2\. **Enhancing Learning Experiences**
 
-To ignite the joy of learning in Mathematics, students are provided with different opportunities to apply concepts and skills learnt in real-life context. 
+To ignite the joy of learning in Mathematics, students are provided with different opportunities to apply concepts and skills learnt in real-life context.&nbsp;
 
 
 3\. **Making Thinking Visible through Mathematical Reasoning and Communication**
 
-To develop a thinker and a resilient problem solver, our students are encouraged to communicate their reasoning and connections through various Mathematical tasks and activities such as performance tasks. Students are given opportunities to discuss and express their thoughts and ideas in both verbal and written forms (Mathematical Journal Writing). As a result, our students will be able to develop the capacities to think critically, creatively as well as confidently. 
+To develop a thinker and a resilient problem solver, our students are encouraged to communicate their reasoning and connections through various Mathematical tasks and activities such as performance tasks. Students are given opportunities to discuss and express their thoughts and ideas in both verbal and written forms (Mathematical Journal Writing). As a result, our students will be able to develop the capacities to think critically, creatively as well as confidently.&nbsp;
 
 Mathematics Department Programmes
 ---------------------------------
@@ -71,8 +71,8 @@ Mathematics Department Programmes
 **P3 Math Shopping Day – Self-Directed Learning**<br>
 P3 Shopping allows students to see the connection between the mathematics they complete in the classroom and the world outside the classroom. Students engage in decision-making, exercise adaptability, and communicate their ideas during the shopping experience. The concept of money is also further consolidated and enhanced as students make purchases within a given budget for their group party which they have planned the day before.  
 
-**<u>P</u>lay <u>A</u>nd <u>L</u>earn <u>M</u>ath (PALM) @ the Classroom - P1 to P6**<br>
-To inculcate the love for the subject, the Mathematics Department organises PALM @ the Classroom for our students. The programme aims to:
+**<u>P</u>lay&nbsp;<u>A</u>nd&nbsp;<u>L</u>earn&nbsp;<u>M</u>ath (PALM) @ the Classroom - P1 to P6**<br>
+To inculcate the love for the subject, the Mathematics Department organises&nbsp;PALM&nbsp;@ the Classroom for our students. The programme aims to:
 
 *   provide more opportunities for students to be more engaged during Math lessons.
     
@@ -101,7 +101,7 @@ During the trail, students will be exposed to mathematical problem solving in a 
 
 <img src="/images/mathb.jpg" style="width:95%">
 
-**P4 interdisciplinary Learning Trail @ Gardens by  the Bay**
+**P4 interdisciplinary Learning Trail @ Gardens by&nbsp; the Bay**
 
 <img src="/images/mathc.jpg" style="width:75%">
 
@@ -121,15 +121,15 @@ P6 – Circles/Nets
 <img src="/images/mathe.jpg" style="width:65%">
 
 **P5 Little Bakers Programme**<br>
-To foster the joy of learning and nurture the spirit of Entrepreneurial Dare, the Math department embarked on a specially designed programme for our Primary 5 students.  The Little Bakers Programme aims to engage our students through fun and hands-on baking experience and provide them with the opportunity to appreciate and apply Mathematics and Science concepts in real life. 
+To foster the joy of learning and nurture the spirit of Entrepreneurial Dare, the Math department embarked on a specially designed programme for our Primary 5 students.&nbsp; The Little Bakers Programme aims to engage our students through fun and hands-on baking experience and provide them with the opportunity to appreciate and apply Mathematics and Science concepts in real life.&nbsp;
 
-Our little bakers need to use Mathematics when measuring and weighing ingredients, conversion of units, calculating ratio when making changes to recipes. They also have to apply Science concepts such as heat and temperature. Through this programme, students will understand how the concepts and skills learnt during Mathematics and Science lessons affect the quality of cookies they are baking. 
+Our little bakers need to use Mathematics when measuring and weighing ingredients, conversion of units, calculating ratio when making changes to recipes. They also have to apply Science concepts such as heat and temperature. Through this programme, students will understand how the concepts and skills learnt during Mathematics and Science lessons affect the quality of cookies they are baking.&nbsp;
 
 The pictures below show students having fun baking different types of cookies.
   
 <img src="/images/math1.png" style="width:45%">
 
-**Watch the videos - Let’s learn baking from Kelyn Lim (5IY) and Yon Kundu (5CE).**<br>
+**Watch the videos - Let’s learn baking from Kelyn Lim (5IY) and Syon Kundu (5CE).**<br>
 **[Baking with Lim Qian Yu Kelyn.mp4](https://drive.google.com/file/d/1WVAcDSx3QG6gNLPsDM8bOgYX4hqdN3GY/view?usp=share_link)**<br>
 **[Baking with SYON KUNDU.mp4](https://drive.google.com/file/d/1HgPFxk0-ZaYed8FfH_UDDuUUR1LkKPr6/view?usp=share_link)**
 
