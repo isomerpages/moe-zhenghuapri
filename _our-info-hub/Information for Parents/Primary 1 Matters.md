@@ -3,6 +3,7 @@ title: Primary 1 Matters
 permalink: /our-info-hub/information-for-parents/primary-1-matters/
 description: ""
 third_nav_title: Information for Parents
+variant: markdown
 ---
 # Primary 1 Matters
 
@@ -16,7 +17,7 @@ third_nav_title: Information for Parents
 **Time: 3pm to 4.30pm**&nbsp;<br>
 **Venue: Zhenghua Primary School**<br>
 
-<iframe width="864" height="486" src="https://www.youtube.com/embed/DtwmZqbWaVE" title="Class of 2023 P1 orientation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
 
 
 Parents Kit (Transition to P1)
