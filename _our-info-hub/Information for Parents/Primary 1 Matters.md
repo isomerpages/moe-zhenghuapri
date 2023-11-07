@@ -17,7 +17,7 @@ variant: markdown
 **Time: 3pm to 4.30pm**&nbsp;<br>
 **Venue: Zhenghua Primary School**<br>
 
-
+[2024 P1 Check List for Week 1](/files/Our%20Info%20Hub/p1%20check%20list%20for%20week%201%202024.pdf)
 
 
 Parents Kit (Transition to P1)
