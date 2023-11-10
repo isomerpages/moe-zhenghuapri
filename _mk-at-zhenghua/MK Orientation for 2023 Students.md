@@ -2,8 +2,10 @@
 title: MK Orientation for 2023 Students
 permalink: /mk-at-zhenghua/mk-orientation-for-2023-students/
 description: ""
+variant: markdown
 ---
 # MK Orientation for 2023 Students
 
-[1\. MK Orientation 2022.pdf](https://zhenghuapri.moe.edu.sg/qql/slot/u516/Stakeholders/Information%20for%20Parents/2022/parents%20briefing/1.%20MK%20Orientation%202022.pdf)  
-[2\. KCare Orientation 2022.pdf](/files/2%20KCare%20Orientation%202022.pdf)   
+[MK_Orientation_2023](/files/MK_Slides_for_K1_Orientation_2023.pdf)
+
+[KCare_Orientation_2023](/files/kcare_slides_for_k1_orientation_2023.pdf)
