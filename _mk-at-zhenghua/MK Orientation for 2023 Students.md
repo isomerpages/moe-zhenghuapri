@@ -8,4 +8,4 @@ variant: markdown
 
 [MK_Orientation_2023](/files/MK_Slides_for_K1_Orientation_2023.pdf)
 
-[KCare_Orientation_2023](/files/kcare_slides_for_k1_orientation_2023.pdf)
+[KCare_Orientation_2023](/files/KCare_Slides_for_K1_Orientation_2023.pdf)
