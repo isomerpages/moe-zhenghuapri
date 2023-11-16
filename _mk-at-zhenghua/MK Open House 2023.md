@@ -1,6 +1,6 @@
 ---
-title: MK Open House 2024
-permalink: /mk-at-zhenghua/mk-open-house-2024/
+title: MK Open House 2023
+permalink: /mk-at-zhenghua/mk-open-house-2023/
 description: ""
 variant: tiptap
 ---
