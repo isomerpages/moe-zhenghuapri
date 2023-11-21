@@ -21,7 +21,7 @@ variant: markdown
 
 [P1 Orientation Day Slides](/files/Our%20Info%20Hub/P1_Orientation_Day_Year_Head.pdf)
 
-
+[PSG 2024](https://photos.app.goo.gl/gLxyRXrxv6bCRAvA9)
 
 Parents Kit (Transition to P1)
 ==============================
