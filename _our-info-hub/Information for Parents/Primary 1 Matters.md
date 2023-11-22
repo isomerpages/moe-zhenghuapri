@@ -23,6 +23,9 @@ variant: markdown
 
 [PSG 2024](https://photos.app.goo.gl/gLxyRXrxv6bCRAvA9)
 
+<center>Parents Support Group: <a href="https://youtu.be/qHx5ynl6648" target="_blank">https://youtu.be/qHx5ynl6648</a></center>
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/watch?v=qHx5ynl6648" height="315" width="560"></iframe></center>
+
 Parents Kit (Transition to P1)
 ==============================
 
