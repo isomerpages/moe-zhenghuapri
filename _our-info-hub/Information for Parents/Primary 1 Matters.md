@@ -19,9 +19,11 @@ variant: markdown
 
 [2024 P1 Check List for Week 1](/files/Our%20Info%20Hub/p1%20check%20list%20for%20week%201%202024.pdf)
 
-Note for P1 Parents (2024)<br>
-P1 Orientation will be held on Monday, 20 November 2023. The programme will start at 3.00 pm and end at 4.30 pm. Only P1 students and parents/guardians (up to 2) are invited.<br>
-Your child/ward will go through class and school routines in the classrooms and will go on a tour of the school compound during the orientation. Parents/Guardians will attend a briefing at the school hall. The Principal, Year Head and School Counsellor will be providing an overview of the school and share with you how your child/ward can get ready for his/her first day at school. The community partners are also invited to share their programmes and services. For parents who signed up for the YMCA Student Care Service, there will be Q &amp; A session and registration at 4.40 pm.
+[P1 Orientation Day Slides](/files/Our%20Info%20Hub/P1_Orientation_Day_Year_Head.pdf)
+
+
+Parents Support Group: <a href="https://youtu.be/qHx5ynl6648" target="_blank">https://youtu.be/qHx5ynl6648</a>
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/qHx5ynl6648" height="315" width="560"></iframe></center>
 
 
 Parents Kit (Transition to P1)
