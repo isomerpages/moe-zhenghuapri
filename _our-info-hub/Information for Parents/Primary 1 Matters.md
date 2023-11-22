@@ -21,10 +21,10 @@ variant: markdown
 
 [P1 Orientation Day Slides](/files/Our%20Info%20Hub/P1_Orientation_Day_Year_Head.pdf)
 
-[PSG 2024](https://photos.app.goo.gl/gLxyRXrxv6bCRAvA9)
 
-<center>Parents Support Group: <a href="https://youtu.be/qHx5ynl6648" target="_blank">https://youtu.be/qHx5ynl6648</a></center>
-<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/watch?v=qHx5ynl6648" height="315" width="560"></iframe></center>
+Parents Support Group: <a href="https://youtu.be/qHx5ynl6648" target="_blank">https://youtu.be/qHx5ynl6648</a>
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/qHx5ynl6648" height="315" width="560"></iframe></center>
+
 
 Parents Kit (Transition to P1)
 ==============================
