@@ -11,7 +11,8 @@ variant: markdown
 | CLASS |  FORM TEACHER    |   FORM TEACHER         |
 |:-----:|:---------------:|:-----------:|
 |  1 CE | Mdm Amuthavali <br>[amuthavali_rajoo@moe.edu.sg](mailto:amuthavali_rajoo@moe.edu.sg)<br>Extn: 531            | Mdm Lim Pui Yee<br>[lim_pui_yee@moe.edu.sg](mailto:lim_pui_yee@moe.edu.sg)<br>Extn: 508              |
-|  1 CN | Mr Goh Boon Tiong<br>[goh_boon_tiong@moe.edu.sg](mailto:goh_boon_tiong@moe.edu.sg)<br>Extn: 542            |Mdm Kang Shuangjuan<br>[kang_shuang_juan@moe.edu.sg](mailto:kang_shuangjuan@moe.edu.sg)<br>Extn: 509|  1 EE | Mr Faizal<br>[mohamed_faizal_mohamed_raz@moe.edu.sg](mailto:mohamed_faizal_mohamed_raz@moe.edu.sg])<br>Extn: 565 |   Mdm Maszelin<br>[maszelin_mohamed@moe.edu.sg](mailto:maszelin_mohamed@moe.edu.sg)<br>Extn: 534  |
+|  1 CN | Mr Goh Boon Tiong<br>[goh_boon_tiong@moe.edu.sg](mailto:goh_boon_tiong@moe.edu.sg)<br>Extn: 542            |Mdm Kang Shuangjuan<br>[kang_shuang_juan@moe.edu.sg](mailto:kang_shuangjuan@moe.edu.sg)<br>Extn: 509|  
+|1 EE | Mr Faizal<br>[mohamed_faizal_mohamed_raz@moe.edu.sg](mailto:mohamed_faizal_mohamed_raz@moe.edu.sg])<br>Extn: 565 |   Mdm Maszelin<br>[maszelin_mohamed@moe.edu.sg](mailto:maszelin_mohamed@moe.edu.sg)<br>Extn: 534  |
 |  1 HY | Mdm Sabrina<br>[sabrina_samsuri@moe.edu.sg](mailto:sabrina_samsuri@moe.edu.sg)<br>Extn: 505 |Mdm Wong Qiu Yan<br>[wong_qiu_yang@moe.edu.sg](mailto:wong_qiu_yang@moe.edu.sg)<br>Extn: 540     |
 |  1IN  | Mdm Ng Eileen<br>[ng_eileen@moe.edu.sg](mailto:ng_eileen@moe.edu.sg)<br>Extn: 528             |Mr Shawn<br>[yeap_wen_bin_shawn@moe.edu.sg](mailto:yeap_wen_bin_shawn@moe.edu.sg)<br>Extn: 542          |
 |  1 IY |Mdm Celestine Goh<br>[celestine_goh_xuewei@moe.edu.sg](mailto:celestine_goh_xuewei@moe.edu.sg)<br>Extn: 542         |Mdm Pan Jia Yi<br>[pan_jia_yi@moe.edu.sg](mailto:pan_jia_yi@moe.edu.sg)<br>Extn: 506         |
@@ -19,4 +20,3 @@ variant: markdown
 
 
 
- (English and Mathematics)<br>[yew_ann_yee@moe.edu.sg](mailto:yew_ann_yee@moe.edu.sg)<br>Extn: 526      |
