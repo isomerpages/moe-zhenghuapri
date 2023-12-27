@@ -3,6 +3,7 @@ title: Allied Educators
 permalink: /about-us/our-people/allied-educators/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 # Allied Educators
 
@@ -10,7 +11,7 @@ third_nav_title: Our People
 
 |                                                                                                                                  |
 |:--------------------------------------------------------------------------------------------------------------------------------:|
-|           Mdm Annu Ratha D/O Jayaram<br>(Senior School Counsellor)<br>Email: [annu_ratha_jayaram@moe.edu.sg](mailto:annu_ratha_jayaram@moe.edu.sg)<br>Extn: 574          |
+|                    |
 |              Ms Toh Mui Hua Catherine<br>(School Counseller)<br>Email: [toh_mui_hua_catherine@moe.edu.sg](mailto:toh_mui_hua_catherine@moe.edu.sg)<br>Extn: 574             |
 | Mr Mohd Alighouse S/O Md Sidique<br>(Learning Behavioural Support)<br>Email: [mohd_alighouse_mohd_sidique@moe.edu.sg](mohd_alighouse_mohd_sidique@moe.edu.sg)<br>Extn: 526 |
 |                 Mrs Isabel Chan<br>(Teaching &amp; Learning)<br>Email: [isabel_lim_shiow_fond@moe.edu.sg](mailto:isabel_lim_shiow_fond@moe.edu.sg)<br>Extn: 540                 |

@@ -3,16 +3,15 @@ title: Primary 3
 permalink: /about-us/our-people/primary-3/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 # Primary 3
 
 | CLASS |                               FORM TEACHER                              |                            FORM TEACHER                            |
 |:-----:|:-----------------------------------------------------------------------:|:------------------------------------------------------------------:|
-|  3 CE | Mdm Tang Ai Wei<br>[tang_ai_wei@moe.edu.sg](mailto:tang_ai_wei@moe.edu.sg)<br>Extn: 513          | Ms Ainida Shubahi<br>[ainida_shubahi@moe.edu.sg](mailto:ainida_shubahi@moe.edu.sg)<br>Extn: 539 |
-|3 CE|Mdm Ou Yanxia<br>[ou_yanxia@moe.edu.sg](mailto:ou_yanxia@moe.edu.sg)<br>Extn: 573
-|  3 CN |Mdm Loo Mei Ping<br>[loo_mei_ping@moe.edu.sg](mailto:loo_mei_ping@moe.edu.sg)<br>Extn: 516 | Mrs Tanuja Raj<br>[tanuja_k_k_chandran@moe.edu.sg](mailto:tanuja_k_k_chandran@moe.edu.sg)<br>Extn: 506     |
-|3 CN| Mdm Koh Ser Lian<br>[koh_ser_lian@moe.edu.sg](mailto:koh_ser_lian@moe.edu.sg)<br>Extn:515
-|  3 EE |Mr Fadhil Bin Abdul Rahman<br>[fadhil_abdul_rahman@moe.edu.sg](mailto:fadhil_abdul_rahman@moe.edu.sg)<br>Extn: 584         |Mdm Neo Mei Fang<br>[neo_mei_fang@moe.edu.sg](mailto:neo_mei_fang@moe.edu.sg)<br>Extn: 513   |
-|  3 HY | Mdm Lim Pui Yee<br>[lim_pui_yee@moe.edu.sg](mailto:lim_pui_yee@moe.edu.sg)<br>Extn: 508    |         Mdm Siti Aisyah Binte Azan<br>[siti_aisyah_azan@moe.edu.sg](mailto:siti_aisyah_azan@moe.edu.sg)<br>Extn: 514        |
-|  3 IN |  Mdm Lee Chai Ping Betty<br>[lee_chai_ping@moe.edu.sg](mailto:lee_chai_ping@moe.edu.sg)<br>Extn: 515         |   Ms Jacqueline Tan jie Ying<br>[jacqueline_tan_jie_ying@moe.edu.sg](mailto:jacqueline_tan_jie_ying@moe.edu.sg)<br>Extn: 504   |
-|  3 IY |    Ms Chew Sze Ling Cindy<br>[chew_sze_ling_cindy@moe.edu.sg](mailto:chew_sze_ling_cindy@moe.edu.sg)<br>Extn: 512    |   Mdm Lim Shi Nan<br>[lim_shi_nan@moe.edu.sg](mailto:lim_shi_nan@moe.edu.sg)<br>Extn: 516     |
+|  3 CE | Mdm Eliza Tan<br>[@moe.edu.sg](mailto:@moe.edu.sg)<br>Extn: ***          | Mr Sulaiman<br>[sulaiman_jaffar@moe.edu.sg](mailto:sulaiman_jaffar@moe.edu.sg)<br>Extn: 529 |
+|  3 CN |Miss Rachel <br>[wong_yu_jia@moe.edu.sg](mailto:wong_yu_jia@moe.edu.sg)<br>Extn: 532 | Miss Seng Wendy<br>[seng_wan_qi_wendy@moe.edu.sg](mailto:seng_wan_qi_wendy@moe.edu.sg)<br>Extn: 512     |
+|  3 EE |Mdm Jumilah <br>[jumilah_ahmad@moe.edu.sg](mailto:jumilah_ahmad@moe.edu.sg)<br>Extn: 504         |Mdm Nurul Huda<br>[nurul-huda_sarkawai@moe.edu.sg](mailto:nurul-huda_sarkawai@moe.edu.sg)<br>Extn: 527   |
+|  3 HY | Mr Fazli <br>[mohamed_fazli_mohd_aris@moe.edu.sg](mailto:mohamed_fazli_mohd_aris@moe.edu.sg)<br>Extn: 530    |         Mdm Tang Li Tan<br>[tang_li_tan@moe.edu.sg](mailto:tang_li_tan@moe.edu.sg)<br>Extn: 534        |
+|  3 IN |  Mdm Tay Jia Lin<br>[tay_jia_ling@moe.edu.sg](mailto:tay_jia_ling@moe.edu.sg)<br>Extn: 568         |   Mdm Jayanthi <br>[jayanthi_krishnan@moe.edu.sg](mailto:jayanthi_krishnan@moe.edu.sg)<br>Extn: 507   |
+|  3 IY |    Mr Chua Liang Cun <br>[chua_liang_cun@moe.edu.sg](mailto:chua_liang_cun@moe.edu.sg)<br>Extn: 545    |   Mr Loo Teng Kiat<br>[loo_teng_kiat@moe.edu.sg](mailto:loo_teng_kiat@moe.edu.sg)<br>Extn: 543     |Miss Shan Mengdi<br>[shan_mengdi@moe.edu.sg](mailto:shan_mengdi@moe.edu.sg)<br>Extn: 505
