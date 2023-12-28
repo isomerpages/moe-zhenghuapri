@@ -3,6 +3,7 @@ title: Facilities
 permalink: /our-info-hub/school-services/facilities/
 description: ""
 third_nav_title: School Services
+variant: markdown
 ---
 # Facilities
 
@@ -46,8 +47,6 @@ Fax: 6464 0110
 
 The Canteen Stall Price List is available in the school website for parents’ information so that parents can prepare sufficient pocket money for your child/ children when he/she/they is/are in school.  
   
-<a href="/files/Our%20Info%20Hub/2023%20Canteen%20Stall%20Price%20List%20Final_171122.pdf" target="_blank">2022 Canteen Stall Price List.pdf</a>
-
 ## Dental Clinic
 
 <u>School Dental Clinic</u><br>
