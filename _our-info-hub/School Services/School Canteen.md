@@ -3,9 +3,9 @@ title: School Canteen
 permalink: /our-info-hub/school-services/school-canteen/
 description: ""
 third_nav_title: School Services
+variant: markdown
 ---
 # School Canteen
 
-[2023 Canteen Stall Price List .pdf](/files/Our%20Info%20Hub/2023%20Canteen%20Stall%20Price%20List%20Final_171122.pdf)
+[2024 Canteen Stall Price List](/files/Our%20Info%20Hub/2024_Canteen_Stall_Price_List_Final__121223.pdf)
 
-[Zhenghua Primary School Canteen Advertisement](/files/Our%20Info%20Hub/zhenghua%20primary%20school%20canteen%20advertisement.pdf)
