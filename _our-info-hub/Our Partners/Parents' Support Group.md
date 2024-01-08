@@ -3,6 +3,7 @@ title: Parents' Support Group
 permalink: /our-info-hub/our-partners/parents-support-group/
 description: ""
 third_nav_title: Our Partners
+variant: markdown
 ---
 # Parents' Support Group
 
@@ -29,12 +30,10 @@ Vice- principal (Ms. Santhana Mary)
 **Teachers In-charge:**
 
 Mdm Suriyana Bte Ghapari   
-Mdm Hyeryanti Bte Suradi   
-Mrs. Avinash Murugesuvari.
+Mdm Pan Jiayi   
+Mr Eddy Norisman
 
   
 <center>To join the PSG, please scan the QR code below and register your details in the Link.</center>
 
-<img src="/images/Our%20info%20hub/psg2022.png"
-     style="width:40%">
-
+<img src="/images/Our%20info%20hub/psg2022.png" style="width:40%">
