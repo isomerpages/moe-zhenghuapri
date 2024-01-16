@@ -4,15 +4,4 @@ permalink: /mk-at-zhenghua/mk-open-house-2024/
 description: ""
 variant: tiptap
 ---
-![](/images/unnamed.jpeg)
-
-Click here to sign up for the Open House.  
-[https://go.gov.sg/mkopenhouse2023pmk](https://go.gov.sg/mkopenhouse2023pmk)  
-
- 
-<center>Programme Flow</center>
-
-![](/images/programme.png)
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AYt1smH3iNg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/unnamed.jpeg"></div><p><a href="www.moe.gov.sg/preschool/moe-kindergarten/mkopenhouse" rel="noopener noreferrer nofollow" target="_blank">Click here to sign up for the Open House.</a></p><p>Programme Flow</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/programme.png"></div><div class="iframe-wrapper"><iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/AYt1smH3iNg"></iframe></div><p></p>
