@@ -11,7 +11,7 @@ variant: markdown
 
 | CLASS | FORM TEACHER | CLASS | FORM TEACHER |
 |:---:|:---:|:---:|:---:|
-| K1-CA | Zulaikha Beevi (FT/HL)<br>
+| K1-CA | Ms Nur Sheeda Marzuki (FT)<br>
 | K2-CA | Yap Wai Han (FT/HL)<br>Nor Syahidah Binte Sariman<br> |
 | K1- EA |  | K2- EA | Lim Shi Rui |
 | K1 - IA | Karina Giam Lay Leng | K2 - IA | Nur Sheeda Binte Marzuki |
