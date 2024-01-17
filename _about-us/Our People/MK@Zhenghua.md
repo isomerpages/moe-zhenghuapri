@@ -26,12 +26,10 @@ K2IA | Ms Karina Giam Lay Leng <br>[karina_giam_lay_leng@moe.edu.sg](mailto:kari
 
 
 
-| MTL |   TEACHER    |    TEACHER         |
-
-	|Chinese Language |                       Mdm Jiang Yanyu (sarah) <br>Level Head[nur_sheeda_marzuki@moe.edu.sg](mailto:nur_sheeda_marzuki@moe.edu.sg)<br>            | Mdm cai Xiujin <br>[cai_xiujin@moe.edu.sg](mailto:cai_xiujin@moe.edu.sg)<br>             |  |
-| CL TEACHER |  K1 EA |  |
-| CL TEACHER | K1 IA /K1 IP | Cai Xiujin |
-| CL TEACHER | K1 EP  |  |
+ | MTL |              TEACHER    |                  TEACHER         |
+|:-----:|:---------------:|:-----------:|
+| Chinese Language | Mdm Jiang Yanyu (sarah) <br>[Level Head] jiang_yanyu@moe.edu.sg<br>            | Mdm Chen Yi <br>[Teacher] <br>chen_yi_b@moe.edu.sg)<br>             | n@moe.edu.sg)<br>             |  |
+|Chinese Language |Mdm Hao Yiming  <br>[Level Head] jiang_yanyu@moe.edu.sg<br>            | Mdm Chen Yi <br>[Teacher] <br>chen_yi_b@moe.edu.sg)<br>   
 | CL TEACHER |  K2 CP/K2 EP | Hao Yiming |
 | CL TEACHER | K2 EA/K2 IP  | Chen Yi |
 | CL TEACHER | K2 IA  | Jiang Jie |
