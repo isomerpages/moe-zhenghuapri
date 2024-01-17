@@ -9,10 +9,10 @@ variant: markdown
 
 <center><b>CENTER HEAD<br>Mrs Vivien Villaroza<br>kwok_wai_leng_vivien@moe.edu.sg<br>Extn: 273</b></center>
 
-| CLASS | FORM TEACHER | CLASS | FORM TEACHER |
-|:---:|:---:|:---:|:---:|
-| K1-CA | Ms Nur Sheeda Marzuki (FT)<br>[nur_sheeda_marzuki@moe.edu.sg](mailto:nur_sheeda_marzuki@moe.edu.sg)|   Mdm Cai Xiujin (CFT) <br> [cai_xiujin@moe.edu.sg](mailto:cai_xiujin@moe.edu.sg)| 
-| K2-CA | Yap Wai Han (FT/HL)<br>Nor Syahidah Binte Sariman<br> |
+| CLASS |  FORM TEACHER    |   COFORM TEACHER         |
+|:-----:|:---------------:|:-----------:|
+|  K1CA | Ms Nur Sheeda Marzuki <br>[nur_sheeda_marzuki@moe.edu.sg](mailto:nur_sheeda_marzuki@moe.edu.sg)<br>            | Mdm cai Xiujin <br>[cai_xiujin@moe.edu.sg](mailto:cai_xiujin@moe.edu.sg)<br>             | 
+| K1EA | Ms Lim Shi Rui<br>Nor Syahidah Binte Sariman<br> |
 | K1- EA |  | K2- EA | Lim Shi Rui |
 | K1 - IA | Karina Giam Lay Leng | K2 - IA | Nur Sheeda Binte Marzuki |
 | K1- CP | <br>Zulaikha Beevi (FT/HL)<br> | K2 - CP | Yap Wai Han |
