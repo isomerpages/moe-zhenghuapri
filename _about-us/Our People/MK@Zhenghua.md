@@ -17,4 +17,11 @@ variant: markdown
 |K1IA  | Ms Leong Xue Fang<br>[leong_xue_fang@moe.edu.sg](mailto:leong_xue_fang@moe.edu.sg])<br> |   Mdm Hao Yiming<br>[hao_yiming@moe.edu.sg](mailto:hao_yiming@moe.edu.sg)<br>  |
 |  K1RA | Ms Nor Syahidah Bte Sariman<br>[nor_syahidah_sariman@moe.edu.sg](mailto:nor_syahidah_sariman@moe.edu.sg)<br> |Ms Zulaikha Beevi<br>[zulaikha_beevi@moe.edu.sg](mailto:zulaikha_beevi@moe.edu.sg)<br>     |
 |  K1CP  | Ms Nor Syahidah Bte Sariman<br>[nor_syahidah_sariman@moe.edu.sg](mailto:nor_syahidah_sariman@moe.edu.sg)<br>             |Mdm Cai Xiujin<br>[cai_xiujin@moe.edu.sg](mailto:cai_xiujin@moe.edu.sg)<br>          |
-|  K1RP |Ms Zulaikha Beevi<br>[zulaikha_beevi@moe.edu.sg](mailto:zulaikha_beevi@moe.edu.sg)<br>         |Mdm Chen Yi<br>[chen_yi_b@moe.edu.sg](mailto:chen_yi_b@moe.edu.sg)<br>         |<br>Extn: 526|
+|  K1RP |Ms Zulaikha Beevi<br>[zulaikha_beevi@moe.edu.sg](mailto:zulaikha_beevi@moe.edu.sg)<br>         |Mdm Chen Yi<br>[chen_yi_b@moe.edu.sg](mailto:chen_yi_b@moe.edu.sg)<br>    |
+| CLASS |  FORM TEACHER    |   FORM TEACHER         |
+|  K1CA| Ms Nur Sheeda Marzuki <br>[nur_sheeda_marzuki@moe.edu.sg](mailto:nur_sheeda_marzuki@moe.edu.sg)<br>            | MdmCai Xiujin <br>[cai_xiujin@moe.edu.sg](mailto:cai_xiujin@moe.edu.sg)<br>              |
+|  K1EA | Ms Lim Shi Rui<br>[lim_shi_rui@moe.edu.sg](mailto:lim_shi_rui@moe.edu.sg)<br>            |Mdm Chen Yi<br>[chen_yi_b@moe.edu.sg](mailto:chen_yi_b@moe.edu.sg)<br>|  
+|K1IA  | Ms Leong Xue Fang<br>[leong_xue_fang@moe.edu.sg](mailto:leong_xue_fang@moe.edu.sg])<br> |   Mdm Hao Yiming<br>[hao_yiming@moe.edu.sg](mailto:hao_yiming@moe.edu.sg)<br>  |
+|  K1RA | Ms Nor Syahidah Bte Sariman<br>[nor_syahidah_sariman@moe.edu.sg](mailto:nor_syahidah_sariman@moe.edu.sg)<br> |Ms Zulaikha Beevi<br>[zulaikha_beevi@moe.edu.sg](mailto:zulaikha_beevi@moe.edu.sg)<br>     |
+|  K1CP  | Ms Nor Syahidah Bte Sariman<br>[nor_syahidah_sariman@moe.edu.sg](mailto:nor_syahidah_sariman@moe.edu.sg)<br>             |Mdm Cai Xiujin<br>[cai_xiujin@moe.edu.sg](mailto:cai_xiujin@moe.edu.sg)<br>          |
+|  K1RP |Ms Zulaikha Beevi<br>[zulaikha_beevi@moe.edu.sg](mailto:zulaikha_beevi@moe.edu.sg)<br>         |Mdm Chen Yi<br>[chen_yi_b@moe.edu.sg](mailto:chen_yi_b@moe.edu.sg)<br>         |<br>Extn: 526||<br>Extn: 526|
