@@ -35,7 +35,7 @@ K2IA | Ms Karina Giam Lay Leng <br>[karina_giam_lay_leng@moe.edu.sg](mailto:kari
 |Chinese Language |Mdm Hao Yiming  <br>[Level Head]<br>hao_yiming@moe.edu.sg  <br>          | Mdm Chen Yi <br>[Teacher] <br>chen_yi_b@moe.edu.sg)<br> |  
 | Chinese Language | Mdm Cai Xiujin  <br> [Teacher] <br> cai_xiujin@moe.edu.sg  |  |
 | Tamil Language | Ms Darshini Alagaraja <br>[Teacher]<br> darshini_alagaraja@moe.edu.sg |
-| Malay LanguageR |   Siti Nurul Ain Binte Abdul Rahman<br>[Teacher]<br>siti_nurul_ain_abd@moe.edu.sg<br>                 |        Mdm Azlina Binte Yazid <br> [Teacher] <br> azlina_yazid@moe.edu.sg |
+| Malay Language |   Siti Nurul Ain Binte Abdul Rahman<br>[Teacher]<br>siti_nurul_ain_abd@moe.edu.sg<br>                 |        Mdm Azlina Binte Yazid <br> [Teacher] <br> azlina_yazid@moe.edu.sg |
 
 
 |</center>
