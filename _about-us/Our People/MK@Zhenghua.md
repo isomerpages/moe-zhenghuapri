@@ -11,7 +11,7 @@ variant: markdown
 
 | CLASS | FORM TEACHER | CLASS | FORM TEACHER |
 |:---:|:---:|:---:|:---:|
-| K1-CA | Ms Nur Sheeda Marzuki (FT)<br>[nur_sheeda_marzuki@moe.edu.sg](mailto:nur_sheeda_marzuki@moe.edu.sg)
+| K1-CA | Ms Nur Sheeda Marzuki (FT)<br>[nur_sheeda_marzuki@moe.edu.sg](mailto:nur_sheeda_marzuki@moe.edu.sg)|   Mdm Cai Xiujin (CFT) <br> [cai_xiujin@moe.edu.sg](mailto:cai_xiujin@moe.edu.sg)| 
 | K2-CA | Yap Wai Han (FT/HL)<br>Nor Syahidah Binte Sariman<br> |
 | K1- EA |  | K2- EA | Lim Shi Rui |
 | K1 - IA | Karina Giam Lay Leng | K2 - IA | Nur Sheeda Binte Marzuki |
