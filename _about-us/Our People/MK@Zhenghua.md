@@ -12,12 +12,11 @@ variant: markdown
 | CLASS |  FORM TEACHER    |   COFORM TEACHER         |
 |:-----:|:---------------:|:-----------:|
 |  K1CA | Ms Nur Sheeda Marzuki <br>[nur_sheeda_marzuki@moe.edu.sg](mailto:nur_sheeda_marzuki@moe.edu.sg)<br>            | Mdm cai Xiujin <br>[cai_xiujin@moe.edu.sg](mailto:cai_xiujin@moe.edu.sg)<br>             | 
-| K1EA | Ms Lim Shi Rui<br>Nor Syahidah Binte Sariman<br> |
-| K1- EA |  | K2- EA | Lim Shi Rui |
-| K1 - IA | Karina Giam Lay Leng | K2 - IA | Nur Sheeda Binte Marzuki |
-| K1- CP | <br>Zulaikha Beevi (FT/HL)<br> | K2 - CP | Yap Wai Han |
-| K1 - EP | Sharifah Ulfah Zhatul<br>Syed Zainuddin | K2- EP | Leong Xue Fang |
-| K1 - IP | Ang Bi Xia Karyn | K2- IP | Nor Syahidah Binte Sariman |
+| K1EA | Ms Lim Shi Rui<br>[lim_shi_rui@moe.edu.sg](mailto:lim_shi_rui@moe.edu.sg)<br> |    Mdm Chen Yi <br> [chen_yi_b@moe.edu.sg](mailto:chen_yi_b@moe.edu.sg)
+| K1IA | Ms Leong Xue Fang<br>[leong_xue_fang@moe.edu.sg](mailto:leong_xue_fang@moe.edu.sg)  |     Mdm Hao Yiming <br>   [hao_yiming@moe.edu.sg](mailto:hao_yiming@moe.edu.sg) |
+| K1RA |Ms Nor Syahidah Bte Sariman<br> [nor_syahidah_sariman@moe.edu.sg](mailto:nor_syahidah_sariman@moe.edu.sg) |  Ms Zulaikha Beevi <br>              [[zulaikha_beevi@moe.edu.sg](mailto:zulaikha_beevi@moe.edu.sg|
+| K1CP | Ms Nor Syahidah Bte Sariman<br> [nor_syahidah_sariman@moe.edu.sg](mailto:nor_syahidah_sariman@moe.edu.sg)  | Mdm cai Xiujin <br>[cai_xiujin@moe.edu.sg](mailto:cai_xiujin@moe.edu.sg
+| K1RP | Ms Zulaikha Beevi <br>[zulaikha_beevi@moe.edu.sg](mailto:zulaikha_beevi@moe.edu.sg) |  Mdm Chen Yi <br>[chen_yi_b@moe.edu.sg](mailto:chen_yi_b@moe.edu.sg)  |
 |
 
 | MTL |  CLASS | TEACHER |
