@@ -26,7 +26,7 @@ K2IA | Ms Karina Giam Lay Leng <br>[karina_giam_lay_leng@moe.edu.sg](mailto:kari
 
 
 
-L | TEACHER | TEACHER |
+| MTL |   TEACHER    |    TEACHER         |
 
 	|Chinese Language |                       Mdm Jiang Yanyu (sarah) <br>Level Head[nur_sheeda_marzuki@moe.edu.sg](mailto:nur_sheeda_marzuki@moe.edu.sg)<br>            | Mdm cai Xiujin <br>[cai_xiujin@moe.edu.sg](mailto:cai_xiujin@moe.edu.sg)<br>             |  |
 | CL TEACHER |  K1 EA |  |
