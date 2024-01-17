@@ -14,8 +14,8 @@ variant: markdown
 |  K1CA | Ms Nur Sheeda Marzuki <br>[nur_sheeda_marzuki@moe.edu.sg](mailto:nur_sheeda_marzuki@moe.edu.sg)<br>            | Mdm cai Xiujin <br>[cai_xiujin@moe.edu.sg](mailto:cai_xiujin@moe.edu.sg)<br>             | 
 | K1EA | Ms Lim Shi Rui<br>[lim_shi_rui@moe.edu.sg](mailto:lim_shi_rui@moe.edu.sg)<br> |    Mdm Chen Yi <br> [chen_yi_b@moe.edu.sg](mailto:chen_yi_b@moe.edu.sg)
 | K1IA | Ms Leong Xue Fang<br>[leong_xue_fang@moe.edu.sg](mailto:leong_xue_fang@moe.edu.sg)  |     Mdm Hao Yiming <br>   [hao_yiming@moe.edu.sg](mailto:hao_yiming@moe.edu.sg) |
-| K1RA |Ms Nor Syahidah Bte Sariman<br> [nor_syahidah_sariman@moe.edu.sg](mailto:nor_syahidah_sariman@moe.edu.sg) |  Ms Zulaikha Beevi <br>              [[zulaikha_beevi@moe.edu.sg](mailto:zulaikha_beevi@moe.edu.sg|
-| K1CP | Ms Nor Syahidah Bte Sariman<br> [nor_syahidah_sariman@moe.edu.sg](mailto:nor_syahidah_sariman@moe.edu.sg)  | Mdm cai Xiujin <br>[cai_xiujin@moe.edu.sg](mailto:cai_xiujin@moe.edu.sg
+| K1RA |Ms Nor Syahidah Bte Sariman<br> [nor_syahidah_sariman@moe.edu.sg](mailto:nor_syahidah_sariman@moe.edu.sg) |  Ms Zulaikha Beevi <br>              [zulaikha_beevi@moe.edu.sg](mailto:zulaikha_beevi@moe.edu.sg)|
+| K1CP | Ms Nor Syahidah Bte Sariman<br> [nor_syahidah_sariman@moe.edu.sg](mailto:nor_syahidah_sariman@moe.edu.sg)  | Mdm cai Xiujin <br>[cai_xiujin@moe.edu.sg](mailto:cai_xiujin@moe.edu.sg)
 | K1RP | Ms Zulaikha Beevi <br>[zulaikha_beevi@moe.edu.sg](mailto:zulaikha_beevi@moe.edu.sg) |  Mdm Chen Yi <br>[chen_yi_b@moe.edu.sg](mailto:chen_yi_b@moe.edu.sg)  |
 |K2CA | Ms Yap Wai Han <br>[yap_wai_han@moe.edu.sg](mailto:yap_wai_han@moe.edu.sg)|          Mdm Jiang Yanyu (sarah) <br>[jiang_yanyu@moe.edu.sg](mailto:jiang_yanyu@moe.edu.sg) |
 | K2EA | Ms Karyn Ang <br>[ang_bi_xia_karyn@moe.edu.sg](mailto:ang_bi_xia_karyn@moe.edu.sg)| Mdm Jiang Jie <br> [jiang_jie@moe.edu.sg](mailto:jiang_jie@moe.edu.sg)|
