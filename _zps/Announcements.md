@@ -2,9 +2,15 @@
 title: Announcements
 permalink: /zps/announcements/
 description: ""
+variant: markdown
 ---
 <a id="top"></a>
 # Announcements
+
+#### **2024 MK@Zhenghua Open House**
+![2024 MK@Zhenghua Open House](/images/MK%20Photos/MK_2024_Open_House.jpg)
+
+***
 
 [**2023 Alumni Homecoming**](/files/2023%20alumni%20teachers’%20day%20invite.pdf)<br>
 [Registration](https://forms.moe.edu.sg/forms/Jq25ro)
