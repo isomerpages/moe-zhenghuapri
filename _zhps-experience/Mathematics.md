@@ -121,8 +121,8 @@ I AiM (Integrate Art in Math) is an enrichment programme that infuses Art into M
 | Primary 2 | Colors<br>-Primary colours | Shapes<br>Logic |
 | Primary 3 | Visuals with shapes<br>-Primary colours | Shapes<br>Visualisation |
 | Primary 4 | Visuals with shapes<br>-Primary colours | Shapes<br>Visualisation<br>Logic |
-| Primary 5 | Patterns<br>Primary colours | Shapes<br>Patterns<br>Visualisation |
-| Primary 6 | Patterns<br>Primary colours | Shapes<br>Patterns<br>Visualisation<br>Logic|
+| Primary 5 | Patterns<br>-Primary colours | Shapes<br>Patterns<br>Visualisation |
+| Primary 6 | Patterns<br>-Primary colours | Shapes<br>Patterns<br>Visualisation<br>Logic|
 |
 
 ![](/images/ZHPS%20Experience/Mathematics/Different_Models_and_Artefacts.jpg)
