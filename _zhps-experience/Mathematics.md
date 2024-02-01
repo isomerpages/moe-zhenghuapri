@@ -6,7 +6,7 @@ variant: markdown
 ---
 # Mathematics
 
-Vision
+#### Vision
 ------
 
 Every student a thinker and a resilient problem solver.
@@ -21,7 +21,7 @@ Every student a thinker and a resilient problem solver.
 | **R** | Review: Check your answer |
 |
 
-Mission
+#### Mission
 -------
 
 *   To build a strong Mathematical foundation in students.
@@ -37,7 +37,7 @@ Mission
 *   To give students opportunities to appreciate and apply Mathematics in real life context.
     
 
-Department's Focus
+#### Department's Focus
 ------------------
 
 *   We believe that every child wants to and can learn. The Math Department aims to enable our students to:&nbsp;
@@ -50,7 +50,7 @@ Department's Focus
         
     
 
-Key Approaches
+#### Key Approaches
 --------------
 
 1\. **Using Concrete&nbsp;to Pictorial to Abstract (C-P-A) Approach**
@@ -66,7 +66,7 @@ To ignite the joy of learning in Mathematics, students are provided with differe
 
 To develop a thinker and a resilient problem solver, our students are encouraged to communicate their reasoning and connections through various Mathematical tasks and activities such as performance tasks. Students are given opportunities to discuss and express their thoughts and ideas in both verbal and written forms (Mathematical Journal Writing). As a result, our students will be able to develop the capacities to think critically, creatively as well as confidently.&nbsp;
 
-Mathematics Department Programmes
+#### Mathematics Department Programmes
 ---------------------------------
 
 **P3 Math Shopping Day – Self-Directed Learning**<br>
