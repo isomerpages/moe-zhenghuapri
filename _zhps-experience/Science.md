@@ -40,14 +40,19 @@ Teachers are facilitators who help pupils make connections and build their under
 | ![](/images/ZHPS%20Experience/Science/P4%20students%20observing%20the%20concept%20of%20air%20occupying%20space.jpg) **P4 students observing the concept of air occupying space** | ![](/images/ZHPS%20Experience/Science/P3%20students%20asking%20questions%20about%20the%20living%20things%20in%20the%20gardens.jpg) **P3 students asking questions about the living things in the gardens** |
 |  ![](/images/ZHPS%20Experience/Science/P6%20students%20collecting%20data%20during%20investigations.jpg)**P6 students collecting data during investigations** | ![](/images/ZHPS%20Experience/Science/P5%20students%20sharing%20their%20findings%20to%20the%20classmates.jpg)**P5 students sharing their findings to the classmates**  |
 
+![](/images/ZHPS%20Experience/Science/Students_making_water_rockets.jpg)
 
-#### P5 STEM Programme
+#### P5 STEAM Programme
 ----------------
 The STEAM (**S**cience, **T**echnology, **E**ngineering, **A**rt, **M**athematics) programme provides our students with an opportunity to connect ideas from different academic disciplines. They actively use their imagination and creativity, to apply their understanding of electrical principles. The student design an Triorama in their art lesson which connects ideas from Mathematics and Art. The students used the Microbits to code instructions for the device for an energy-saving light circuit for their artwork.
+
+![](/images/ZHPS%20Experience/Science/P5_STEM.jpg)
 
 #### P3 Self Directed Learning (SDL) Day for Science
 
 The annual P3 SDL day provides our students with a platform to apply science in a story-based setting. The students were tasked to use recyclable materials to design an amphibious vehicle that can carry set of weights over a distance. We celebrated the students efforts with a level gathering to showcase the best performing vehicles.
+
+![](/images/ZHPS%20Experience/Science/P3_STEM.jpg)
 
 #### Learning Journeys to Science Centre Singapore for P4 and P6 students
 
@@ -56,3 +61,5 @@ Learning journeys provides learning experiences that expands our students’ app
 #### Collaboration with the Singapore Heart Foundation for P5 students
 
 Our P5 students collaborated with educators from the Singapore Heart Foundation to learn more about heart health. They participated in activities that allows them to explore the functions of the blood pressure monitor. They left the session with ideas to live a healthier lifestyle.
+
+![](/images/ZHPS%20Experience/Science/P5_Heart.jpg)
