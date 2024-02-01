@@ -2,6 +2,7 @@
 title: Mathematics
 permalink: /zhps-experience/mathematics/
 description: ""
+variant: markdown
 ---
 # Mathematics
 
@@ -71,6 +72,16 @@ Mathematics Department Programmes
 **P3 Math Shopping Day – Self-Directed Learning**<br>
 P3 Shopping allows students to see the connection between the mathematics they complete in the classroom and the world outside the classroom. Students engage in decision-making, exercise adaptability, and communicate their ideas during the shopping experience. The concept of money is also further consolidated and enhanced as students make purchases within a given budget for their group party which they have planned the day before.  
 
+![](/images/ZHPS%20Experience/Mathematics/P3_Math_Shopping_Day.jpg)
+
+**P1 – P6 Self-Directed Learning (SDL) Day**<br>
+The school provides opportunities for students to engage in self-directed learning and extension of learning and exploration of their interests (empowered to take charge of their own learning). During SDL Day, the students were provided the authentic platforms across the curriculum and co-curriculum to live out school values and demonstrate SE competencies in the process of working with one another. At the end of the day, they engage in regular reflection on what they have learnt and how they have applied their learning. They also learn to assess themselves and give feedback to their peers.
+
+![](/images/ZHPS%20Experience/Mathematics/P1_P6_Math_SDL.jpg)
+
+Watch the video – P2 students explaining on their choices for their task.
+
+
 **<u>P</u>lay&nbsp;<u>A</u>nd&nbsp;<u>L</u>earn&nbsp;<u>M</u>ath (PALM) @ the Classroom - P1 to P6**<br>
 To inculcate the love for the subject, the Mathematics Department organises&nbsp;PALM&nbsp;@ the Classroom for our students. The programme aims to:
 
@@ -82,7 +93,7 @@ To inculcate the love for the subject, the Mathematics Department organises&nbsp
     
 *   help students manage their ‘real-world’ problems, (for example, taking turns).
 
-<img src="/images/matha.jpg" style="width:75%">
+![](/images/ZHPS%20Experience/Mathematics/PALM.jpg)
 
 **Mathematics Learning Trail - P1 to P6**<br>
 During the trail, students will be exposed to mathematical problem solving in a real-life situation. Students will need to apply concepts learnt in the classroom curriculum to solve problems in authentic situations.
@@ -94,31 +105,27 @@ During the trail, students will be exposed to mathematical problem solving in a 
 | P3  | Math Shopping and Experiential Learning Trail |
 | P4  | Interdisciplinary Learning Trail @ Gardens by the Bay |
 | P5  | Eco-Math Learning Trail |
-| P6  | Experiential and Financial Literacy Trail @ Vivo City |
+| P6  | Experiential and Financial Literacy Trail |
 |
 
-**P1 and P2 Math Learning Trail @ School**
-
-<img src="/images/mathb.jpg" style="width:95%">
-
-**P4 interdisciplinary Learning Trail @ Gardens by&nbsp; the Bay**
-
-<img src="/images/mathc.jpg" style="width:75%">
-
-**P6 Experiential and Financial Literacy Trail @ Vivo City**
-
-<img src="/images/mathd.jpg" style="width:95%">
+![](/images/ZHPS%20Experience/Mathematics/P1_P2_P4_Learning_Trail.jpg)
+![](/images/ZHPS%20Experience/Mathematics/P5_ECO_Learning_Trail.jpg)
 
 **<u>I</u>ntegrating <u>A</u>rt in <u>M</u>athematics ( I AiM)**<br>
-I AiM (Integrate Art in Math) is an enrichment programme that infuses Art into Mathematics. The rationale of the activity is for students to better appreciate Mathematics through Art, have an awareness of applications of Mathematics in Art and for them to display their creativity through artefact creation or design.<br>
-P1 – Shapes<br>
-P2 – Solid Figures<br>
-P3 – Angles<br>
-P4 – Symmetry<br>
-P5 – Cubes and Cuboids<br>
-P6 – Circles/Nets
+I AiM (Integrate Art in Math) is an enrichment programme that infuses Art into Mathematics. The rationale of the activity is for students to better appreciate Mathematics through Art, have an awareness of applications of Mathematics in Art and for them to display their creativity through artefact creation or design. This year, I AiM used the concept on ‘De Stijl’, which characterized by the use of rectangular shapes and primary colours.<br>
 
-<img src="/images/mathe.jpg" style="width:65%">
+
+| Level | Art Concept | Math Concept |
+| -------- | -------- | -------- |
+| Primary 1     | Colors<br>-Primary colours     | Shapes     |
+| Primary 2 | Colors<br>-Primary colours | Shapes<br>Logic |
+| Primary 3 | Visuals with shapes<br>-Primary colours | Shapes<br>Visualisation |
+| Primary 4 | Visuals with shapes<br>-Primary colours | Shapes<br>Visualisation<br>Logic |
+| Primary 5 | Patterns<br>Primary colours | Shapes<br>Patterns<br>Visualisation |
+| Primary 6 | Patterns<br>Primary colours | Shapes<br>Patterns<br>Visualisation<br>Logic|
+|
+
+![](/images/ZHPS%20Experience/Mathematics/Different_Models_and_Artefacts.jpg)
 
 **P5 Little Bakers Programme**<br>
 To foster the joy of learning and nurture the spirit of Entrepreneurial Dare, the Math department embarked on a specially designed programme for our Primary 5 students.&nbsp; The Little Bakers Programme aims to engage our students through fun and hands-on baking experience and provide them with the opportunity to appreciate and apply Mathematics and Science concepts in real life.&nbsp;
@@ -127,13 +134,9 @@ Our little bakers need to use Mathematics when measuring and weighing ingredient
 
 The pictures below show students having fun baking different types of cookies.
   
-<img src="/images/math1.png" style="width:45%">
-
-**Watch the videos - Let’s learn baking from Kelyn Lim (5IY) and Syon Kundu (5CE).**<br>
-**[Baking with Lim Qian Yu Kelyn.mp4](https://drive.google.com/file/d/1WVAcDSx3QG6gNLPsDM8bOgYX4hqdN3GY/view?usp=share_link)**<br>
-**[Baking with SYON KUNDU.mp4](https://drive.google.com/file/d/1HgPFxk0-ZaYed8FfH_UDDuUUR1LkKPr6/view?usp=share_link)**
+![](/images/ZHPS%20Experience/Mathematics/baking_cookies.jpg)
 
 **Math Olympiad and Investigative Math Programmes for selected P4, P5 and P6 Students**<br>
 The objective of the programme is to equip our upper primary students with mathematical problem-solving techniques and a creative mindset. They will also be trained and honed for competitions such as Singapore Math Kangaroo Contest (SMKC), Singapore and Asian Schools Math Olympiad (SASMO), Singapore Mathematical Olympiad for Primary Schools (SMOPS) and National Mathematical Olympiad of Singapore (NMOS).
 
-<img src="/images/math.png" style="width:75%">
+![](/images/ZHPS%20Experience/Mathematics/Math_Olympiad.jpg)
