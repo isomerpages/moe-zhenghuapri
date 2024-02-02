@@ -16,13 +16,8 @@ To Login to Student Learning Space (SLS) Click&nbsp;<a href="https://vle.learnin
 
 Contact Person : Kalivaradhan Bargavi (Mrs .Gavi)
 
-  
+Email : bargavi_kalivaradhan@moe.edu.sg 
 
-Email : bargavi_kalivaradhan @moe.edu.sg
-
-  
-
-&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;zhenghua\_ps@moe.edu.sg
-
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; zhenghua_ps@moe.edu.sg
 
 Contact number :(+65) 6769 7478 Ext:526
