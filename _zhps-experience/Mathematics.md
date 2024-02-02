@@ -79,8 +79,8 @@ The school provides opportunities for students to engage in self-directed learni
 
 ![](/images/ZHPS%20Experience/Mathematics/P1_P6_Math_SDL.jpg)
 
-Watch the video – P2 students explaining on their choices for their task.
-
+Watch the video – P2 students explaining on their choices for their task.<br>
+[P2 SDL - On the topic of Money](https://youtu.be/w9YtWS2UvLI)
 
 **<u>P</u>lay&nbsp;<u>A</u>nd&nbsp;<u>L</u>earn&nbsp;<u>M</u>ath (PALM) @ the Classroom - P1 to P6**<br>
 To inculcate the love for the subject, the Mathematics Department organises&nbsp;PALM&nbsp;@ the Classroom for our students. The programme aims to:
