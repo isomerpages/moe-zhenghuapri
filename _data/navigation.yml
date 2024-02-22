@@ -1,0 +1,15 @@
+logo: /images/school-logo.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: ZHPS Experience
+    collection: zhps-experience
+  - title: Our Info Hub
+    collection: our-info-hub
+  - title: "Zhenghua Memories "
+    url: /zhenghua-memories/media-gallery/2023/
+    sublinks:
+      - title: Media Gallery
+        url: /zhenghua-memories/media-gallery/2023
+  - title: MK@Zhenghua
+    collection: mk-at-zhenghua

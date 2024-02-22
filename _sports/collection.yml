@@ -1,0 +1,8 @@
+collections:
+  sports:
+    output: true
+    order:
+      - Basketball.md
+      - Floorball.md
+      - Football.md
+      - Rugby.md

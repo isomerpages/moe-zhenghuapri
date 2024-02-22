@@ -1,0 +1,6 @@
+collections:
+  uniformed-groups:
+    output: true
+    order:
+      - Brownies.md
+      - Singapore Red Cross.md
