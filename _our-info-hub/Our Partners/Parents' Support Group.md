@@ -33,9 +33,9 @@ Mdm Suriyana Bte Ghapari
 Mdm Pan Jiayi   
 Mr Eddy Norisman
         
-<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/watch?v=qHx5ynl6648" height="315" width="560"></iframe><center>
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/qHx5ynl6648" height="315" width="560"></iframe></center>
 
   
 <center>To join the PSG, please scan the QR code below and register your details in the Link.</center>
 
-<img src="/images/Our%20info%20hub/psg2022.png" style="width:40%"></center></center>
+<img src="/images/Our%20info%20hub/psg2022.png" style="width:40%">
