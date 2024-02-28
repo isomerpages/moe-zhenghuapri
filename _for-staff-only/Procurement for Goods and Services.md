@@ -8,3 +8,4 @@ description: ""
 [School Purchase via iCart](https://go.gov.sg/zhps-icart-purchse-request)<br>
 [School Purchase via Online Link](https://go.gov.sg/zhps-request-for-online-purchase)<br>
 [School Purchase for Small Value Services](https://go.gov.sg/zhps-small-value-purchase-of-services)<br>
+[Request for ITQ Form](https://go.gov.sg/zhps-itq-request)
