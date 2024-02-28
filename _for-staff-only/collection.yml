@@ -2,6 +2,7 @@ collections:
   for-staff-only:
     output: true
     order:
+      - Safety & Security.md
       - Estate Management and Operations.md
       - Procurement for Goods and Services.md
       - Safety & Security/.keep
