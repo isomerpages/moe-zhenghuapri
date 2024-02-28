@@ -5,4 +5,5 @@ variant: markdown
 description: ""
 ---
 [MOE iCart](https://intranet.moe.gov.sg/moeprocurement/Pages/iCart.aspx)<br>
-[School Purchase via iCart](https://go.gov.sg/zhps-icart-purchse-request)
+[School Purchase via iCart](https://go.gov.sg/zhps-icart-purchse-request)<br>
+[School Purchase via Online Link](https://go.gov.sg/zhps-request-for-online-purchase)
