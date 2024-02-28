@@ -2,8 +2,8 @@ collections:
   for-staff-only:
     output: true
     order:
-      - Procurement/Zhps Purchase via iCart.md
-      - Procurement/MOE iCart.md
       - Procurement/.keep
+      - Procurement/MOE iCart.md
+      - Procurement/Zhps Purchase via iCart.md
       - Estate Management & Operations/.keep
       - Safety & Security/.keep
