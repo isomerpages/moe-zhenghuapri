@@ -3,13 +3,6 @@ collections:
     output: true
     order:
       - Procurement for Goods and Services.md
-      - Procurement Goods and Services/.keep
-      - Procurement Goods and Services/MOE iCart.md
-      - Procurement Goods and Services/Zhps Purchase via iCart.md
-      - Procurement Goods and Services/Zhps Purchase via Online Link.md
-      - Procurement Goods and Services/Zhps Purchase (Small Value Services).md
-      - Procurement Goods and Services/Zhps Purchase via ITQ.md
-      - Procurement Goods and Services/Bus Booking.md
       - Estate Management & Operations/.keep
       - Estate Management & Operations/Resource Booking System.md
       - Estate Management & Operations/Request for OM support.md
