@@ -2,6 +2,7 @@ collections:
   for-staff-only:
     output: true
     order:
+      - Estate Management and Operations.md
       - Procurement for Goods and Services.md
       - Estate Management & Operations/.keep
       - Estate Management & Operations/Resource Booking System.md
