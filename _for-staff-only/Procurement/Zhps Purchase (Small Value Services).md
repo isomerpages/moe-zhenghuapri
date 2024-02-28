@@ -5,3 +5,4 @@ variant: markdown
 description: ""
 third_nav_title: Procurement
 ---
+[School Purchase for Small Vale Services](https://go.gov.sg/zhps-small-value-purchase-of-services)
