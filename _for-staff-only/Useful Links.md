@@ -11,4 +11,6 @@ description: ""
 [SLS](https://www.learning.moe.edu.sg/)<br>
 [OPAL](https://idm.opal2.moe.edu.sg/Account/Login)<br>
 [RBS](https://rbs.avero-tech.com/login.html)<br>
-[Parent's Gateway](https://pg.moe.edu.sg/)
+[Parent's Gateway](https://pg.moe.edu.sg/)<br>
+[FormSG](https://form.gov.sg/login)<br>
+[SCMobile](https://scmobile.moe.edu.sg/home)<br>
