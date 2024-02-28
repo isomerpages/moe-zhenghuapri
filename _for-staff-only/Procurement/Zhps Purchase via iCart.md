@@ -5,4 +5,4 @@ variant: markdown
 description: ""
 third_nav_title: Procurement
 ---
-[Zhps Purchase via iCart](https://go.gov.sg/zhps-icart-purchse-request)
+[School Purchase via iCart](https://go.gov.sg/zhps-icart-purchse-request)
