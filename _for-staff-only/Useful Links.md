@@ -9,3 +9,5 @@ description: ""
 [ICON Mail](https://idp.mims.moe.gov.sg/nidp/app/login)<br>
 [iEASA](https://idp.mims.moe.gov.sg/nidp/app/login)<br>
 [SLS](https://www.learning.moe.edu.sg/)<br>
+[OPAL](https://idm.opal2.moe.edu.sg/Account/Login)<br>
+[RBS](https://rbs.avero-tech.com/login.html)<br>
