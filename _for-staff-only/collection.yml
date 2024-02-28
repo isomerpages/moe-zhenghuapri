@@ -2,6 +2,7 @@ collections:
   for-staff-only:
     output: true
     order:
+      - Procurement/Zhps Purchase (Small Value Services).md
       - Procurement/Zhps Purchase via Online Link.md
       - Procurement/.keep
       - Procurement/MOE iCart.md
