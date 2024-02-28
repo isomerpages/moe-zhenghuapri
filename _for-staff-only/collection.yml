@@ -2,6 +2,7 @@ collections:
   for-staff-only:
     output: true
     order:
+      - Procurement/MOE iCart.md
       - Procurement/.keep
       - Estate Management & Operations/.keep
       - Safety & Security/.keep
