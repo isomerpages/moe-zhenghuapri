@@ -2,7 +2,6 @@ collections:
   for-staff-only:
     output: true
     order:
-      - Useful Links.md
       - Procurement Goods and Services/.keep
       - Procurement Goods and Services/MOE iCart.md
       - Procurement Goods and Services/Zhps Purchase via iCart.md
@@ -17,3 +16,4 @@ collections:
       - Safety & Security/.keep
       - Safety & Security/Updated RAMs Form.md
       - Safety & Security/Incident Report Form.md
+      - Useful Links.md
