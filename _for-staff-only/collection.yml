@@ -2,5 +2,5 @@ collections:
   for-staff-only:
     output: true
     order:
-      - Estate Management & Operations/.keep
       - Procurement (Goods & Services)/.keep
+      - Estate Management & Operations/.keep
