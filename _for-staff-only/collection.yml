@@ -2,12 +2,12 @@ collections:
   for-staff-only:
     output: true
     order:
-      - Procurement/Bus Booking.md
-      - Procurement/Zhps Purchase via ITQ.md
-      - Procurement/Zhps Purchase (Small Value Services).md
-      - Procurement/Zhps Purchase via Online Link.md
       - Procurement/.keep
       - Procurement/MOE iCart.md
       - Procurement/Zhps Purchase via iCart.md
+      - Procurement/Zhps Purchase via Online Link.md
+      - Procurement/Zhps Purchase (Small Value Services).md
+      - Procurement/Zhps Purchase via ITQ.md
+      - Procurement/Bus Booking.md
       - Estate Management & Operations/.keep
       - Safety & Security/.keep
