@@ -14,3 +14,7 @@ description: ""
 [Parent's Gateway](https://pg.moe.edu.sg/)<br>
 [FormSG](https://form.gov.sg/login)<br>
 [SCMobile](https://scmobile.moe.edu.sg/home)<br>
+[GO.gov.sg](https://go.gov.sg/#/login)<br>
+[HRP](https://www.hrp.gov.sg/hrp/#/)<br>
+[iCollaborate](https://icollaborate.moe.gov.sg/SitePages/Home.aspx)<br>
+[All Ears](https://allears.estl.edu.sg/)<br>
