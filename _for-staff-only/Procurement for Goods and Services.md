@@ -1,6 +1,6 @@
 ---
 title: Procurement for Goods and Services
-permalink: /for-staff-only/permalink/
+permalink: /for-staff-only/procurement-for-goods-and-services/
 variant: markdown
 description: ""
 ---

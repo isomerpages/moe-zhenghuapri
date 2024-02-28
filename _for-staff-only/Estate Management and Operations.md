@@ -1,6 +1,6 @@
 ---
 title: Estate Management and Operations
-permalink: /for-staff-only/permalink/
+permalink: /for-staff-only/estate-management-and-operations/
 variant: markdown
 description: ""
 ---

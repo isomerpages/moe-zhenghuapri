@@ -1,6 +1,6 @@
 ---
-title: Safety & Security
-permalink: /for-staff-only/permalink/
+title: Safety and Security
+permalink: /for-staff-only/safety-and-security/
 variant: markdown
 description: ""
 ---

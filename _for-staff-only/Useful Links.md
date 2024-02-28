@@ -1,6 +1,6 @@
 ---
 title: Useful Links
-permalink: /for-staff-only/permalink/
+permalink: /for-staff-only/useful-links/
 variant: markdown
 description: ""
 ---
@@ -19,4 +19,3 @@ description: ""
 [iCollaborate](https://icollaborate.moe.gov.sg/SitePages/Home.aspx)<br>
 [All Ears](https://allears.estl.edu.sg/)<br>
 [OneCV](https://onecv.gov.sg/login)<br>
-
