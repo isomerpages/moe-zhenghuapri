@@ -2,6 +2,7 @@ collections:
   for-staff-only:
     output: true
     order:
+      - Procurement for Goods and Services.md
       - Procurement Goods and Services/.keep
       - Procurement Goods and Services/MOE iCart.md
       - Procurement Goods and Services/Zhps Purchase via iCart.md
