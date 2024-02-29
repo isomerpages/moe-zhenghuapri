@@ -13,4 +13,4 @@ Request for OM’s support on logistics, estate maintenance and manpower service
 [OM Support Form](https://go.gov.sg/zhps-om-attention)<br>
 
 Loan of Art Equipment<br>
-[Loan Form]()
+[Art Loan Form](https://docs.google.com/forms/d/e/1FAIpQLSf7OFLsJnxjd1GXzuMKf04rFDt4mxps7OTogqdxVLeAo166zg/viewform)
