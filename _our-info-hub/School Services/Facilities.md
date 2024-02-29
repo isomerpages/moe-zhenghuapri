@@ -17,7 +17,7 @@ Singapore 679002
 Tel: 6769 7478<br>
 Fax: 6763 6459
 
-Useful Telephone Numbers
+#### Useful Telephone Numbers
 ------------------------
 
 
@@ -34,7 +34,7 @@ You Can Reach Us At :
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQJulvnc6fI8brld21JAfYujvZQD1M6tYhCr0SteDzv1WGqOulOq9pGsGLvcgyB_5KBiLFLEzMcMlW-/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
-## Bookshop
+### Bookshop
 
 <u>School Bookshop and Uniform Supplier</u><br>
 **Monday to Friday**<br>
@@ -43,17 +43,17 @@ You Can Reach Us At :
 Tel: 6464 0111<br>
 Fax: 6464 0110
 
-## Canteen
+### Canteen
 
 The Canteen Stall Price List is available in the school website for parents’ information so that parents can prepare sufficient pocket money for your child/ children when he/she/they is/are in school.  
   
-## Dental Clinic
+### Dental Clinic
 
 <u>School Dental Clinic</u><br>
 Dental consultation is strictly by appointment only<br>
 Tel: 6468 9685
 
-## School Bus
+### School Bus
 
 <u>School Transport Service</u><br>
 **JK59 Transport Pte Ltd**<br>
