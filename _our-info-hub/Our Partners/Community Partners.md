@@ -3,10 +3,11 @@ title: Community Partners
 permalink: /our-info-hub/our-partners/community-partners/
 description: ""
 third_nav_title: Our Partners
+variant: markdown
 ---
 # Community Partners
 
-## Community Partnership aligned to CDC’s Strategic ThrustsPartnership with Bukit Panjang Community & North West District:
+#### Community Partnership aligned to CDC’s Strategic ThrustsPartnership with Bukit Panjang Community &amp; North West District:
 
 
 The school adopts the fundamental philosophy that ‘it takes a whole village to raise a child’ and undertakes the key approach in forging of a closer direct relationship with the Bukit Panjang Community through the Community Club. Hence, it has aligned its community partnership by adopting the North West CDC’s ABC Model:<br>
