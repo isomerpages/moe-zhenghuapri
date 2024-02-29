@@ -2,15 +2,16 @@
 title: Privacy Policy
 permalink: /our-info-hub/privacy-policy/
 description: ""
+variant: markdown
 ---
 # Privacy Policy
 
-Parental Consent (Use of Images and Photographs)
+#### Parental Consent (Use of Images and Photographs)
 ------------------------------------------------
 
-From time to time, the school may be using your child/children and your photographs, images or video footage for use on the school website, social media, feature walls, in newsletters and publications. If you have spotted them, and are not comfortable with the school on the use of the said materials, please email to the school at [zhenghua\_ps@moe.edu.sg](mailto:zhenghua_ps@moe.edu.sg). Where possible, the school will be most happy to remove them within 1 week of notification. Thank you.  
+From time to time, the school may be using your child/children and your photographs, images or video footage for use on the school website, social media, feature walls, in newsletters and publications. If you have spotted them, and are not comfortable with the school on the use of the said materials, please email to the school at&nbsp;[zhenghua\_ps@moe.edu.sg](mailto:zhenghua_ps@moe.edu.sg). Where possible, the school will be most happy to remove them within 1 week of notification. Thank you.  
 
-Privacy Statement
+#### Privacy Statement
 -----------------
 
 **Zhenghua Primary School Privacy Statement**
