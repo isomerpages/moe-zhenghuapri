@@ -3,8 +3,9 @@ title: School Advisory Committee
 permalink: /our-info-hub/our-partners/school-advisory-committee/
 description: ""
 third_nav_title: Our Partners
+variant: markdown
 ---
-# School Advisory Committee
+## <center>School Advisory Committee<center>
 
 |                     |                |
 |:--------------------:|:----------------:|
@@ -14,4 +15,4 @@ third_nav_title: Our Partners
 | Chew Hwee Inn Irene |     Member     |
 |       Nora Tan      |     Member     |
 |    Sarayu Parimal   |     Member     |
-|
+|</center></center>
