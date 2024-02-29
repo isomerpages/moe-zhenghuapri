@@ -3,11 +3,11 @@ title: School Bus Service
 permalink: /our-info-hub/school-services/permalink/
 description: ""
 third_nav_title: School Services
+variant: markdown
 ---
 # School Bus Services
 
-School Bus Operator and Bus Fare
-
+#### School Bus Operator and Bus Fare<br>
 JK59 Transport Pte Ltd <br>
 17 Lorong Kilat #01-10<br>
 Singapore 598138<br>
