@@ -49,7 +49,7 @@ Open to all former students who have completed at least 1 full year in the Schoo
 There are no membership fees (as of 1 Jan 2023).<br>
 
 **Link to Join**<br>
-[Link to join Alumni Association](https://go.gov.sg/zhpsalumni)
+[Link to join Alumni Association](https://go.gov.sg/zhpsalumni)<br>
 
 <img src="/images/Our%20info%20hub/Alumni/ZHPS_Alumni_QR_Code.jpg" style="width:20%"> 
 
