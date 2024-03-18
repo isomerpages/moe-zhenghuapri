@@ -29,7 +29,8 @@ Name: **Ken Seow**<br>
 Short introduction: Ken graduated from Zhenghua in 1999. He is Assistant Vice President at Manulife Financial Advisors. He helps his clients achieve financial freedom through investments and protection. He is also the Chief Marketing Officer of Yimun Pte Ltd, a local book series interpreting YiJing through comics. Ken sees the importance of learning constantly. He graduated with an MBA in Global Financial Services after working for a number of years. He enjoys spending time with his family.<br>
 
 **Secretary**<br>
-<img src="/images/Our%20info%20hub/Alumni/Tan_KS.jpg" style="width:20%">
+<img src="/images/Our%20info%20hub/Alumni/Dylan.jpg" style="width:20%">
+
 Name: **Mr Dylan Tan Jun Ming**<br>
 Short introduction: Dylan graduated from Zhenghua Primary School in 2001 and loves sports. He likes challenges and would often try out different kinds of sports. Dylan is also a SAF Commando and excelled in his NSF service.<br>
 Dylan is currently a businessman, he is a Managing Director of NewGen Projects Ptd Ltd, specializing in Facilities Management &amp; Engineering works.<br>
