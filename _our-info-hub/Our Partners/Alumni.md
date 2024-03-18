@@ -21,5 +21,10 @@ At the moment, the Association aspires to reach and recruit active members and l
 
 Name: **Mr Tan Koon Sheng, PBM**<br>
 Short introduction: Koon Sheng graduated from Zhenghua Primary School in 1999 and was a librarian during his primary school days. Koon Sheng loves reading and would spend his days in the school’s library reading books.<br>
-Koon Sheng is currently working with Singapore Post as a District Manager. He enjoys doing volunteer work and prawning.
+Koon Sheng is currently working with Singapore Post as a District Manager. He enjoys doing volunteer work and prawning.<br>
+
+**Vice Chairman**
+
+Name: **Ken Seow**<br>
+Short introduction: Ken graduated from Zhenghua in 1999. He is Assistant Vice President at Manulife Financial Advisors. He helps his clients achieve financial freedom through investments and protection. He is also the Chief Marketing Officer of Yimun Pte Ltd, a local book series interpreting YiJing through comics. Ken sees the importance of learning constantly. He graduated with an MBA in Global Financial Services after working for a number of years. He enjoys spending time with his family.<br>
 
