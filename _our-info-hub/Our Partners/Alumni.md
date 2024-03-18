@@ -21,8 +21,7 @@ At the moment, the Association aspires to reach and recruit active members and l
 <img src="/images/Our%20info%20hub/Alumni/Tan_KS.jpg" style="width:20%">
 <center><b>Mr Tan Koon Sheng, PBM</b></center>
 Short introduction:<br>
-Koon Sheng graduated from Zhenghua Primary School in 1999 and was a librarian during his primary school days. Koon Sheng loves reading and would spend his days in the school’s library reading books.<br>
-Koon Sheng is currently working with Singapore Post as a District Manager. He enjoys doing volunteer work and prawning.<br>
+Koon Sheng graduated from Zhenghua Primary School in 1999 and was a librarian during his primary school days. Koon Sheng loves reading and would spend his days in the school’s library reading books. Koon Sheng is currently working with Singapore Post as a District Manager. He enjoys doing volunteer work and prawning.<br>
 
 <center><b>Vice Chairman</b></center>
 <img src="/images/Our%20info%20hub/Alumni/Ken.jpg" style="width:20%">
@@ -42,8 +41,7 @@ Dylan is currently a businessman, he is a Managing Director of NewGen Projects P
 <img src="/images/Our%20info%20hub/Alumni/Neo.jpg" style="width:20%">
 <center><b>Mr Neo Chin Chuan</b></center>
 Short introduction:<br>
-Chin Chuan graduated from Zhenghua Primary School in 1999. Chin Chuan loves sports and would try different ball games. During his free time, he loves to play basketball and enjoys playing with his child. Chin Chuan is married with a child.<br>
-Chin Chuan works as an ICA officer with the Investigation Branch and guards the borders with pride and ensures all Singaporeans and tourists exits and enters safe and sound.<br>
+Chin Chuan graduated from Zhenghua Primary School in 1999. Chin Chuan loves sports and would try different ball games. During his free time, he loves to play basketball and enjoys playing with his child. Chin Chuan is married with a child. Chin Chuan works as an ICA officer with the Investigation Branch and guards the borders with pride and ensures all Singaporeans and tourists exits and enters safe and sound.<br>
 
 #### Membership Criteria
 
