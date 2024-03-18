@@ -35,7 +35,7 @@ Ken graduated from Zhenghua in 1999. He is Assistant Vice President at Manulife 
 
 <center><b>Mr Dylan Tan Jun Ming</b></center>
 Short introduction:<br>
-Dylan graduated from Zhenghua Primary School in 2001 and loves sports. He likes challenges and would often try out different kinds of sports. Dylan is also a SAF Commando and excelled in his NSF service.<br>
+Dylan graduated from Zhenghua Primary School in 2001 and loves sports. He likes challenges and would often try out different kinds of sports. Dylan is also a SAF Commando and excelled in his NSF service.
 Dylan is currently a businessman, he is a Managing Director of NewGen Projects Ptd Ltd, specializing in Facilities Management &amp; Engineering works.<br>
 
 <center><b>Treasurer</b></center>
