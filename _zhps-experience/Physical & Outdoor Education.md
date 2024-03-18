@@ -73,7 +73,7 @@ The department adopts the Outdoor Experiential Learning Approach for Life Skills
 4\.  Generalize- to connect the life skills learnt to the larger world/ realities of living.
 5\.  Apply- the new life skills learned to other parts of their lives.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS-a2QEGjSkOjqznREeRlz3khMsIZ4_swOO9jeek6Fo8skFMkyRM6m9bSBEJV-radJr-mLb51mEvJ8N/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSR25LqNb0ui8Bcuzp-M30-wuhrRdClYlrkff8-S_4rvQFEE37HhjpwimP_WWVNGwGBiGtks5APA1gx/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 ## Health Education Programmes
 
