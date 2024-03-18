@@ -2,6 +2,7 @@
 title: Physical & Outdoor Education
 permalink: /zhps-experience/physical-n-outdoor-education/
 description: ""
+variant: markdown
 ---
 # upload image slides to google slide
 # Physical &amp; Outdoor Education
@@ -92,4 +93,4 @@ The following health related programmes are organized for the pupils throughout 
 
 5\.  Dental Programme promotes proper oral care by educating the pupils on proper tooth brushing exercises.
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTr1iDn7JODW-_WneQt7XAqj_0pYLZhtlVMeqfQ0czdvg3ZWFt-pMklUFttRThHAmnNXZllJ98kGd_u/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR60v20plWpMd4B7wlxYyx89QXmGkUK-8yLxRfvWf2K4FwNQAxuGw9C0dS4ZdHvDRzUDOwrQlIwSZl7/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
