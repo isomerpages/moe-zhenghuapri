@@ -35,3 +35,15 @@ Dylan is currently a businessman, he is a Managing Director of NewGen Projects P
 Name: **Mr Neo Chin Chuan**<br>
 Short introduction: Chin Chuan graduated from Zhenghua Primary School in 1999. Chin Chuan loves sports and would try different ball games. During his free time, he loves to play basketball and enjoys playing with his child. Chin Chuan is married with a child.<br>
 Chin Chuan works as an ICA officer with the Investigation Branch and guards the borders with pride and ensures all Singaporeans and tourists exits and enters safe and sound.<br>
+
+#### Membership Criteria
+
+**Ordinary Membership**<br>
+Open to all former students who have completed at least 1 full year in the School and are at least 21 years of age.<br>
+
+**Youth Membership**<br>
+- Open to all below 21 years of age who were or had been students of the School for at least 1 full year and are currently between 15 and 21 years of age.<br>
+- Youth membership shall terminate and ordinary membership shall commence automatically, upon the member reaching 21 years of age, unless the member has explicitly indicated otherwise.<br>
+
+**Membership Fees**<br>
+There are no membership fees (as of 1 Jan 2023).<br>
