@@ -47,3 +47,46 @@ Open to all former students who have completed at least 1 full year in the Schoo
 
 **Membership Fees**<br>
 There are no membership fees (as of 1 Jan 2023).<br>
+
+**Link to Join**<br>
+[Link to join Alumni Association](https://go.gov.sg/zhpsalumni)
+
+
+
+**2024 Events**
+<table style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
+ mso-border-alt:solid black 1.0pt;mso-yfti-tbllook:1536;mso-padding-alt:0in 5.4pt 0in 5.4pt;
+ mso-border-insideh:1.0pt solid black;mso-border-insidev:1.0pt solid black" width="624" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:28.55pt"><td style="width:2.0in;border:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:28.55pt" valign="top" width="192"><p style="line-height:normal;mso-pagination:none;border:none;
+  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes" class="MsoNormal"><span lang="EN">February</span></p></td><td style="width:4.5in;border:solid black 1.0pt;
+  border-left:none;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:28.55pt" valign="top" width="432"><p style="line-height:normal;mso-pagination:none;border:none;
+  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes" class="MsoNormal"><span lang="EN">Lunar New Year celebration with Senior Residents<span style="mso-spacerun:yes">&nbsp; </span>and Zhenghua Primary Students</span></p></td></tr><tr style="mso-yfti-irow:1;height:28.55pt"><td style="width:2.0in;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:28.55pt" valign="top" width="192"><p style="line-height:normal;mso-pagination:none;border:none;
+  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes" class="MsoNormal"><span lang="EN">April</span></p></td><td style="width:4.5in;border-top:none;border-left:none;
+  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
+  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:28.55pt" valign="top" width="432"><p style="line-height:normal;mso-pagination:none;border:none;
+  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes" class="MsoNormal"><span lang="EN">Hari Raya celebration with Senior Residents and Zhenghua Primary Students</span></p></td></tr><tr style="mso-yfti-irow:2;height:28.55pt"><td style="width:2.0in;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:28.55pt" valign="top" width="192"><p style="line-height:normal;mso-pagination:none;border:none;
+  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes" class="MsoNormal"><span lang="EN">August</span></p></td><td style="width:4.5in;border-top:none;border-left:none;
+  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
+  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:28.55pt" valign="top" width="432"><p style="line-height:normal;mso-pagination:none;border:none;
+  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes" class="MsoNormal"><span lang="EN">Primary 1 Occupation Day</span></p></td></tr><tr style="mso-yfti-irow:3;height:28.55pt"><td style="width:2.0in;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:28.55pt" valign="top" width="192"><p style="line-height:normal;mso-pagination:none;border:none;
+  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes" class="MsoNormal"><span lang="EN">September</span></p></td><td style="width:4.5in;border-top:none;border-left:none;
+  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
+  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:28.55pt" valign="top" width="432"><p style="line-height:normal;mso-pagination:none;border:none;
+  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes" class="MsoNormal"><span lang="EN">Teachers’ Day</span></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes;height:28.55pt"><td style="width:2.0in;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:28.55pt" valign="top" width="192"><p style="line-height:normal;mso-pagination:none;border:none;
+  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes" class="MsoNormal"><span lang="EN">November</span></p></td><td style="width:4.5in;border-top:none;border-left:none;
+  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
+  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:28.55pt" valign="top" width="432"><p style="line-height:normal;mso-pagination:none;border:none;
+  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes" class="MsoNormal"><span lang="EN">Deepavali celebration with Senior Residents and Zhenghua Primary Students</span></p></td></tr></tbody></table>
