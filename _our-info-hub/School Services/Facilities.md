@@ -32,7 +32,7 @@ You Can Reach Us At :
 | Fax | - 6763 6459 |
 | Website | - <a href="http://www.zhenghuapri.moe.edu.sg/" target="_blank">www.zhenghuapri.moe.edu.sg</a> |
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQJulvnc6fI8brld21JAfYujvZQD1M6tYhCr0SteDzv1WGqOulOq9pGsGLvcgyB_5KBiLFLEzMcMlW-/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSVHhdjtb_D6z4Wis-RWq3lgYDVapgKvyHQoKXqE-rsW67V0zETXVfzu-qe_fODkzYqn1wCAwoktbH6/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 ### Bookshop
 
