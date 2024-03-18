@@ -51,7 +51,7 @@ There are no membership fees (as of 1 Jan 2023).<br>
 **Link to Join**<br>
 [Link to join Alumni Association](https://go.gov.sg/zhpsalumni)
 
-
+<img src="/images/Our%20info%20hub/Alumni/ZHPS_Alumni_QR_Code.jpg" style="width:20%"> 
 
 **2024 Events**
 <table style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
