@@ -2,8 +2,8 @@ collections:
   for-staff-only:
     output: true
     order:
-      - Student Matters.md
       - Procurement for Goods and Services.md
       - Estate Management and Operations.md
       - Safety and Security.md
+      - Student Matters.md
       - Useful Links.md
