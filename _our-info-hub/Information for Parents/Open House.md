@@ -1,8 +1,9 @@
 ---
-title: Open House 2023
-permalink: /our-info-hub/Information-for-Parents/Open-House-2023/
+title: Open House
+permalink: /our-info-hub/information-for-parents/open-house/
 description: ""
 third_nav_title: Information for Parents
+variant: markdown
 ---
 [Primary One Open House Principal's Talk](/files/Our%20Info%20Hub/2023%20open%20house%20principal's%20talk.pdf)
 
