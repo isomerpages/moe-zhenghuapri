@@ -7,9 +7,12 @@ variant: markdown
 ---
 # Primary 1 Matters
 
-## P1 Registration Phase
+### P1 Registration Phase
 
-## P1 Orientation Matters
+### P1 Open House
+
+
+### P1 Orientation Matters
 
 ### P1 Orientation (for 2024)
 
