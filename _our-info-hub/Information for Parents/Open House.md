@@ -5,13 +5,6 @@ description: ""
 third_nav_title: Information for Parents
 variant: markdown
 ---
-[Primary One Open House Principal's Talk](/files/Our%20Info%20Hub/2023%20open%20house%20principal's%20talk.pdf)
+## 2024 Primary 1 Open House
 
-| Date | Event | Time |
-| -------- | -------- | -------- |
-| 22nd May    | P1 Open House Day 1     | 9 am to 12 noon     |
-|23rd May      | P1 Open House Day 2    | 10.15 to 11.30 am    |
-|
-
-![](/images/Our%20info%20hub/zhenghua%20primary%20school%20-%20p1%20open%20house%202023%20(motd%20poster)%20.png)
-![](/images/Our%20info%20hub/zhenghua%20primary%20school-p1%20open%20house%202023%20(physical%20banner).jpg)
+![](/images/Our%20info%20hub/2024_P1_Open_House.png)

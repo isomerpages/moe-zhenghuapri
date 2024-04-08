@@ -11,6 +11,10 @@ variant: markdown
 ![2024 MK@Zhenghua Open House](/images/MK%20Photos/MK_2024_Open_House.jpg)
 
 ***
+#### **2024 Primary One Open House**
+![](/images/Our%20info%20hub/2024_P1_Open_House.png)
+
+***
 
 [**2023 Alumni Homecoming**](/files/2023%20alumni%20teachers’%20day%20invite.pdf)<br>
 [Registration](https://forms.moe.edu.sg/forms/Jq25ro)
