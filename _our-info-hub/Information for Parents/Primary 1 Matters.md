@@ -7,9 +7,21 @@ variant: markdown
 ---
 # Primary 1 Matters
 
-## P1 Registration Phase
+### P1 Registration Phase
 
-## P1 Orientation Matters
+### P1 Open House
+[Primary One Open House Principal's Talk](/files/Our%20Info%20Hub/2023%20open%20house%20principal's%20talk.pdf)
+
+| Date | Event | Time |
+| -------- | -------- | -------- |
+| 22nd May &nbsp;  | P1 Open House Day 1 &nbsp; &nbsp; | 9 am to 12 noon &nbsp; &nbsp; |
+|23rd May &nbsp; &nbsp;  | P1 Open House Day 2 &nbsp;  | 10.15 to 11.30 am &nbsp;  |
+|
+
+![](/images/Our%20info%20hub/zhenghua%20primary%20school%20-%20p1%20open%20house%202023%20(motd%20poster)%20.png)
+![](/images/Our%20info%20hub/zhenghua%20primary%20school-p1%20open%20house%202023%20(physical%20banner).jpg)
+
+### P1 Orientation Matters
 
 ### P1 Orientation (for 2024)
 
