@@ -29,10 +29,7 @@ Junior Band
 | Year | Events/Program |          Achievement          |
 |:----:|:--------------:|:-----------------------------:|
 | 2024 |       SYF     | Certificate of Commendation |
-| 2018 |       SYF      | Distinction |
-| 2016 |       SYF      | Distinction |
-| 2014 |       SYF      | Distinction |
-| 2012 |       SYF      | Silver |
+| 2018 |       SYF      | Certificate of Accomplishment |
 |
 
 
