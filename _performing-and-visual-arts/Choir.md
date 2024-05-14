@@ -2,6 +2,7 @@
 title: Choir
 permalink: /performing-and-visual-arts/choir/
 description: ""
+variant: markdown
 ---
 # Choir
 
@@ -24,6 +25,7 @@ Improvisation
 
 | Year | Events/Program | Achievement |
 |:----:|:--------------:|:-----------:|
+| 2024 |      SYF       | Certificate of&nbsp;Distinction |
 | 2018 |       SYF      | Distinction |
 | 2016 |       SYF      | Distinction |
 | 2014 |       SYF      | Distinction |
@@ -32,8 +34,8 @@ Improvisation
 
 Students can look forward to participate in various performance within and beyond the school. These include the Singapore Youth Festival, Voices of Singapore, Year-End Affirmation Day and many more.
 
-<img src="/images/ZHPS%20Experience/Performing%20arts/Choir_1.jpg" style="width:32%;margin-right:15px;" align = "left">
-<img src="/images/ZHPS%20Experience/Performing%20arts/Choir_2.jpg" style="width:28%;margin-right:15px;" align = "left">
-<img src="/images/ZHPS%20Experience/Performing%20arts/Choir_3.jpg" style="width:31.5%;margin-right:15px;" align = "left">
+<img src="/images/ZHPS%20Experience/Performing%20arts/Choir_1.jpg" style="width:32%;margin-right:15px;" align="left">
+<img src="/images/ZHPS%20Experience/Performing%20arts/Choir_2.jpg" style="width:28%;margin-right:15px;" align="left">
+<img src="/images/ZHPS%20Experience/Performing%20arts/Choir_3.jpg" style="width:31.5%;margin-right:15px;" align="left">
 
 <br clear="left">
