@@ -2,6 +2,7 @@
 title: Chinese Dance
 permalink: /performing-and-visual-arts/chinese-dance/
 description: ""
+variant: markdown
 ---
 # Chinese Dance
 
@@ -27,15 +28,16 @@ Performances
 
 | Year | Events/Program |    Achievement   |
 |:----:|:--------------:|:----------------:|
+| 2024 |       SYF      |  Certificate of&nbsp;Accomplishment |
 | 2018 |       SYF      |    Distinction   |
 | 2016 |       SYF      |    Distinction   |
 | 2014 |       SYF      |    Distinction   |
 | 2012 |       SYF      | Gold with Honors |
 |
 
-<img src="/images/ZHPS%20Experience/Performing%20arts/Chinese%20Dance_1.jpg" style="width:34%;margin-right:15px;" align = "left">
-<img src="/images/ZHPS%20Experience/Performing%20arts/Chinese%20Dance_2.jpg" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/ZHPS%20Experience/Performing%20arts/Chinese%20Dance_3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/ZHPS%20Experience/Performing%20arts/Chinese%20Dance_1.jpg" style="width:34%;margin-right:15px;" align="left">
+<img src="/images/ZHPS%20Experience/Performing%20arts/Chinese%20Dance_2.jpg" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/ZHPS%20Experience/Performing%20arts/Chinese%20Dance_3.jpg" style="width:30%;margin-right:15px;" align="left">
 
 <br clear="left">
 
