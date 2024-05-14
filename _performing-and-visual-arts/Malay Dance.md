@@ -2,6 +2,7 @@
 title: Malay Dance
 permalink: /performing-and-visual-arts/malay-dance/
 description: ""
+variant: markdown
 ---
 # Malay Dance
 
@@ -24,14 +25,15 @@ Performances
 
 | Year | Events/Program | Achievement |
 |:----:|:--------------:|:-----------:|
+| 2024 |      SYF       | Certificate of&nbsp;Accomplishment |
 | 2018 |       SYF      | Distinction |
 | 2016 |       SYF      | Distinction |
 | 2014 |       SYF      | Distinction |
 | 2012 |       SYF      |     Gold    |
 |
 
-<img src="/images/ZHPS%20Experience/Performing%20arts/Malay%20Dance_1.jpg" style="width:40%;margin-left:55px;" align = "left">
-<img src="/images/ZHPS%20Experience/Performing%20arts/Malay%20Dance_2.jpg" style="width:40%;margin-right:75px;" align = "right">
+<img src="/images/ZHPS%20Experience/Performing%20arts/Malay%20Dance_1.jpg" style="width:40%;margin-left:55px;" align="left">
+<img src="/images/ZHPS%20Experience/Performing%20arts/Malay%20Dance_2.jpg" style="width:40%;margin-right:75px;" align="right">
 
 <br clear="left">
 
