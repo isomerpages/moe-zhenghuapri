@@ -2,6 +2,7 @@
 title: Brass Band
 permalink: /performing-and-visual-arts/brass-band/
 description: ""
+variant: markdown
 ---
 # Brass Band
 
@@ -27,10 +28,13 @@ Junior Band
 
 | Year | Events/Program |          Achievement          |
 |:----:|:--------------:|:-----------------------------:|
-| 2018 |       SYF      | Certificate of Accomplishment |
+| 2018 |       SYF      | Distinction |
+| 2016 |       SYF      | Distinction |
+| 2014 |       SYF      | Distinction |
+| 2012 |       SYF      | Silver |
 |
 
 
-<img src=" /images/ZHPS%20Experience/Performing%20arts/Brass%20Band%201.jpg" style="width:27%;float:left; padding:10px"><img src=" /images/ZHPS%20Experience/Performing%20arts/Brass%20Band%202.jpeg" style="width:35%;float:left; padding:10px"><img src=" /images/ZHPS%20Experience/Performing%20arts/Brass%20Band%203.jpeg" style="width:32%;float:left; padding:10px">
+<img src="/images/ZHPS%20Experience/Performing%20arts/Brass%20Band%201.jpg" style="width:27%;float:left; padding:10px"><img src="/images/ZHPS%20Experience/Performing%20arts/Brass%20Band%202.jpeg" style="width:35%;float:left; padding:10px"><img src="/images/ZHPS%20Experience/Performing%20arts/Brass%20Band%203.jpeg" style="width:32%;float:left; padding:10px">
 
 <br clear="left">
