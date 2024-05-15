@@ -47,7 +47,7 @@ variant: markdown
 |:---------:|:-----:|:---------------:|
 | [**Mr Mohd Faizal Razak**](mailto:mohamed_faizal_raz@moe.edu.sg)<br>**Subject Head / Student Leadership**<br>Extn: *571* | [**Mdm Suriyana Bte Ghapari**](mailto:suriyana_ghapari@moe.edu.sg)<br>**Subject Head / Malay**<br>Extn: *581* | [**Mrs Siti Aisyah Sasikumar**](mailto:siti_aisyah_a@moe.edu.sg)<br>**Subject Head / Character Educatio**n<br>Extn: *572* |
 |               [**Mr Ng Teng Yik**](mailto:ng_teng_yik@moe.edu.sg)<br>**Subject Head / ICT**<br>Extn: *583*                  |[**Mdm Gina Chai Jia Yan**](chai_jia_yan_gina@moe.edu.sg)<br>**Subject Head / Art (Int)**<br>_Extn: 538_    |[**Mr Elliot Ang Yong Siang**](elliot_ang_yong_siang@moe.edu.sg)<br>**Subject Head / Student Management (Int)**<br>Extn:&nbsp;_564_ |
-|    [**Miss Jolene Tan Ying Jun**](mailto:jolene_tan_ying_jun@moe.edu.sg)<br>**Subject Head/PE &amp; CCA (Internal)**<br>Extn: *580* ||[**Mr Chua Liang Cun**](chai_jia_yan_gina@moe.edu.sg)<br>**Subject Head / Aesthetics (Int)**<br>_Extn: 545_ 
+|    [**Miss Jolene Tan Ying Jun**](mailto:jolene_tan_ying_jun@moe.edu.sg)<br>**Subject Head/PE &amp; CCA**<br>Extn: *580* ||[**Mr Chua Liang Cun**](chai_jia_yan_gina@moe.edu.sg)<br>**Subject Head / Aesthetics (Int)**<br>_Extn: 545_ 
 
 <center><b>LEAD TEACHERS/ SENIOR TEACHERS</b></center>
 
