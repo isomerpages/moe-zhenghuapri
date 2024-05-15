@@ -11,9 +11,9 @@ variant: markdown
 
 | |
 |:---:|
-| Mr Loh Yuen Fong ,Eric<br>Administration Manager<br>Email: [loh_yuen_fong@moe.edu.sg](mailto:loh_yuen_fong@moe.edu.sg)<br>Extn: 201 |
+| Ms Loh Wen Ying<br>Administration Manager<br>Email: [loh_wen_ying@moe.edu.sg](mailto:loh_wen_ying@moe.edu.sg)<br>Extn: 201 |
 | Mr Shah Irwan Sazali<br>Operation Manager<br>Email: [shah_irwan_sazali@moe.edu.sg](mailto:shah_irwan_sazali@moe.edu.sg)<br>Extn: 203 |
-| AE2<br>Administration Executive<br>Email: [AE2@moe.edu.sg](mailto:AE2@moe.edu.sg)<br>Extn: 210 |
+| Wong Foong Har, Carol<br>Administration Executive<br>Email: [wong_foong_har@moe.edu.sg](mailto:wong_foong_har@moe.edu.sg)<br>Extn: 210 |
 | Mr Myo Thein Htaik<br>Administration Executive<br>Email: [myo_thein_htaik@moe.edu.sg](mailto:myo_thein_htaik@moe.edu.sg)<br>Extn: 204 |
 | Mr Chan Hoe Yin<br>ICT Manager<br>Email: [chan_hoe_yin@moe.edu.sg](mailto:chan_hoe_yin@moe.edu.sg)<br>Extn: 582 |
 | Mrs. Kalivaradhan Bargavi<br>ICT Associate<br>Email: [bargavi_kalivaradhan@moe.edu.sg](mailto:bargavi_kalivaradhan@moe.edu.sg)<br>Extn: 526 |
