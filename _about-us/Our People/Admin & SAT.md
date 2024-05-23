@@ -24,10 +24,9 @@ variant: markdown
 | Mr Jasper<br>Desktop Engineer (DE)<br>Extn: 575 |
 | Mdm Joan Aliena Chia<br>Library Assistant<br>Email: [chia_soo_long_aliena@moe.edu.sg](mailto:chia_soo_long_aliena@moe.edu.sg)<br>Extn: 547 |
 | Mdm Rosilah Osman<br>Technical Assistant (Science &amp; Math)<br>Extn: 548 &amp; 529 |
-| Ms. Shanthi D/O Amavasai<br>Technical Assistant (English &amp; Art)<br>Extn: 536 |
 | Mdm Lim Hum Chai, Lily<br>Operations Support Officer |
 | Mr Seng Kok Meng<br>Operations Support Officer |
 | Mdm Manisah Bte Ibrahim<br>Operations Support Officer |
 | Miss Goh Bee Tin<br>Operations Support Officer |
 | Mr Lew Men Fah<br>Operations Support Officer |
-| Ms. Tan Chio Mui<br>Operations Support Officer |
+| Mdm Chang Ah Lek<br>Operations Support Officer |
