@@ -9,6 +9,4 @@ variant: markdown
 
 ![](/images/Our%20info%20hub/2024_P1_Open_House.png)
 
-[Principal Briefing](/files/Our%20Info%20Hub/20_may_2024_zhps_open_house_principal's_talk.pdf)
-<br>
-[Click here to view ZHPS open house Principal's talk slides](/files/Our%20Info%20Hub/20_may_2024_zhps_open_house_principal's_talk.pdf)
+[Principal Talk](/files/Our%20Info%20Hub/20_May_2024_ZHPS_Open_House_Principal_s_Talk.pdf)
