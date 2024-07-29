@@ -11,7 +11,8 @@ variant: markdown
 
 | |
 |:---:|
-| Ms Loh Wen Ying<br>Administration Manager<br>Email: [loh_wen_ying@moe.edu.sg](mailto:loh_wen_ying@moe.edu.sg)<br>Extn: 201 |
+| Ms Loh Wen Ying<br>Administration Manager<br>Email: [loh_wen_ying@moe.edu.sg](mailto:loh_wen_ying@moe.edu.sg)<br>Extn: 205 |
+| Ms Nur&nbsp;Fahatun&nbsp;Jalaini<br>Administration Manager<br>Email: [nur_fahatun_jalaini@moe.edu.sg](mailto:nur_fahatun_jalaini@moe.edu.sg)<br>Extn: 210 |
 | Mr Shah Irwan Sazali<br>Operation Manager<br>Email: [shah_irwan_sazali@moe.edu.sg](mailto:shah_irwan_sazali@moe.edu.sg)<br>Extn: 203 |
 | Wong Foong Har, Carol<br>Administration Executive<br>Email: [wong_foong_har@moe.edu.sg](mailto:wong_foong_har@moe.edu.sg)<br>Extn: 210 |
 | Mr Myo Thein Htaik<br>Administration Executive<br>Email: [myo_thein_htaik@moe.edu.sg](mailto:myo_thein_htaik@moe.edu.sg)<br>Extn: 204 |
