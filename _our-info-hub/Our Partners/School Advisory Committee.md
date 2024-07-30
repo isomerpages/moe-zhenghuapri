@@ -15,4 +15,6 @@ variant: markdown
 | Chew Hwee Inn Irene |     Member     |
 |       Nora Tan      |     Member     |
 |    Sarayu Parimal   |     Member     |
+|     Wee Harn Ing     |     Member    |
+|     Mark Ng         |     Member       |
 |</center></center>
