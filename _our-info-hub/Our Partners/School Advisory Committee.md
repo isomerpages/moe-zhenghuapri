@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Partners
 variant: markdown
 ---
-###School Advisory Committee
+### School Advisory Committee
 |                  |                 |
 |:----------:|:---------:|
 | Tan Koon Sheng | Chairman |
