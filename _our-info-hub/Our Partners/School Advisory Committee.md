@@ -7,14 +7,13 @@ variant: markdown
 ---
 ## <center>School Advisory Committee<center>
 
-|                     |                |
-|:--------------------:|:----------------:|
-|    Tan Koon Sheng   |    Chairman    |
-|   Lim Jia Yan Edna  |  Vice-Chairman |
-|  Lim Pek Khim Wendy |    Treasurer   |
-| Chew Hwee Inn Irene |     Member     |
-|       Nora Tan      |     Member     |
-|    Sarayu Parimal   |     Member     |
-|     Wee Harn Ing     |     Member    |
-|     Mark Ng         |     Member       |
-|                            |                           |!</center></center>
+|                  |                 |
+|:----------:|:---------:|
+| Tan Koon Sheng   | Chairman    |
+| Lim Jia Yan Edna  | Vice-Chairman |
+| Lim Pek Khim Wendy | Treasurer   |
+| Chew Hwee Inn Irene | Member     |
+| Nora Tan      | Member     |
+| Sarayu Parimal   | Member     |
+| Wee Harn Ing     | Member    |
+| Mark Ng         | Member       |</center></center>
