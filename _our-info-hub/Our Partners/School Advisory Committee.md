@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Partners
 variant: markdown
 ---
-### <center>School Advisory Committee
+### School Advisory Committee
 
 | Name | Designation |
 | -------- | -------- |
@@ -17,4 +17,4 @@ variant: markdown
 | Sarayu Parimal     | Member    |
 | Wee Harn Ing     | Member     |
 | Mark Ng     | Member     |
-</center>
+|
