@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Partners
 variant: markdown
 ---
-### School Advisory Committee
+### <center>School Advisory Committee
 |                  |                 |
 |:----------:|:---------:|
 | Tan Koon Sheng | Chairman |
@@ -15,4 +15,4 @@ variant: markdown
 | Nora Tan | Member |
 | Sarayu Parimal | Member |
 | Wee Harn Ing | Member |
-| Mark Ng | Member |
+| Mark Ng | Member |</center>
