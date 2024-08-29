@@ -13,17 +13,13 @@ variant: markdown
 
 ![](/images/Our%20info%20hub/2024_P1_Open_House.png)
 
-### P1 Orientation Matters
 
-### P1 Orientation (for 2024)
+### P1 Orientation (for 2025)
 
-**Date: 20 November 2023, Monday**<br>
-**Time: 3pm to 4.30pm**&nbsp;<br>
+**Date: 18 November 2024, Monday**<br>
+**Time: 2pm to 3.30pm**&nbsp;<br>
 **Venue: Zhenghua Primary School**<br>
 
-[2024 P1 Check List for Week 1](/files/Our%20Info%20Hub/p1%20check%20list%20for%20week%201%202024.pdf)
-
-[P1 Orientation Day Slides](/files/Our%20Info%20Hub/P1_Orientation_Day_Year_Head.pdf)
 
 
 Parents Support Group: <a href="https://youtu.be/qHx5ynl6648" target="_blank">https://youtu.be/qHx5ynl6648</a>
