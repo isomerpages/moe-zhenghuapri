@@ -16,19 +16,20 @@ variant: markdown
 
 **Application Procedure**<br>
 
-[1. Complete the Call for Proposal - Annex A (Information Required from Vendor)](/files/Our%20Info%20Hub/Bus%20Docs%202024/Annex_A___Information_from_Vendor__For_Single_Bus_Service_.pdf)<br>
+1. Complete the Call for Proposal - Annex A (Information Required from Vendor)
+[Click here](/files/Our%20Info%20Hub/Bus%20Docs%202024/Annex_A___Information_from_Vendor__For_Single_Bus_Service_.pdf)<br>
 2. Submit the completed Call for Proposal – Annex A by closing date, 1.00 pm, 12 September 2024, to the School’s General Office.<br>
 
-• Address: 9 Fajar Road, Singapore 679002<br>
-• Contact No: 6769 7478<br>
-• Email: zhenghua_ps@moe.edu.sg<br>
-• Contact Person: Ms Loh Wen Ying<br>
+* Address: 9 Fajar Road, Singapore 679002<br>
+* Contact No: 6769 7478<br>
+* Email: zhenghua_ps@moe.edu.sg<br>
+* Contact Person: Ms Loh Wen Ying<br>
 
 **How to get there?**<br>
 
-• Nearest MRT: Bukit Panjang MRT (DT1 line) – 25 minutes walking distance<br>
-• Bus number: 184, 187, 190, 973 (In front of ZHPS along Bukit Panjang Road) – 1 minute walking distance<br>
-• Bus number: 920, 922, 972, 972M (Near ZHPS along Fajar Road) – 3 minutes walking distance<br>
+* Nearest MRT: Bukit Panjang MRT (DT1 line) – 25 minutes walking distance<br>
+* Bus number: 184, 187, 190, 973 (In front of ZHPS along Bukit Panjang Road) – 1 minute walking distance<br>
+* Bus number: 920, 922, 972, 972M (Near ZHPS along Fajar Road) – 3 minutes walking distance<br>
 
 
 
