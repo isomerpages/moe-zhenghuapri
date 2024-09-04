@@ -7,7 +7,7 @@ variant: markdown
 <a id="top"></a>
 # Announcements
 
-#### **School Bus Advertisement**  [Click here](https://www.zhenghuapri.moe.edu.sg/our-info-hub/school-bus-advertisement/permalink/)
+#### **School Bus Advertisement**  [Click here](https://www.zhenghuapri.moe.edu.sg/our-info-hub/school-services/school-bus-advertisement/)
 
 #### **2024 MK@Zhenghua Open House**
 ![2024 MK@Zhenghua Open House](/images/MK%20Photos/MK_2024_Open_House.jpg)
