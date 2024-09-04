@@ -10,9 +10,12 @@ variant: markdown
 #### School Bus Advertisement
 
 **Service Requirements**<br>
-[1. Call for Proposal](/files/Our%20Info%20Hub/Bus%20Docs%202024/Call_for_Proposals__For_Single_Bus_Service_.pdf)<br>
-[2. Terms and Conditions for School Bus Operator to Provide School Bus Services](/files/Our%20Info%20Hub/Bus%20Docs%202024/TC_for_School_Bus_Operator_to_Provide_School_Bus_Services__For_Single_Bus_Service_.pdf)<br>
-[3. Request for School Bus Services](/files/Our%20Info%20Hub/Bus%20Docs%202024/Request_for_School_Bus_Service_and_TC_Governing_the_Requests_for_Services___For_Single_Bus_Service_.pdf)<br>
+1. Call for Proposal
+[Click here](/files/Our%20Info%20Hub/Bus%20Docs%202024/Call_for_Proposals__For_Single_Bus_Service_.pdf)<br>
+2. Terms and Conditions for School Bus Operator to Provide School Bus Services
+[Click here](/files/Our%20Info%20Hub/Bus%20Docs%202024/TC_for_School_Bus_Operator_to_Provide_School_Bus_Services__For_Single_Bus_Service_.pdf)<br>
+3. Request for School Bus Services
+[Click here](/files/Our%20Info%20Hub/Bus%20Docs%202024/Request_for_School_Bus_Service_and_TC_Governing_the_Requests_for_Services___For_Single_Bus_Service_.pdf)<br>
 
 **Application Procedure**<br>
 
