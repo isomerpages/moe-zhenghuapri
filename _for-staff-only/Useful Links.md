@@ -16,6 +16,5 @@ description: ""
 [SCMobile](https://scmobile.moe.edu.sg/home)<br>
 [GO.gov.sg](https://go.gov.sg/#/login)<br>
 [HRP](https://www.hrp.gov.sg/hrp/#/)<br>
-[iCollaborate](https://icollaborate.moe.gov.sg/SitePages/Home.aspx)<br>
 [All Ears](https://allears.estl.edu.sg/)<br>
 [OneCV](https://onecv.gov.sg/login)<br>
