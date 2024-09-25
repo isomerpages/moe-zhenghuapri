@@ -5,7 +5,9 @@ description: ""
 third_nav_title: Useful Links
 variant: markdown
 ---
-Home-Based Self-Directed Learning Resources on:<br>
-HBL (2) - PSLE Listening Day (13th September)<br>
-Link will go 'LIVE' on 13th September 7.30am<br>
-[HBL (2) PSLE Listening 2024](https://drive.google.com/drive/u/0/folders/1yDWlT8EZNv0nrDyBDkQc7V5Z0-JUVjKO)
+P5 Home-Based Self-Directed Learning Resources:<br>
+Link will go 'LIVE' on 25th September 7.30am<br>
+
+[P5 Letter to Parents](/files/Our%20Info%20Hub/HBL/P5_letter_to_parent.pdf)<br>
+
+[P5 HBL link](https://docs.google.com/spreadsheets/d/1lLwcYGDWahuZDLafh6lRfePMqciMG6QJ/edit?gid=853404703#gid=853404703)
