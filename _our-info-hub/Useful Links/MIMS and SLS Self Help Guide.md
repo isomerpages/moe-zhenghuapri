@@ -1,15 +1,17 @@
 ---
-title: Student Learning Space
-permalink: /our-info-hub/useful-links/student-learning-space/
+title: MIMS and SLS Self Help Guide
+permalink: /our-info-hub/useful-links/mims-and-sls-self-help-guide/
 description: ""
 third_nav_title: Useful Links
 variant: markdown
 ---
-# Student Learning Space
+# MIMS &amp; SLS Self Help Guide
 
 <a href="https://go.gov.sg/guide-to-sls" target="_blank">Guide to SLS.pptx</a>
 
-To Login to Student Learning Space (SLS) Click&nbsp;<a href="https://vle.learning.moe.edu.sg/login" target="_blank">here</a>
+To Login to Student Learning Space (SLS) Click&nbsp;<a href="https://vle.learning.moe.edu.sg/login" target="_blank">here</a><br>
+
+[MIMS Self Service Password Reset Guide](/files/Our%20Info%20Hub/HBL/mims_sspr_guide.pdf)
 
 
 **School Based Helpline**
