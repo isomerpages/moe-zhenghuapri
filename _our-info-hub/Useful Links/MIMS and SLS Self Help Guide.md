@@ -11,7 +11,7 @@ variant: markdown
 
 To Login to Student Learning Space (SLS) Click&nbsp;<a href="https://vle.learning.moe.edu.sg/login" target="_blank">here</a><br>
 
-[MIMS Self Service Password Reset Guide](/files/Our%20Info%20Hub/HBL/mims_sspr_guide.pdf)
+[MIMS Self Service Password Reset Guide](/files/Our%20Info%20Hub/HBL/2024_ZHPS_MIMS_Students_User_Guide.pdf)
 
 
 **School Based Helpline**
