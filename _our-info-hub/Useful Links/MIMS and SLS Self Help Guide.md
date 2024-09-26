@@ -5,11 +5,13 @@ description: ""
 third_nav_title: Useful Links
 variant: markdown
 ---
-# Student Learning Space
+# MIMS &amp; SLS Self Help Guide
 
 <a href="https://go.gov.sg/guide-to-sls" target="_blank">Guide to SLS.pptx</a>
 
-To Login to Student Learning Space (SLS) Click&nbsp;<a href="https://vle.learning.moe.edu.sg/login" target="_blank">here</a>
+To Login to Student Learning Space (SLS) Click&nbsp;<a href="https://vle.learning.moe.edu.sg/login" target="_blank">here</a><br>
+
+
 
 
 **School Based Helpline**
