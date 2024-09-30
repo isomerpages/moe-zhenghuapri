@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Useful Links
 variant: markdown
 ---
-P4 Home-Based Self-Directed Learning Resources:<br>
+P4 Home-Based Self-Directed Learning Resources (30th Sep and 1st Oct):<br>
 Link will go 'LIVE' on 30th September 7.30am<br>
 
 [P4 HBL Link](https://docs.google.com/file/d/1v1ME__QEL7HZDNNxmBTHyiptMF-DeSNZ/edit?filetype=msexcel)
