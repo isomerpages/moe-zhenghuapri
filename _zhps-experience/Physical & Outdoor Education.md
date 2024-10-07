@@ -4,7 +4,6 @@ permalink: /zhps-experience/physical-n-outdoor-education/
 description: ""
 variant: markdown
 ---
-# upload image slides to google slide
 # Physical &amp; Outdoor Education
 
 ## Vision
