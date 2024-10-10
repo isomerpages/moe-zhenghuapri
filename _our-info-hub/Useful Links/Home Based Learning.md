@@ -5,7 +5,12 @@ description: ""
 third_nav_title: Useful Links
 variant: markdown
 ---
-P4 Home-Based Self-Directed Learning Resources (30th Sep and 1st Oct):<br>
-Link will go 'LIVE' on 30th September 7.30am<br>
+P1 and P2 Home-Based Self-Directed Learning Resources (14th to 16th Oct 2024):<br>
+P6 Home-Based Self-Directed Learning Resources (14th to 18th Oct 2024):<br>
+Link will go 'LIVE' on 14th Oct 2024 7.30am<br>
 
-[P4 HBL Link](https://docs.google.com/file/d/1v1ME__QEL7HZDNNxmBTHyiptMF-DeSNZ/edit?filetype=msexcel)
+[P1 HBL Link](https://docs.google.com/spreadsheets/d/1H1vULYAD9Dem_0RK2BQK7IvdVOsoRi5S/edit?gid=853404703#gid=853404703)<br>
+
+[P2 HBL Link](https://docs.google.com/spreadsheets/d/1jKggY2-JxBIGZ6YxOUA3F9yFDZUoSLPA/edit?gid=853404703#gid=853404703)<br>
+
+[P6 HBL Link](https://docs.google.com/spreadsheets/d/1QS-ZAUAfSlLVnM0LYAJdjDiV7Snxj35X/edit?gid=853404703#gid=853404703)
