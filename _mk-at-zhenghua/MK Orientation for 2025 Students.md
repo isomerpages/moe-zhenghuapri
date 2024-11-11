@@ -6,6 +6,6 @@ variant: markdown
 ---
 # MK Orientation for 2024 Students
 
-[MK_Orientation_2023](/files/MK_Slides_for_K1_Orientation_2023.pdf)
+[MK Orientation 2024](/files/MK/MK_Orientation_2024.pdf)
 
-[KCare_Orientation_2023](/files/KCare_Slides_for_K1_Orientation_2023.pdf)
+[KCare Orientation 2024](/files/MK/KCare_Orientation_2024.pdf)
