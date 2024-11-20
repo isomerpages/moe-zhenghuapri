@@ -18,8 +18,8 @@ variant: markdown
 **Venue: Zhenghua Primary School**<br>
 
 1. Information for Parents [Click Here](/files/Our%20Info%20Hub/P1%20Matters/P1_Orientation.pdf)<br>
-3. Check List [Click Here](/files/Our%20Info%20Hub/P1%20Matters/Check_List___Week_1_2025.pdf)<br>
-4. Parents Support Group [Click Here](/files/Our%20Info%20Hub/P1%20Matters/Operator_list_1Nov2024.pdf)
+2. Check List [Click Here](/files/Our%20Info%20Hub/P1%20Matters/Check_List___Week_1_2025.pdf)<br>
+3. Parents Support Group [Click Here](/files/Our%20Info%20Hub/P1%20Matters/Operator_list_1Nov2024.pdf)
 
 
 
