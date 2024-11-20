@@ -9,9 +9,6 @@ variant: markdown
 
 ### P1 Registration Phase
 
-### P1 Open House
-
-![](/images/Our%20info%20hub/2024_P1_Open_House.png)
 
 
 ### P1 Orientation (for 2025)
@@ -20,44 +17,31 @@ variant: markdown
 **Time: 2pm to 3.30pm**&nbsp;<br>
 **Venue: Zhenghua Primary School**<br>
 
+1. Information for Parents<br>
+2. Check List<br>
+3. Parents Support Group
 
 
-Parents Support Group: <a href="https://youtu.be/qHx5ynl6648" target="_blank">https://youtu.be/qHx5ynl6648</a>
-<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/qHx5ynl6648" height="315" width="560"></iframe></center>
 
 
-Parents Kit (Transition to P1)
-==============================
+### Parents Kit (Transition to P1)
 
 The Parent-Child Activity Book (PCAB) supports parents and children in the transition from preschool to P1 through fun and meaningful parent-child activities.&nbsp;
 
 \[Digital PCAB\]<br>
 To make it more convenient for you, there is a digital version where you can find 10 useful tips and suggested activities as your child gears up for P1 next year. Worried about how your child will socialise and make new friends in P1? Check out Tip 3 on New Places, New Faces. While you are at it, check out the rest of our 10 useful tips.
 
-  
-
 • Tip 1: Get Ready for School!&nbsp;
-
 • Tip 2: Practise Routines
-
 • Tip 3: New Places, New Faces
-
 • Tip 4: We Can Do This, Together&nbsp;
-
 • Tip 5: Show Interest in Your Child&nbsp;
-
 • Tip 6: Time to Let Go!&nbsp;
-
 • Tip 7: Team Up with Teachers&nbsp;
-
 • Tip 8: Every Child is Unique
-
 • Tip 9: Be a Great Role Model&nbsp;
-
 • Tip 10: Let’s Help Out at Home&nbsp; &nbsp;
-
   
-
 Pace yourself with these activities as we continue to share activities and resources with you throughout the year. Have fun :)<br>
 Link&nbsp;<br>
 Digital PCAB<br>
