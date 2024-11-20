@@ -3,16 +3,17 @@ title: Co Curricular Activities
 permalink: /zhps-experience/co-curricular-activities/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 # Co-Curricular Activities
 
-CCAs programmes develop **Character**, foster **Camaraderie** & imbue in students positive **Attitude**.
+CCAs programmes develop&nbsp;**Character**, foster&nbsp;**Camaraderie**&nbsp;&amp; imbue in students positive&nbsp;**Attitude**.
 
 CCA strives to support the holistic development of a student, guided by the vision that every student is physically and culturally vibrant at the end of his 6 years in Zhenghua.
 
-In Zhenghua, our primary aim is to seek and provide opportunities for all students via CCA program to help develop them holistically, in and out of the classroom, and ample opportunities to specialize and develop a student’s passion & nurture his talent to the fullest.
+In Zhenghua, our primary aim is to seek and provide opportunities for all students via CCA program to help develop them holistically, in and out of the classroom, and ample opportunities to specialize and develop a student’s passion &amp; nurture his talent to the fullest.
 
-We achieve this through our **3E** (Exposure, Enrichment and Excellence) approaches:
+We achieve this through our&nbsp;**3E**&nbsp;(Exposure, Enrichment and Excellence) approaches:
 
 |  |  |
 |-------------|--------------------|
@@ -32,9 +33,9 @@ d\.  Clubs - strive to achieve oratorical and communication skills, which foster
 
 After going through the programme, each student will:
 
-√    Develop **strength of Character**, **foster Camaraderie** & **inculcate good Attitude**;  
-√    Have the opportunity to be immersed into a vibrant Arts Culture & be developed physically, where he can be gracious yet rugged;  
-√    Have the resilience to withstand the challenges of life & the confidence to aspire & achieve in the field of his passion.
+√&nbsp;&nbsp; &nbsp;Develop&nbsp;**strength of Character**,&nbsp;**foster Camaraderie**&nbsp;&amp;&nbsp;**inculcate good Attitude**;  
+√&nbsp;&nbsp; &nbsp;Have the opportunity to be immersed into a vibrant Arts Culture &amp; be developed physically, where he can be gracious yet rugged;  
+√&nbsp;&nbsp; &nbsp;Have the resilience to withstand the challenges of life &amp; the confidence to aspire &amp; achieve in the field of his passion.
 
   
 
@@ -66,6 +67,6 @@ Please refer to the following CCA schedule:
 Change of CCA
 -------------
 
-Students **cannot change** or **terminate** their participation in their CCA. All request for change of CCA must be made through SH/CCA. Parents can email to SH/CCA at [ong\_yan\_joo@moe.edu.sg](mailto:ong_yan_joo@moe.edu.sg) stating the reason for change. If it is due to medical reasons, kindly support with memo from a medical professional. SH/CCA will evaluate each request on a case-by-case basis.
+Students&nbsp;**cannot change**&nbsp;or&nbsp;**terminate**&nbsp;their participation in their CCA. All request for change of CCA must be made through SH/CCA. Parents can email to the school at&nbsp;[zhenghua_ps@moe.edu.sg](mailto:zhenghua_ps@moe.edu.sg)&nbsp;stating the reason for change. If it is due to medical reasons, kindly support with memo from a medical professional. SH/CCA will evaluate each request on a case-by-case basis.
   
 Our school is committed to nurturing the students to be of good character and equipping them with skills and knowledge that will allow them to lead a purposeful and healthy life. We believe through the CCA programmes, they will be physically and culturally vibrant.
