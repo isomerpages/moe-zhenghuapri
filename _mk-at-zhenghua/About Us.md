@@ -80,11 +80,11 @@ Our People
 
 |     MTL    |      TEACHER   |    TEACHER   |
 |:----------:|:-------------:|:---------------:|
-| CL  |  Mdm Jiang Yanyu (Sarah)  | Mdm Jiang Yanyu (Sarah)  |
-| CL  |   Mdm Hao Yiming   | Mdm Chen Yi |
-| CL  |  Mdm Cai Xiujin    | Mdm Wang Yang |
-| CL  |  Mdm Zhang Yuhui   | Mdm Wang Yang |
-| ML  |  Mdm Azlina Binte Yazid  | Mdm Siti Nurul Ain Binte Abdul Rahman |
-| ML  |  Ms Iska Nerimah Binte Rosman   |  |
-| TL  |  Ms Palani Selvam Kayalvizhi   | Ms Sangeetha D/O Suparamaniam |
+| Chinese  |  Mdm Jiang Yanyu (Sarah)  | Mdm Jiang Yanyu (Sarah)  |
+| Chinese  |   Mdm Hao Yiming   | Mdm Chen Yi |
+| Chinese  |  Mdm Cai Xiujin    | Mdm Wang Yang |
+| Chinese  |  Mdm Zhang Yuhui   | Mdm Wang Yang |
+| Malay  |  Mdm Azlina Binte Yazid  | Mdm Siti Nurul Ain Binte Abdul Rahman |
+| Malay  |  Ms Iska Nerimah Binte Rosman   |  |
+| Tamil  |  Ms Palani Selvam Kayalvizhi   | Ms Sangeetha D/O Suparamaniam |
 |
