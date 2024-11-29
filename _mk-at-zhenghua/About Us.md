@@ -2,6 +2,7 @@
 title: About Us
 permalink: /mk-at-zhenghua/about-us/
 description: ""
+variant: markdown
 ---
 # About Us
 
@@ -33,6 +34,8 @@ For more information, please visit the&nbsp;<a href="https://www.moe.gov.sg/pres
 
 Our People
 ----------
+
+<center><b>HEAD OF THE DEPARTMENTS</b></center>
 
 <center><b>CENTER HEAD<br>Mrs Vivien Villaroza<br>kwok_wai_leng_vivien@moe.edu.sg<br>Extn: 273</b></center>
 
