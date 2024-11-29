@@ -85,15 +85,13 @@ Kindergarten 2
 | K2RP | Ms Nur Allisa Binte Mohamad Halim    | Mdm Cai Xiujin |
 |
 
-|     MTL    |                        TEACHER                       |
-|:----------:|:------------------:|
-| CL TEACHER |                  Jiang Yanyu (Sarah)                 |
-| CL TEACHER |                       Su Wenru                       |
-| CL TEACHER |                      Cai Xiujin                      |
-| CL TEACHER |                    Ch'ng Hui Qing                    |
-| CL TEACHER |                      Hao Yiming                      |
-| CL TEACHER |                        Chen Yi                       |
-| CL TEACHER |                       Jiang Jie                      |
-| ML TEACHER | Siti Nurul Ain Binte Abdul Rahman <br>Azlina Binte Yazid |
-| TL TEACHER |                Darshini d/o Alagaraja                |
+|     MTL    |      TEACHER   |    TEACHER   |
+|:----------:|:-------------:|:---------------:|
+| CL  |  Mdm Jiang Yanyu (Sarah)  | Mdm Jiang Yanyu (Sarah)  |
+| CL  |   Mdm Hao Yiming   | Mdm Chen Yi |
+| CL  |  Mdm Cai Xiujin    | Mdm Wang Yang |
+| CL  |  Mdm Zhang Yuhui   | Mdm Wang Yang |
+| ML  |  Mdm Azlina Binte Yazid  | Mdm Siti Nurul Ain Binte Abdul Rahman |
+| ML  |  Ms Iska Nerimah Binte Rosman   |  |
+| TL  |  Ms Palani Selvam Kayalvizhi   | Ms Sangeetha D/O Suparamaniam |
 |
