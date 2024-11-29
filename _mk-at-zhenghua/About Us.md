@@ -53,11 +53,8 @@ Our People
 |:-------------:|:------------:|:-----------:|
 | [**Ms Karina Giam Lay Leng**](mailto:karina_giam_lay_leng@moe.edu.sg)<br>**(Senior Teacher/English Language)**<br> |           [**Ms Nur Sheeda Marzuki**](mailto:nur_sheeda_marzuki@moe.edu.sg)<br>**(Senior Teacher/Child Development)**<br>           |        [**Mdm Azlina Binte Yazid**](mailto:azlina_yazid@moe.edu.sg)<br>**(Senior Teacher/Malay Language)**<br> |
 
-<br>
-<br>
-<b>Kindergarten 1</b>
-<br>
-<br>
+
+<center><b>KINDERGARTEN 1</b></center>
 
 |  CLASS  |  FORM TEACHER  |  FORM TEACHER  |
 |:------------:|:---------------:|:----------------:|
@@ -69,11 +66,7 @@ Our People
 | K1RB | Ms Karyn Ang                      | Mdm Zhang Yuhui               |
 |
 
-<br>
-<br>
-<b>Kindergarten 2</b>
-<br>
-<br>
+<center><b>KINDERGARTEN 2</b></center>
 
 |  CLASS  |  FORM TEACHER  |  FORM TEACHER  |
 |:------------:|:---------------:|:----------------:|
