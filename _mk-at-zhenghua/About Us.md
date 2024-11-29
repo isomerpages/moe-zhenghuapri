@@ -69,6 +69,22 @@ Kindergarten 1
 | K1RB | Ms Karyn Ang                      | Mdm Zhang Yuhui               |
 |
 
+<br>
+<br>
+Kindergarten 2
+<br>
+<br>
+
+|  CLASS  |  FORM TEACHER  |  FORM TEACHER  |
+|:------------:|:---------------:|:----------------:|
+| K2CA | Ms Nur Sheeda Marzuki  | Ms Lau Liying |
+| K2EA | Ms Lim Shi Rui      | Mdm Chen Yi   |
+| K2IA | Ms Leong Xue Fang      | Mdm Hao Yiming   |
+| K2RA | Ms Zulaikha Beevi | Ms Iska Nerimah Binte Rosman  |
+| K2CP | Ms Nor Syahidah Bte Sariman   | Ms Lau Liying  |
+| K2RP | Ms Nur Allisa Binte Mohamad Halim    | Mdm Cai Xiujin |
+|
+
 |     MTL    |                        TEACHER                       |
 |:----------:|:------------------:|
 | CL TEACHER |                  Jiang Yanyu (Sarah)                 |
