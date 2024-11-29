@@ -35,7 +35,24 @@ For more information, please visit the&nbsp;<a href="https://www.moe.gov.sg/pres
 Our People
 ----------
 
+<center><b>CENTER LEADERS</b></center>
+
+|            |                |                         |
+|:-------------:|:------------:|:-----------:|
+| [**Mrs Vivien Villaroza**](mailto:kwok_wai_leng_vivien@moe.edu.sg)<br>**(Center Head)**<br>Extn: *273* |           [**Mdm Sivaranjani D/O Keresnasami**](mailto:sivaranjani_keresna_sami@moe.edu.sg)<br>**(Deputy Centre Head)**<br>Extn: *272* |   
+
+<center><b>LEVEL HEADS</b></center>
+
+|            |                |                         |
+|:-------------:|:------------:|:-----------:|
+| [**Mdm Jiang Yanyu (Sarah)**](mailto:jiang_yanyu@moe.edu.sg)<br>**(Level Head/K1)**<br>|           [**Ms Lim Shi Rui**](mailto:lim_shi_rui@moe.edu.sg)<br>**(Level Head/K2)**<br>  |
+
 <center><b>HEAD OF THE DEPARTMENTS</b></center>
+
+|            |                |                         |
+|:-------------:|:------------:|:-----------:|
+| [**Mdm Lim Lay Chin**](mailto:lim_lay_chin@moe.edu.sg)<br>**(HOD English)**<br>Extn: *302* |           [**Mdm Chai Huel Leng**](mailto:chai_huel_leng@moe.edu.sg)<br>**(HOD Mathematics)**<br>Extn: *307*           |        [**Mr Alex Chew**](mailto:chew_wei_leck_alex@moe.edu.sg)<br>**(HOD Science)**<br>Extn: *306*        |
+
 
 <center><b>CENTER HEAD<br>Mrs Vivien Villaroza<br>kwok_wai_leng_vivien@moe.edu.sg<br>Extn: 273</b></center>
 
