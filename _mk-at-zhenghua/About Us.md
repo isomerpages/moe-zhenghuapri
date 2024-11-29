@@ -55,7 +55,7 @@ Our People
 
 <br>
 <br>
-Kindergarten 1
+<b>Kindergarten 1</b>
 <br>
 <br>
 
@@ -71,7 +71,7 @@ Kindergarten 1
 
 <br>
 <br>
-Kindergarten 2
+<b>Kindergarten 2</b>
 <br>
 <br>
 
