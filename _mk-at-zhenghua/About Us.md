@@ -55,16 +55,18 @@ Our People
 
 <br>
 <br>
+Kindergarten 1
+<br>
+<br>
 
-
-|  CLASS  |                        FORM TEACHER                        |  CLASS  |                      FORM TEACHER             |
-|:-------:|:---------------------:|:-------:|:-----------------------------:|
-|  K1-CA  | Zulaikha Beevi (FT/HL) Dayang Anisa Binte Kamaruzaini (SL) |  K2-CA  | Yap Wai Han (FT/HL)<br>Nor Syahidah Binte Sariman (SL) |
-|  K1- EA |                 Almas Banu do Mohamad Elias                |  K2- EA |                       Lim Shi Rui                      |
-| K1 - IA |                    Karina Giam Lay Leng                    | K2 - IA |                Nur Sheeda Binte Marzuki                |
-|  K1- CP | Dayang Anisa Binte Kamaruzaini (FT/SL) Zulaikha Beevi (HL) |  K2- CP |                       Yap Wai Han                      |
-| K1 - EP |            Sharifah Ulfah Zhatul Syed Zainuddin            | K2 - EP |                     Leong Xue Fang                     |
-| K1 - IP |                      Ang Bi Xia Karyn                      |  K2- IP |               Nor Syahidah Binte Sariman               |
+|  CLASS  |  FORM TEACHER  |  FORM TEACHER  |
+|:------------:|:---------------:|:----------------:|
+| K1CA | Ms Sharifah Ulfah Zhatul Syed Zainuddin | Mdm Jiang Jie |
+| K1EA | Ms Yap Wai Han                | Mdm Siti Nurul Ain Binte Abdul Rahman                     |
+| K1IA | Ms Sheryl Goh Yi Fen                    | Mdm Jiang Yanyu (Sarah)                |
+| K1RA | Ms Karina Giam Lay Leng | Mdm Zhang Yuhui                      |
+| K1IB | Ms Sheryl Goh Yi Fen            | Mdm Wang Yang                     |
+| K1RB | Ms Karyn Ang                      | Mdm Zhang Yuhui               |
 |
 
 |     MTL    |                        TEACHER                       |
