@@ -47,17 +47,18 @@ Our People
 |:-------------:|:------------:|:-----------:|
 | [**Mdm Jiang Yanyu (Sarah)**](mailto:jiang_yanyu@moe.edu.sg)<br>**(Level Head/K1)**<br>|           [**Ms Lim Shi Rui**](mailto:lim_shi_rui@moe.edu.sg)<br>**(Level Head/K2)**<br>  |
 
-<center><b>HEAD OF THE DEPARTMENTS</b></center>
+<center><b> SENIOR TEACHER</b></center>
 
 |            |                |                         |
 |:-------------:|:------------:|:-----------:|
-| [**Mdm Lim Lay Chin**](mailto:lim_lay_chin@moe.edu.sg)<br>**(HOD English)**<br>Extn: *302* |           [**Mdm Chai Huel Leng**](mailto:chai_huel_leng@moe.edu.sg)<br>**(HOD Mathematics)**<br>Extn: *307*           |        [**Mr Alex Chew**](mailto:chew_wei_leck_alex@moe.edu.sg)<br>**(HOD Science)**<br>Extn: *306*        |
+| [**Ms Karina Giam Lay Leng**](mailto:karina_giam_lay_leng@moe.edu.sg)<br>**(Senior Teacher/English Language)**<br> |           [**Ms Nur Sheeda Marzuki**](mailto:nur_sheeda_marzuki@moe.edu.sg)<br>**(Senior Teacher/Child Development)**<br>           |        [**Mdm Azlina Binte Yazid**](mailto:azlina_yazid@moe.edu.sg)<br>**(Senior Teacher/Malay Language)**<br> |
+
+<br>
+<br>
 
 
-<center><b>CENTER HEAD<br>Mrs Vivien Villaroza<br>kwok_wai_leng_vivien@moe.edu.sg<br>Extn: 273</b></center>
-
-|  CLASS  |                        FORM TEACHER                        |  CLASS  |                      FORM TEACHER                      |
-|:-------:|:----------------------------------------------------------:|:-------:|:------------------------------------------------------:|
+|  CLASS  |                        FORM TEACHER                        |  CLASS  |                      FORM TEACHER             |
+|:-------:|:---------------------:|:-------:|:-----------------------------:|
 |  K1-CA  | Zulaikha Beevi (FT/HL) Dayang Anisa Binte Kamaruzaini (SL) |  K2-CA  | Yap Wai Han (FT/HL)<br>Nor Syahidah Binte Sariman (SL) |
 |  K1- EA |                 Almas Banu do Mohamad Elias                |  K2- EA |                       Lim Shi Rui                      |
 | K1 - IA |                    Karina Giam Lay Leng                    | K2 - IA |                Nur Sheeda Binte Marzuki                |
