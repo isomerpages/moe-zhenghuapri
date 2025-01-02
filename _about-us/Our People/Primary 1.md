@@ -18,4 +18,4 @@ variant: markdown
 |  1IN  | Miss Wong Chu Wen, Claudia<br>[wong_chu_wen_claudia@moe.edu.sg](mailto:wong_chu_wen_claudia@moe.edu.sg)<br>Extn: 528             |Mdm Haryati Bte Mohahlim<br>[haryati_mohahlim@moe.edu.sg](mailto:haryati_mohahlim@moe.edu.sg)<br>Extn: 542          |
 |  1 IY |Miss Jolene Tan Ying Jun<br>[jolene_tan_ying_jun@moe.edu.sg](mailto:jolene_tan_ying_jun@moe.edu.sg)<br>Extn: 542         |Ms Seng Wan Qi, Wendy<br>[seng_wan_qi_wendy@moe.edu.sg](mailto:seng_wan_qi_wendy@moe.edu.sg)<br>Extn: 506         |
 |  1 IY | Miss Lim Seok Hoon Mary <br>[lim_seok_hoon_mary@moe.edu.sg](mailto:lim_seok_hoon_mary@moe.edu.sg)<br>Extn: 526|
-|  1 RE | Mdm Noreha Bte Md Taib <br>[lum_miao_ling@moe.edu.sg](mailto:lum_miao_ling@moe.edu.sg)<br>Extn: 532    | Ms Wong Soo Shan Carmen<br>[remigius_sterina_victoria@moe.edu.sg](mailto:remigius_sterina_victoria@moe.edu.sg)<br>Extn: 507 |
+|  1 RE | Mdm Noreha Bte Md Taib <br>[noreha_mohd_taib@moe.edu.sg](mailto:noreha_mohd_taib@moe.edu.sg)<br>Extn: 532    | Ms Wong Soo Shan Carmen<br>[wong_soo_shan@moe.edu.sg](mailto:wong_soo_shan@moe.edu.sg)<br>Extn: 507 |
