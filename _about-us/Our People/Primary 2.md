@@ -8,7 +8,7 @@ variant: markdown
 # Primary 2
 
 | CLASS |                                      FORM TEACHER                                      |                               FORM TEACHER                               |
-|:-----:|:--------------------------------------------------------------------------------------:|:------------------------------------------------------------------------:|
+|:-----:|:-------------------------------:|:----------------------------------------:|
 |  2 CE |Mdm Hyeryanti<br>[hyeryanti_suradi@moe.edu.sg](mailto:hyeryanti_suradi@moe.edu.sg)<br>Extn: 509             |Mdm Serene Soh<br>[soh_shan_shan_serene@moe.edu.sg](mailto:soh_shan_shan_serene@moe.edu.sg)<br>Extn: 533    |
 |  2 CN |Mdm Daphne Lau<br>[Lau_siew_hui_daphne@moe.edu.sg](mailto:Lau_siew_hui_daphne@moe.edu.sg)<br>Extn: 537             | Mdm Jacqueline Tan <br>[jacqueline_tan_jie_ying@moe.edu.sg](mailto:jacqueline_tan_jie_ying@moe.edu.sg)<br>Extn: 504          |
 |  2 EE |Miss Jolene Tan<br>[jolene_tan_ying_jun@moe.edu.sg](mailto:jolene_tan_ying_jun@moe.edu.sg)<br>Extn: 531       | Mdm Juliana<br>[juliana_sahak@moe.edu.sg](mailto:juliana_sahak@moe.edu.sg)<br>Extn: 536 |
