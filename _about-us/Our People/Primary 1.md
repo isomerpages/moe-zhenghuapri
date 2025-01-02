@@ -10,7 +10,7 @@ variant: markdown
 
 | CLASS |  FORM TEACHER    |   FORM TEACHER         |
 |:-----:|:---------------:|:-----------:|
-|  1 CE | Mdm Soh Shan Shan Serene <br>[amuthavali_rajoo@moe.edu.sg](mailto:amuthavali_rajoo@moe.edu.sg)<br>Extn: 531            | Mrs Tanuja Raj<br>[lim_pui_yee@moe.edu.sg](mailto:lim_pui_yee@moe.edu.sg)<br>Extn: 508              |
+|  1 CE | Mdm Soh Shan Shan Serene <br>[soh_shan_shan@moe.edu.sg](mailto:soh_shan_shan@moe.edu.sg)<br>Extn: 531            | Mrs Tanuja Raj<br>[tanuja_k_k_chandran@moe.edu.sg](mailto:tanuja_k_k_chandran@moe.edu.sg)<br>Extn: 508              |
 |  1 CN | Miss Daphne Lau Siew Hui<br>[goh_boon_tiong@moe.edu.sg](mailto:goh_boon_tiong@moe.edu.sg)<br>Extn: 542            |Mdm Siti Rashidah Bte Abdul Karim<br>[kang_shuang_juan@moe.edu.sg](mailto:kang_shuang_juan@moe.edu.sg)<br>Extn: 509|  
 |1 EE | Ms Jacqueline Tan Jie Yin<br>[mohamed_faizal_mohamed_raz@moe.edu.sg](mailto:mohamed_faizal_mohamed_raz@moe.edu.sg])<br>Extn: 565 |   Mdm Juliana Bte Sahak<br>[maszelin_mohamad@moe.edu.sg](mailto:maszelin_mohamad@moe.edu.sg)<br>Extn: 534  |
 |  1 EE | Mdm Lem Li Kuen <br>[yew_ann_yee@moe.edu.sg](mailto:yew_ann_yee@moe.edu.sg)<br>Extn: 526|
