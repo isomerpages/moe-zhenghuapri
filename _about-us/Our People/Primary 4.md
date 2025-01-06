@@ -14,5 +14,6 @@ variant: markdown
 |  4 EE |Mdm Jumilah Bte Ahmad<br>[jumilah_ahmad@moe.edu.sg](mailto:jumilah_ahmad@moe.edu.sg)<br>Extn: 504  | Ms Nurul-Huda Binte Sarkawai<br>[nurul-huda_sarkawai@moe.edu.sg](mailto:nurul-huda_sarkawai@moe.edu.sg)<br>Extn: 527 |
 |  4 HY |Mr Mohd Fazli Bin Mohd Aris <br>[mohamed_fazli_mohd_aris@moe.edu.sg](mailto:mohamed_fazli_mohd_aris@moe.edu.sg)<br>Extn: 530  |   Mdm Tang Li Tan<br>[tang_li_tan@moe.edu.sg](mailto:tang_li_tan@moe.edu.sg)<br>Extn: 534               |
 |  4 IN | Mdm Lee Chai Ping Betty<br>[lee_chai_ping@moe.edu.sg](mailto:lee_chai_ping@moe.edu.sg)<br>Extn: 515          | Mdm Tay Jia Lin <br>[tay_jia_lin@moe.edu.sg](mailto:tay_jia_lin@moe.edu.sg)<br>Extn: 568   |
-|  4 IY |Mr Loo Teng Kiat<br>[loo_teng_kiat@moe.edu.sg](mailto:loo_teng_kiat@moe.edu.sg)<br>Extn: 545   | Miss Sim Wenyan<br>[sim_wenyan@moe.edu.sg](mailto:sim_wenyan@moe.edu.sg)<br>Extn: 511    |
+|  4 IY |Mr Loo Teng Kiat<br>[loo_teng_kiat@moe.edu.sg](mailto:loo_teng_kiat@moe.edu.sg)<br>Extn: 545   | Miss Sim Wenyan<br>[sim_wenyan@moe.edu.sg](mailto:sim_wenyan@moe.edu.sg)<br>Extn: 511  |
 |  4 RE |Ms Lim Wan Xin Grace<br>[lim_wan_xin_grace@moe.edu.sg](mailto:lim_wan_xin_grace@moe.edu.sg)<br>Extn: 517   | Mr Elliot Ang Yong Siang<br>[elliot_ang_yong_siang@moe.edu.sg](mailto:elliot_ang_yong_siang@moe.edu.sg)<br>Extn: 564    |
+|  4 RE |Ms Lee Wei Ai<br>[lee_wei_ai@moe.edu.sg](mailto:lee_wei_ai@moe.edu.sg)<br>Extn: 577
