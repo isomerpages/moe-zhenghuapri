@@ -10,7 +10,7 @@ variant: markdown
 | CLASS |                                      FORM TEACHER                                      |                               FORM TEACHER                               |
 |:-----:|:-------------------------------:|:----------------------------------------:|
 |  2 CE |Mdm Amuthaval<br>[amuthavali_rajoo@moe.edu.sg](mailto:amuthavali_rajoo@moe.edu.sg)<br>Extn: 509             |Mdm Lim Pui Yee<br>[lim_pui_yee@moe.edu.sg](mailto:lim_pui_yee@moe.edu.sg)<br>Extn: 533    |
-|  2 CN |Mr Goh Boon Tiong<br>[goh_boon_tiong@moe.edu.sg](mailto:goh_boon_tiong@moe.edu.sg)<br>Extn: 537             | Mdm Kang Shuangjuan <br>[jacqueline_tan_jie_ying@moe.edu.sg](mailto:jacqueline_tan_jie_ying@moe.edu.sg)<br>Extn: 504          |
+|  2 CN |Mr Goh Boon Tiong<br>[goh_boon_tiong@moe.edu.sg](mailto:goh_boon_tiong@moe.edu.sg)<br>Extn: 537             | Mdm Kang Shuang Juan <br>[kang_shuang_juan@moe.edu.sg](mailto:kang_shuang_juan@moe.edu.sg)<br>Extn: 504          |
 |  2 EE |Mr Mohd Faizal Razak<br>[jolene_tan_ying_jun@moe.edu.sg](mailto:jolene_tan_ying_jun@moe.edu.sg)<br>Extn: 531       | Mdm Maszelin<br>[juliana_sahak@moe.edu.sg](mailto:juliana_sahak@moe.edu.sg)<br>Extn: 536 |
 |  2 HY | Miss Sabrina Bte Samsuri<br>[chua_sock_theng@moe.edu.sg](mailto:chua_sock_theng@moe.edu.sg)<br>Extn: 534 |Miss Wong Qiu Yan<br>[suriyana_ghaphari@moe.edu.sg](mailto:suriyana_ghaphari@moe.edu.sg)<br>Extn: 581 |
 |  2 IN | Mdm Ng Eileen <br>[haryati_mohahlim@moe.edu.sg](mailto:haryati_mohahlim@moe.edu.sg)<br>Extn: 536        |  Mr Shawn Yeap Wen Bin <br>[rozali_ibrahim@moe.edu.sg](mailto:rozali_ibrahim@moe.edu.sg)<br>Extn: 543    |
