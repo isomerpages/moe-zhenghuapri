@@ -8,7 +8,7 @@ variant: markdown
 # Primary 5
 
 | CLASS |                               FORM TEACHER                              |                                  FORM TEACHER                                 |
-|:-----:|:-----------------------------------------------------------------------:|:-----------------------------------------------------------------------------:|
+|:-----:|:-------------------------------------------------:|:-------------------------------------------:|
 |  5 CE | Mr Eddy Norisman Ismail<br>[chan_may_ling@moe.edu.sg](mailto:chan_may_ling@moe.edu.sg)<br>Extn: 309  |       Mdm Tan Siew Ching<br>[evelyn_andrewina_yeo@moe.edu.sg](mailto:evelyn_andrewina_yeo@moe.edu.sg)<br>Extn: 522          |
 |  5 CN |      Ms Maryanah Muhd Muzakir <br>[chong_yong_yeow@moe.edu.sg](mailto:chong_yong_yeow@moe.edu.sg)<br>Extn: 519      |       Mr Ng Teng Yik<br>[poon_mei_ming@moe.edu.sg](mailto:poon_mei_ming@moe.edu.sg)<br>Extn: 303            |
 |  5 CN |      Mr Zulkifli Bin Mansor <br>[chong_yong_yeow@moe.edu.sg](mailto:chong_yong_yeow@moe.edu.sg)<br>Extn: 520      | 
