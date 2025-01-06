@@ -22,7 +22,7 @@ variant: markdown
 |            |                |                         |
 |:-------------:|:------------:|:-----------:|
 | [**Mdm Lim Lay Chin**](mailto:lim_lay_chin@moe.edu.sg)<br>**(HOD English)**<br>Extn: *302* |           [**Mdm Chai Huel Leng**](mailto:chai_huel_leng@moe.edu.sg)<br>**(HOD Mathematics)**<br>Extn: *307*           |        [**Mr Alex Chew**](mailto:chew_wei_leck_alex@moe.edu.sg)<br>**(HOD Science)**<br>Extn: *306*        |
-|     [**Mr Er Kim Hoe**](mailto:er_kim_hoe@moe.edu.sg)<br>**(HOD MTL)**<br>Extn: *301*    |            [**Mr Ng Teng Yik**](mailto:ng_teng_yik@moe.edu.sg)<br>**(HOD SSD)**<br>Extn: *303*            |        [**Mdm Evelyn Yeo**](mailto:evelyn_andrewina_yeo@moe.edu.sg)<br>**(HOD ICT)**<br>Extn: *305*         |
+|     [**Mr Er Kim Hoe**](mailto:er_kim_hoe@moe.edu.sg)<br>**(HOD MTL)**<br>Extn: *301*    |            [**Mr Ng Teng Yik**](mailto:ng_teng_yik@moe.edu.sg)<br>**(SH SSD)**<br>Extn: *303*            |        [**Mdm Evelyn Yeo**](mailto:evelyn_andrewina_yeo@moe.edu.sg)<br>**(HOD ICT)**<br>Extn: *305*         |
 |    [**Mdm Lin Xiaojun**](mailto:lin_xiaojun@moe.edu.sg)<br>**(HOD CCE)**<br>Extn: *308*   | [**Miss Poon Mei Ming**](mailto:poon_mei_ming@moe.edu.sg)<br>**(HOD Curriculum &amp; Talent Development)**<br>Extn: *304* | [**Mr Eddy Norisman Ismail**](mailto:eddy_norisman_ismail@moe.edu.sg)<br>**(HOD Aesthetics)**<br>Extn: *309* |
 
 <center><b>YEAR HEADS / ASST YEAR HEADS</b></center>
@@ -30,7 +30,7 @@ variant: markdown
 |            |                    |                        |
 |:-----------:|:------------:|:-------------:|
 | [**Mdm**&nbsp;**Hafiza Bte Ahssan**](mailto:hafiza_ahssan@moe.edu.sg)<br>**Year Head /Upper Primary**<br>Extn: *579* | [**Mdm Ou Yanxia**](mailto:ou_yanxia@moe.edu.sg)<br>**Asst Year Head / Upper Primary**<br>Extn: *573* |
-|     [**Mrs Siti Aisyah Sasikumar**](mailto:siti_aisyah_a@moe.edu.sg)<br>**Year Head / Middle Primary**<br>Extn: *572*    |  [**Mdm Nor Hazwani Bte Harun Rushid**](mailto:Nor_Hazwani_Harun_Rushid@moe.edu.sg)<br>**Asst Year Head / Middle Primary**<br>Extn:&nbsp;_578_
+|     [**Mrs Siti Aisyah Sasikumar**](mailto:siti_aisyah_a@moe.edu.sg)<br>**Year Head / Middle Primary (Int)**<br>Extn: *572*    |  [**Mdm Nor Hazwani Bte Harun Rushid**](mailto:Nor_Hazwani_Harun_Rushid@moe.edu.sg)<br>**Asst Year Head / Middle Primary**<br>Extn:&nbsp;_578_
 | [**Mrs Lee Boon Kwang**](mailto:lee_boon_kwang@moe.edu.sg)<br>**Year Head / Lower Primary**<br>Extn: *570* |[**Mdm Ong Yan Joo**](mailto:ong_yan_joo@moe.edu.sg)<br>**Asst Year Head / Lower Primary**<br>Extn: *585*
 
 <center><b>LEVEL HEADS</b></center>
@@ -47,7 +47,7 @@ variant: markdown
 |:---------:|:-----:|:---------------:|
 | [**Mr Mohd Faizal Razak**](mailto:mohamed_faizal_raz@moe.edu.sg)<br>**Subject Head / Student Leadership**<br>Extn: *571* | [**Mdm Suriyana Bte Ghapari**](mailto:suriyana_ghapari@moe.edu.sg)<br>**Subject Head / Malay**<br>Extn: *581* | [**Mrs Siti Aisyah Sasikumar**](mailto:siti_aisyah_a@moe.edu.sg)<br>**Subject Head / Character Educatio**n<br>Extn: *572* |
 |               [**Mdm Chai Jia Yan Gina**](mailto:chai_jia_yan_gina@moe.edu.sg)<br>**Subject Head / Art (Int)**<br>Extn: *583*                  |   |[**Mr Elliot Ang Yong Siang**](elliot_ang_yong_siang@moe.edu.sg)<br>**Subject Head / Student Management (Int)**<br>Extn:&nbsp;_564_ |
-|    [**Miss Jolene Tan Ying Jun**](mailto:jolene_tan_ying_jun@moe.edu.sg)<br>**Subject Head/PE &amp; CCA**<br>Extn: *580* ||[**Mr Chua Liang Cun**](chai_jia_yan_gina@moe.edu.sg)<br>**Subject Head / Aesthetics (Int)**<br>_Extn: 545_ 
+|    [**Miss Jolene Tan Ying Jun**](mailto:jolene_tan_ying_jun@moe.edu.sg)<br>**Subject Head/PE &amp; CCA**<br>Extn: *580* ||[**Mr Chua Liang Cun**](chai_jia_yan_gina@moe.edu.sg)<br>**Subject Head / Aesthetics (Int)**<br>_Extn: 571_ 
 
 <center><b>LEAD TEACHERS/ SENIOR TEACHERS</b></center>
 
