@@ -9,9 +9,9 @@ variant: markdown
 
 | CLASS |                               FORM TEACHER                              |                                  FORM TEACHER                                 |
 |:-----:|:-------------------------------------------------:|:-------------------------------------------:|
-|  5 CE | Mr Eddy Norisman Ismail<br>[chan_may_ling@moe.edu.sg](mailto:chan_may_ling@moe.edu.sg)<br>Extn: 309  |       Mdm Tan Siew Ching<br>[evelyn_andrewina_yeo@moe.edu.sg](mailto:evelyn_andrewina_yeo@moe.edu.sg)<br>Extn: 522          |
-|  5 CN |      Ms Maryanah Muhd Muzakir <br>[chong_yong_yeow@moe.edu.sg](mailto:chong_yong_yeow@moe.edu.sg)<br>Extn: 519      |       Mr Ng Teng Yik<br>[poon_mei_ming@moe.edu.sg](mailto:poon_mei_ming@moe.edu.sg)<br>Extn: 303            |
-|  5 CN |      Mr Zulkifli Bin Mansor <br>[chong_yong_yeow@moe.edu.sg](mailto:chong_yong_yeow@moe.edu.sg)<br>Extn: 520      | 
+|  5 CE | Mr Eddy Norisman Ismail<br>[eddy_norisman_ismail@moe.edu.sg](mailto:eddy_norisman_ismail@moe.edu.sg)<br>Extn: 309  |       Mdm Tan Siew Ching<br>[tan_siew_ching_a@moe.edu.sg](mailto:tan_siew_ching_a@moe.edu.sg)<br>Extn: 522          |
+|  5 CN |      Ms Maryanah Muhd Muzakir <br>[maryanah_muhamd_muzakir@moe.edu.sg](mailto:maryanah_muhamd_muzakir@moe.edu.sg)<br>Extn: 519      |       Mr Ng Teng Yik<br>[ng_teng_yik@moe.edu.sg](mailto:ng_teng_yik@moe.edu.sg)<br>Extn: 303            |
+|  5 CN |      Mr Zulkifli Bin Mansor <br>[zulkifli_mansor@moe.edu.sg](mailto:zulkifli_mansor@moe.edu.sg)<br>Extn: 520      | 
 |  5 EE | Mdm Hyeryanti Binte Suradi <br>[lin_aiting@moe.edu.sg](mailto:lin_aiting@moe.edu.sg)<br>Extn: 509 |  Mdm Lim Lay Chin <br>[thanalaxshmi_sellakumaran@moe.edu.sg](mailto:thanalaxshmi_sellakumaran@moe.edu.sg)<br>Extn: 302  |
 |  5 HY | Mdm Chai Huel Leng<br>[herman_ismail@moe.edu.sg](mailto:herman_ismail@moe.edu.sg)<br>Extn: 307  |         Mr Chua Liang Cun <br>[khor_mei_zhen@moe.edu.sg](mailto:khor_mei_zhen@moe.edu.sg)<br>Extn: 543           
 |  5 IN |  Mdm Ainida Bte Shubahi<br>[arianna_mohamed_basari@moe.edu.sg](mailto:arianna_mohamed_basari@moe.edu.sg)<br>Extn: 539        |   Mr Lim Hou Woon <br>[er_kim_hoe@moe.edu.sg](mailto:er_kim_hoe@moe.edu.sg)<br>Extn: 517         |
