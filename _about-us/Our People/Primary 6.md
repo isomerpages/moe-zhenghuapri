@@ -12,7 +12,6 @@ variant: markdown
 |  6 CE | Ms Chan May Ling <br>[eddy_norisman_ismail@moe.edu.sg](mailto:eddy_norisman_ismail@moe.edu.sg)<br>Extn: 524      |   Mdm Evelyn Yeo Wan Gek <br>[nur_khairunnisa_abdullah@moe.edu.sg](mailto:nur_khairunnisa_abdullah@moe.edu.sg)<br>Extn: 305 |
 |  6 CN |Mr Benjamin Chong Yong Yeow<br>[see_chor_hoe@moe.edu.sg](mailto:see_chor_hoe@moe.edu.sg)<br>Extn: 520 |Ms Poon Mei Ming <br>[lim_lay_chin@moe.edu.sg](mailto:lim_lay_chin@moe.edu.sg)<br>Extn: 304         |
 |  6 EE | Ms Ding Caihong<br>[maryanah_muhamd_muzakir@moe.edu.sg](mailto:maryanah_muhamd_muzakir@moe.edu.sg)<br>Extn: 502      |     Mdm Thanalaxshmi <br>[tan_phaik_see@moe.edu.sg](mailto:tan_phaik_see@moe.edu.sg)<br>Extn: 523 |
-|  6 EE |   Mdm Tan Siew ching<br>[tan_siew_ching@moe.edu.sg](mailto:tan_siew_ching@moe.edu.sg)<br>Extn: 522            |
 |  6 HY |Mdm Azlina<br>[azlina_wagiman@moe.edu.sg](mailto:azlina_wagiman@moe.edu.sg)<br>Extn: 501 | Mr Lim Hou Woon<br>[lim_hou_woon@moe.edu.sg](mailto:lim_hou_woon@moe.edu.sg)<br>Extn: 517  |
 |  6 HY | Mdm Wong Soo Shan <br>[wong_soo_shan@moe.edu.sg](mailto:wong_soo_shan@moe.edu.sg)<br>Extn: 503     |
 |  6 IN | Mdm Chai Huel Leng<br>[chai_huel_leng@moe.edu.sg](mailto:chai_huel_leng@moe.edu.sg)<br>Extn: 307  |Mr Zul <br>[zulkifli_mansor@moe.edu.sg](mailto:zulkifli_mansor@moe.edu.sg)<br>Extn: 520 |
