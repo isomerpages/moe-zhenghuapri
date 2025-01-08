@@ -79,6 +79,6 @@ b\.  Character and Citizenship Education (CCE)
 
 8\.  Parents may opt their children out of the Sexuality Education programme, and/or supplementary sexuality education programmes by MOE-approved external providers.<br>
 	
-9\.  Parents who wish to opt their children out of the&nbsp;**Sexuality Education Lesson**&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;[Here](/files/Our%20Info%20Hub/2024_Parent_Opt_Out_Form_ZHPS_Annex_A.pdf). The complete opt-out form is to be submitted by 31/01/2025.<br>
+9\.  Parents who wish to opt their children out of the&nbsp;**Sexuality Education Lesson**&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;[Here](/files/Our%20Info%20Hub/Information%20for%20Parents/Annex_A___2025_Parent_Opt_Out_Form.pdf). The complete opt-out form is to be submitted by 31/01/2025.<br>
 	
 10\.  Parents can contact the school at&nbsp;[zhenghua\_ps@moe.edu.sg](mailto:zhenghua_ps@moe.edu.sg)&nbsp;for discussion or to seek clarification about the school’s sexuality education programme.
