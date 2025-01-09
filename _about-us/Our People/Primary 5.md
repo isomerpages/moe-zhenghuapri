@@ -9,7 +9,7 @@ variant: markdown
 
 | CLASS |                               FORM TEACHER                              |                                  FORM TEACHER                                 |
 |:-----:|:-------------------------------------------------:|:-------------------------------------------:|
-|  5 CE | Mr Eddy Norisman Ismail<br>[eddy_norisman_ismail@moe.edu.sg](mailto:eddy_norisman_ismail@moe.edu.sg)<br>Extn: 309  |       Mdm Tan Siew Ching<br>[tan_siew_ching_a@moe.edu.sg](mailto:tan_siew_ching_a@moe.edu.sg)<br>Extn: 522          |
+|  5 CE | Mr Eddy Norisman Ismail<br>[eddy_norisman_ismail@moe.edu.sg](mailto:eddy_norisman_ismail@moe.edu.sg)<br>Extn: 309  |       Mdm Tan Siew Ching<br>[tan_siew_ching@moe.edu.sg](mailto:tan_siew_ching@moe.edu.sg)<br>Extn: 522          |
 |  5 CN |      Ms Maryanah Muhd Muzakir <br>[maryanah_muhamd_muzakir@moe.edu.sg](mailto:maryanah_muhamd_muzakir@moe.edu.sg)<br>Extn: 519      |       Mr Ng Teng Yik<br>[ng_teng_yik@moe.edu.sg](mailto:ng_teng_yik@moe.edu.sg)<br>Extn: 303            |
 |  5 CN |      Mr Zulkifli Bin Mansor <br>[zulkifli_mansor@moe.edu.sg](mailto:zulkifli_mansor@moe.edu.sg)<br>Extn: 520      | 
 |  5 EE | Mdm Hyeryanti Binte Suradi <br>[hyeryanti_suradi@moe.edu.sg](mailto:hyeryanti_suradi@moe.edu.sg)<br>Extn: 509 |  Mdm Lim Lay Chin <br>[lim_lay_chin@moe.edu.sg](mailto:lim_lay_chin@moe.edu.sg)<br>Extn: 302  |
