@@ -10,6 +10,3 @@ description: ""
 [School Purchase for Small Value Services Form](https://go.gov.sg/zhps-small-value-purchase-of-services)<br>
 [Request for ITQ Form](https://go.gov.sg/zhps-itq-request)<br>
 [Food Catering Request Form](https://go.gov.sg/zhps-request-for-food-catering)<br>
-[Bus Booking Form](/files/Our%20Info%20Hub/Bus%20Docs%202024/Jan_2025_Bus_Service_Indent_Form.pdf)<br>
-[AOR Form](https://docs.google.com/document/d/1SABX9JxnOMUEV42ILu62pUat7X2Er1uO/edit)
-
