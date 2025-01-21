@@ -35,11 +35,11 @@ For more information, please visit the&nbsp;<a href="https://www.moe.gov.sg/pres
 Our People
 ----------
 
-<center><b>CENTER LEADERS</b></center>
+<center><b>CENTRE LEADERS</b></center>
 
 |            |                |                         |
 |:-------------:|:------------:|:-----------:|
-| [**Mrs Vivien Villaroza**](mailto:kwok_wai_leng_vivien@moe.edu.sg)<br>**(Center Head)**<br>Extn: *273* |           [**Mdm Sivaranjani D/O Keresnasami**](mailto:sivaranjani_keresna_sami@moe.edu.sg)<br>**(Deputy Centre Head)**<br>Extn: *272* |   
+| [**Mrs Vivien Villaroza**](mailto:kwok_wai_leng_vivien@moe.edu.sg)<br>**(Centre Head)**<br>Extn: *273* |           [**Mdm Sivaranjani D/O Keresnasami**](mailto:sivaranjani_keresna_sami@moe.edu.sg)<br>**(Deputy Centre Head)**<br>Extn: *272* |   
 
 <center><b>LEVEL HEADS</b></center>
 
@@ -83,7 +83,7 @@ Our People
 | Chinese  |  Mdm Jiang Yanyu (Sarah)  | Mdm Jiang Yanyu (Sarah)  |
 | Chinese  |   Mdm Hao Yiming   | Mdm Chen Yi |
 | Chinese  |  Mdm Cai Xiujin    | Mdm Wang Yang |
-| Chinese  |  Mdm Zhang Yuhui   | Mdm Wang Yang |
+| Chinese  |  Mdm Zhang Yuhui   | Ms Lau Liying |
 | Malay  |  Mdm Azlina Binte Yazid  | Mdm Siti Nurul Ain Binte Abdul Rahman |
 | Malay  |  Ms Iska Nerimah Binte Rosman   |  |
 | Tamil  |  Ms Palani Selvam Kayalvizhi   | Ms Sangeetha D/O Suparamaniam |
