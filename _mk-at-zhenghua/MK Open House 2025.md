@@ -8,16 +8,12 @@ variant: markdown
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Photos/mk_2025_open_house.jpg">
 </div>
-<p><a href="https://go.gov.sg/mkoh2024" rel="noopener noreferrer nofollow" target="_blank">Click here to sign up for the Open House.</a>
+<p><a href="https://go.gov.sg/mkoh2025" rel="noopener noreferrer nofollow" target="_blank">Click here to sign up for the Open House.</a>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Photos/2024_MK_Open_House_Programme_Flow.jpg">
-</div>
-<p></p>
 <p><a href="/files/MK/mk_open_house_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">MK Open House 2024 Slides</a>
-</p>
-<p></p>
-<div class="iframe-wrapper">
+
+### A Day at our MK
+</p><div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/AYt1smH3iNg"></iframe>
 </div>
 <p></p>
