@@ -10,7 +10,7 @@ variant: markdown
 </div>
 <p><a href="https://go.gov.sg/mkoh2025" rel="noopener noreferrer nofollow" target="_blank">Click here to sign up for the Open House.</a>
 </p>
-<p><a href="/files/MK/mk_open_house_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">MK Open House 2024 Slides</a>
+<p><a href="/files/MK/mk_open_house_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">MK Open House 2025 Slides</a>
 
 ### A Day at our MK
 </p><div class="iframe-wrapper">
