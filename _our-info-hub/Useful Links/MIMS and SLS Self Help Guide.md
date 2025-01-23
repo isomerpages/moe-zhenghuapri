@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Useful Links
 variant: markdown
 ---
-# MIMS &amp; SLS Self Help Guide
+## MIMS &amp; SLS Self Help Guide
 
 <a href="https://go.gov.sg/guide-to-sls" target="_blank">Guide to SLS.pptx</a>
 
