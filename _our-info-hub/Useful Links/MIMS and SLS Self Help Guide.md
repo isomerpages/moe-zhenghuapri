@@ -13,6 +13,8 @@ To Login to Student Learning Space (SLS) Click&nbsp;<a href="https://vle.learnin
 
 [MIMS Self Service Password Reset Guide](/files/Our%20Info%20Hub/HBL/2024_ZHPS_MIMS_Students_User_Guide.pdf)
 
+[SLS &amp; MIMS Login Video](https://www.youtube.com/watch?v=bXDn6oXQGbo)<br>
+[SLS &amp; MIMS Password Reset Video](https://www.youtube.com/watch?v=mAI5PFpLTEo)
 
 **School Based Helpline**
 
