@@ -1,17 +1,12 @@
 ---
-title: Student Care Centre
-permalink: /our-info-hub/school-services/student-care-centre/
+title: Dental Clinic
+permalink: /our-info-hub/school-services/dental-clinic/
+variant: markdown
 description: ""
 third_nav_title: School Services
-variant: markdown
 ---
-# Student Care Centre
-
-[Student Care Centre](/files/Our%20Info%20Hub/Student%20Care%20Centre.pdf)<br>
-
-
-
 #### Zhenghua Primary Dental Clinic
+
 Contact number: 9116-1070 (Msg or WhatsApp)<br>
 **Operating Hours:**<br>
 Monday, Wednesday and Friday -&gt; 8am to 5pm<br>
