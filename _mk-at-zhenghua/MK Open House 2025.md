@@ -8,6 +8,7 @@ variant: markdown
 
 [Click here to sign up for Open House](https://go.gov.sg/mkoh2025)<br>
 
+[MKOH 2025 Briefing Slides](/files/MK/MKOH_2025_Briefing_Slides.pdf)<br>
 
 #### A Day at our MK
 <p></p><div class="iframe-wrapper">
