@@ -46,8 +46,8 @@ variant: markdown
 |                          |                 |                                     |
 |:---------:|:-----:|:---------------:|
 | [**Mr Mohd Faizal Razak**](mailto:mohamed_faizal_raz@moe.edu.sg)<br>**Subject Head / Student Leadership**<br>Extn: *571* | [**Mdm Suriyana Bte Ghapari**](mailto:suriyana_ghapari@moe.edu.sg)<br>**Subject Head / Malay**<br>Extn: *581* | [**Mrs Siti Aisyah Sasikumar**](mailto:siti_aisyah_a@moe.edu.sg)<br>**Subject Head / Character Educatio**n<br>Extn: *572* |
-|               [**Mdm Chai Jia Yan Gina**](mailto:chai_jia_yan_gina@moe.edu.sg)<br>**Subject Head / Art (Int)**<br>Extn: *583*                  |   |[**Mr Elliot Ang Yong Siang**](elliot_ang_yong_siang@moe.edu.sg)<br>**Subject Head / Student Management (Int)**<br>Extn:&nbsp;_564_ |
-|    [**Miss Jolene Tan Ying Jun**](mailto:jolene_tan_ying_jun@moe.edu.sg)<br>**Subject Head/PE &amp; CCA**<br>Extn: *580* ||[**Mr Chua Liang Cun**](chai_jia_yan_gina@moe.edu.sg)<br>**Subject Head / Aesthetics (Int)**<br>_Extn: 571_ 
+|               [**Mdm Chai Jia Yan Gina**](mailto:chai_jia_yan_gina@moe.edu.sg)<br>**Subject Head / Art**<br>Extn: *583*                  |   |[**Mr Elliot Ang Yong Siang**](elliot_ang_yong_siang@moe.edu.sg)<br>**Subject Head / Student Management**<br>Extn:&nbsp;_564_ |
+|    [**Miss Jolene Tan Ying Jun**](mailto:jolene_tan_ying_jun@moe.edu.sg)<br>**Subject Head/PE &amp; CCA**<br>Extn: *580* ||[**Mr Chua Liang Cun**](chai_jia_yan_gina@moe.edu.sg)<br>**Subject Head / Aesthetics**<br>_Extn: 571_ 
 
 <center><b>LEAD TEACHERS/ SENIOR TEACHERS</b></center>
 
@@ -55,4 +55,4 @@ variant: markdown
 |:----------:|:-------:|:------:|
 |    [**Mrs Tanuja Raj**](mailto:tanuja_k_k_chandran@moe.edu.sg)<br>**Lead Teacher / Tamil**<br>Extn: *506*    |     [**Mr Loo Teng Kiat**](mailto:loo_teng_kiat@moe.edu.sg)<br>**Lead Teacher / Music**<br>Extn: *511*      |      [**Mr Goh Boon Tiong**](mailto:goh_boon_tiong@moe.edu.sg)<br>**Senior Teacher / PE**<br>Extn: *513*      |
 |    [**Mdm Lem Li Kuen**](mailto:lem_li_kuen@moe.edu.sg)<br>**Senior Teacher / Art**<br>Extn: *518*   | [**Mr Zulkifli Bin Mansor**](mailto:zulkifli_mansor@moe.edu.sg)<br>**Senior Teacher / Science**<br>Extn: *524* | [**Miss Sabrina Bte Samsuri**](mailto:sabrina_samsuri@moe.edu.sg)<br>**Senior Teacher / Malay**<br>Extn: *505* |
-| [**Ms Chan May Ling**](mailto:chan_may_ling@moe.edu.sg)<br>**Senior Teacher / English**<br>Extn: *535* |   [**Miss Ding Caihong**](mailto:ding_caihong@moe.edu.sg)<br>**Senior Teacher / Chinese**<br>Extn: *502*   |                                                                 |
+| [**Ms Chan May Ling**](mailto:chan_may_ling@moe.edu.sg)<br>**Lead Teacher / English**<br>Extn: *535* |   [**Miss Ding Caihong**](mailto:ding_caihong@moe.edu.sg)<br>**Senior Teacher / Chinese**<br>Extn: *502*   |                                                                 |
