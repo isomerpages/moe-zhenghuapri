@@ -34,6 +34,7 @@ variant: markdown
 [P3 CCE Sharing 2025](https://youtu.be/jMWqZx_af1k)<br>
 [P4 CCE Sharing 2025](https://youtu.be/dLOnNOZkThg)<br>
 [P5 CCE Sharing 2025](https://youtu.be/JVSCybwQSfo)<br>
+[P6 CCE Sharing 2025](https://youtu.be/ky6SBA_N-xI)
 
 
 **Creative Arts LLP PE amd ALP**<br>
