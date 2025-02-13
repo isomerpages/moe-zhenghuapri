@@ -44,3 +44,7 @@ variant: markdown
 
 
 **Year Head**<br>
+[P6 Meet the Year Head](https://youtu.be/lONUOFQ0dtE)<br>
+[P6 Choosing Secondary Schools](https://youtu.be/bE88tObvGJk)<br>
+[P6 Direct School Admission](https://youtu.be/yyciV59nIAk)<br>
+[P6 Full Subject-Based Banding](https://youtu.be/5s8QvqS6YyQ)
