@@ -44,6 +44,10 @@ variant: markdown
 
 
 **Year Head**<br>
+[P2 Meet the Year Head](https://youtu.be/XoF3WH8XkpY)<br>
+[P4 Meet the Year Head](https://youtu.be/xFR-rkfGO0E)<br>
+[P5 Meet the Year Head](https://youtu.be/UPlrrjLbWGk)<br>
+[P5 Direct School Admission](https://youtu.be/eoneSeu-cnE)
 [P6 Meet the Year Head](https://youtu.be/lONUOFQ0dtE)<br>
 [P6 Choosing Secondary Schools](https://youtu.be/bE88tObvGJk)<br>
 [P6 Direct School Admission](https://youtu.be/yyciV59nIAk)<br>
