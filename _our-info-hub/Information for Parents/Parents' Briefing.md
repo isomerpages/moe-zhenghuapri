@@ -30,15 +30,16 @@ variant: markdown
 #### P2 -P6 Briefing Slides
 
 **CCE**<br>
-[P2 CCE Sharing 2025](https://youtu.be/UkxUKYbLc9Q)<br>
-[P3 CCE Sharing 2025](https://youtu.be/jMWqZx_af1k)<br>
-[P4 CCE Sharing 2025](https://youtu.be/dLOnNOZkThg)<br>
-[P5 CCE Sharing 2025](https://youtu.be/JVSCybwQSfo)<br>
-[P6 CCE Sharing 2025](https://youtu.be/ky6SBA_N-xI)
+[P2 CCE Sharing](https://youtu.be/UkxUKYbLc9Q)<br>
+[P3 CCE Sharing](https://youtu.be/jMWqZx_af1k)<br>
+[P4 CCE Sharing](https://youtu.be/dLOnNOZkThg)<br>
+[P5 CCE Sharing](https://youtu.be/JVSCybwQSfo)<br>
+[P6 CCE Sharing](https://youtu.be/ky6SBA_N-xI)
 
 
 **Creative Arts LLP PE amd ALP**<br>
-
+[Applied Learning Programme Sharing](https://youtu.be/rCJl_tYFU7I)<br>
+[Creative Arts LLP Parents Briefing](https://youtu.be/Bl-lSFhV3Us)
 
 
 **Year Head**<br>
