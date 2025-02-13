@@ -39,7 +39,8 @@ variant: markdown
 
 **Creative Arts LLP PE amd ALP**<br>
 [Applied Learning Programme Sharing](https://youtu.be/rCJl_tYFU7I)<br>
-[Creative Arts LLP Parents Briefing](https://youtu.be/Bl-lSFhV3Us)
+[Creative Arts LLP Parents Briefing](https://youtu.be/Bl-lSFhV3Us)<br>
+[PE Curriculum Briefing](https://youtu.be/wZ4N-g4GG_Y)
 
 
 **Year Head**<br>
