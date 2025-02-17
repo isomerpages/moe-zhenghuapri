@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Information for Parents/.keep
-      - Information for Parents/Teachers Award Nomination.md
       - Information for Parents/School Calendar.md
       - Information for Parents/School Term Calendar.md
       - Information for Parents/Parents' Briefing.md
@@ -12,6 +11,7 @@ collections:
       - Information for Parents/School Rules.md
       - Information for Parents/Sexuality Education.md
       - Information for Parents/Open House.md
+      - Information for Parents/Teachers Award Nomination.md
       - Staff Achievements/.keep
       - Staff Achievements/Staff Achievements.md
       - Staff Achievements/2023.md
