@@ -13,9 +13,6 @@ variant: markdown
 
 ### P1 Orientation (for 2025)
 
-**Date: 18 November 2024, Monday**<br>
-**Time: 2pm to 3.30pm**&nbsp;<br>
-**Venue: Zhenghua Primary School**<br>
 
 1. Information for Parents [Click Here](/files/Our%20Info%20Hub/P1%20Matters/P1_Orientation.pdf)<br>
 2. Check List [Click Here](/files/Our%20Info%20Hub/P1%20Matters/Check_List___Week_1_2025.pdf)<br>
