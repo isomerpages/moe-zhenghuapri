@@ -28,16 +28,16 @@ The Parent-Child Activity Book (PCAB) supports parents and children in the trans
 \[Digital PCAB\]<br>
 To make it more convenient for you, there is a digital version where you can find 10 useful tips and suggested activities as your child gears up for P1 next year. Worried about how your child will socialise and make new friends in P1? Check out Tip 3 on New Places, New Faces. While you are at it, check out the rest of our 10 useful tips.
 
-• Tip 1: Get Ready for School!&nbsp;
-• Tip 2: Practise Routines
-• Tip 3: New Places, New Faces
-• Tip 4: We Can Do This, Together&nbsp;
-• Tip 5: Show Interest in Your Child&nbsp;
-• Tip 6: Time to Let Go!&nbsp;
-• Tip 7: Team Up with Teachers&nbsp;
-• Tip 8: Every Child is Unique
-• Tip 9: Be a Great Role Model&nbsp;
-• Tip 10: Let’s Help Out at Home&nbsp; &nbsp;
+• Tip 1: Get Ready for School!&nbsp;<br>
+• Tip 2: Practise Routines<br>
+• Tip 3: New Places, New Faces<br>
+• Tip 4: We Can Do This, Together&nbsp;<br>
+• Tip 5: Show Interest in Your Child&nbsp;<br>
+• Tip 6: Time to Let Go!&nbsp;<br>
+• Tip 7: Team Up with Teachers&nbsp;<br>
+• Tip 8: Every Child is Unique<br>
+• Tip 9: Be a Great Role Model&nbsp;<br>
+• Tip 10: Let’s Help Out at Home&nbsp; &nbsp;<br>
   
 Pace yourself with these activities as we continue to share activities and resources with you throughout the year. Have fun :)<br>
 Link&nbsp;<br>
