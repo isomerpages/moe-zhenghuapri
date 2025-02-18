@@ -25,7 +25,7 @@ variant: markdown
 
 The Parent-Child Activity Book (PCAB) supports parents and children in the transition from preschool to P1 through fun and meaningful parent-child activities.&nbsp;
 
-[Digital PCAB\]<br>
+
 To make it more convenient for you, there is a digital version where you can find 10 useful tips and suggested activities as your child gears up for P1 next year. Worried about how your child will socialise and make new friends in P1? Check out Tip 3 on New Places, New Faces. While you are at it, check out the rest of our 10 useful tips.
 
 • Tip 1: Get Ready for School!&nbsp;<br>
