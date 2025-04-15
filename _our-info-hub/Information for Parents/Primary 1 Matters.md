@@ -21,11 +21,11 @@ Venue:	School foyer (Our Student Leaders will meet and lead our visitors to a sc
 The programme details are as follows:
 |                |               |
 | ----------- | -------- |
-| 9.00am - 10.00am     | School Tour including Classroom Experiences in selected Primary 2 classes     |
-| 9.45am - 10.00am     | Break     |
-| 10.00am - 10.30am     | Talk by Principal, Mrs Constance Wong     |
-| 10.30am - 10.45am     | Presentation by Parent Support Group (PSG)     |
-| 10.45am - 11.00am     | Question &amp; Answer session     |
+| 9.00am - 10.00am | School Tour including Classroom Experiences in selected Primary 2 classes |
+| 9.45am - 10.00am | Break     |
+| 10.00am - 10.30am | Talk by Principal, Mrs Constance Wong |
+| 10.30am - 10.45am | Presentation by Parent Support Group (PSG) |
+| 10.45am - 11.00am | Question &amp; Answer session |
 
 Please visit our school website at https://www.zhenghuapri.moe.edu.sg/ for more information and to register your interest.<br>
 We look forward to welcoming you to our school!
