@@ -19,13 +19,7 @@ Day &amp; date:	Monday, 19 May 2025<br>
 Time:		9.00am to 11.00am<br>
 Venue:	School foyer (Our Student Leaders will meet and lead our visitors to a school tour)<br>
 The programme details are as follows:
-|                |               |
-| ----------- | -------- |
-| 9.00am - 10.00am | School Tour including Classroom Experiences in selected Primary 2 classes |
-| 9.45am - 10.00am | Break     |
-| 10.00am - 10.30am | Talk by Principal, Mrs Constance Wong |
-| 10.30am - 10.45am | Presentation by Parent Support Group (PSG) |
-| 10.45am - 11.00am | Question &amp; Answer session |
+![](/images/Our%20info%20hub/P1%20Matters/P1_Open_House_Schedule.jpg)
 
 Please visit our school website at https://www.zhenghuapri.moe.edu.sg/ for more information and to register your interest.<br>
 We look forward to welcoming you to our school!
