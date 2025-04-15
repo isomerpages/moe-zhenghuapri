@@ -14,7 +14,7 @@ variant: markdown
 You’re Invited to Our Primary 1 (2026) Open House!<br>
 We’re excited to welcome prospective parents and guardians to our upcoming Open House for children enrolling in Primary 1 in 2026. If you have relatives, friends, or neighbours who are keen to learn more about our vibrant school community and how our programmes nurture future-ready leaders and learners, we warmly invite them to join us!
 
-Event Details:<br>
+**Event Details:**<br>
 Day &amp; date:	Monday, 19 May 2025<br>
 Time:		9.00am to 11.00am<br>
 Venue:	School foyer (Our Student Leaders will meet and lead our visitors to a school tour)<br>
