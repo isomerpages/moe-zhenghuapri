@@ -22,7 +22,7 @@ variant: markdown
 
 ***
 
-[**Primary 1 Open House 2025**](https://www.zhenghuapri.moe.edu.sg/our-info-hub/Information-for-Parents/Open-House-2023/)
+[**Primary 1 Open House 2025**](https://www.zhenghuapri.moe.edu.sg/our-info-hub/information-for-parents/open-house/)
 
 * * *
 
