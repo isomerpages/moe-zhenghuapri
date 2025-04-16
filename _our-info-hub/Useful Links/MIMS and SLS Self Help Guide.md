@@ -11,6 +11,9 @@ variant: markdown
 
 To Login to Student Learning Space (SLS) Click&nbsp;<a href="https://vle.learning.moe.edu.sg/login" target="_blank">here</a><br>
 
+How to Change Answers to Security Questions in MIMS
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/r_spe_SZGzY" height="315" width="560"></iframe></center>
+
 [MIMS Self Service Password Reset Guide](/files/Our%20Info%20Hub/HBL/2024_ZHPS_MIMS_Students_User_Guide.pdf)
 
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/bXDn6oXQGbo" height="315" width="560"></iframe></center>
