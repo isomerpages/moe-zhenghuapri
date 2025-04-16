@@ -7,7 +7,7 @@ variant: markdown
 ---
 # Primary 1 Matters
 
-### 2026 P1 Open House
+### P1 Open House
 ![](/images/Our%20info%20hub/P1%20Matters/2025_P1_Open_House.jpg)<br>
 
 **Primary 1 Open House**<br>
