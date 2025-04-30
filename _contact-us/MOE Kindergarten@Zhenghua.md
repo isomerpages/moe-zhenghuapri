@@ -11,7 +11,7 @@ MOE Kindergarten @ Zhenghua
 Singapore 679002
 
 
-Tel: +65 62195679
+Tel: 62195679 (Alternate 67697478)
 
   
 
