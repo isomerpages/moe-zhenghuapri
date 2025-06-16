@@ -22,3 +22,7 @@ variant: markdown
 
 <center>Parents Storytelling in the Library TERM 1: <a href="https://youtu.be/u8-pA3kBZd4" target="_blank">https://youtu.be/u8-pA3kBZd4</a></center>
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/u8-pA3kBZd4" height="315" width="560"></iframe></center>
+
+<center>Parents Storytelling in the Library TERM 2: <a href="https://youtu.be/nTSuCETxpX0" target="_blank">https://youtu.be/nTSuCETxpX0</a></center>
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/nTSuCETxpX0" height="315" width="560"></iframe></center>
+
