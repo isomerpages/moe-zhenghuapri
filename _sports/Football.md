@@ -34,9 +34,9 @@ CCE-in-CCA sessions
 | 2023 | National School Games, Football Senior Division, West Zone | 3rd in Preliminary Round Group |
 | 2023 | National School Games, Football Junior Division | 2nd in Tier 3 Group |
 | 2018 |   WZPSSC Football Tournament (Junior)  |  4th Place  |
-| 2016 |   WZPSSC Football Tournament (Senior)<br><br>Nationals Football Tournament (Senior)  |  1st Place<br><br>1st Place   |
-| 2015 |   WZPSSC Football Tournament (Junior) <br><br>Nationals Football Tournament (Junior)<br><br>WZPSSC Football Tournament (Senior) |  1st Place<br><br>4th Place<br><br>2nd Place  |
-| 2014 |   WZPSSC Football Tournament (Senior)<br><br>WZPSSC Football Tournament (Junior)  |  4th Place<br><br>3rd Place  |
+| 2016 |   WZPSSC Football Tournament (Senior)<br>Nationals Football Tournament (Senior)  |  1st Place<br>1st Place   |
+| 2015 |   WZPSSC Football Tournament (Junior) <br>Nationals Football Tournament (Junior)<br>WZPSSC Football Tournament (Senior) |  1st Place<br>4th Place<br>2nd Place  |
+| 2014 |   WZPSSC Football Tournament (Senior)<br>WZPSSC Football Tournament (Junior)  |  4th Place<br>3rd Place  |
 |
 
 <img src="/images/ZHPS%20Experience/Sports/Football_1.png" style="width:31%;margin-right:15px;" align="left">
