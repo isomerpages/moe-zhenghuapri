@@ -3,15 +3,16 @@ title: Performing & Visual Arts
 permalink: /zhps-experience/co-curricular-activities/performing-n-visual-arts/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
-# Performing & Visual Arts
+# Performing &amp; Visual Arts
 
 [Brass Band](/performing-and-visual-arts/brass-band)
 ----------
 
 | Teachers-in-charge |
 |---|
-| Mr Chua Liang Cun (I/C)<br>Mr Ng Teng Yik (AI/C)<br>Ms Lee Wei Ai<br>Mr Ooi Soo Eng<br>Ms Sim Wen Yan<br>Mr Sulaiman<br>Mdm Victoria<br><br>Advisor: Mdm Chai Huei Leng |
+| Mr Chua Liang Cun (IC)<br>Mr Ooi Soo Eng (AIC)<br>Ms Sim Wen Yan<br>Mdm Victoria<br><br>Advisor: Mdm Chai Huei Leng |
 |
 
 [Choir](/performing-and-visual-arts/choir)
@@ -19,7 +20,7 @@ third_nav_title: Co Curricular Activities
 
 | Teachers-in-charge |
 |---|
-| Mdm Eileen Ng (I/C)<br>Ms Chan Mei Ling<br>Mdm Siti Aisyah Zulkifi<br><br>Advisor: Mr Loo Teng Kiat |
+| Mdm Eileen Ng (IC)<br>Ms Wendy Seng (AIC)<br>Mdm Siti Aisyah Zulkifi<br>Ms Grace Lim<br><br>Advisor: Mr Loo Teng Kiat |
 |
 
 [Chinese Dance](/performing-and-visual-arts/chinese-dance)
@@ -27,7 +28,7 @@ third_nav_title: Co Curricular Activities
 
 | Teachers-in-charge |
 |---|
-| Mdm Lim Shi Nan (I/C)<br>Ms Shan Meng Di (AI/C)<br>Ms Claudia Wong<br>Ms Jacqueline Tan<br>Mdm Thanalaxishmi<br><br>Advisor: Mdm Ong Yan Joo |
+| Ms Claudia Wong (IC)<br>Mdm Thanalaxishmi (AIC)<br>Ms Jacqueline Tan<br>Teacher K<br><br>Advisor: Mdm Ong Yan Joo |
 |
 
 [Indian Dance](/performing-and-visual-arts/indian-dance)
@@ -35,7 +36,7 @@ third_nav_title: Co Curricular Activities
 
 | Teachers-in-charge |
 |---|
-| Mdm Khor Mei Zhen (I/C)<br>Mdm Jayanthi (AI/C)<br>Ms Sabrina<br>Ms Toh Soo Wah<br>Ms Tan Siew Ching<br><br>Advisor: Mrs Avinash Murugesuvari |
+| Mdm Lim Pui Yee (IC)<br>Mdm Jayanthi (AIC)<br>Mdm Tan Phaik See<br>Ms Toh<br><br>Advisor: Mdm Hafiza |
 |
 
 [Malay Dance](/performing-and-visual-arts/malay-dance)
@@ -43,5 +44,13 @@ third_nav_title: Co Curricular Activities
 
 | Teachers-in-charge |
 |---|
-| Mdm Rashidah (I/C)<br>Mdm Pan Jiayi (AI/C)<br>Mdm Lim Pui Yee<br>Mdm Siti Nurashikin<br><br>Advisor: Mrs Avinash Murugesuvari |
+| Mdm Rashidah (IC)<br>Mdm Pan Jiayi (AIC)<br>Mdm Khor Mei Zhen<br>Mdm Rohimah<br><br>Advisor: Mdm Hazwani |
+|
+
+[Talent Art](/performing-and-visual-arts/telent-art/)
+--------------------
+
+| Teachers-in-charge |
+|---|
+| Mdm Ainida (IC)<br>Mdm Chai Jia Yan Gina (AIC)<br>Ms Lum Miao Ling<br>Mdm Lem Li Kuen<br><br>Advisor: Mr Eddy Norisman |
 |

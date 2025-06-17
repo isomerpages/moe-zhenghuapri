@@ -3,6 +3,7 @@ title: Uniformed Groups
 permalink: /zhps-experience/co-curricular-activities/uniformed-groups/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 # Uniformed Groups
 
@@ -11,7 +12,7 @@ third_nav_title: Co Curricular Activities
 
 | Teachers-in-charge |
 |---|
-| Mdm Ou Yanxia (I/C)<br>Mdm Kee Mei Zhu (AI/C)<br>Mdm Povane<br>Mdm Yi Lei<br>Mdm Zhu Wencheng<br><br>Advisor: Mdm Lim Lay Chin |
+| Mdm Yi Lei (IC)<br>Ms Eliza (AIC)<br>Ms Lim Seok Hoon Mary<br>Ms Susan<br><br>Advisor: Mdm Ou Yanxia<br>Mdm Lim Lay Chin|
 |
 
 [Singapore Red Cross](/uniformed-groups/singapore-red-cross)
@@ -19,5 +20,5 @@ third_nav_title: Co Curricular Activities
 
 | Teachers-in-charge |
 |---|
-| Miss Maryanah (I/C)<br>Mdm Kang Shuangjuan (AI/C)<br>Mdm Azlina<br>Mdm Betty Lee<br><br>Advisor: Mdm Tanuja Raj |
+| Ms Maryanah (IC)<br>Mdm Kang Shuangjuan (AIC)<br>Mdm Azlina<br>Mdm Chua Sock Theng<br><br>Advisor: Mdm Tanuja Raj |
 |

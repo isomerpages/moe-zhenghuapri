@@ -1,9 +1,10 @@
 ---
-title: Art and Craft (TArP)
-permalink: /clubs/art-and-craft-tarp/
+title: Telent Art
+permalink: /performing-and-visual-arts/telent-art/
 description: ""
+variant: markdown
 ---
-# Art and Craft (TArP)
+# Telent Art
 
 Budding artists are channelled to the Talent Art Programme (TArP) which maximises students’ talents in their art. Our young artists’ talents are further developed and nurtured. They are provided with opportunities to develop their visual literacy and critical thinking skills. Students get to inquire and discover various ways to interpret the various art concepts through deep discussion and meaningful art processes, and learn to make choices and solve problems when working on their artwork.
 
@@ -17,14 +18,16 @@ Students are active participants in Singapore Youth Festival (SYF) Art Exhibitio
 
 | Year | Events/Program |              Achievement              |
 |:----:|:--------------:|:-------------------------------------:|
+| 2025 | SYF | Participation |
+| 2023 | SYF | On-site Exhibition, Certificate of Recognition |
 | 2021 | SYF | Special Mention |
 | 2019 | SYF | On-site Exhibition and Extended Sites |
 | 2017 | SYF | On-site Exhibition and Extended Sites |
 | 2015 | SYF | On-site Exhibition and Extended Sites |
 |
 
-<img src="/images/ZHPS%20Experience/Art%20and%20Craft%20(TArP)/Art%20and%20Craft_1.jpg" style="width:30%;margin-left:45px;" align = "left">
-<img src="/images/ZHPS%20Experience/Art%20and%20Craft%20(TArP)/Art%20and%20Craft_2.jpg" style="width:55%;margin-right:55px;" align = "right">
+<img src="/images/ZHPS%20Experience/Art%20and%20Craft%20(TArP)/Art%20and%20Craft_1.jpg" style="width:30%;margin-left:45px;" align="left">
+<img src="/images/ZHPS%20Experience/Art%20and%20Craft%20(TArP)/Art%20and%20Craft_2.jpg" style="width:55%;margin-right:55px;" align="right">
 
 <br clear="left">
 
