@@ -3,15 +3,16 @@ title: Performing & Visual Arts
 permalink: /zhps-experience/co-curricular-activities/performing-n-visual-arts/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
-# Performing & Visual Arts
+# Performing &amp; Visual Arts
 
 [Brass Band](/performing-and-visual-arts/brass-band)
 ----------
 
 | Teachers-in-charge |
 |---|
-| Mr Chua Liang Cun (I/C)<br>Mr Ng Teng Yik (AI/C)<br>Ms Lee Wei Ai<br>Mr Ooi Soo Eng<br>Ms Sim Wen Yan<br>Mr Sulaiman<br>Mdm Victoria<br><br>Advisor: Mdm Chai Huei Leng |
+| Mr Chua Liang Cun (IC)<br>Mr Ooi Soo Eng (AIC)<br>Ms Sim Wen Yan<br>Mdm Victoria<br><br>Advisor: Mdm Chai Huei Leng |
 |
 
 [Choir](/performing-and-visual-arts/choir)
@@ -19,7 +20,7 @@ third_nav_title: Co Curricular Activities
 
 | Teachers-in-charge |
 |---|
-| Mdm Eileen Ng (I/C)<br>Ms Chan Mei Ling<br>Mdm Siti Aisyah Zulkifi<br><br>Advisor: Mr Loo Teng Kiat |
+| Mdm Eileen Ng (IC)<br>Ms Wendy Seng (AIC)<br>Mdm Siti Aisyah Zulkifi<br>Ms Grace Lim<br><br>Advisor: Mr Loo Teng Kiat |
 |
 
 [Chinese Dance](/performing-and-visual-arts/chinese-dance)
@@ -27,7 +28,7 @@ third_nav_title: Co Curricular Activities
 
 | Teachers-in-charge |
 |---|
-| Mdm Lim Shi Nan (I/C)<br>Ms Shan Meng Di (AI/C)<br>Ms Claudia Wong<br>Ms Jacqueline Tan<br>Mdm Thanalaxishmi<br><br>Advisor: Mdm Ong Yan Joo |
+| Ms Claudia Wong (IC)<br>Mdm Thanalaxishmi (AIC)<br>Ms Jacqueline Tan<br>Teacher K<br><br>Advisor: Mdm Ong Yan Joo |
 |
 
 [Indian Dance](/performing-and-visual-arts/indian-dance)
