@@ -36,7 +36,7 @@ variant: markdown
 
 | Teachers-in-charge |
 |---|
-| Mdm Khor Mei Zhen (I/C)<br>Mdm Jayanthi (AI/C)<br>Ms Sabrina<br>Ms Toh Soo Wah<br>Ms Tan Siew Ching<br><br>Advisor: Mrs Avinash Murugesuvari |
+| Mdm Lim Pui Yee (IC)<br>Mdm Jayanthi (AIC)<br>Mdm Tan Phaik See<br>Ms Toh<br><br>Advisor: Mdm Hafiza |
 |
 
 [Malay Dance](/performing-and-visual-arts/malay-dance)
