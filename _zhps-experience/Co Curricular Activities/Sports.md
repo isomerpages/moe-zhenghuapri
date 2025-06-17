@@ -3,6 +3,7 @@ title: Sports
 permalink: /zhps-experience/co-curricular-activities/sports/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 # Sports
 
@@ -11,7 +12,7 @@ third_nav_title: Co Curricular Activities
 
 | Teachers-in-charge |
 |---|
-| Mdm Celestine Goh (I/C)<br>Mr Shawn Yeap (AI/C)<br>Ms Grace Lim<br>Mr Lim Hou Woon<br>Mr See Chor Hoe<br>Mdm Suriyana<br><br>Advisor: Mdm Lim Xiao Jun |
+| Mr Shawn Yeap (IC)<br>Mr Lim Hou Woon (AIC)<br>Mdm Zhu Wencheng<br>Mdm Suriyana <br><br>Advisor: Mdm Lim Xiao Jun |
 |
 
 [Floorball](/sports/floorball)
@@ -19,7 +20,7 @@ third_nav_title: Co Curricular Activities
 
 | Teachers-in-charge |
 |---|
-| Mr Goh Boon Tiong (I/C)<br>Ms Wong Soo Shan (AI/C)<br>Mdm Hyeryanti<br>Mdm Haryati<br>Mdm Loo Mei Ping<br>Mdm Tang Li Tan<br>Mdm Tan Phaik See<br><br>Advisor: Mdm Evelyn Yeo |
+| Mr Goh Boon Tiong (IC)<br>Ms Wong Soo Shan (AIC)<br>Mdm Hyeryanti<br>Mdm Tang Li Tan<br><br>Advisor: Mdm Evelyn Yeo |
 |
 
 [Football](/sports/football)
