@@ -44,5 +44,5 @@ variant: markdown
 
 | Teachers-in-charge |
 |---|
-| Mdm Rashidah (I/C)<br>Mdm Pan Jiayi (AI/C)<br>Mdm Lim Pui Yee<br>Mdm Siti Nurashikin<br><br>Advisor: Mrs Avinash Murugesuvari |
+| Mdm Rashidah (IC)<br>Mdm Pan Jiayi (AIC)<br>Mdm Khor Mei Zhen<br>Mdm Rohimah<br><br>Advisor: Mdm Hazwani |
 |
