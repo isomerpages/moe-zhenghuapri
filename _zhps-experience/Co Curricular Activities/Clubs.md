@@ -12,7 +12,7 @@ variant: markdown
 
 | Teachers-in-charge |
 |---|
-| Mrs Angela Tan (I/C)<br>Mdm Nur Khairunnisa (AIC)<br>Miss Ding Caihong<br>Ms Lin Ai Ting<br>Mr Zulkifli<br><br>Advisor: Mr Alex Chew |
+| Mrs Angela Tan (IC)<br>Mdm Nur Khairunnisa (AIC)<br>Miss Ding Caihong<br>Ms Lin Ai Ting<br>Mr Zulkifli<br><br>Advisor: Mr Alex Chew |
 |
 
 [Art and Craft (TArP)](/clubs/art-and-craft-tarp/)
