@@ -54,15 +54,15 @@ Primary 6 students will have the option to stand down from their CCA from Term 3
 
 CCA Days
 --------
+The table below shows the CCA days for the respective CCAs.
+CCAs with competitive school teams may conduct additional training sessions during other timeslots. CCA Teachers will issue consent forms via Parents Gateway to inform parents of these details.
 
-Most CCA will run on Fridays except for Rugby on Monday and Football on Thursday. This allows for other days to be freed for other school programmes and activities, in support for our school policy of a holistic education for our students. CCA with school teams may have additional sessions on the other days after school hours and/or Saturdays.
+CCA schedule:
 
-Please refer to the following CCA schedule:
-
-| Monday | Thursday |
-|:---:|:---:|
-| Rugby | Brass Band<br>Brownies<br>Choir<br>Red Cross<br>Talent Art<br>Greenovation<br>Football<br>Basketball<br>Chinese Dance<br>Indian Dance<br>Floorball<br>Malay Dance<br>Robotics |
-|  |  |
+| Tuesday 3.30-5.30pm | Thursday 2.00 - 4.00pm | Thursday 3.30 - 5.30pm |   
+|:---:|:---:|:---:|
+| Rugby | Brass Band<br>Brownies<br>Choir<br>Red Cross<br>Talent Art<br>Greenovation<br>Basketball<br>Chinese Dance<br>Indian Dance<br>Floorball<br>Malay Dance<br>Robotics | Football<br> |
+|  |  |  |
 
 Change of CCA
 -------------
