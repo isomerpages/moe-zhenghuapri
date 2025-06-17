@@ -3,6 +3,7 @@ title: Clubs
 permalink: /zhps-experience/co-curricular-activities/clubs/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 # Clubs
 
@@ -11,7 +12,7 @@ third_nav_title: Co Curricular Activities
 
 | Teachers-in-charge |
 |---|
-| Mrs Angela Tan (I/C)<br>Mdm Nur Khairunnisa (AI/C)<br>Mdm Arianna<br>Miss Ding Caihong<br>Mdm Siti Aisyah Azan<br>Mr Zulkifli<br><br>Advisor: Mr Alex Chew |
+| Mrs Angela Tan (I/C)<br>Mdm Nur Khairunnisa (AIC)<br>Miss Ding Caihong<br>Ms Lin Ai Ting<br>Mr Zulkifli<br><br>Advisor: Mr Alex Chew |
 |
 
 [Art and Craft (TArP)](/clubs/art-and-craft-tarp/)
