@@ -4,7 +4,7 @@ permalink: /clubs/art-and-craft-tarp/
 description: ""
 variant: markdown
 ---
-# Art and Craft (TArP)
+# Telent Art
 
 Budding artists are channelled to the Talent Art Programme (TArP) which maximises students’ talents in their art. Our young artists’ talents are further developed and nurtured. They are provided with opportunities to develop their visual literacy and critical thinking skills. Students get to inquire and discover various ways to interpret the various art concepts through deep discussion and meaningful art processes, and learn to make choices and solve problems when working on their artwork.
 
