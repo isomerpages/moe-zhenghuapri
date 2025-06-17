@@ -2,6 +2,7 @@
 title: Basketball
 permalink: /sports/basketball/
 description: ""
+variant: markdown
 ---
 # Basketball
 
@@ -16,21 +17,23 @@ Modified game play
 
 | Year |                 Events/Program                |    Achievement   |
 |:----:|:----------------:|:----------------:|
+| 2024 | National School Games, Basketball | Participation |
+| 2023 | National School Games, Basketball | Participation |
 | 2015 | West Zone Basketball Tournament (Senior Boys) | Quarter-Finalist |
 |
 
-<img src="/images/ZHPS%20Experience/Sports/Basketball_1.png" style="width:40%;margin-left:65px;" align = "left">
-<img src="/images/ZHPS%20Experience/Sports/Basketball_2.jpg" style="width:40%;margin-right:65px;" align = "right">
+<img src="/images/ZHPS%20Experience/Sports/Basketball_1.png" style="width:40%;margin-left:65px;" align="left">
+<img src="/images/ZHPS%20Experience/Sports/Basketball_2.jpg" style="width:40%;margin-right:65px;" align="right">
 
 <br clear="left">
 
-<img src="/images/ZHPS%20Experience/Sports/Basketball_4.jpg" style="width:40%;margin-left:65px;" align = "left">
-<img src="/images/ZHPS%20Experience/Sports/Basketball_5.jpg" style="width:40%;margin-right:65px;" align = "right">
+<img src="/images/ZHPS%20Experience/Sports/Basketball_4.jpg" style="width:40%;margin-left:65px;" align="left">
+<img src="/images/ZHPS%20Experience/Sports/Basketball_5.jpg" style="width:40%;margin-right:65px;" align="right">
 
 <br clear="left">
 
-<img src="/images/ZHPS%20Experience/Sports/Basketball_6.jpg" style="width:40%;margin-left:65px;" align = "left">
-<img src="/images/ZHPS%20Experience/Sports/Basketball_7.jpg" style="width:40%;margin-right:65px;" align = "right">
+<img src="/images/ZHPS%20Experience/Sports/Basketball_6.jpg" style="width:40%;margin-left:65px;" align="left">
+<img src="/images/ZHPS%20Experience/Sports/Basketball_7.jpg" style="width:40%;margin-right:65px;" align="right">
 
 <br clear="left">
 
