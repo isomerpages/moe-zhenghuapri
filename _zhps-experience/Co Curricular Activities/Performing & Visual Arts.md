@@ -46,3 +46,11 @@ variant: markdown
 |---|
 | Mdm Rashidah (IC)<br>Mdm Pan Jiayi (AIC)<br>Mdm Khor Mei Zhen<br>Mdm Rohimah<br><br>Advisor: Mdm Hazwani |
 |
+
+[Talent Art](/performing-and-visual-arts/telent-art/)
+--------------------
+
+| Teachers-in-charge |
+|---|
+| Mdm Ainida (IC)<br>Mdm Chai Jia Yan Gina (AIC)<br>Ms Lum Miao Ling<br>Mdm Lem Li Kuen<br><br>Advisor: Mr Eddy Norisman |
+|
