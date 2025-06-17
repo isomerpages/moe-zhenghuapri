@@ -2,6 +2,7 @@
 title: Robotics
 permalink: /clubs/robotics/
 description: ""
+variant: markdown
 ---
 # Robotics
 
@@ -21,19 +22,27 @@ Building using EV3 Lego Mindstorm / Spike
 
 | Year |Events/Program| Achievement        |
 |:----:|:------------------------------------:|:--------------------------:|
+| 2024 | Robocup Singapore Open- Recap CoSpace Auto-Driving, U12 Super Teams | **1st** |
+| 2024 | Robocup Singapore Open - RoboCup Junior Rescue Line-  Entry U12 | **2nd** |
+| 2024 | Robocup Singapore Open- Recap CoSPace Auto-Driving , First Steps U12 Super Team | **1st** |
+| 2024 | Robocup Singapore Open- Recap CoSPace Auto-Driving , First Steps U12 | **1st** |
+| 2024 | Robocup Singapore Open- RoboCup Junior Rescue Line- U12 | **Merit** |
+| 2023 | RoboCup Singapore Open, RCAP CoSpace Rescue U12 | **1st, 3rd, Merit** |
+| 2023 | RoboCup Singapore Open RCAP CoSpace Rescue, FirstSteps U12 | **2nd, 3rd, Distinction, Merit** |
+|2023 | RoboCup Singapore Open RoboCup Junior Rescue Line, Entry U12 | **1st, 2nd** |
 | 2021 | RCAP CoSpace Rescue, FirstSteps, U12 | **1st, 2nd, 3rd, Merit Place** |
 | 2021 |       RCAP CoSpace Rescue, U12       | **3rd Place** |
 |
 
-<img src="/images/ZHPS%20Experience/Robotics/Robotics_1.jpg" style="width:40%;margin-left:45px;" align = "left">
-<img src="/images/ZHPS%20Experience/Robotics/Robotics_3.jpg" style="width:40%;margin-right:95px;" align = "right">
+<img src="/images/ZHPS%20Experience/Robotics/Robotics_1.jpg" style="width:40%;margin-left:45px;" align="left">
+<img src="/images/ZHPS%20Experience/Robotics/Robotics_3.jpg" style="width:40%;margin-right:95px;" align="right">
 
 <br clear="left">
 
-<img src="/images/ZHPS%20Experience/Robotics/Robotics_4.jpg" style="width:20%;margin-right:15px;" align = "left">
-<img src="/images/ZHPS%20Experience/Robotics/Robotics_5.jpg" style="width:21%;margin-right:15px;" align = "left">
-<img src="/images/ZHPS%20Experience/Robotics/Robotics_6.jpg" style="width:23%;margin-right:15px;" align = "left">
-<img src="/images/ZHPS%20Experience/Robotics/Robotics_2.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img src="/images/ZHPS%20Experience/Robotics/Robotics_4.jpg" style="width:20%;margin-right:15px;" align="left">
+<img src="/images/ZHPS%20Experience/Robotics/Robotics_5.jpg" style="width:21%;margin-right:15px;" align="left">
+<img src="/images/ZHPS%20Experience/Robotics/Robotics_6.jpg" style="width:23%;margin-right:15px;" align="left">
+<img src="/images/ZHPS%20Experience/Robotics/Robotics_2.jpg" style="width:20%;margin-right:15px;" align="left">
 
 <br clear="left">
 
