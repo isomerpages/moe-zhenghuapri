@@ -20,5 +20,5 @@ variant: markdown
 
 | Teachers-in-charge |
 |---|
-| Miss Maryanah (I/C)<br>Mdm Kang Shuangjuan (AI/C)<br>Mdm Azlina<br>Mdm Betty Lee<br><br>Advisor: Mdm Tanuja Raj |
+| Ms Maryanah (IC)<br>Mdm Kang Shuangjuan (AIC)<br>Mdm Azlina<br>Mdm Chua Sock Theng<br><br>Advisor: Mdm Tanuja Raj |
 |
