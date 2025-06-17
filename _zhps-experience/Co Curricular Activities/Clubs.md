@@ -20,7 +20,7 @@ variant: markdown
 
 | Teachers-in-charge |
 |---|
-| Mdm Lem Li Kuen (IC)<br>Mdm Gina Chai<br>Ms Khor Ting Yan<br><br>Advisor: Mr Eddy Norisman |
+| Mdm Ainida (IC)<br>Mdm Chai Jia Yan Gina (AIC)<br>Ms Lum Miao Ling<br>Mdm Lem Li Kuen<br><br>Advisor: Mr Eddy Norisman |
 |
 
 [Greenovation Club](/clubs/greenovation-club/)
