@@ -28,5 +28,5 @@ variant: markdown
 
 | Teachers-in-charge |
 |---|
-| Mdm Carmen Kee<br>Mdm Tay Jia Lin<br><br>Advisor: Miss Poon Mei Ming |
+| Mrs Chua Jia Lin (IC)<br>Ms Chan May Ling (AIC)<br>Mr Fadil<br>Mdm Loo Mei Ping<br><br>Advisor: Miss Poon Mei Ming |
 |
