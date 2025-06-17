@@ -54,7 +54,7 @@ CCAs with competitive school teams may conduct additional training sessions duri
 
 CCA schedule:
 
-| Tuesday 3.30-5.30pm | Thursday 2.00 - 4.00pm | Thursday 3.30 - 5.30pm |   
+| <center>Tuesday<br>3.30-5.30pm | <center>Thursday<br>2.00 - 4.00pm | <center>Thursday<br>3.30 - 5.30pm |   
 |:---:|:---:|:---:|
 | Rugby | Brass Band<br>Brownies<br>Choir<br>Red Cross<br>Talent Art<br>Greenovation<br>Basketball<br>Chinese Dance<br>Indian Dance<br>Floorball<br>Malay Dance<br>Robotics | Football<br> |
 |  |  |  |
@@ -63,5 +63,4 @@ CCA Commitment
 -------------
 Students are expected to remain committed to their assigned CCA throughout their primary school years. Consistent participation in a CCA goes beyond learning specific skills. It nurtures important values such as resilience, responsibility, Emerging 21st Century Competencies such as collaboration and communication skills. By regularly attending, persevering through challenges, and contributing to their teams, students build self-discipline and develop confidence over time.
 
-Through this journey, students grow in character and strengthen their socio-emotional skills. CCA experiences also foster a sense of belonging and identity, supporting their holistic development as engaged and well-rounded individuals. Staying committed to a CCA lays a strong foundation for leading a healthy, purposeful, and fulfilling life.
-
+Through this journey, students grow in character and strengthen their socio-emotional skills. CCA experiences also foster a sense of belonging and identity, supporting their holistic development as engaged and well-rounded individuals. Staying committed to a CCA lays a strong foundation for leading a healthy, purposeful, and fulfilling life.</center></center></center>
