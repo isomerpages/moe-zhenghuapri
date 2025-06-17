@@ -22,6 +22,9 @@ Friendly matches among members
 | Year |                          Events/Program                         |         Achievement         |
 |:----:|:--------:|:---------------------------:|
 | 2024 | National School Games, Floorball Senior Division | 4th in League 1 (Top 8) |
+| 2024 | National School Games, Floorball Junior Division | 2nd in Tier 1 |
+| 2023 | National School Games, Floorball Senior Division | 5th – 8th Position |
+| 2023 | National School Games, Floorball Junior Division | Tier 1, 3rd in Group |
 | 2019 | National Senior Games (Bowl Category)<br>National Junior Tier 1 | Champion<br>3rd in Grouping |
 | 2018 |                      Junior National Games                      |        Top 8 Schools        |
 | 2016 |                      Senior National Games                      |        Top 8 Schools        |
