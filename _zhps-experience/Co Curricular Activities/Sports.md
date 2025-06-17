@@ -28,7 +28,7 @@ variant: markdown
 
 | Teachers-in-charge |
 |---|
-| Mr Mohd Faizal (I/C)<br>Mr Herman (AI/C)<br>Mr Fazli<br>Mdm Jumilah<br>Mdm Tang Ai Wei<br><br>Advisor: Mr Er Kim Hoe |
+| Mr Mohd Faizal (IC)<br>Mr Herman (AIC)<br>Mr Fazli <br>Mdm Jumilah<br><br>Advisor: Mr Er Kim Hoe |
 |
 
 [Rugby](/sports/rugby)
