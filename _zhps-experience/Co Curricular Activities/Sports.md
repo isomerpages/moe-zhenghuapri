@@ -36,5 +36,5 @@ variant: markdown
 
 | Teachers-in-charge |
 |---|
-| Ms Jolene Tan (I/C)<br>Mr Elliot (AI/C)<br>Mr Benjamin<br>Mr Fadil<br>Ms Soffia<br><br>Advisor: Mdm Dorcas Hee |
+|  Mr Elliot Ang (IC)<br>Ms Rachel Wong (AIC)<br>Mdm Haryati<br>Mr Ng Teng Yik<br><br>Advisor: Ms Jolene Tan |
 |
