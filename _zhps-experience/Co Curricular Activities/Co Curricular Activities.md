@@ -7,12 +7,9 @@ variant: markdown
 ---
 # Co-Curricular Activities
 
-CCAs programmes develop&nbsp;**Character**, foster&nbsp;**Camaraderie**&nbsp;&amp; imbue in students positive&nbsp;**Attitude**.
-
-CCA strives to support the holistic development of a student, guided by the vision that every student is physically and culturally vibrant at the end of his 6 years in Zhenghua.
-
-In Zhenghua, our primary aim is to seek and provide opportunities for all students via CCA program to help develop them holistically, in and out of the classroom, and ample opportunities to specialize and develop a student’s passion &amp; nurture his talent to the fullest.
-
+CCAs programmes develop&nbsp;**Character**, foster&nbsp;**Camaraderie**&nbsp;&amp; imbue in students positive&nbsp;**Attitude**.<br>
+CCA strives to support the holistic development of a student, guided by the vision that every student is physically and culturally vibrant at the end of his 6 years in Zhenghua. <br>
+In Zhenghua, our primary aim is to seek and provide opportunities for all students via CCA program to help develop them holistically, in and out of the classroom, and ample opportunities to specialize and develop a student’s passion &amp; nurture his talent to the fullest.<br>
 We achieve this through our&nbsp;**3E**&nbsp;(Exposure, Enrichment and Excellence) approaches:
 
 |  |  |
@@ -27,9 +24,7 @@ We provide students with broad experience through variety of CCAs comprising of 
 a\.  The Performing Arts - instill in students a sense of graciousness and an appreciation for the rich culture and heritage of a multi-racial society.   
 b\.  Sports - aim to develop robustness, fair play, and team spirits in students.   
 c\.  Uniformed Group - aim to make good citizens of students by inculcating discipline and a spirit of service to others.   
-d\.  Clubs - strive to achieve oratorical and communication skills, which fosters leadership, self-motivation, and personal growth.
-
-  
+d\.  Clubs - strive to achieve oratorical and communication skills, which fosters leadership, self-motivation, and personal growth. <br>
 
 After going through the programme, each student will:
 
@@ -64,9 +59,9 @@ CCA schedule:
 | Rugby | Brass Band<br>Brownies<br>Choir<br>Red Cross<br>Talent Art<br>Greenovation<br>Basketball<br>Chinese Dance<br>Indian Dance<br>Floorball<br>Malay Dance<br>Robotics | Football<br> |
 |  |  |  |
 
-Change of CCA
+CCA Commitment
 -------------
+Students are expected to remain committed to their assigned CCA throughout their primary school years. Consistent participation in a CCA goes beyond learning specific skills. It nurtures important values such as resilience, responsibility, Emerging 21st Century Competencies such as collaboration and communication skills. By regularly attending, persevering through challenges, and contributing to their teams, students build self-discipline and develop confidence over time.
 
-Students&nbsp;**cannot change**&nbsp;or&nbsp;**terminate**&nbsp;their participation in their CCA. All request for change of CCA must be made through SH/CCA. Parents can email to the school at&nbsp;[zhenghua_ps@moe.edu.sg](mailto:zhenghua_ps@moe.edu.sg)&nbsp;stating the reason for change. If it is due to medical reasons, kindly support with memo from a medical professional. SH/CCA will evaluate each request on a case-by-case basis.
-  
-Our school is committed to nurturing the students to be of good character and equipping them with skills and knowledge that will allow them to lead a purposeful and healthy life. We believe through the CCA programmes, they will be physically and culturally vibrant.
+Through this journey, students grow in character and strengthen their socio-emotional skills. CCA experiences also foster a sense of belonging and identity, supporting their holistic development as engaged and well-rounded individuals. Staying committed to a CCA lays a strong foundation for leading a healthy, purposeful, and fulfilling life.
+
