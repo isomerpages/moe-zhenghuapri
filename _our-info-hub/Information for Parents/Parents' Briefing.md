@@ -54,4 +54,3 @@ variant: markdown
 [P6 Full Subject-Based Banding](https://youtu.be/5s8QvqS6YyQ)
 
 **Student Care**<br>
-[Raffles Student Care online breifing with existing parents](/files/Our%20Info%20Hub/Information%20for%20Parents/Raffles_Student_Care_online_breifing_with_existing_parents.pdf)
