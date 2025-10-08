@@ -33,4 +33,6 @@ Click&nbsp;<a href="/zps/announcements/moe-kindergarten-mk-registration-for-2023
 
 * * *
 
-[**Student ICON backup for Graduating or Leaving students**](#top)<br>For graduating or Leaving students to back up their Student iCON data, we have prepared the attached editable student poster and guide.<br> 
+[**Student ICON backup for Graduating or Leaving students**](#top)<br>For graduating or Leaving students to back up their Student iCON data, we have prepared the attached editable student poster and guide.<br>
+[iCON Google Takeout Poster](/files/Announcements/For_Graduating_Students_iCON_Google_Takeout_E_Poster__202X_.pdf)<br>
+[Google Takeout Guide for Student iCON](/files/Announcements/For_Graduating_Students_Google_Takeout_Guide_for_Student_iCON__202X_.pdf)
