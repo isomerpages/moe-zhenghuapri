@@ -34,4 +34,3 @@ For graduating or Leaving students to back up their Student iCON data, we have p
 [**MOE Kindergarten (MK) Registration for 2025**](https://zhenghuapri.moe.edu.sg/zps/announcements#)
 
 Click&nbsp;<a href="/zps/announcements/moe-kindergarten-mk-registration-for-2023/" target="_blank">here</a>&nbsp;for more details.
-
