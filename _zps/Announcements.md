@@ -12,6 +12,8 @@ For graduating or Leaving students to back up their Student iCON data, we have p
 [Graduating Students iCON Google Takeout Poster](/files/Announcements/For_Graduating_Students_iCON_Google_Takeout_E_Poster__2025_.pdf)<br>
 [Graduating Students Google Takeout Guide for Student iCON](/files/Announcements/For_Graduating_Students_Google_Takeout_Guide_for_Student_iCON__2025_.pdf)
 
+#### **P1 Orientation 2026**
+**Date: 24/11/2025, Monday<br>Time: 2 – 3.30pm**
 
 
 
