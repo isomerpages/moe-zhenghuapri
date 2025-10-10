@@ -7,34 +7,9 @@ variant: markdown
 ---
 # Primary 1 Matters
 
-### P1 Open House
-![](/images/Our%20info%20hub/P1%20Matters/2025_P1_Open_House.jpg)<br>
-
-**Primary 1 Open House**<br>
-You’re Invited to Our Primary 1 (2026) Open House!<br>
-We’re excited to welcome prospective parents and guardians to our upcoming Open House for children enrolling in Primary 1 in 2026. If you have relatives, friends, or neighbours who are keen to learn more about our vibrant school community and how our programmes nurture future-ready leaders and learners, we warmly invite them to join us!
-
-**Event Details:**<br>
-Day &amp; date:	Monday, 19 May 2025<br>
-Time:		9.00am to 11.00am<br>
-Venue:	School foyer (Our Student Leaders will meet and lead our visitors to a school tour)<br>
-The programme details are as follows:
-![](/images/Our%20info%20hub/P1%20Matters/P1_Open_House_Schedule.jpg)
-
-Please visit our school website at https://www.zhenghuapri.moe.edu.sg/ for more information and to register your interest.<br>
-We look forward to welcoming you to our school!
-
-### P1 Registration Phase
-
-
-
-### P1 Orientation (for 2025)
-
-
-1. Information for Parents [Click Here](/files/Our%20Info%20Hub/P1%20Matters/P1_Orientation.pdf)<br>
-2. Check List [Click Here](/files/Our%20Info%20Hub/P1%20Matters/Check_List___Week_1_2025.pdf)<br>
-3. Parents Support Group ![](/images/Our%20info%20hub/P1%20Matters/PSG.jpg)
-
+**P1 Orientation 2026<br>
+Date: 24/11/2025 Monday<br>
+Time: 2 to 3.30pm**
 
 
 
