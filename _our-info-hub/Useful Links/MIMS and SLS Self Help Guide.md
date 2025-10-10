@@ -7,6 +7,8 @@ variant: markdown
 ---
 ## MIMS &amp; SLS Self Help Guide
 
+[New Enhancements to MIMS Login](/files/Our%20Info%20Hub/Useful%20Links/New_Enhancements_to_MIMS_Login.pdf)<br>
+
 <a href="https://go.gov.sg/guide-to-sls" target="_blank">Guide to SLS.pptx</a>
 
 To Login to Student Learning Space (SLS) Click&nbsp;<a href="https://vle.learning.moe.edu.sg/login" target="_blank">here</a><br>
