@@ -5,4 +5,3 @@ description: ""
 third_nav_title: Information for Parents
 variant: markdown
 ---
-### P1 Open House
