@@ -29,8 +29,15 @@ variant: markdown
 <center>Parents Storytelling in the Library TERM 3: <a href="https://youtu.be/MFCAveRXfFo" target="_blank">https://youtu.be/MFCAveRXfFo</a></center>
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/MFCAveRXfFo" height="315" width="560"></iframe></center>
 
-<center>Library Photo Wall ( Semester 1)</center>
+#### **<center>Library Photo Wall ( Semester 1)</center>**
 
 |                 |                                     |
 |:-------------:|:----------------:|
 | ![](/images/Our%20info%20hub/IMG_4707.jpg) |![](/images/Our%20info%20hub/IMG_4708.jpg) |
+
+#### **<center>Read. Create. SG60 6-panel Comic Competition</center>**
+
+|                 |                                     |
+|:-------------:|:----------------:|
+| ![](/images/Our%20info%20hub/1RE.jpg) |![](/images/Our%20info%20hub/2IN.jpg) |
+| ![](/images/Our%20info%20hub/3EE.jpg) |![](/images/Our%20info%20hub/5RE.jpg) |
