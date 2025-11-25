@@ -11,7 +11,8 @@ variant: markdown
 **Date: 24/11/2025 Monday<br>
 Time: 2 to 3.30pm**
 
-
+[Check List](/files/Our%20Info%20Hub/P1%20Matters/Check_List___Week_1_2026.pdf)<br>
+[P1 Orientation](/files/Our%20Info%20Hub/P1%20Matters/P1_Orientation_2026.pdf)<br>
 
 ### Parents Kit (Transition to P1)
 
