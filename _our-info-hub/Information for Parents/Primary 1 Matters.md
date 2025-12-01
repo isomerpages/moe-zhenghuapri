@@ -13,6 +13,7 @@ Time: 2 to 3.30pm**
 
 [Check List](/files/Our%20Info%20Hub/P1%20Matters/Check_List___Week_1_2026.pdf)<br>
 [P1 Orientation](/files/Our%20Info%20Hub/P1%20Matters/P1_Orientation_2026.pdf)<br>
+[P1 Orientation Principal's Welcome Address](/files/Our%20Info%20Hub/P1%20Matters/p1_orientation_principal_welcome_address.pdf)
 
 ### Parents Kit (Transition to P1)
 
