@@ -7,8 +7,6 @@ variant: markdown
 ---
 # Key Personnel
 
-
-
 |   | SCHOOL LEADERS  |   |
 |:---:|:---:|:---:|
 |   | <img src="/images/About%20us/mrs%20constance%20loke%20principal%202.jpg" style="width: 63%"> [**Mrs Constance Loke**](mailto:zhenghua_ps@moe.edu.sg)<br>**Principal**<br>wong\_hian\_hwee\_constance@moe.edu.sg |   |
