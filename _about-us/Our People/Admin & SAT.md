@@ -23,7 +23,7 @@ variant: markdown
 | Mr Chan Hoe Yin<br>ICT Manager<br>Email: [chan_hoe_yin@moe.edu.sg](mailto:chan_hoe_yin@moe.edu.sg)<br>Extn: 582 |
 | Mrs. Kalivaradhan Bargavi<br>ICT Associate<br>Email: [bargavi_kalivaradhan@moe.edu.sg](mailto:bargavi_kalivaradhan@moe.edu.sg)<br>Extn: 526 |
 | Mr Cheong Ye Ching<br>Desktop Engineer (DE)<br>Extn: 575 |
-| Mr Jasper<br>Desktop Engineer (DE)<br>Extn: 575 |
+| Mr Nurhan Rusyaidi Bin Eddy Noor<br>Desktop Engineer (DE)<br>Extn: 575 |
 | Mdm Joan Aliena Chia<br>Library Assistant<br>Email: [chia_soo_long_aliena@moe.edu.sg](mailto:chia_soo_long_aliena@moe.edu.sg)<br>Extn: 547 |
 | Mdm Rosilah Osman<br>Technical Assistant (Science &amp; Math)<br>Extn: 548 &amp; 529 |
 | Mdm Lim Hum Chai, Lily<br>Operations Support Officer |
