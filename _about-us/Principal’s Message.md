@@ -2,10 +2,11 @@
 title: Principal’s Message
 permalink: /about-us/principal-s-message/
 description: ""
+variant: markdown
 ---
 # Principal’s Message
 
-<img src="/images/About%20us/P%20Pic%20with%20green%20border%20final.jpg" style="width:20%" align=left>
+<img src="/images/About%20us/mrs%20may%20wong.jpg" style="width:20%" align="left">
 
 <br clear="left">
 
