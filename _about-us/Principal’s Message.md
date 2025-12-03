@@ -38,5 +38,5 @@ I look forward to the support of our partners-in-education in the holistic educa
 
   
 
-Mrs Constance Loke   
+Mrs May Wong   
 Principal
