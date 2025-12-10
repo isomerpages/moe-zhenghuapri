@@ -73,21 +73,22 @@ Our People
 
 |  CLASS  |  FORM TEACHER  |  FORM TEACHER  |
 |:------------:|:---------------:|:----------------:|
-| K2CA | Ms Nur Sheeda Marzuki  | Ms Lau Liying |
-| K2EA | Ms Lim Shi Rui      | Mdm Chen Yi   |
-| K2IA | Ms Leong Xue Fang      | Mdm Hao Yiming   |
-| K2RA | Ms Zulaikha Beevi | Ms Iska Nerimah Binte Rosman  |
-| K2CP | Ms Nor Syahidah Bte Sariman   | Ms Lau Liying  |
-| K2RP | Ms Nur Allisa Binte Mohamad Halim    | Mdm Cai Xiujin |
+| K2CE | Ms Karina Giam Lay Leng  | Mdm Zhang Yuhui |
+| K2CN | Ms Yap Wai Han      | Ms Sangeetha D/O Suparamaniam   |
+| K2EE | Ms Sharifah Ulfah Zhatul Syed Zainuddin      | Mdm Jiang Jie   |
+| K2IN | Ms Sheryl Goh Yi Fen | Nurulhuda Binte Ramliee  |
+| K2IY | Almas Banu D/O Mohamed Elias   | Mdm Wang Yang  |
+| K2RE | Nur Qistina Izzati Binte Jumadi   | Mdm Siti Nurul Ain Binte Abdul Rahman |
 |
 
 |     MTL    |      TEACHER   |    TEACHER   |
 |:----------:|:-------------:|:---------------:|
-| Chinese  |  Mdm Jiang Yanyu (Sarah)  | Mdm Jiang Yanyu (Sarah)  |
-| Chinese  |   Mdm Hao Yiming   | Mdm Chen Yi |
-| Chinese  |  Mdm Cai Xiujin    | Mdm Wang Yang |
-| Chinese  |  Mdm Zhang Yuhui   | Ms Lau Liying |
+| Chinese  |  Mdm Jiang Jie  | Mdm Chen Yi  |
+| Chinese  |   Mdm Hao Yiming   | Mdm Wang Yang |
+| Chinese  |  Ms Cai Xiujin    | Ms Lau Liying |
+| Chinese  |  Mdm Zhang Yuhui   |  |
 | Malay  |  Mdm Azlina Binte Yazid  | Mdm Siti Nurul Ain Binte Abdul Rahman |
-| Malay  |  Ms Iska Nerimah Binte Rosman   |  |
+| Malay  | Ms Nurulhuda Binte Ramliee |Ms Iska Nerimah Binte Rosman   |
+| Malay | Ms Reisyatiqah Binte Abdullah |  |
 | Tamil  |  Ms Palani Selvam Kayalvizhi   | Ms Sangeetha D/O Suparamaniam |
 |
