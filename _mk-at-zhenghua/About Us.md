@@ -45,7 +45,7 @@ Our People
 
 |            |                |                         |
 |:-------------:|:------------:|:-----------:|
-| [**Mdm Jiang Yanyu (Sarah)**](mailto:jiang_yanyu@moe.edu.sg)<br>**(Level Head/K1)**<br>|           [**Ms Lim Shi Rui**](mailto:lim_shi_rui@moe.edu.sg)<br>**(Level Head/K2)**<br>  |
+| |           [**Ms Lim Shi Rui**](mailto:lim_shi_rui@moe.edu.sg)<br>**(Level Head/K1)**<br>  |
 
 <center><b> SENIOR TEACHER</b></center>
 
@@ -58,12 +58,15 @@ Our People
 
 |  CLASS  |  FORM TEACHER  |  FORM TEACHER  |
 |:------------:|:---------------:|:----------------:|
-| K1CA | Ms Sharifah Ulfah Zhatul Syed Zainuddin | Mdm Jiang Jie |
-| K1EA | Ms Yap Wai Han                | Mdm Siti Nurul Ain Binte Abdul Rahman                     |
-| K1IA | Ms Sheryl Goh Yi Fen                    | Mdm Jiang Yanyu (Sarah)                |
-| K1RA | Ms Karina Giam Lay Leng | Mdm Zhang Yuhui                      |
-| K1IB | Ms Sheryl Goh Yi Fen            | Mdm Wang Yang                     |
-| K1RB | Ms Karyn Ang                      | Mdm Zhang Yuhui               |
+| K1CE | Ms Nor Syahidah Bte Sariman | Mdm Cai Xiujin |
+| K1CN | Ms Nur Allisa Binte Mohamad Halim              | Ms Palani Selvam Kayalvizhi           |
+| K1EE | Ms Zulaikha Beevi                    | Mdm Chen Yi                | 
+|K1EE | Reisyatiqah Binte Abdullah |  |
+| K1IN | Ms Lim Shi Rui | Ms Lau Li Ying                      |
+| K1IY | Ms Nur Sheeda Marzuki            | Ms Nur Ain Saliha Binte Shaharuddin                     |
+|K1IY | Mdm Hao Yiming |  |
+| K1RE | Ms Leong Xue Fang                      | Ms Leena Deana Binte Mohd Adam               |
+| K1RE | Mdm Azlina Binte Yazid |  |
 |
 
 <center><b>KINDERGARTEN 2</b></center>
