@@ -6,9 +6,6 @@ variant: markdown
 ---
 # Principal’s Message
 
-<img src="/images/About%20us/mrs%20may%20wong.jpg" style="width:20%" align="left">
-
-<br clear="left">
 
 Dear Students, Parents and Friends of Zhenghua Primary School (ZHPS)
 
@@ -38,5 +35,5 @@ I look forward to the support of our partners-in-education in the holistic educa
 
   
 
-Mrs May Wong   
+Mrs Constance Loke   
 Principal
