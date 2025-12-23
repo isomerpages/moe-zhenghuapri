@@ -9,8 +9,8 @@ variant: markdown
 
 |   | SCHOOL LEADERS  |   |
 |:---:|:---:|:---:|
-|   | <img src="/images/About%20us/mrs%20may%20wong.jpg" style="width: 83%"> [**Mrs May Wong**](mailto:zhenghua_ps@moe.edu.sg)<br>**Principal**<br>May\_TMG@moe.edu.sg |   |
-| <img src="/images/About%20us/mdm%20winnie%20ho.jpg" style="width: 87%"> [**Mdm Winnie Ho**](mailto:ho_yee_hin_winnie@moe.edu.sg)<br>**Vice-Principal(Admin)**<br>ho\_yee\_hin\_winnie@moe.edu.sg  |<img src="/images/About%20us/mrs%20josephine%20lim%20vice-principal%201.jpg" style="width: 78%"> [**Mrs Josephine Lim**](mailto:sng_yee_yee@moe.edu.sg)<br>**Vice-Principal (Acad)**<br>sng\_yee\_yee@moe.edu.sg  | <img src="/images/About%20us/mr%20chan%20kian%20keong.jpg" style="width: 84%">  [**Mr Chan Kian Keong**](mailto:chan_kian_keong@moe.edu.sg)<br>**Vice-Principal (Acad)**<br>chan\_kian\_keong@moe.edu.sg|
+|   |  [**Mrs May Wong**](mailto:may_tmg@moe.edu.sg)<br>**Principal**<br>May\_TMG@moe.edu.sg |   |
+|  [**Mdm Winnie Ho**](mailto:ho_yee_hin_winnie@moe.edu.sg)<br>**Vice-Principal(Admin)**<br>ho\_yee\_hin\_winnie@moe.edu.sg  | [**Mrs Josephine Lim**](mailto:sng_yee_yee@moe.edu.sg)<br>**Vice-Principal (Acad)**<br>sng\_yee\_yee@moe.edu.sg  |   [**Mr Chan Kian Keong**](mailto:chan_kian_keong@moe.edu.sg)<br>**Vice-Principal (Acad)**<br>chan\_kian\_keong@moe.edu.sg|
 
 
 <center>To contact the respective staff below<br>please call 67697478 followed by the Extension No.</center>
