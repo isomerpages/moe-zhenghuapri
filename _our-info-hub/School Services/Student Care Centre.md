@@ -7,9 +7,6 @@ variant: markdown
 ---
 # Student Care Centre
 
-[Student Care Centre](/files/Our%20Info%20Hub/Student%20Care%20Centre.pdf)<br>
-
-
 
 #### Zhenghua Primary Dental Clinic
 Contact number: 9116-1070 (Msg or WhatsApp)<br>
