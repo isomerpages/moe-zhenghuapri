@@ -7,6 +7,12 @@ variant: markdown
 ---
 # Student Care Centre
 
+#### Raffles Student Care
+Contact number: 8048 7695 (Msg or WhatsApp)<br>
+Email: zh@rafflesstudentcare.com<br>
+**Operating Hours:**<br>
+Schools Days -&gt; 11am to 7pm<br>
+Schools Holidays (Full Day Care) -&gt; 7.30am to 7pm
 
 #### Zhenghua Primary Dental Clinic
 Contact number: 9116-1070 (Msg or WhatsApp)<br>
