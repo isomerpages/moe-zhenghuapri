@@ -1,6 +1,6 @@
 ---
-title: Key Personnel
-permalink: /about-us/our-people/key-personnel/
+title: School Leaders and Key Personnel
+permalink: /about-us/our-people/school-leaders-and-key-personnel/
 description: ""
 third_nav_title: Our People
 variant: markdown
@@ -9,8 +9,9 @@ variant: markdown
 
 |   | SCHOOL LEADERS  |   |
 |:---:|:---:|:---:|
-|   | <img src="/images/About%20us/mrs%20may%20wong.jpg" style="width: 83%"> [**Mrs May Wong**](mailto:zhenghua_ps@moe.edu.sg)<br>**Principal**<br>May\_Wong@moe.edu.sg |   |
-| <img src="/images/About%20us/mdm%20winnie%20ho.jpg" style="width: 87%"> [**Mdm Winnie Ho**](mailto:ho_yee_hin_winnie@moe.edu.sg)<br>**Vice-Principal(Admin)**<br>ho\_yee\_hin\_winnie@moe.edu.sg  |<img src="/images/About%20us/mrs%20josephine%20lim%20vice-principal%201.jpg" style="width: 78%"> [**Mrs Josephine Lim**](mailto:sng_yee_yee@moe.edu.sg)<br>**Vice-Principal (Acad)**<br>sng\_yee\_yee@moe.edu.sg  | <img src="/images/About%20us/mr%20chan%20kian%20keong.jpg" style="width: 84%">  [**Mr Chan Kian Keong**](mailto:chan_kian_keong@moe.edu.sg)<br>**Vice-Principal (Acad)**<br>chan\_kian\_keong@moe.edu.sg|
+|   |  [**Mrs May Wong**](mailto:may_tmg@moe.edu.sg)<br>**Principal**<br>May_TMG@moe.edu.sg |   |
+| [**Mrs Josephine Lim**](mailto:sng_yee_yee@moe.edu.sg)<br>**Vice-Principal (Acad)**<br>sng_yee_yee@moe.edu.sg  | [**Mr Chan Kian Keong**](mailto:chan_kian_keong@moe.edu.sg)<br>**Vice-Principal (Acad)**<br>chan_kian_keong@moe.edu.sg  | [**Mdm Winnie Ho**](mailto:ho_yee_hin_winnie@moe.edu.sg)<br>**Vice-Principal(Admin)**<br>ho_yee_hin_winnie@moe.edu.sg |
+|   |  [**Mr Tommy Yang**](mailto:tommy_yang@moe.edu.sg)<br>**Vice-Principal(Admin)**<br>tommy_yang@moe.edu.sg |   |
 
 
 <center>To contact the respective staff below<br>please call 67697478 followed by the Extension No.</center>
@@ -43,7 +44,7 @@ variant: markdown
 
 |                          |                 |                                     |
 |:---------:|:-----:|:---------------:|
-| [**Mr Mohd Faizal Razak**](mailto:mohamed_faizal_raz@moe.edu.sg)<br>**Subject Head / Student Leadership**<br>Extn: *571* | [**Mdm Suriyana Bte Ghapari**](mailto:suriyana_ghapari@moe.edu.sg)<br>**Subject Head / Malay**<br>Extn: *581* | [**Mrs Siti Aisyah Sasikumar**](mailto:siti_aisyah_a@moe.edu.sg)<br>**Subject Head / Character Educatio**n<br>Extn: *572* |
+| [**Mdm Suriyana Bte Ghapari**](mailto:suriyana_ghapari@moe.edu.sg)<br>**Subject Head / Malay**<br>Extn: *581* |  | [**Mrs Siti Aisyah Sasikumar**](mailto:siti_aisyah_a@moe.edu.sg)<br>**Subject Head / Character Educatio**n<br>Extn: *572* |
 |               [**Mdm Chai Jia Yan Gina**](mailto:chai_jia_yan_gina@moe.edu.sg)<br>**Subject Head / Art**<br>Extn: *583*                  |   |[**Mr Elliot Ang Yong Siang**](elliot_ang_yong_siang@moe.edu.sg)<br>**Subject Head / Student Management**<br>Extn:&nbsp;_564_ |
 |    [**Miss Jolene Tan Ying Jun**](mailto:jolene_tan_ying_jun@moe.edu.sg)<br>**Subject Head/PE &amp; CCA**<br>Extn: *580* ||[**Mr Chua Liang Cun**](chai_jia_yan_gina@moe.edu.sg)<br>**Subject Head / Aesthetics**<br>_Extn: 571_ 
 
