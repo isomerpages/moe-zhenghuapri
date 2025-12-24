@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our People
 variant: markdown
 ---
-# Key Personnel
+## School Leaders and Key Personnel
 
 |   | SCHOOL LEADERS  |   |
 |:---:|:---:|:---:|
