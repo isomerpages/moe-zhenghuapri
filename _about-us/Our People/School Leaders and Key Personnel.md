@@ -9,7 +9,7 @@ variant: markdown
 
 |   | SCHOOL LEADERS  |   |
 |:---:|:---:|:---:|
-|   |  [**Mrs May Wong**](mailto:may_tmg@moe.edu.sg)<br>**Principal**<br>May_TMG@moe.edu.sg |   |
+|   |  [**Mrs May Wong**](mailto:may_tmg@moe.edu.sg)<br>**Principal**<br>May_tmg@moe.edu.sg |   |
 | [**Mrs Josephine Lim**](mailto:sng_yee_yee@moe.edu.sg)<br>**Vice-Principal (Acad)**<br>sng_yee_yee@moe.edu.sg  | [**Mr Chan Kian Keong**](mailto:chan_kian_keong@moe.edu.sg)<br>**Vice-Principal (Acad)**<br>chan_kian_keong@moe.edu.sg  | [**Mdm Winnie Ho**](mailto:ho_yee_hin_winnie@moe.edu.sg)<br>**Vice-Principal(Admin)**<br>ho_yee_hin_winnie@moe.edu.sg |
 |   |  [**Mr Tommy Yang**](mailto:tommy_yang@moe.edu.sg)<br>**Vice-Principal(Admin)**<br>tommy_yang@moe.edu.sg |   |
 
