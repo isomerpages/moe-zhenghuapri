@@ -28,9 +28,9 @@ variant: markdown
 
 |            |                    |                        |
 |:-----------:|:------------:|:-------------:|
-| [**Mdm**&nbsp;**Hafiza Bte Ahssan**](mailto:hafiza_ahssan@moe.edu.sg)<br>**Year Head /Upper Primary**<br>Extn: *579* | [**Mdm Ou Yanxia**](mailto:ou_yanxia@moe.edu.sg)<br>**Asst Year Head / Upper Primary**<br>Extn: *573* |
-|     [**Mrs Siti Aisyah Sasikumar**](mailto:siti_aisyah_a@moe.edu.sg)<br>**Year Head / Middle Primary (Int)**<br>Extn: *572*    |  [**Mdm Nor Hazwani Bte Harun Rushid**](mailto:Nor_Hazwani_Harun_Rushid@moe.edu.sg)<br>**Asst Year Head / Middle Primary**<br>Extn:&nbsp;_578_
-| [**Mrs Lee Boon Kwang**](mailto:lee_boon_kwang@moe.edu.sg)<br>**Year Head / Lower Primary**<br>Extn: *570* |[**Mdm Ong Yan Joo**](mailto:ong_yan_joo@moe.edu.sg)<br>**Asst Year Head / Lower Primary**<br>Extn: *585*
+| [**Mdm**&nbsp;**Hafiza Bte Ahssan**](mailto:hafiza_ahssan@moe.edu.sg)<br>**Year Head - P3/P6**<br>Extn: *579* | [**Mdm Ou Yanxia**](mailto:ou_yanxia@moe.edu.sg)<br>**Asst Year Head - P6**<br>Extn: *573* |
+|     [**Mrs Siti Aisyah Sasikumar**](mailto:siti_aisyah_a@moe.edu.sg)<br>**Year Head - P4/P5**<br>Extn: *572*    |  [**Mdm Nor Hazwani Bte Harun Rushid**](mailto:Nor_Hazwani_Harun_Rushid@moe.edu.sg)<br>**Asst Year Head - P4**<br>Extn:&nbsp;_578_
+| [**Mrs Lee Boon Kwang**](mailto:lee_boon_kwang@moe.edu.sg)<br>**Year Head - P1/P2**<br>Extn: *570* |[**Mdm Ong Yan Joo**](mailto:ong_yan_joo@moe.edu.sg)<br>**Asst Year Head - P1**<br>Extn: *585*
 
 <center><b>LEVEL HEADS</b></center>
 
@@ -44,14 +44,14 @@ variant: markdown
 
 |                          |                 |                                     |
 |:---------:|:-----:|:---------------:|
-| [**Mdm Suriyana Bte Ghapari**](mailto:suriyana_ghapari@moe.edu.sg)<br>**Subject Head / Malay**<br>Extn: *581* |  | [**Mrs Siti Aisyah Sasikumar**](mailto:siti_aisyah_a@moe.edu.sg)<br>**Subject Head / Character Educatio**n<br>Extn: *572* |
+| [**Mdm Suriyana Bte Ghapari**](mailto:suriyana_ghapari@moe.edu.sg)<br>**Subject Head / Malay**<br>Extn: *581* |  | [**Mr Chua Liang Cun**](chai_jia_yan_gina@moe.edu.sg)<br>**Subject Head / Aesthetics**<br>_Extn: 571_  |
 |               [**Mdm Chai Jia Yan Gina**](mailto:chai_jia_yan_gina@moe.edu.sg)<br>**Subject Head / Art**<br>Extn: *583*                  |   |[**Mr Elliot Ang Yong Siang**](elliot_ang_yong_siang@moe.edu.sg)<br>**Subject Head / Student Management**<br>Extn:&nbsp;_564_ |
-|    [**Miss Jolene Tan Ying Jun**](mailto:jolene_tan_ying_jun@moe.edu.sg)<br>**Subject Head/PE &amp; CCA**<br>Extn: *580* ||[**Mr Chua Liang Cun**](chai_jia_yan_gina@moe.edu.sg)<br>**Subject Head / Aesthetics**<br>_Extn: 571_ 
+|    [**Miss Jolene Tan Ying Jun**](mailto:jolene_tan_ying_jun@moe.edu.sg)<br>**Subject Head/PE &amp; CCA**<br>Extn: *580* || 
 
 <center><b>LEAD TEACHERS/ SENIOR TEACHERS</b></center>
 
 |            |                    |          |
 |:----------:|:-------:|:------:|
-|    [**Mrs Tanuja Raj**](mailto:tanuja_k_k_chandran@moe.edu.sg)<br>**Lead Teacher / Tamil**<br>Extn: *506*    |     [**Mr Loo Teng Kiat**](mailto:loo_teng_kiat@moe.edu.sg)<br>**Lead Teacher / Music**<br>Extn: *511*      |      [**Mr Goh Boon Tiong**](mailto:goh_boon_tiong@moe.edu.sg)<br>**Senior Teacher / PE**<br>Extn: *513*      |
+|    [**Mrs Tanuja Raj**](mailto:tanuja_k_k_chandran@moe.edu.sg)<br>**Lead Teacher / Tamil**<br>Extn: *506*    |     [**Mdm Tay Jia Lin**](mailto:loo_teng_kiat@moe.edu.sg)<br>**Senior Teacher / Social Studies**<br>Extn: *568*      |      [**Mr Goh Boon Tiong**](mailto:goh_boon_tiong@moe.edu.sg)<br>**Senior Teacher / PE**<br>Extn: *513*      |
 |    [**Mdm Lem Li Kuen**](mailto:lem_li_kuen@moe.edu.sg)<br>**Senior Teacher / Art**<br>Extn: *518*   | [**Mr Zulkifli Bin Mansor**](mailto:zulkifli_mansor@moe.edu.sg)<br>**Senior Teacher / Science**<br>Extn: *524* | [**Miss Sabrina Bte Samsuri**](mailto:sabrina_samsuri@moe.edu.sg)<br>**Senior Teacher / Malay**<br>Extn: *505* |
-| [**Ms Chan May Ling**](mailto:chan_may_ling@moe.edu.sg)<br>**Lead Teacher / English**<br>Extn: *535* |   [**Miss Ding Caihong**](mailto:ding_caihong@moe.edu.sg)<br>**Senior Teacher / Chinese**<br>Extn: *502*   |                                                                 |
+| [**Ms Chan May Ling**](mailto:chan_may_ling@moe.edu.sg)<br>**Lead Teacher / English**<br>Extn: *535* |      |                                                                 |
