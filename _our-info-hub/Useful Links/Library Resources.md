@@ -32,6 +32,8 @@ variant: markdown
 <center>Parents Storytelling in the Library TERM 4: <a href="https://youtu.be/bmsVQyNGUds" target="_blank">https://youtu.be/bmsVQyNGUds</a></center>
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/bmsVQyNGUds" height="315" width="560"></iframe></center>
 
+<center>2025 School Library Highlights: <a href="https://youtu.be/LGBJL-br5Z8" target="_blank">https://youtu.be/LGBJL-br5Z8</a></center>
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/LGBJL-br5Z8" height="315" width="560"></iframe></center>
 
 
 #### **<center>Library Photo Wall ( Semester 1)</center>**
