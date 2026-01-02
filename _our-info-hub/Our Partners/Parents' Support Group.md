@@ -31,7 +31,6 @@ Mr Eddy Norisman
 
 
   
-**<center>To join the PSG, please scan the QR code below and register your details in the Link</center>**
-**<center>[ZHPS Parent Support Group (PSG) Registration](https://docs.google.com/forms/d/e/1FAIpQLSdnPccnw6g-_d0XE3asyGgnMrof7ju4cr3smNbaCgOJIbLC1w/viewform)</center>**
+**<center>To join the PSG, please scan the QR code below and register your details in the [Link](https://docs.google.com/forms/d/e/1FAIpQLSdnPccnw6g-_d0XE3asyGgnMrof7ju4cr3smNbaCgOJIbLC1w/viewform)</center>**
 
 <img src="/images/Our%20info%20hub/psg2022.png" style="width:40%"></center></center>
