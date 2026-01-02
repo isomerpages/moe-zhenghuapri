@@ -23,7 +23,7 @@ Vice-principal (Mr. Chan Kian Keong)
 
 **Teachers In-charge:**<br>
 Mdm Suriyana Bte Ghapari   
-Mdm Pan Jiayi   
+Mdm Yi Lei   
 Mr Eddy Norisman
 
         
