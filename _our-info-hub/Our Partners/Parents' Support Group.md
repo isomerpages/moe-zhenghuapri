@@ -17,8 +17,8 @@ Through quality partnership with the school and active collaboration with staff 
 We believe that Parents can be our valuable partners in contributing towards strengthening the holistic development of our children. Zhenghua Primary School would like to cordially invite you to be a member of the Parents Support Group (PSG). We strongly encourage you to play an active role in our school by becoming a PSG member to partner us in our efforts to develop our children to be the best that they can be.
 
 **PSG Advisors**<br>
-Principal (Mrs. Constance Loke)   
-Vice- principal (Ms. Santhana Mary)
+Principal (Mrs. May Wong)   
+Vice-principal (Mr. Chan Kian Keong)
 
 
 **Teachers In-charge:**<br>
