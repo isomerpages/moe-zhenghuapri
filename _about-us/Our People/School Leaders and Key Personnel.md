@@ -52,6 +52,6 @@ variant: markdown
 
 |            |                    |          |
 |:----------:|:-------:|:------:|
-|    [**Mrs Tanuja Raj**](mailto:tanuja_k_k_chandran@moe.edu.sg)<br>**Lead Teacher / Tamil**<br>Extn: *506*    |     [**Mdm Tay Jia Lin**](mailto:loo_teng_kiat@moe.edu.sg)<br>**Senior Teacher / Social Studies**<br>Extn: *568*      |      [**Mr Goh Boon Tiong**](mailto:goh_boon_tiong@moe.edu.sg)<br>**Senior Teacher / PE**<br>Extn: *513*      |
+|    [**Mrs Tanuja Raj**](mailto:tanuja_k_k_chandran@moe.edu.sg)<br>**Lead Teacher / Tamil**<br>Extn: *506*    |     [**Mdm Tay Jia Lin**](mailto:tay_jia_lin@moe.edu.sg)<br>**Senior Teacher / Social Studies**<br>Extn: *568*      |      [**Mr Goh Boon Tiong**](mailto:goh_boon_tiong@moe.edu.sg)<br>**Senior Teacher / PE**<br>Extn: *513*      |
 |    [**Mdm Lem Li Kuen**](mailto:lem_li_kuen@moe.edu.sg)<br>**Senior Teacher / Art**<br>Extn: *518*   | [**Mr Zulkifli Bin Mansor**](mailto:zulkifli_mansor@moe.edu.sg)<br>**Senior Teacher / Science**<br>Extn: *524* | [**Miss Sabrina Bte Samsuri**](mailto:sabrina_samsuri@moe.edu.sg)<br>**Senior Teacher / Malay**<br>Extn: *505* |
 | [**Ms Chan May Ling**](mailto:chan_may_ling@moe.edu.sg)<br>**Lead Teacher / English**<br>Extn: *535* |      |                                                                 |

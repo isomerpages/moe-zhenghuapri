@@ -5,11 +5,8 @@ description: ""
 third_nav_title: Information for Parents
 variant: markdown
 ---
-# School Term Calendar
+# 2026 School Calendar
 
-<center><b><u>Termly Calendar 2025</u></b></center>
+Please refer to the links below for the school's termly calendar.
 
-| Term 1 | Term 2 | Term 3 | Term 4 |
-|:---:|:---:|:---:|:---:|
-| [2025 Term 1 Calendar for Student](https://www.zhenghuapri.moe.edu.sg/our-info-hub/information-for-parents/school-calendar/) | [2025 Term 2 Calendar for Student](https://www.zhenghuapri.moe.edu.sg/our-info-hub/information-for-parents/school-calendar/) | [2025 Term 3 Calendar for Student](https://www.zhenghuapri.moe.edu.sg/our-info-hub/information-for-parents/school-calendar/) |[2025 Term 4 Calendar for Student](https://www.zhenghuapri.moe.edu.sg/our-info-hub/information-for-parents/school-calendar/)|
-|
+[Term 1 -4 Calendar](/files/Our%20Info%20Hub/Information%20for%20Parents/2026_Term_1_Calendar.pdf)
