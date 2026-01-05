@@ -12,8 +12,6 @@ variant: markdown
 <br clear="left">
 
 
-Dear Students, Parents and Friends of Zhenghua Primary School (ZHPS)
-
 Zhenghua Primary School is a school with a rich story – one shaped by dedicated educators and staff,
 supportive stakeholders and students who strive to be “the best that they (we) can be” (our school
 motto). It is with great honour and a deep sense of purpose that I join this school community as
