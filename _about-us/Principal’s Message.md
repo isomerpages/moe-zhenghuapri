@@ -8,7 +8,7 @@ variant: markdown
 
 
 <img src="/images/About%20us/mrs%20may%20wong.jpg" style="width:20%" align="left">
-<br clear="left"><br><br>
+<br clear="left"><br>
 Zhenghua Primary School is a school with a rich story – one shaped by dedicated educators and staff,
 supportive stakeholders and students who strive to be “the best that they (we) can be” (our school
 motto). It is with great honour and a deep sense of purpose that I join this school community as
