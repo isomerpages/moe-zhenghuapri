@@ -32,6 +32,6 @@ spaces that support students’ learning and development, while honouring and in
 that anchor our school community. Together, we will create opportunities for our students to discover
 their strengths, develop resilience and contribute positively to the community.<br>
 
-Thank you.<br>
+Thank you.<br><br>
 May Wong (Mrs)<br>
 Principal, Zhenghua Primary School
