@@ -30,9 +30,8 @@ As we look ahead, we will continue to strengthen teaching and learning through i
 collaboration and reflective practice. We will work together to make our classrooms dynamic learning
 spaces that support students’ learning and development, while honouring and inculcating the values
 that anchor our school community. Together, we will create opportunities for our students to discover
-their strengths, develop resilience and contribute positively to the community.<br><br>
+their strengths, develop resilience and contribute positively to the community.<br>
 
 Thank you.<br>
-
 May Wong (Mrs)<br>
 Principal, Zhenghua Primary School
