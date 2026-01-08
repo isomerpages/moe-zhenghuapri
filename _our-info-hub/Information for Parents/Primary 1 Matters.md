@@ -9,7 +9,9 @@ variant: markdown
 
 ### P1 First Day 2nd Jan 2026<br>
 
-
+[Principle's Address](/files/Our%20Info%20Hub/P1%20Matters/Principal_s_Address.pdf)<br>
+[Sharing by Assistant Year Head](/files/Our%20Info%20Hub/P1%20Matters/Sharing_by_Assistang_Year_Head.pdf)<br>
+[Sharing by Year Head](/files/Our%20Info%20Hub/P1%20Matters/Sharing_by_Year_Head.pdf)<br>
 
 ### P1 Orientation 2026<br>
 **Date: 24/11/2025 Monday<br>
