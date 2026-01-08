@@ -7,6 +7,10 @@ variant: markdown
 ---
 # Primary 1 Matters
 
+### P1 First Day 2nd Jan 2026<br>
+
+
+
 ### P1 Orientation 2026<br>
 **Date: 24/11/2025 Monday<br>
 Time: 2 to 3.30pm**
