@@ -16,5 +16,5 @@ variant: markdown
 | Mr Mohd Alighouse S/O Md Sidique<br>(Learning Behavioural Support)<br>Email: [mohd_alighouse_mohd_sidique@moe.edu.sg](mohd_alighouse_mohd_sidique@moe.edu.sg)<br>Extn: 526 |
 |                 Mrs Isabel Chan<br>(Teaching &amp; Learning)<br>Email: [isabel_lim_shiow_fond@moe.edu.sg](mailto:isabel_lim_shiow_fond@moe.edu.sg)<br>Extn: 540                 |
 |       Mdm Shilka Quraisha<br>(Learning Behavioural Support)<br>Email: [shilka_quraisha_shaiful_bahri@moe.edu.sg](mailto:shilka_quraisha_shaiful_bahri@moe.edu.sg)<br>Extn: 526      |
-|          Mdm Rasimah Mohamed Isa<br>(Learning Behavioural Support)<br>Email: [rasimah_mohamed_isa@moe.edu.sg](mailto:rasimah_mohamed_isa@moe.edu.sg)<br>Extn: 542         |
-|           Ms Siti Radhiana Agustina Binte Rohaini<br>(SEN)<br>Email: [siti_radhiana_agustina_roh@moe.edu.sg](mailto:siti_radhiana_agustina_roh@moe.edu.sg)<br>Extn: 541          |
+|          Mdm Rasimah Mohamed Isa<br>(Learning Behavioural Support)<br>Email: [rasimah_mohamed_isa@moe.edu.sg](mailto:rasimah_mohamed_isa@moe.edu.sg)<br>Extn: 525         |
+|           Ms Siti Radhiana Agustina Binte Rohaini<br>(SEN)<br>Email: [siti_radhiana_agustina_roh@moe.edu.sg](mailto:siti_radhiana_agustina_roh@moe.edu.sg)<br>Extn: 525          |
