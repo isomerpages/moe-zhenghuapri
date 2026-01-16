@@ -24,13 +24,13 @@ variant: markdown
 |     [**Mr Er Kim Hoe**](mailto:er_kim_hoe@moe.edu.sg)<br>**(HOD MTL)**<br>Extn: *301*    |            [**Mr Ng Teng Yik**](mailto:ng_teng_yik@moe.edu.sg)<br>**(SH SSD)**<br>Extn: *303*            |        [**Mdm Evelyn Yeo**](mailto:evelyn_andrewina_yeo@moe.edu.sg)<br>**(HOD ICT)**<br>Extn: *305*         |
 |    [**Mdm Lin Xiaojun**](mailto:lin_xiaojun@moe.edu.sg)<br>**(HOD CCE)**<br>Extn: *308*   | [**Miss Poon Mei Ming**](mailto:poon_mei_ming@moe.edu.sg)<br>**(HOD Curriculum &amp; Talent Development)**<br>Extn: *304* | [**Mr Eddy Norisman Ismail**](mailto:eddy_norisman_ismail@moe.edu.sg)<br>**(HOD Aesthetics)**<br>Extn: *309* |
 
-<center><b>YEAR HEADS / ASST YEAR HEADS</b></center>
+<center><b>YEAR HEADS / ASSISTANT YEAR HEADS</b></center>
 
 |            |                    |                        |
 |:-----------:|:------------:|:-------------:|
-| [**Mdm**&nbsp;**Hafiza Bte Ahssan**](mailto:hafiza_ahssan@moe.edu.sg)<br>**Year Head - P3/P6**<br>Extn: *579* | [**Mdm Ou Yanxia**](mailto:ou_yanxia@moe.edu.sg)<br>**Asst Year Head - P6**<br>Extn: *573* |
-|     [**Mrs Siti Aisyah Sasikumar**](mailto:siti_aisyah_a@moe.edu.sg)<br>**Year Head - P4/P5**<br>Extn: *572*    |  [**Mdm Nor Hazwani Bte Harun Rushid**](mailto:Nor_Hazwani_Harun_Rushid@moe.edu.sg)<br>**Asst Year Head - P4**<br>Extn:&nbsp;_578_
-| [**Mrs Lee Boon Kwang**](mailto:lee_boon_kwang@moe.edu.sg)<br>**Year Head - P1/P2**<br>Extn: *570* |[**Mdm Ong Yan Joo**](mailto:ong_yan_joo@moe.edu.sg)<br>**Asst Year Head - P1**<br>Extn: *585*
+| [**Mdm**&nbsp;**Hafiza Bte Ahssan**](mailto:hafiza_ahssan@moe.edu.sg)<br>**Year Head - P3/P6**<br>Extn: *579* | [**Mdm Ou Yanxia**](mailto:ou_yanxia@moe.edu.sg)<br>**Assistant Year Head - P6**<br>Extn: *573* |
+|     [**Mrs Siti Aisyah Sasikumar**](mailto:siti_aisyah_a@moe.edu.sg)<br>**Year Head - P4/P5**<br>Extn: *572*    |  [**Mdm Nor Hazwani Bte Harun Rushid**](mailto:Nor_Hazwani_Harun_Rushid@moe.edu.sg)<br>**Assistant Year Head - P4**<br>Extn:&nbsp;_578_
+| [**Mrs Lee Boon Kwang**](mailto:lee_boon_kwang@moe.edu.sg)<br>**Year Head - P1/P2**<br>Extn: *570* |[**Mdm Ong Yan Joo**](mailto:ong_yan_joo@moe.edu.sg)<br>**Assistant Year Head - P1**<br>Extn: *585*
 
 <center><b>LEVEL HEADS</b></center>
 
