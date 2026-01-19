@@ -3,10 +3,11 @@ title: Counselling Programme
 permalink: /zhps-experience/student-dev-and-well-being/counselling-programme/
 description: ""
 third_nav_title: Student Dev & Well Being
+variant: markdown
 ---
 # Counselling Programme
 
-## Counselling at Zhenghua Primary School  (HeartSpace@ ZHPS)
+## Counselling at Zhenghua Primary School&nbsp; (HeartSpace@ ZHPS)
 
 The counselling team is made up of counsellors and our Student Welfare Officer where we work in providing a safe environment for students to share their challenges and work through their social, emotional, behaviourial and mental health issues with us.
 
@@ -18,9 +19,9 @@ A School Counsellor supports students by helping them learn and use strategies t
 
 Counseling services are the heartbeat of ZhengHua Primary School . Counselors take a proactive, child-centered, and developmental approach in working with students, parents, and teachers. ZHPS counselors teach character education lessons, provide individual and help refer out for family counseling, facilitate small group workshops for students, have parent coffee sessions, do transitional programs, and coordinate student services in the school.
 
-<img src="/images/ZHPS%20Experience/Student%20Dev%20&%20Well%20Being/Counselling_1.jpg" style="width:85%">
+<img src="/images/ZHPS%20Experience/Student%20Dev%20&amp;%20Well%20Being/Counselling_1.jpg" style="width:85%">
 
-<img src="/images/ZHPS%20Experience/Student%20Dev%20&%20Well%20Being/Counselling_2.png" style="width:45%;margin-right:15px;" align = "left">
+<img src="/images/ZHPS%20Experience/Student%20Dev%20&amp;%20Well%20Being/Counselling_2.png" style="width:45%;margin-right:15px;" align="left">
 
 **An Overview of How we Work**<br>The counselling services in school are organised in a tiered system, beginning with first level intervention by teachers.<br><br>Second tier support are those cases requiring more specialised attention, referral is made by teachers to the Teacher Counsellors, Allied Educator (Counselling), Part Time School Counsellors, or external counsellors employed by the school.<br><br>Third Tier would be when students and families are supported with more intense intervention are referred to MOE Guidance Specialists or professional agencies, such REACH, NUH, NAMS , TOUCH, FSCs, MSF and many more
 
@@ -37,7 +38,7 @@ School counselling sessions can:
 *   Help students work on their self-acceptance, self-worth and confidence.
 *   Help students manage the challenges they face more effectively by enabling them to make choices for themselves
 
-<img src="/images/ZHPS%20Experience/Student%20Dev%20&%20Well%20Being/Counselling_3.jpg" style="width:50%">
+<img src="/images/ZHPS%20Experience/Student%20Dev%20&amp;%20Well%20Being/Counselling_3.jpg" style="width:50%">
 
 
 ## The Role of the Student Welfare Officer
@@ -50,14 +51,14 @@ A Student Welfare Officer assesses the needs of students with poor school attend
 **Referral to specialists or community agencies**<br>
 Students who require more intensive intervention will be referred to our Lead School Counsellors, Lead Student Welfare Officers or mental health professionals from our school network. These would include FSCs, MSF, REACH, NAMS, TOUCH.
 
-<img src="/images/counsellingprogramme1.jpg" style="width:50%;margin-right:15px;" align = "left">
+<img src="/images/counsellingprogramme1.jpg" style="width:50%;margin-right:15px;" align="left">
 
 <center>REMEMBER</center>
 Our school counsellors are available for you and want to make your school experience the best as enriching as it can be. You may be feeling uncomfortable with certain issues or are not doing as well in school as according to your expectations— and that's OK. The counsellors will try to help you figure out what's going on. It's also a good idea to know about counselling and what they school counsellors do even if you don't need any help right now.
 
 <br clear="left">
 
-<img src="/images/counsellingprogramme2.jpg" style="width:20%" align=left>
+<img src="/images/counsellingprogramme2.jpg" style="width:20%" align="left">
 
 <br clear="left">
 
@@ -73,27 +74,9 @@ You are also welcomed to walk into the counselling room to speak with the counse
 | School Anxieties | Low Motivation |
 |
 
-<center>Upcoming Events in ZHPS : Coffee Sessions</center>
 
-<img src="/images/counsellingprogramme3.jpg" style="width:30%;margin-left:55px;" align = "right">
 
-The counselling Team will be hosting Coffee Sessions with Parents as our SMM measure starts to relax. Parents will be notified vide PG. Do look out for your messages.<br>
-The sessions will cover topics of concern and also help to address concerns you may have.	
-
-<br clear="left">
-
-Programmes by the Counselling Team @ ZHPS focused on building and empowering students through engagement and motivation
-
-|  |  |  |
-|---|---|---|
-| Sakura | P3–P5 | Guidance and Support |
-| Rainbow Connections | P1–P2 | Friendship/Social Skills |
-| Screen on and Screen Off | Whole school | Guidance and Support |
-| Chapters | P6 | Transitions |
-| Crossroads | P6 | Coaching and Mentoring |
-|
-
-<img src="/images/counsellingprogramme4.jpg" style="width:15%" align=left>
+<img src="/images/counsellingprogramme4.jpg" style="width:15%" align="left">
 
 <br clear="left">
 
