@@ -6,7 +6,7 @@ variant: markdown
 ---
 ![](/images/MK%20Photos/MKOH_2026_Poster_QR_Code.jpg)<br>
 
-2026 MK REGISTRATION EXERCISE<br>
+**2026 MK REGISTRATION EXERCISE**<br>
 Details of the 2026 registration exercise will be updated by mid February 2026.<br>
 For more information on MK Open House and Registration Exercise, please visit [here](https://www.moe.gov.sg/preschool/moe-kindergarten/register)
 
