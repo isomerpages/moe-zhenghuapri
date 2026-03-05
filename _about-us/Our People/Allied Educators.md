@@ -11,7 +11,6 @@ variant: markdown
 
 |                                                                                                                                  |
 |:--------------------------------------------------------------------------------------------------------------------------------:|
-|              Ms Toh Mui Hua Catherine<br>(School Counsellor)<br>Email: [toh_mui_hua_catherine@moe.edu.sg](mailto:toh_mui_hua_catherine@moe.edu.sg)<br>Extn: 574             |
 |              Ms Nurul Intan Binte Ramlee<br>(School Counsellor)<br>Email: [nurul_intan_ramlee@moe.edu.sg](mailto:nurul_intan_ramlee@moe.edu.sg)<br>Extn: 574             |
 | Mr Mohd Alighouse S/O Md Sidique<br>(Learning Behavioural Support)<br>Email: [mohd_alighouse_mohd_sidique@moe.edu.sg](mohd_alighouse_mohd_sidique@moe.edu.sg)<br>Extn: 526 |
 |                 Mrs Isabel Chan<br>(Teaching &amp; Learning)<br>Email: [isabel_lim_shiow_fond@moe.edu.sg](mailto:isabel_lim_shiow_fond@moe.edu.sg)<br>Extn: 540                 |
