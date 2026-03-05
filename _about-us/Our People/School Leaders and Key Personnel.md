@@ -5,18 +5,19 @@ description: ""
 third_nav_title: Our People
 variant: markdown
 ---
-## School Leaders and Key Personnel
+### School Leaders and Key Personnel
 
-|   | SCHOOL LEADERS  |   |
-|:---:|:---:|:---:|
+
+<center><b>SCHOOL LEADERS</b></center>
+
+|            |                |                         |
+|:-----------:|:-------------:|:-----------:|
 |   |  [**Mrs May Wong**](mailto:may_tmg@moe.edu.sg)<br>**Principal**<br>may_tmg@moe.edu.sg |   |
 | [**Mrs Josephine Lim**](mailto:sng_yee_yee@moe.edu.sg)<br>**Vice-Principal (Acad)**<br>sng_yee_yee@moe.edu.sg  | [**Mr Chan Kian Keong**](mailto:chan_kian_keong@moe.edu.sg)<br>**Vice-Principal (Acad)**<br>chan_kian_keong@moe.edu.sg  | [**Mdm Winnie Ho**](mailto:ho_yee_hin_winnie@moe.edu.sg)<br>**Vice-Principal(Admin)**<br>ho_yee_hin_winnie@moe.edu.sg |
 
 
-<center>To contact the respective staff below<br>please call 67697478 followed by the Extension No.</center>
-
 <center><b>HEADS OF DEPARTMENT</b></center>
-	
+
 |            |                |                         |
 |:-------------:|:------------:|:-----------:|
 | [**Mdm Lim Lay Chin**](mailto:lim_lay_chin@moe.edu.sg)<br>**(HOD English)**<br>Extn: *302* |           [**Mdm Chai Huel Leng**](mailto:chai_huel_leng@moe.edu.sg)<br>**(HOD Mathematics)**<br>Extn: *307*           |        [**Mr Alex Chew**](mailto:chew_wei_leck_alex@moe.edu.sg)<br>**(HOD Science)**<br>Extn: *306*        |
