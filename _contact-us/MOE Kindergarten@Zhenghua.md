@@ -4,9 +4,7 @@ permalink: /moe-kindergarten-zhenghua/
 variant: markdown
 description: ""
 ---
-
-
-MOE Kindergarten @ Zhenghua    
+#### MOE Kindergarten @ Zhenghua    
 9 Fajar Road   
 Singapore 679002
 
