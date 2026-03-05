@@ -4,7 +4,7 @@ permalink: /moe-kindergarten-zhenghua/
 variant: markdown
 description: ""
 ---
-# Contact Us
+
 
 MOE Kindergarten @ Zhenghua    
 9 Fajar Road   
