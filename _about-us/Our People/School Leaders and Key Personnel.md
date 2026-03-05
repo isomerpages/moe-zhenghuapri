@@ -11,7 +11,6 @@ variant: markdown
 |:---:|:---:|:---:|
 |   |  [**Mrs May Wong**](mailto:may_tmg@moe.edu.sg)<br>**Principal**<br>may_tmg@moe.edu.sg |   |
 | [**Mrs Josephine Lim**](mailto:sng_yee_yee@moe.edu.sg)<br>**Vice-Principal (Acad)**<br>sng_yee_yee@moe.edu.sg  | [**Mr Chan Kian Keong**](mailto:chan_kian_keong@moe.edu.sg)<br>**Vice-Principal (Acad)**<br>chan_kian_keong@moe.edu.sg  | [**Mdm Winnie Ho**](mailto:ho_yee_hin_winnie@moe.edu.sg)<br>**Vice-Principal(Admin)**<br>ho_yee_hin_winnie@moe.edu.sg |
-|
 
 
 <center>To contact the respective staff below<br>please call 67697478 followed by the Extension No.</center>
@@ -37,7 +36,7 @@ variant: markdown
 |                   |                           |                      |
 |:---------:|:------------:|:-------:|
 | [**Ms Lee Wei Ai**](mailto:lee_wei_ai@moe.edu.sg)<br>**Level Head / English**<br>Extn: *577* | [**Mdm Tan Phaik See**](mailto:tan_phaik_see@moe.edu.sg)<br>**Level Head / Chinese**<br>Extn: *586* | [**Mr Fadil Bin Abdul Rahman**](mailto:fadil_abdul_rahman@moe.edu.sg)<br>**Level Head / Science**<br>Extn: *584* |
-|&nbsp;[**Miss Lim Wan Xin Grace**](mailto:lim_wan_xin_grace@moe.edu.sg)<br>**Level Head /Mathematics (Int)**<br>_Extn: 517_
+|&nbsp;[**Miss Lim Wan Xin Grace**](mailto:lim_wan_xin_grace@moe.edu.sg)<br>**Level Head /Mathematics (Int)**<br>_Extn: 517_ |  |  |
 
 
 <center><b>SUBJECT HEADS</b></center>
