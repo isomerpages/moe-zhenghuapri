@@ -16,5 +16,5 @@ Website:&nbsp;<a href="https://zhenghuapri.moe.edu.sg/" target="_blank">https://
 YouTube:&nbsp;<a href="https://www.youtube.com/c/ZhenghuaPrimarySchool" target="_blank">https://www.youtube.com/c/ZhenghuaPrimarySchool</a>
   
 
-MOE Kindergarten General Office Operating Hours:    
-7.30am – 4.30pm 
+General Office Operating Hours:    
+7.30am – 4.30pm
