@@ -9,7 +9,7 @@ variant: markdown
 
 |   | SCHOOL LEADERS  |   |
 |:---:|:---:|:---:|
-|   |  [**Mrs May Wong**](mailto:may_tmg@moe.edu.sg)<br>**Principal**<br>May_tmg@moe.edu.sg |   |
+|   |  [**Mrs May Wong**](mailto:may_tmg@moe.edu.sg)<br>**Principal**<br>may_tmg@moe.edu.sg |   |
 | [**Mrs Josephine Lim**](mailto:sng_yee_yee@moe.edu.sg)<br>**Vice-Principal (Acad)**<br>sng_yee_yee@moe.edu.sg  | [**Mr Chan Kian Keong**](mailto:chan_kian_keong@moe.edu.sg)<br>**Vice-Principal (Acad)**<br>chan_kian_keong@moe.edu.sg  | [**Mdm Winnie Ho**](mailto:ho_yee_hin_winnie@moe.edu.sg)<br>**Vice-Principal(Admin)**<br>ho_yee_hin_winnie@moe.edu.sg |
 |   |   |   |
 
@@ -52,6 +52,6 @@ variant: markdown
 
 |            |                    |          |
 |:----------:|:-------:|:------:|
-|    [**Mrs Tanuja Raj**](mailto:tanuja_k_k_chandran@moe.edu.sg)<br>**Lead Teacher / Tamil**<br>Extn: *506*    |     [**Mdm Tay Jia Lin**](mailto:tay_jia_lin@moe.edu.sg)<br>**Senior Teacher / Social Studies**<br>Extn: *568*      |      [**Mr Goh Boon Tiong**](mailto:goh_boon_tiong@moe.edu.sg)<br>**Senior Teacher / PE**<br>Extn: *513*      |
+|    [**Mrs Tanuja Raj**](mailto:tanuja_k_k_chandran@moe.edu.sg)<br>**Lead Teacher / Tamil**<br>Extn: *506*    |   [**Ms Chan May Ling**](mailto:chan_may_ling@moe.edu.sg)<br>**Lead Teacher / English**<br>Extn: *535*     |      [**Mr Goh Boon Tiong**](mailto:goh_boon_tiong@moe.edu.sg)<br>**Senior Teacher / PE**<br>Extn: *513*      |
 |    [**Mdm Lem Li Kuen**](mailto:lem_li_kuen@moe.edu.sg)<br>**Senior Teacher / Art**<br>Extn: *518*   | [**Mr Zulkifli Bin Mansor**](mailto:zulkifli_mansor@moe.edu.sg)<br>**Senior Teacher / Science**<br>Extn: *524* | [**Miss Sabrina Bte Samsuri**](mailto:sabrina_samsuri@moe.edu.sg)<br>**Senior Teacher / Malay**<br>Extn: *505* |
-| [**Ms Chan May Ling**](mailto:chan_may_ling@moe.edu.sg)<br>**Lead Teacher / English**<br>Extn: *535* |      |                                                                 |
+| [**Mdm Tay Jia Lin**](mailto:tay_jia_lin@moe.edu.sg)<br>**Senior Teacher / Social Studies**<br>Extn: *568*  |       |                                                                   |
