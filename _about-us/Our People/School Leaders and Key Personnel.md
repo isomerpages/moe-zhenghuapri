@@ -16,12 +16,12 @@ variant: markdown
 
 <center>To contact the respective staff below<br>please call 67697478 followed by the Extension No.</center>
 
-<center><b>HEAD OF THE DEPARTMENTS</b></center>
+<center><b>HEADS OF DEPARTMENT</b></center>
 	
 |            |                |                         |
 |:-------------:|:------------:|:-----------:|
 | [**Mdm Lim Lay Chin**](mailto:lim_lay_chin@moe.edu.sg)<br>**(HOD English)**<br>Extn: *302* |           [**Mdm Chai Huel Leng**](mailto:chai_huel_leng@moe.edu.sg)<br>**(HOD Mathematics)**<br>Extn: *307*           |        [**Mr Alex Chew**](mailto:chew_wei_leck_alex@moe.edu.sg)<br>**(HOD Science)**<br>Extn: *306*        |
-|     [**Mr Er Kim Hoe**](mailto:er_kim_hoe@moe.edu.sg)<br>**(HOD MTL)**<br>Extn: *301*    |            [**Mr Ng Teng Yik**](mailto:ng_teng_yik@moe.edu.sg)<br>**(SH SSD)**<br>Extn: *303*            |        [**Mdm Evelyn Yeo**](mailto:evelyn_andrewina_yeo@moe.edu.sg)<br>**(HOD ICT)**<br>Extn: *305*         |
+|     [**Mr Er Kim Hoe**](mailto:er_kim_hoe@moe.edu.sg)<br>**(HOD MTL)**<br>Extn: *301*    |            [**Mr Ng Teng Yik**](mailto:ng_teng_yik@moe.edu.sg)<br>**(SSD)**<br>Extn: *303*            |        [**Mdm Evelyn Yeo**](mailto:evelyn_andrewina_yeo@moe.edu.sg)<br>**(HOD ICT)**<br>Extn: *305*         |
 |    [**Mdm Lin Xiaojun**](mailto:lin_xiaojun@moe.edu.sg)<br>**(HOD CCE)**<br>Extn: *308*   | [**Miss Poon Mei Ming**](mailto:poon_mei_ming@moe.edu.sg)<br>**(HOD Curriculum &amp; Talent Development)**<br>Extn: *304* | [**Mr Eddy Norisman Ismail**](mailto:eddy_norisman_ismail@moe.edu.sg)<br>**(HOD Aesthetics)**<br>Extn: *309* |
 
 <center><b>YEAR HEADS / ASSISTANT YEAR HEADS</b></center>
