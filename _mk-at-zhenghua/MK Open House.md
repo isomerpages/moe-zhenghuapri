@@ -11,7 +11,7 @@ Open to Singapore Citizen and Permanent Resident children born between 2 Jan 202
 
 [MK Open House 2026 Slides](/files/MK/MKZH_Open_House_2026.pdf)<br>
 
-<a href="/files/MK/MKZH_Open_House_2026.pdf" target="_blank"> <img src="/images/MK%20Photos/MK_Open_House_2026.jpg" style="width:100%"></a>
+<a href="https://www.zhenghuapri.moe.edu.sg/mk-at-zhenghua/mk-open-house/" target="_blank"> <img src="/images/MK%20Photos/MK_Open_House_2026.jpg" style="width:100%"></a>
 
 
 #### A Day at our MK
