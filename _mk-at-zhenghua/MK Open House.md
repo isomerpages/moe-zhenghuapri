@@ -4,13 +4,12 @@ permalink: /mk-at-zhenghua/mk-open-house/
 description: ""
 variant: markdown
 ---
-![](/images/MK%20Photos/MKOH_2026_Poster_QR_Code.jpg)<br>
+#### 2026 MK REGISTRATION EXERCISE<br>
+Online registration for 2027 K1 admissions will open from 9 a.m. on Monday, 23 March 2026 and close at 4.30 p.m. on Tuesday, 31 March 2026.<br>
+Register your child at [https://go.gov.sg/mk-register](https://go.gov.sg/mk-register ) during the registration period.<br>
+Open to Singapore Citizen and Permanent Resident children born between 2 Jan 2022 and 1 Jan 2023 (both dates inclusive). <br>
 
-**2026 MK REGISTRATION EXERCISE**<br>
-Details of the 2026 registration exercise will be updated by mid February 2026.<br>
-For more information on MK Open House and Registration Exercise, please visit [here](https://www.moe.gov.sg/preschool/moe-kindergarten/register)
-
-[Click here to sign up for Open House](https://mkzh-openhouse2026.app.entry.gov.sg/form/6739fade-d1f2-4bc3-9aeb-704152a9bf7b )<br>
+##### [MK Open House 2026 Slides](/files/MK/MKZH_Open_House_2026.pdf)<br>
 
 
 
