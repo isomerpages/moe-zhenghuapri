@@ -6,7 +6,7 @@ variant: markdown
 ---
 #### 2026 MK REGISTRATION EXERCISE<br>
 Online registration for 2027 K1 admissions will open from 9 a.m. on Monday, 23 March 2026 and close at 4.30 p.m. on Tuesday, 31 March 2026.<br>
-Register your child at https://go.gov.sg/mk-register [Click Here](https://go.gov.sg/mk-register )during the registration period.<br>
+Register your child at [https://go.gov.sg/mk-register](https://go.gov.sg/mk-register ) during the registration period.<br>
 Open to Singapore Citizen and Permanent Resident children born between 2 Jan 2022 and 1 Jan 2023 (both dates inclusive). <br>
 
 ##### [MK Open House 2026 Slides](/files/MK/MKZH_Open_House_2026.pdf)<br>
