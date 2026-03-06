@@ -11,7 +11,7 @@ Open to Singapore Citizen and Permanent Resident children born between 2 Jan 202
 
 [MK Open House 2026 Slides](/files/MK/MKZH_Open_House_2026.pdf)
 
-
+<a href="/files/MK/MKZH_Open_House_2026.pdf" target="_blank"> <img src="/images/Our%20info%20hub/sdl%20infographic.jpg" style="width:100%"></a>
 
 #### A Day at our MK
 <p></p><div class="iframe-wrapper">
