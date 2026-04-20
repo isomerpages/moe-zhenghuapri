@@ -15,5 +15,4 @@ variant: markdown
 |  5 HY | Mdm Evelyn Yeo Wan Gek <br>[evelyn_andrewina_yeo@moe.edu.sg](mailto:evelyn_andrewina_yeo@moe.edu.sg)<br>Extn: 305  |         Mdm Thanalaxshmi <br>[thanalaxshmi_sellakumaran@moe.edu.sg](mailto:thanalaxshmi_sellakumaran@moe.edu.sg)<br>Extn: 523           
 |  5 IN |  Mr Herman Bin Ismail<br>[herman_ismail@moe.edu.sg](mailto:herman_ismail@moe.edu.sg)<br>Extn: 523        |   Toh Soo Leng (Mrs Yeong Soo Leng) <br>[toh_soo_leng@moe.edu.sg](mailto:toh_soo_leng@moe.edu.sg)<br>Extn: 524         |
 |  5 IY | Mdm Arianna Bte Mohd Basari<br>[arianna_mohamed_basari@moe.edu.sg](mailto:arianna_mohamed_basari@moe.edu.sg)<br>Extn: 540      |  Mr Joseph See Chor Hoe<br>[see_chor_hoe@moe.edu.sg](mailto:see_chor_hoe@moe.edu.sg)<br>Extn: 565  
-|  5 RE |Mdm Chai Jia Yan Gina<br>[chai_jia_yan_gina@moe.edu.sg](mailto:chai_jia_yan_gina@moe.edu.sg)<br>Extn: 530          |  Mdm Siti Manisah Bte As'at<br>[siti_manisah_asat@moe.edu.sg](mailto:siti_manisah_asat@moe.edu.sg)<br>Extn: 523    |
-|  5 RE |      Mr Sulaiman Bin Jaffar<br>[sulaiman_jaffar@moe.edu.sg](mailto:sulaiman_jaffar@moe.edu.sg)<br>Extn: 529      |
+|  5 RE |Mr Sulaiman Bin Jaffar<br>[sulaiman_jaffar@moe.edu.sg](mailto:sulaiman_jaffar@moe.edu.sg)<br>Extn: 529          |  Mdm Siti Manisah Bte As'at<br>[siti_manisah_asat@moe.edu.sg](mailto:siti_manisah_asat@moe.edu.sg)<br>Extn: 523    |
