@@ -47,7 +47,7 @@ variant: markdown
 | Mdm Rashidah (IC)<br>Mdm Pan Jiayi (AIC)<br>Mdm Khor Mei Zhen<br>Mdm Rohimah<br><br>Advisor: Mdm Hazwani |
 |
 
-[Talent Art](/performing-and-visual-arts/telent-art/)
+[Talent Art](/performing-and-visual-arts/talent-art/)
 --------------------
 
 | Teachers-in-charge |
