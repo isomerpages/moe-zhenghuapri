@@ -49,7 +49,7 @@ Students
 
 <img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_9.jpg" style="width:50%">
 
-## Key pedagogical approach
+## Key Pedagogical Approach
 
 The ALP involves students in inter-disciplinary, inquiry-based learning, design thinking and value creation to address problems related to sustainable living in authentic home, school and community contexts.
 
