@@ -12,13 +12,13 @@ The ALP at Zhenghua Primary brings to the fore, the core issue of sustainable li
 
 <img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_1.jpg" style="width:75%">
 
-## Desired Outcomes of ALP
+### Desired Outcomes of ALP
 
 *   Joy of learning and students’ engagement
 *   Development of students’ 21st Century Competencies and sense of agency
 *   Greater awareness among students about the importance of sustainable living
 
-## School-wide Programme
+### School-wide Programme
 
 The ALP is a school-wide initiative which taps on different window periods across the year. The themes progressively spiral as the students move from one level to the next.
 
@@ -49,7 +49,7 @@ Students
 
 <img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_9.jpg" style="width:50%">
 
-## Key Pedagogical Approach
+### Key Pedagogical Approach
 
 The ALP involves students in inter-disciplinary, inquiry-based learning, design thinking and value creation to address problems related to sustainable living in authentic home, school and community contexts.
 
@@ -59,7 +59,7 @@ The design thinking frame is used to support students in the process. On their A
 
 <img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_10.png" style="width:50%">
 
-## T(h)inker Space
+### T(h)inker Space
 
 Selected ALP activities are carried out in the T(h)inker Space equipped with tinkering tools and materials. The space seeks to allow for brainstorming, collaboration and tinkering to take place. It is an area where students immerse themselves as Thinkers and subsequently Tinkers. As a Thinker, they brainstorm new and interesting ideas. As a Tinker, they engage in the making process, working with their value creation in an experimental manner.
 
@@ -68,7 +68,7 @@ Selected ALP activities are carried out in the T(h)inker Space equipped with tin
 
 <br clear="left">
 
-## Value Creations
+### Value Creations
 
 We believe that our students have a voice and are never too young to make a difference. They advocate for their cause using their skills in the Technology and the Creative Arts domains. Each of them play their role as a concerned citizen and an active contributor when they express their innovative ideas, hopes and dreams for the future of sustainable living through their value-creations.
 
@@ -102,6 +102,6 @@ We believe that our students have a voice and are never too young to make a diff
 
 <br clear="left">
 
-## Tier 2 ALP - Greenovation Club
+### Tier 2 ALP - Greenovation Club
 
 The Greenovation Club was established in 2022. The CCA has a twin focus on green efforts and innovative practices. We welcome students who have a passion in championing for a cause in sustainable living and would like to improve the current state of affairs through innovating. In the CCA, they are exposed to STEM and tinkering activities through their commitment and participation in competitions and showcases. In the long run, we hope to nurture environment enthusiasts and solution-aspiring individuals.
