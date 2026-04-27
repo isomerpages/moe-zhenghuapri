@@ -9,6 +9,9 @@ sections:
   - hero:
       background: /images/HP9.png
       key_highlights:
+        - title: Achievements
+          description: ""
+          url: /zps/achievements/
         - title: Announcements
           description: ""
           url: /zps/announcements/
