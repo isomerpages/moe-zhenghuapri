@@ -5,7 +5,18 @@ description: ""
 third_nav_title: Useful Links
 variant: markdown
 ---
-## Financial Assistance
+### MOE Financial Assistance Scheme (FAS) 2026
 
-New updates are on the way.<br>
-Thank you for your patience.
+The Ministry of Education (MOE) provides financial assistance to needy Singapore Citizen students studying in Government and Government-aided schools.
+This ensures that all Singaporeans, regardless of background, can benefit fully from education.
+
+For more information, please refer to the
+
+If you wish to apply for MOE Financial Assistance Scheme, you can submit your application .
+
+Eligibility Criteria <br>
+| ------- | ---------- |
+|Criterion | Eligibility Ceiling |
+
+
+
