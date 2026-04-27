@@ -11,7 +11,8 @@ variant: markdown
 | -------- | -------- |
 | Tan Koon Sheng     | Chairman     |
 | Lim Jia Yan Edna     | Vice-Chairman     |
+| Kuang Lijie   | Hon. Treasurer  |
 | Chew Hwee Inn Irene     | Member     |
 | Wee Harn Ing     | Member     |
 | Mark Ng     | Member     |
-|
+| Haniman Boniran | Member |
