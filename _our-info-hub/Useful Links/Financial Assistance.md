@@ -21,6 +21,7 @@ If you wish to apply for MOE Financial Assistance Scheme, you can submit your ap
 |:---------:|:----------:|
 | Gross Household Income (GHI) | $4,000 and below  |
 | Per Capita Income (PCI)  | $1,000 and below  |
+|    |    |
 
 *Per Capita Income (PCI) = Total Gross Monthly Household Income ÷ Number of Household Members<br>
 *Only **Singapore Citizen** students are eligible.
