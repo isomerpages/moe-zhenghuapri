@@ -10,7 +10,8 @@ variant: markdown
 The Ministry of Education (MOE) provides financial assistance to needy Singapore Citizen students studying in Government and Government-aided schools.
 This ensures that all Singaporeans, regardless of background, can benefit fully from education.
 
-For more information, please refer to the
+For more information, please refer to the <br>
+
 
 If you wish to apply for MOE Financial Assistance Scheme, you can submit your application .
 
