@@ -36,7 +36,7 @@ variant: markdown
 
 | Teachers-in-charge |
 |---|
-| Mdm Lim Pui Yee (IC)<br>Mdm Jayanthi (AIC)<br>Mdm Tan Phaik See<br>Ms Toh<br><br>Advisor: Mdm Hafiza |
+| Mdm Lim Pui Yee (IC)<br>Mdm Jayanthi (AIC)<br>Mdm Tan Phaik See<br>Ms Toh Soo Wah<br><br>Advisor: Mdm Hafiza Bte Ahssan |
 |
 
 [Malay Dance](/performing-and-visual-arts/malay-dance)
