@@ -15,8 +15,5 @@ For more information, please refer to the
 If you wish to apply for MOE Financial Assistance Scheme, you can submit your application .
 
 Eligibility Criteria <br>
-| ------- | ---------- |
+| :-------: | :----------: |
 |Criterion | Eligibility Ceiling |
-
-
-
