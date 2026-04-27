@@ -40,5 +40,3 @@ Students under the MOE FAS will receive the following support:
 
 ![](/images/Our%20info%20hub/Useful%20Links/FAS_2026.jpg)
 
-#### **HOW TO APPLY**
-
