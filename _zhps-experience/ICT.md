@@ -36,7 +36,7 @@ Under the EdTech Masterplan 2030, the “Find, Think, Apply, Create” framework
 
 ![](/images/ZHPS%20Experience/ICT/ICTProgram3.jpg)
 
-#### 9 Digital Competencies covers:
+#### 9 Digital Competencies cover:
 
 **1.Digital Safety &amp; Security**<br>
 Understanding of online behaviour and awareness of how to protect oneself in the online space.<br>
@@ -106,4 +106,3 @@ Non-compliance with the above will lead to disciplinary action in accordance wit
 15.	You should avoid excessive use of your devices outside learning hours.<br>
 16.	You should take regular breaks to rest your eyes and mind.<br>
 17.	You are reminded to practice good sleep hygiene by not using your devices one hour before bedtime.
-
