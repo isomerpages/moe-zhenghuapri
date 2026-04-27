@@ -28,7 +28,7 @@ variant: markdown
 
 | Teachers-in-charge |
 |---|
-| Ms Claudia Wong (IC)<br>Mdm Thanalaxishmi (AIC)<br>Ms Jacqueline Tan<br>Teacher K<br><br>Advisor: Mdm Ong Yan Joo |
+| Ms Claudia Wong (IC)<br>Mdm Thanalaxishmi (AIC)<br>Ms Jacqueline Tan<br><br>Advisor: Mdm Ong Yan Joo |
 |
 
 [Indian Dance](/performing-and-visual-arts/indian-dance)
