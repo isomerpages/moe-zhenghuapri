@@ -36,7 +36,7 @@ Students under the MOE FAS will receive the following support:
 * **Free textbooks and school attire**
 * **Meal and transport subsidies** (depending on level)
 
-**For the full breakdown of benefits**, refer to the MOE Financial Assistance Scheme pamphlet below.
+**For the full breakdown of benefits**, refer to the MOE Financial Assistance Scheme pamphlet 
+[MOE FAS Pamphlet](/files/Our%20Info%20Hub/Useful%20Links/MOE_FAS_Pamphlet_EL.pdf)
 
 ![](/images/Our%20info%20hub/Useful%20Links/FAS_2026.jpg)
-
