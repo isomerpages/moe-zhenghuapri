@@ -15,5 +15,7 @@ For more information, please refer to the
 If you wish to apply for MOE Financial Assistance Scheme, you can submit your application .
 
 Eligibility Criteria <br>
-| :-------: | :----------: |
-|Criterion | Eligibility Ceiling |
+| Criterion | Eligibility Ceiling |
+|:---------:|:----------:|
+| Gross Household Income (GHI) | $4,000 and below  |
+| Per Capita Income (PCI)  | $1,000 and below  |
