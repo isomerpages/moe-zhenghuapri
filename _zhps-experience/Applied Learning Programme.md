@@ -2,10 +2,11 @@
 title: Applied Learning Programme
 permalink: /zhps-experience/applied-learning-programme/
 description: ""
+variant: markdown
 ---
 # Applied Learning Programme
 
-## About ZHPS Applied Learning Programme (ALP)
+## Applied Learning Programme (ALP) @ ZHPS
 
 The ALP at Zhenghua Primary brings to the fore, the core issue of sustainable living. We aim to develop “Advocates and Innovators for Sustainable Living” through our school’s ALP. It involves students in interdisciplinary inquiry-based learning, design thinking and value creation to address authentic problems related to sustainable living in collaboration with community partners.
 
@@ -31,18 +32,18 @@ Students
 *   go on (virtual) learning journeys, make observations, collect and analyse data
 *   apply their knowledge and skills to create new value through advocacy and innovation
 
-<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_3.jpg" style="width:40%;margin-left:65px;" align = "left">
-<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_4.png" style="width:40%;margin-right:65px;" align = "right">
+<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_3.jpg" style="width:40%;margin-left:65px;" align="left">
+<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_4.png" style="width:40%;margin-right:65px;" align="right">
 
 <br clear="left">
 
-<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_5.jpg" style="width:40%;margin-left:65px;" align = "left">
-<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_6.jpg" style="width:40%;margin-right:65px;" align = "right">
+<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_5.jpg" style="width:40%;margin-left:65px;" align="left">
+<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_6.jpg" style="width:40%;margin-right:65px;" align="right">
 
 <br clear="left">
 
-<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_7.jpg" style="width:40%;margin-left:65px;" align = "left">
-<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_8.jpg" style="width:40%;margin-right:65px;" align = "right">
+<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_7.jpg" style="width:40%;margin-left:65px;" align="left">
+<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_8.jpg" style="width:40%;margin-right:65px;" align="right">
 
 <br clear="left">
 
@@ -62,8 +63,8 @@ The design thinking frame is used to support students in the process. On their A
 
 Selected ALP activities are carried out in the T(h)inker Space equipped with tinkering tools and materials. The space seeks to allow for brainstorming, collaboration and tinkering to take place. It is an area where students immerse themselves as Thinkers and subsequently Tinkers. As a Thinker, they brainstorm new and interesting ideas. As a Tinker, they engage in the making process, working with their value creation in an experimental manner.
 
-<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_11.png" style="width:38%;margin-left:65px;" align = "left">
-<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_12.png" style="width:43%;margin-right:65px;" align = "right">
+<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_11.png" style="width:38%;margin-left:65px;" align="left">
+<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_12.png" style="width:43%;margin-right:65px;" align="right">
 
 <br clear="left">
 
@@ -71,33 +72,33 @@ Selected ALP activities are carried out in the T(h)inker Space equipped with tin
 
 We believe that our students have a voice and are never too young to make a difference. They advocate for their cause using their skills in the Technology and the Creative Arts domains. Each of them play their role as a concerned citizen and an active contributor when they express their innovative ideas, hopes and dreams for the future of sustainable living through their value-creations.
 
-<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_13.png" style="width:40%;margin-left:65px;" align = "left">
-<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_14.png" style="width:40%;margin-right:65px;" align = "right">
+<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_13.png" style="width:40%;margin-left:65px;" align="left">
+<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_14.png" style="width:40%;margin-right:65px;" align="right">
 
 <br clear="left">
 
-<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_15.jpg" style="width:40%;margin-left:65px;" align = "left">
-<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_16.jpg" style="width:40%;margin-right:65px;" align = "right">
+<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_15.jpg" style="width:40%;margin-left:65px;" align="left">
+<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_16.jpg" style="width:40%;margin-right:65px;" align="right">
 
 <br clear="left">
 
-<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_17.png" style="width:40%;margin-left:65px;" align = "left">
-<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_18.jpg" style="width:40%;margin-right:65px;" align = "right">
+<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_17.png" style="width:40%;margin-left:65px;" align="left">
+<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_18.jpg" style="width:40%;margin-right:65px;" align="right">
 
 <br clear="left">
 
-<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_19.jpg" style="width:43%;margin-left:65px;" align = "left">
-<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_21.jpg" style="width:38%;margin-right:65px;" align = "right">
+<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_19.jpg" style="width:43%;margin-left:65px;" align="left">
+<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_21.jpg" style="width:38%;margin-right:65px;" align="right">
 
 <br clear="left">
 
-<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_20.jpg" style="width:26%;margin-left:65px;" align = "left">
-<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_22.jpg" style="width:55%;margin-right:65px;" align = "right">
+<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_20.jpg" style="width:26%;margin-left:65px;" align="left">
+<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_22.jpg" style="width:55%;margin-right:65px;" align="right">
 
 <br clear="left">
 
-<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_23.jpg" style="width:52%;margin-left:65px;" align = "left">
-<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_24.jpg" style="width:29%;margin-right:65px;" align = "right">
+<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_23.jpg" style="width:52%;margin-left:65px;" align="left">
+<img src="/images/ZHPS%20Experience/Applied%20Learning%20Programme/ALP_24.jpg" style="width:29%;margin-right:65px;" align="right">
 
 <br clear="left">
 
