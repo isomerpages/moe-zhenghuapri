@@ -16,7 +16,7 @@ For more information, please refer to:<br>
 
 If you wish to apply for MOE Financial Assistance Scheme, you can submit your application .
 
-### Eligibility Criteria <br>
+### **Eligibility Criteria** <br>
 
 
 | Criterion | Eligibility Ceiling |
@@ -28,7 +28,7 @@ If you wish to apply for MOE Financial Assistance Scheme, you can submit your ap
 *Per Capita Income (PCI) = Total Gross Monthly Household Income ÷ Number of Household Members<br>
 *Only **Singapore Citizen** students are eligible.
 
-### Benefits under MOE FAS
+### **Benefits under MOE FAS**
 
 Students under the MOE FAS will receive the following support:
 
@@ -39,3 +39,6 @@ Students under the MOE FAS will receive the following support:
 **For the full breakdown of benefits**, refer to the MOE Financial Assistance Scheme pamphlet below.
 
 ![](/images/Our%20info%20hub/Useful%20Links/FAS_2026.jpg)
+
+#### **HOW TO APPLY**
+
