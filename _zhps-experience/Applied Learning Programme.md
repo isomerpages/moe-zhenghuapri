@@ -6,7 +6,7 @@ variant: markdown
 ---
 # Applied Learning Programme
 
-## Applied Learning Programme (ALP) @ ZHPS
+### Applied Learning Programme (ALP) @ ZHPS
 
 The ALP at Zhenghua Primary brings to the fore, the core issue of sustainable living. We aim to develop “Advocates and Innovators for Sustainable Living” through our school’s ALP. It involves students in interdisciplinary inquiry-based learning, design thinking and value creation to address authentic problems related to sustainable living in collaboration with community partners.
 
