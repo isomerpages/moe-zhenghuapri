@@ -20,9 +20,9 @@ Through active engagement with the community it serves, the students learn to em
 In addition to the above, Zhenghua Primary School also partners with the following Community Partners to enrich our students’ learning experience and allow our students to play a part in contributing to the society.
 
 **Our Community Partners** <br>
-Active SG<br>
-Bo Tien Day Centre for the Elderly<br>
-Children’s Cancer Foundation<br>
+Bukit Batok Neighbourhood Police Centre, Jurong Division Singapore Police Force<br>
+Bukit Panjang CC/ Constituency<br>
+SG Cares Volunteer Centre @ Bukit Panjang<br>
 Fei Yue Community Services<br>
 Food from the Heart (FFTH)<br>
 HealthServe<br>
