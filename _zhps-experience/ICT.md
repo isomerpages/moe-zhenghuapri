@@ -25,13 +25,13 @@ Furthermore, coding has been incorporated into our STEM curriculum. This aspect 
 
 During our students’ schooling years with us, we will complement our ICT lessons with the National Literacy Programme which covers digital literacy, digital competencies and the technological skills. This is to ensure that students are well-equipped with the digital competencies to thrive in an increasingly technology-saturated future.
 
-#### Digital literacy
+#### Digital Literacy
 Digital literacy is defined as a set of knowledge, skills and dispositions that would help our learners to be confident, critical and responsible users of digital technologies.
 MOE’s National Digital Literacy Programme was launched in March 2020 for our schools and Institutes of Higher Learning. Under the programme, students will acquire digital skills across four components in the “Find, Think, Apply, Create” framework.
 
 ![](/images/ZHPS%20Experience/ICT/ICTProgram2.png)
 
-#### Digital competencies
+#### Digital Competencies
 Under the EdTech Masterplan 2030, the “Find, Think, Apply, Create” framework is further unpacked into 9 digital competencies to support deepening of digital literacy in schools.
 
 ![](/images/ZHPS%20Experience/ICT/ICTProgram3.jpg)
