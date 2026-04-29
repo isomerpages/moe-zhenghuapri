@@ -23,15 +23,10 @@ In addition to the above, Zhenghua Primary School also partners with the followi
 Bukit Batok Neighbourhood Police Centre, Jurong Division Singapore Police Force<br>
 Bukit Panjang CC/ Constituency<br>
 SG Cares Volunteer Centre @ Bukit Panjang<br>
-Fei Yue Community Services<br>
-Food from the Heart (FFTH)<br>
-HealthServe<br>
-Heartware Network<br>
-Jiayou Tutoring<br>
-Mendaki<br>
-National Environment Agency<br>
-National Gallery Singapore<br>
-National Library Board<br>
+Tan Tock Seng Hospital Community Fund<br>
 New Life Community Services<br>
-Tan Tan Tock Seng Hospital<br>
+North West Community Development Council<br>
+Chinese Development Assistance Council<br>
+Wisma Mendaki<br>
+HealthServe<br>
 Thye Hua Kwan Community Services<br>
