@@ -28,3 +28,5 @@ Auni Iffah 6EE, Iman Lana 6HY and Arfah Zuhrah 6IN of Zhenghua Primary School wi
 ![](/images/Achievements/Juara_Baca_Berita.png)
 
 Our Band SYF Team has achieved an Accomplishment at their recent SYF Arts Presentation. This achievement is a testament to the students' hard work and the dedication of their teachers.
+
+![](/images/Achievements/Band.jpg)
