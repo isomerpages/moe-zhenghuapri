@@ -26,3 +26,5 @@ The Choir team represented the school at the SYF Arts Presentation and achieved 
 Auni Iffah 6EE, Iman Lana 6HY and Arfah Zuhrah 6IN of Zhenghua Primary School wins 1st place & Overall Champion at Juara Baca Berita competition 2026 organized jointly by MediaCorp & NLB. This achievement is a testament to the students' hard work and the dedication of all the Malay Language teachers as well as the support from their parents.
 
 ![](/images/Achievements/Juara_Baca_Berita.png)
+
+Our Band SYF Team has achieved an Accomplishment at their recent SYF Arts Presentation. This achievement is a testament to the students' hard work and the dedication of their teachers.
