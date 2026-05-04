@@ -12,7 +12,7 @@ variant: markdown
 
 | Teachers-in-charge |
 |---|
-| Mdm Yi Lei (IC)<br>Ms Eliza (AIC)<br>Ms Lim Seok Hoon Mary<br>Ms Susan<br><br>Advisor: Mdm Ou Yanxia<br>Mdm Lim Lay Chin|
+| Mdm Yi Lei (IC)<br>Ms Wong Qiu Yan<br>Ms Cindy Chew<br>Ms Povane<br><br>Advisor: Mdm Ou Yanxia, Mdm Lim Lay Chin|
 |
 
 [Singapore Red Cross](/uniformed-groups/singapore-red-cross)
