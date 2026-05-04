@@ -20,5 +20,5 @@ variant: markdown
 
 | Teachers-in-charge |
 |---|
-| Mrs Chua Jia Lin (IC)<br>Mr Fadil (AIC)<br>Ms Chan May Ling<br>Mdm Loo Mei Ping<br>FAJT: Ms Suzan<br><br>Advisor: Miss Poon Mei Ming |
+| Mrs Chua Jia Lin (IC)<br>Mr Fadil (AIC)<br>Ms Chan May Ling<br>Mdm Loo Mei Ping<br>Ms Suzan<br><br>Advisor: Miss Poon Mei Ming |
 |
