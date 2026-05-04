@@ -12,7 +12,7 @@ variant: markdown
 
 | Teachers-in-charge |
 |---|
-| Mr Shawn Yeap (IC)<br>Mr Lim Hou Woon (AIC)<br>Mdm Zhu Wencheng<br>Mdm Suriyana <br><br>Advisor: Mdm Lim Xiao Jun |
+| Mr Shawn Yeap (IC)<br>Mr Lim Hou Woon (AIC)<br>Mdm Zhu Wencheng<br>Mdm Suriyana <br>Mdm Betty Lee<br><br>Advisor: Mdm Lim Xiao Jun |
 |
 
 [Floorball](/sports/floorball)
@@ -20,7 +20,7 @@ variant: markdown
 
 | Teachers-in-charge |
 |---|
-| Mr Goh Boon Tiong (IC)<br>Ms Wong Soo Shan (AIC)<br>Mdm Hyeryanti<br>Mdm Tang Li Tan<br><br>Advisor: Mdm Evelyn Yeo |
+| Mr Goh Boon Tiong (IC)<br>Ms Wong Soo Shan (AIC)<br>Mdm Hyeryanti<br>Mdm Tang Li Tan<br>Mdm Rohimah<br><br>Advisor: Mdm Evelyn Yeo |
 |
 
 [Football](/sports/football)
@@ -36,5 +36,5 @@ variant: markdown
 
 | Teachers-in-charge |
 |---|
-|  Mr Elliot Ang (IC)<br>Ms Rachel Wong (AIC)<br>Mdm Haryati<br>Mr Ng Teng Yik<br><br>Advisor: Ms Jolene Tan |
+|  Mr Elliot Ang (IC)<br>Ms Rachel Wong (AIC)<br>Mdm Yew Ann Yee<br>Mdm Tang Ai Wei<br><br>Advisor: Mr Ng Teng Yik |
 |

@@ -12,7 +12,7 @@ variant: markdown
 
 | Teachers-in-charge |
 |---|
-| Mr Chua Liang Cun (IC)<br>Mr Ooi Soo Eng (AIC)<br>Ms Sim Wen Yan<br>Mdm Victoria<br><br>Advisor: Mdm Chai Huei Leng |
+| Mr Chua Liang Cun (IC)<br>Mr Ooi Soo Eng (AIC)<br>Ms Sim Wen Yan<br>Mdm Victoria<br>Mr Koo Wen Long<br><br>Advisor: Mdm Chai Huei Leng |
 |
 
 [Choir](/performing-and-visual-arts/choir)
@@ -20,7 +20,7 @@ variant: markdown
 
 | Teachers-in-charge |
 |---|
-| Mdm Eileen Ng (IC)<br>Ms Wendy Seng (AIC)<br>Mdm Siti Aisyah Zulkifi<br>Ms Grace Lim<br><br>Advisor: Mr Loo Teng Kiat |
+| Ms Wendy Seng (IC)<br>Ms Grace Lim (AIC)<br>Ms Eliza Tan<br>Ms Sabrina<br><br>Advisor: Mdm Siti Aisyah Zulkifi |
 |
 
 [Chinese Dance](/performing-and-visual-arts/chinese-dance)
@@ -28,7 +28,7 @@ variant: markdown
 
 | Teachers-in-charge |
 |---|
-| Ms Claudia Wong (IC)<br>Mdm Thanalaxishmi (AIC)<br>Ms Jacqueline Tan<br><br>Advisor: Mdm Ong Yan Joo |
+| Ms Claudia Wong (IC)<br>Mdm Thanalaxishmi (AIC)<br>Ms Jacqueline Tan<br>Ms Daphne<br><br>Advisor: Mdm Ong Yan Joo |
 |
 
 [Indian Dance](/performing-and-visual-arts/indian-dance)
