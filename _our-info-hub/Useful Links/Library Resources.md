@@ -20,6 +20,16 @@ variant: markdown
 <center>Know Your School Library: <a href="https://youtu.be/vNLfk1Xrqeo" target="_blank">https://youtu.be/vNLfk1Xrqeo</a></center>
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/vNLfk1Xrqeo" height="315" width="560"></iframe></center>
 
+**<center>Mystery Reader Programme</center>**
+
+<center>Our Mystery Reader Programme was launched by our Principal, delighting students with a storytelling session and inspiring a love for reading.</center>
+
+![](/images/Our%20info%20hub/Useful%20Links/IMG_E0136.jpg)
+
+
+<center>2026 Parents Storytelling in the Library TERM 1: <a href="https://youtu.be/kT7HpPP8J-Y" target="_blank">https://youtu.be/kT7HpPP8J-Y</a></center>
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/kT7HpPP8J-Y" height="315" width="560"></iframe></center>
+
 <center>2025 Parents Storytelling in the Library TERM 1: <a href="https://youtu.be/u8-pA3kBZd4" target="_blank">https://youtu.be/u8-pA3kBZd4</a></center>
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/u8-pA3kBZd4" height="315" width="560"></iframe></center>
 
@@ -34,9 +44,6 @@ variant: markdown
 
 <center>2025 School Library Highlights: <a href="https://youtu.be/LGBJL-br5Z8" target="_blank">https://youtu.be/LGBJL-br5Z8</a></center>
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/LGBJL-br5Z8" height="315" width="560"></iframe></center>
-
-<center>2026 Parents Storytelling in the Library TERM 1: <a href="https://youtu.be/kT7HpPP8J-Y" target="_blank">https://youtu.be/kT7HpPP8J-Y</a></center>
-<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/kT7HpPP8J-Y" height="315" width="560"></iframe></center>
 
 
 #### **<center>Library Photo Wall ( Semester 1)</center>**
