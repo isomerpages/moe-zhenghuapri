@@ -22,7 +22,9 @@ variant: markdown
 
 **<center>Mystery Reader Programme</center>**
 
-Our Mystery Reader Programme was launched by our Principal, delighting students with a storytelling session and inspiring a love for reading.
+<center>Our Mystery Reader Programme was launched by our Principal, delighting students with a storytelling session and inspiring a love for reading.</center>
+
+![](/images/Our%20info%20hub/Useful%20Links/IMG_E0136.jpg)
 
 
 <center>2026 Parents Storytelling in the Library TERM 1: <a href="https://youtu.be/kT7HpPP8J-Y" target="_blank">https://youtu.be/kT7HpPP8J-Y</a></center>
