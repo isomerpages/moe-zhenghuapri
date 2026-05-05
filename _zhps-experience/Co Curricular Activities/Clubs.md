@@ -7,7 +7,7 @@ variant: markdown
 ---
 # Clubs
 
-[Science and Technology](/clubs/robotics/)
+[Science and Technology](/clubs/science-and-technology/)
 --------
 
 | Teachers-in-charge |
