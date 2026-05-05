@@ -2,5 +2,5 @@ collections:
   clubs:
     output: true
     order:
-      - Robotics.md
+      - Science and Technology.md
       - Greenovation Club.md
