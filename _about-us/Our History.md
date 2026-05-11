@@ -2,14 +2,15 @@
 title: Our History
 permalink: /about-us/our-history/
 description: ""
+variant: markdown
 ---
 # Our History
 
-Zhenghua Primary School was established in 1989, with a student population of 560 and a teaching staff of 28. The school was named after the former Cheng Hwa Public School, which was closed in 1985 after 44 years of history. The school was housed temporarily at Keming Primary School whilst the new premise was built. The new premises at Fajar Road were formally handed over on 4th November 1989 and the school population moved in on 30th November 1989. In 2005, the school underwent PRIME and was held at a holding site in May 2006 with new facilities to deliver quality education to our students. After the completion of our recent upgrading in December 2020, the school now has a performing arts auditorium, dance studio, band room, an art gallery, an indoor sports hall, a running track, new fitness area and outdoor experiential learning areas. These additional facilities add to the vibrancy of the holistic learning experiences we design for our students. In 2021, we welcomed our first batch of kindergarten students from MK@Zhenghua
+Zhenghua Primary School was established in 1989, with a student population of 560 and a teaching staff of 28. The school was named after the former Cheng Hwa Public School, which was closed in 1985 after 44 years of history. The school was housed temporarily at Keming Primary School whilst the new premise was built. The new premises at Fajar Road were formally handed over on 4th&nbsp;November 1989 and the school population moved in on 30th&nbsp;November 1989. In 2005, the school underwent PRIME and was held at a holding site in May 2006 with new facilities to deliver quality education to our students. After the completion of our recent upgrading in December 2020, the school now has a performing arts auditorium, dance studio, band room, an art gallery, an indoor sports hall, a running track, new fitness area and outdoor experiential learning areas. These additional facilities add to the vibrancy of the holistic learning experiences we design for our students. In 2021, we welcomed our first batch of kindergarten students from MK@Zhenghua
 
   
 
-Our school has grown from strength to strength over the years, but what has remained unchanged is our culture of care, our teachers’ dedication and professional excellence and our commitment to nurture the whole child in a vibrant learning environment. Under the leadership of 5 principals – Mr Chan Kok Min, Mdm Lee Tee Choon, Mr Koh Chin Tong, Mdm Rita Raj Lal and the current principal, Mrs Constance Loke, the school has grown to be a primary school with a student population of 1400 primary school students, 220 kindergarten students and a staff strength of more than 140.
+Our school has grown from strength to strength over the years, but what has remained unchanged is our culture of care, our teachers’ dedication and professional excellence and our commitment to nurture the whole child in a vibrant learning environment. Under the leadership of 5 principals – Mr Chan Kok Min, Mdm Lee Tee Choon, Mr Koh Chin Tong, Mdm Rita Raj Lal, Mrs Constance Loke and the current principal, Mrs May Wong , the school has grown to be a primary school with a student population of 1400 primary school students, 220 kindergarten students and a staff strength of more than 140.
 
   
 
@@ -40,7 +41,7 @@ Our Applied Learning Programme (ALP) engages our students in inter-disciplinary,
 In our brief history of more than 30 years, students who have graduated from here to further education and have developed lifelong skills in physical, intellectual, emotional and social domains. They have become useful, productive and contributing citizens of our nation. We are very proud of all our graduates. All these achievements bear testimony to the school motto, ‘The Best That We Can Be’ and the emphasis on the development of the whole child.
 
 
-<img src="/images/About%20us/02-OurHistory.jpg" style="width:35%;margin-right:15px;margin-left:105px;" align = "left">
-<img src="/images/About%20us/01-OurHistory.jpg" style="width:40%;margin-right:65px;" align = "right">
+<img src="/images/About%20us/02-OurHistory.jpg" style="width:35%;margin-right:15px;margin-left:105px;" align="left">
+<img src="/images/About%20us/01-OurHistory.jpg" style="width:40%;margin-right:65px;" align="right">
 
 <br clear="left">
