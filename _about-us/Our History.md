@@ -10,7 +10,7 @@ Zhenghua Primary School was established in 1989, with a student population of 56
 
   
 
-Our school has grown from strength to strength over the years, but what has remained unchanged is our culture of care, our teachers’ dedication and professional excellence and our commitment to nurture the whole child in a vibrant learning environment. Under the leadership of 5 principals – Mr Chan Kok Min, Mdm Lee Tee Choon, Mr Koh Chin Tong, Mdm Rita Raj Lal, Mrs Constance Loke and the current principal, Mrs May Wong , the school has grown to be a primary school with a student population of 1400 primary school students, 220 kindergarten students and a staff strength of more than 140.
+Our school has grown from strength to strength over the years, but what has remained unchanged is our culture of care, our teachers’ dedication and professional excellence and our commitment to nurture the whole child in a vibrant learning environment. Under the leadership of 6 principals – Mr Chan Kok Min, Mdm Lee Tee Choon, Mr Koh Chin Tong, Mdm Rita Raj Lal, Mrs Constance Loke and the current principal, Mrs May Wong , the school has grown to be a primary school with a student population of 1400 primary school students, 220 kindergarten students and a staff strength of more than 140.
 
   
 
