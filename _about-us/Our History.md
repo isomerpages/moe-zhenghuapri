@@ -18,7 +18,7 @@ Over the years, the school has won many awards in the performing and visual arts
 
   
 
-Our teachers engage in curriculum innovation and Lesson Study. Each year, they conduct professional sharing and present papers at national and international platforms. The professional excellence of our outstanding teachers has also been recognised at the national level. Notable awards include the Distinguished Chinese Language Teacher Award and Arif Budiman Malay Language Teacher Award, the highest national award for Malay Language Teachers.
+Our teachers engage in curriculum innovation and Lesson study. Each year, they conduct professional sharing and present papers at national and international platforms. The professional excellence of our outstanding teachers has also been recognised at the national level. Notable awards include the Distinguished Chinese Language Teacher Award and Arif Budiman Malay Language Teacher Award, the highest national award for Malay Language Teachers.
 
   
 
