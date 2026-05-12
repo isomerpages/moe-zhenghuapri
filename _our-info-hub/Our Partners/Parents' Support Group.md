@@ -33,6 +33,4 @@ Parents who are interested to join the PSG, please click [here](https://docs.goo
   
 **<center>To join the PSG, please scan the QR code below and register your details</center>**
 
-<img src="/images/Our%20info%20hub/psg2022.png" style="width:40%">
-
-</center></center>
+<img src="/images/Our%20info%20hub/psg2022.png" style="width:40%"></center></center>
