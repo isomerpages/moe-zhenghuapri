@@ -32,6 +32,6 @@ Mr Eddy Norisman
   
 **<center>To join the PSG, please scan the QR code below and register your details</center>**
 
-![](/images/Our%20info%20hub/psg2022.png)
+<img src="/images/Our%20info%20hub/psg2022.png" style="width:40%">
 
-Parents who are interested to join the PSG, please click [here](https://docs.google.com/forms/d/e/1FAIpQLSdnPccnw6g-_d0XE3asyGgnMrof7ju4cr3smNbaCgOJIbLC1w/viewform) for the application form.</center></center>
+</center></center>
