@@ -16,7 +16,7 @@ variant: markdown
 | Mr Shah Irwan Sazali<br>Operation Manager<br>Email: [shah_irwan_sazali@moe.edu.sg](mailto:shah_irwan_sazali@moe.edu.sg)<br>Extn: 203 |
 | Wong Foong Har, Carol<br>Administration Executive<br>Email: [wong_foong_har@moe.edu.sg](mailto:wong_foong_har@moe.edu.sg)<br>Extn: 210 |
 | Mr Myo Thein Htaik<br>Administration Executive<br>Email: [myo_thein_htaik@moe.edu.sg](mailto:myo_thein_htaik@moe.edu.sg)<br>Extn: 204 |
-| Mdm Cheong Sweet Fun (Prudence)<br>Administration Executive<br>Email: [cheong_sweet_fun@moe.edu.sg](mailto:cheong_sweet_fun@moe.edu.sg)<br>Extn: 202 |
+| Mdm Cheong Sweet Fun, Prudence<br>Administration Executive<br>Email: [cheong_sweet_fun@moe.edu.sg](mailto:cheong_sweet_fun@moe.edu.sg)<br>Extn: 202 |
 | Mdm Suriati Mohamed Yusope<br>Corporate Support Officer<br>Email: [suriati_mohamed_yusope@moe.edu.sg](mailto:suriati_mohamed_yusope@moe.edu.sg)<br>Extn: 201 |
 |    Mdm Joelle Ang Hsiao Chiah<br>Corporate Support Officer<br>Email: [ang_hsiao_chiah@moe.edu.sg](mailto:ang_hsiao_chiah@moe.edu.sg)<br>Extn: 206   |
 |Mdm Irene Seet<br>Corporate Support Officer<br>Email: [irene_seet@moe.edu.sg](mailto:irene_seet@moe.edu.sg)<br>Extn: 271
