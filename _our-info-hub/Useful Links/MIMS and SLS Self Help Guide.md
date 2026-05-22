@@ -25,12 +25,3 @@ How to Change Answers to Security Questions in MIMS
 
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/mAI5PFpLTEo" height="315" width="560"></iframe></center>
 
-**School Based Helpline**
-
-Contact Person : Kalivaradhan Bargavi (Mrs .Gavi)
-
-Email : bargavi_kalivaradhan@moe.edu.sg 
-
-&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; zhenghua_ps@moe.edu.sg
-
-Contact number :(+65) 6769 7478 Ext:526
