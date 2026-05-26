@@ -29,34 +29,43 @@ Students are then involved in hands-on activities to make observations and colle
 Teachers are facilitators who help pupils make connections and build their understanding of scientific concepts.
 
 
-|   |   |
+|  |   |
 |:-:|:-:|
-|  |  |
+| ![](/images/ZHPS%20Experience/Science/P6_3_.jpg) | ![](/images/ZHPS%20Experience/Science/P6_1_.jpg) |
+***P6 students presenting their set-ups for their inquiry***
 
 **P5 Circuits at Play**<br>
 The STEM programme focuses on nurturing future-ready learners and instilling empathy by engaging students in collaborative projects such as designing energy-saving light circuits, fostering teamwork and innovation. The Primary 5 Programme involves students collaborating to design and construct paper circuits, allowing them to create innovative ideas while applying their understanding of electricity in meaningful and creative ways.
 
 |   |   |
 |:-:|:-:|
-|  |  |
+| ![](/images/ZHPS%20Experience/Science/P5__2_.jpg) | ![](/images/ZHPS%20Experience/Science/P5__1_.jpg) |
+
+***P5 students creatively solving problems on electricity***
 
 **P4 Shadow Play Programme**<br>
 In our Shadow Play programme, students work in teams to apply the concepts of light and shadow to create a shadow skit similar to a Wayang Kulit performance. This learning experience helps to strengthen awareness of other culture and encourages students to apply their creativity in an engaging and entertaining setting.
 
 |   |   |
 |:-:|:-:|
-|  |  |
+| ![](/images/ZHPS%20Experience/Science/P4_1_.jpg) | ![](/images/ZHPS%20Experience/Science/P4__4_.jpg) |
+
+***P4 students making meaningful scientific and cultural connections***
 
 **P3 Science Programme - Materials at Play**<br>
 In this programme, students apply their knowledge of material properties and animal characteristics by designing and constructing zoo habitats that mimic natural environments. Through this hands-on experience, students learn how suitable materials can be used to build animal enclosures that model real-world habitats while understanding the characteristics and needs of different animals.
 
 |   |   |
 |:-:|:-:|
-|  |  |
+| ![](/images/ZHPS%20Experience/Science/P3__2_.jpg) | ![](/images/ZHPS%20Experience/Science/P3__1_.jpg) |
+
+***P3 students applying their ideas in their designs***
 
 **Collaboration with the Singapore Heart Foundation for P5 students**<br>
 Our P5 students collaborated with educators from the Singapore Heart Foundation to learn more about heart health. They participated in activities that allows them to explore the functions of the blood pressure monitor. They left the session with ideas to live a healthier lifestyle.
 
 |   |   |
 |:-:|:-:|
-|  |  |
+| ![](/images/ZHPS%20Experience/Science/P5__1.jpg) | ![](/images/ZHPS%20Experience/Science/P5___3.jpg) |
+
+***P5 students exploring the connections between heart health and the circulatory system***
