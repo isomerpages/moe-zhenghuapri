@@ -40,7 +40,7 @@ The STEM programme focuses on nurturing future-ready learners and instilling emp
 
 |   |   |
 |:-:|:-:|
-| ![](/images/ZHPS%20Experience/Science/P5__2_.jpg) | ![](/images/ZHPS%20Experience/Science/P5__1_.jpg) |
+| ![](/images/ZHPS%20Experience/Science/P5__2_.jpg) | ![](/images/ZHPS%20Experience/Science/P5.jpg) |
 
 ***P5 students creatively solving problems on electricity***
 
