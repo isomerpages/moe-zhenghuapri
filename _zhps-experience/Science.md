@@ -32,6 +32,7 @@ Teachers are facilitators who help pupils make connections and build their under
 |  |   |
 |:-:|:-:|
 | ![](/images/ZHPS%20Experience/Science/P6_3_.jpg) | ![](/images/ZHPS%20Experience/Science/P6_1_.jpg) |
+
 ***P6 students presenting their set-ups for their inquiry***
 
 #### **P5 Circuits at Play**<br>
