@@ -56,7 +56,7 @@ CCA schedule:
 
 | <center>Tuesday<br>3.30-5.30pm | <center>Thursday<br>2.00 - 4.00pm | <center>Thursday<br>3.30 - 5.30pm |   
 |:---:|:---:|:---:|
-| Rugby | Brass Band<br>Brownies<br>Choir<br>Red Cross<br>Talent Art<br>Greenovation<br>Basketball<br>Chinese Dance<br>Indian Dance<br>Floorball<br>Malay Dance<br>Robotics | Football<br> |
+| Rugby | Brass Band<br>Brownies<br>Choir<br>Red Cross<br>Talent Art<br>Greenovation<br>Basketball<br>Chinese Dance<br>Indian Dance<br>Floorball<br>Malay Dance<br>Science and Technology | Football<br> |
 |  |  |  |
 
 CCA Commitment
