@@ -16,25 +16,3 @@ Students can look forward to:
 * Science challenges and experiments.
 * Participating in exciting science and technology events and competitions.
 * Learning journeys.
-
-Types of Activities
--------------------
-
-Programming using CoSpace Rescue / GearsBot   
-Programming using EV3 Lego Mindstorm / Spike   
-Building using EV3 Lego Mindstorm / Spike
-
-
-| Year |Events/Program| Achievement        |
-|:----:|:------------------------------------:|:--------------------------:|
-| 2024 | Robocup Singapore Open- Recap CoSpace Auto-Driving, U12 Super Teams | **1st** |
-| 2024 | Robocup Singapore Open - RoboCup Junior Rescue Line-  Entry U12 | **2nd** |
-| 2024 | Robocup Singapore Open- Recap CoSPace Auto-Driving , First Steps U12 Super Team | **1st** |
-| 2024 | Robocup Singapore Open- Recap CoSPace Auto-Driving , First Steps U12 | **1st** |
-| 2024 | Robocup Singapore Open- RoboCup Junior Rescue Line- U12 | **Merit** |
-| 2023 | RoboCup Singapore Open, RCAP CoSpace Rescue U12 | **1st, 3rd, Merit** |
-| 2023 | RoboCup Singapore Open RCAP CoSpace Rescue, FirstSteps U12 | **2nd, 3rd, Distinction, Merit** |
-|2023 | RoboCup Singapore Open RoboCup Junior Rescue Line, Entry U12 | **1st, 2nd** |
-| 2021 | RCAP CoSpace Rescue, FirstSteps, U12 | **1st, 2nd, 3rd, Merit Place** |
-| 2021 |       RCAP CoSpace Rescue, U12       | **3rd Place** |
-|
