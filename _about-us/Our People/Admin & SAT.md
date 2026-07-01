@@ -21,6 +21,7 @@ variant: markdown
 |    Mdm Joelle Ang Hsiao Chiah<br>Corporate Support Officer<br>Email: [ang_hsiao_chiah@moe.edu.sg](mailto:ang_hsiao_chiah@moe.edu.sg)<br>Extn: 206   |
 |Mdm Irene Seet<br>Corporate Support Officer<br>Email: [irene_seet@moe.edu.sg](mailto:irene_seet@moe.edu.sg)<br>Extn: 271
 |Mdm S Sankara Ammal<br>Adjunct Corporate Support Officer<br>Email: [sankara_ammal@moe.edu.sg](mailto:sankara_ammal@moe.edu.sg)<br>
+|Mr Galen Toh<br>Relief Administration Executive<br>
 | Mr Chan Hoe Yin<br>ICT Manager<br>Email: [chan_hoe_yin@moe.edu.sg](mailto:chan_hoe_yin@moe.edu.sg)<br>Extn: 582 |
 | Mrs. Kalivaradhan Bargavi<br>ICT Associate<br>Email: [bargavi_kalivaradhan@moe.edu.sg](mailto:bargavi_kalivaradhan@moe.edu.sg)<br>Extn: 526 |
 | Mr Cheong Ye Ching<br>Desktop Engineer (DE)<br>Extn: 575 |
