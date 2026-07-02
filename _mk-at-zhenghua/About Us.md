@@ -59,9 +59,8 @@ Our People
 |  CLASS  |  FORM TEACHER  |  FORM TEACHER  |
 |:------------:|:---------------:|:----------------:|
 | K1CE | Ms Nor Syahidah Bte Sariman | Mdm Cai Xiujin |
-| K1CN | Ms Nur Allisa Binte Mohamad Halim              | Ms Palani Selvam Kayalvizhi           |
+| K1CN | Ms Nur Allisa Binte Mohamad Halim              | Ms Iska Nerimah Binte Rosman           |
 | K1EE | Ms Zulaikha Beevi                    | Mdm Chen Yi                | 
-|K1EE | Reisyatiqah Binte Abdullah |  |
 | K1IN | Ms Lim Shi Rui | Ms Lau Li Ying                      |
 | K1IY | Ms Nur Sheeda Marzuki            | Ms Nur Ain Saliha Binte Shaharuddin                     |
 |K1IY | Mdm Hao Yiming |  |
@@ -90,5 +89,5 @@ Our People
 | Malay  |  Mdm Azlina Binte Yazid  | Mdm Siti Nurul Ain Binte Abdul Rahman |
 | Malay  | Ms Nurulhuda Binte Ramliee |Ms Iska Nerimah Binte Rosman   |
 | Malay | Ms Reisyatiqah Binte Abdullah |  |
-| Tamil  |  Ms Palani Selvam Kayalvizhi   | Ms Sangeetha D/O Suparamaniam |
+| Tamil  |  Ms Sangeetha D/O Suparamaniam   |  |
 |
