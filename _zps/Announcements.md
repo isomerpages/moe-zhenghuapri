@@ -27,3 +27,17 @@ variant: markdown
 * Email: Zhenghua_ps@schools.gov.sg<br>
 * Contact Person: Mr Shah (Operations Manager) and Ms Nur (Administration Manager)<br>
 
+#### Interested applicants must meet the following criteria:<br>
+* Singapore Citizen (SC) or Singapore Permanent Resident (SPR) for stallholder. 
+* Stall assistant(s) may be a SC, SPR or a Long-Term Visit Pass (LTVP) or LTVP-Plus holder with Letter of Consent to work.
+* Able to provide good service and quality food/drinks at reasonable prices. Prices will be determined in consultation with the school.
+* Able to provide cooked food/drinks that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the “Healthy Meals in Schools Programme (HMSP)” guidelines (see link).
+* Able to maintain high standard of food safety and personal hygiene. This includes complying with relevant authorities’ requirements and guidelines.
+* Healthy and fit to operate the stall.
+* Must be in personal attendance at the stall.
+
+#### Applicants should preferably fulfil the following criteria:<br>
+* Successful applicant and stall assistant(s) operating the stall must attend and pass the Food Safety Course Level 1 conducted by SkillsFuture Singapore approved training providers. 
+* Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA) to operate the stall. <br><br>
+*Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.*
+
