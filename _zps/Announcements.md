@@ -14,7 +14,7 @@ variant: markdown
 | -------- | -------- | -------- |
 | Noodle Stall    | 14 August 2026     | Non-Halal Stall     |
 
-#### Application Procedure<br>
+#### Application Procedures<br>
 1.	Download and complete the Application Form (click on the link below). You may also request for a hardcopy of the Application Form from the School’s General Office.<br>
 [Application Form for individual stallholder](/files/Announcements/Application_for_Canteen_Stall_FormBF7.pdf)
 
